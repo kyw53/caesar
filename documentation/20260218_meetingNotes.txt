@@ -1,0 +1,3 @@
+Meeting on Wednesday, February 18, 2026:
+
+Put source material on text file in repo. Discussed various ways to design markup for a map based on places that Caesar mentions. Especially looked at the Silk Road example from previous semesters. Started to divide up markup work. Made plan to get a sample of markup done over weekend and a simple schema to accompany.
