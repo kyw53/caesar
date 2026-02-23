@@ -1,0 +1,6 @@
+Steps for Regex:
+
+2/20/2026:
+	KYW:
+	1. Find: \n\n([IVXLC]+)(\.\-\-)
+	2. Replace: </chapter>\n\n<chapter n="\1">\1\2
