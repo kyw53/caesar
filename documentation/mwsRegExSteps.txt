@@ -1,0 +1,53 @@
+Regex
+
+chapter beginning
+find: ^([IVXLCDM]+)\.\-\-
+replace: <chapter n="$1">$1.--
+
+chapter end
+starting with chapter 2
+find: (\r?\n)(<chapter n="([IVXLCDM]+)">)
+replace: </chapter>$1$2
+manually added last endtag
+
+tag Caesar
+find: \bCaesar\b
+replace: <persName eth="roman">Caesar</persName>
+
+tag Roman peiple
+find:\bRoman people\b
+replace:<tribe name="romans">Roman people</tribe>
+
+tag Britain
+find: \bBritain\b
+replace: <place region="britain">Britain</place>
+
+tag thames
+find:\bthames\b
+replace: <place river="thames">Thames</place>
+
+tag Gaul
+find: (?<![A-Za-z0-9">])Gaul(?![A-Za-z0-9"<])
+replace: <place region="gaul">Gaul</place>
+
+tagged Germany
+
+tag italy
+find: (?<![A-Za-z0-9">])Italy(?![A-Za-z0-9"<])
+replace: <place region="italy">Italy</place>
+
+tag eburones
+find: (?<![A-Za-z0-9">])Eburones(?![A-Za-z0-9"<])
+replace: <tribe name="eburones">Eburones</tribe>
+
+tag nervii
+find: (?<![A-Za-z0-9">])Nervii(?![A-Za-z0-9"<])
+replace: <tribe name="nervii">Nervii</tribe>
+
+tag Britons
+find: (?<![A-Za-z0-9">])Britons(?![A-Za-z0-9"<])
+replace: <tribe name="britons">Britons</tribe>
+
+tag gauls
+(?<![A-Za-z0-9">])Gauls(?![A-Za-z0-9"<])
+<tribe name="gauls">Gauls</tribe>
