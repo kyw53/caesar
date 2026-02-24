@@ -1,0 +1,25 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+start = root
+root = element root{title*, section+}
+title = element title{text}
+section = element section{part, (text | book)+}
+part = attribute part{"gaul" | "civil"}
+book = element book{num, (heading | chapter | text)+}
+num = attribute num{xsd:int}
+heading = element heading{text}
+chapter = element chapter{n, (place | tribe | persName | dimensions | date | text)+}
+n = attribute n{text}
+place = element place{(mountain | region | river | settlement), text}
+mountain = attribute mountain{text}
+region = attribute region{text}
+river = attribute river{text}
+settlement = attribute settlement{text}
+tribe = element tribe{name, text}
+name = attribute name{text}
+persName = element persName{(eth | role)*, text}
+eth = attribute eth{text}
+role = attribute role{text}
+dimensions = element dimensions{text}
+date = element date{day, text}
+day = attribute day{text}
