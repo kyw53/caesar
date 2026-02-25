@@ -1,0 +1,93 @@
+Lists: 
+	
+People:
+	Orgetorix
+
+	Marcus Messala
+
+	Marcus Piso
+
+	Casticus
+
+	Catamantaledes
+
+	Dumnorix
+
+	Divitiacus
+
+	Lucius Piso
+
+	Aulus Gabinius
+
+	Caesar
+
+Tribes:
+	belgae
+
+	aquitani
+
+	gauls
+
+	germans
+
+	sequani
+
+	romans
+
+	rauraci
+
+	tulingi
+
+	latobrigi
+
+	boii
+
+	allobroges
+
+	Tulingi
+
+	lepontii
+
+	nervii
+
+	eburones
+
+Places:
+	Gaul
+
+	Garonne
+
+	Marne
+
+	Seine
+
+	Rhine
+
+	Rhone
+
+	Aquitania
+
+	Pyrenaean
+
+	Spain
+
+	Jura
+
+	Geneva
+
+	Noreia
+
+	Mount Jura
+
+	Alps
+
+	Italy
+	
+	Britain
+	
+	Thames
+	
+	Germany
+
+
+
