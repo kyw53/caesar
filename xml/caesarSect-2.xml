@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
+<section>
     THE CIVIL WAR
 
 <book><heading>BOOK I</heading>
@@ -25,7 +25,7 @@ and Pompey was near at hand, seemed to have fallen from the lips of
 Pompey himself. Some delivered their sentiments with more moderation, as
 Marcellus first, who in the beginning of his speech, said, "that the
 question ought not to be put to the senate on this matter, till levies
-were made throughout all Italy, and armies raised under whose protection
+were made throughout all <place region="italy">Italy</place>, and armies raised under whose protection
 the senate might freely and safely pass such resolutions as they thought
 proper": as Marcus Calidius afterwards, who was of opinion, "that Pompey
 should set out for his province, that there might be no cause for arms:
@@ -68,7 +68,7 @@ in the speeches of the consul, Scipio, and Cato. An old grudge against
 Caesar and chagrin at a defeat actuated Cato. Lentulus was wrought upon
 by the magnitude of his debts, and the hopes of having the government of
 an army and provinces, and by the presents which he expected from such
-princes as should receive the title of friends of the Roman people, and
+princes as should receive the title of friends of the <tribe name="romans">Roman people</tribe>, and
 boasted amongst his friends, that he would be a second Sylla, to whom
 the supreme authority should return. Similar hopes of a province and
 armies, which he expected to share with Pompey on account of his
@@ -117,7 +117,7 @@ his force, and told them that he had ten legions ready; that he was
 moreover informed and assured that<persName tribe="roman">Caesar's</persName> soldiers were disaffected,
 and that he could not persuade them to defend or even follow him.
 Motions were made in the senate concerning other matters; that levies
-should be made through all Italy; that Faustus Sylla should be sent as
+should be made through all <place region="italy">Italy</place>; that Faustus Sylla should be sent as
 propraetor into Mauritania; that money should be granted to Pompey from
 the public treasury. It was also put to the vote that king Juba should
 be [honoured with the title of] friend and ally. But Marcellus said that
@@ -125,7 +125,7 @@ he would not allow this motion for the present. Philip, one of the
 tribunes, stopped [the appointment of] Sylla; the resolutions respecting
 the other matters passed. The provinces, two of which were consular, the
 remainder praetorian, were decreed to private persons; Scipio got Syria,
-Lucius Domitius Gaul: Philip and Marcellus were omitted, from a private
+Lucius Domitius <place region="gaul">Gaul</place>: Philip and Marcellus were omitted, from a private
 motive, and their lots were not even admitted. To the other provinces
 praetors were sent, nor was time granted as in former years, to refer to
 the people on their appointment, nor to make them take the usual oath,
@@ -133,7 +133,7 @@ and march out of the city in a public manner, robed in the military
 habit, after offering their vows; a circumstance which had never before
 happened. Both the consuls leave the city, and private men had lictors
 in the city and capital, contrary to all precedents of former times.
-Levies were made throughout Italy, arms demanded, and money exacted from
+Levies were made throughout <place region="italy">Italy</place>, arms demanded, and money exacted from
 the municipal towns, and violently taken from the temples. All
 distinctions between things human and divine are confounded.</chapter>
 
@@ -150,7 +150,7 @@ had, nevertheless, left the privilege of intercession unrestrained; that
 Pompey, who pretended to restore what they had lost, had taken away the
 privileges which they formerly had; that whenever the senate decreed,
 "that the magistrates should take care that the republic sustained no
-injury" (by which words and decree the Roman people were obliged to
+injury" (by which words and decree the <tribe name="romans">Roman people</tribe> were obliged to
 repair to arms), it was only when pernicious laws were proposed; when
 the tribunes attempted violent measures; when the people seceded, and
 possessed themselves of the temples and eminences of the city; (and
@@ -161,7 +161,7 @@ intrigue with the people going forward, no secession made; he exhorted
 them to defend from the malice of his enemies, the reputation and honour
 of that general, under whose command they had for nine years most
 successfully supported the state; fought many successful battles, and
-subdued all Gaul and Germany." The soldiers of the thirteenth legion,
+subdued all <place region="gaul">Gaul</place> and Germany." The soldiers of the thirteenth legion,
 which was present (for in the beginning of the disturbances he had
 called it out, his other legions not having yet arrived), all cry out
 that they are ready to defend their general, and the tribunes of the
@@ -191,11 +191,11 @@ his injuries, yet having got proper persons by whom he could communicate
 his wishes to Pompey; he required of them both, that as they had
 conveyed Pompey's demands to him, they should not refuse to convey his
 demands to Pompey; if by so little trouble they could terminate a great
-dispute, and liberate all Italy from her fears.
+dispute, and liberate all <place region="italy">Italy</place> from her fears.
 
 "That the honour of the republic had ever been his first object, and
 dearer to him than life; that he was chagrined, that the favour of the
-Roman people was wrested from him by the injurious reports of his
+<tribe name="romans">Roman people</tribe> was wrested from him by the injurious reports of his
 enemies; that he was deprived of a half-year's command, and dragged back
 to the city, though the people had ordered that regard should be paid to
 his suit for the consulate at the next election, though he was not
@@ -203,15 +203,15 @@ present; that, however, he had patiently submitted to this loss of
 honour for the sake of the republic; that when he wrote letters to the
 senate, requiring that all persons should resign the command of their
 armies, he did not obtain even that request; that levies were made
-throughout Italy; that the two legions which had been taken from him,
+throughout <place region="italy">Italy</place>; that the two legions which had been taken from him,
 under the pretence of the Parthian war, were kept at home, and that the
 state was in arms. To what did all these things tend, unless to his
 ruin? But, nevertheless, he was ready to condescend to any terms, and to
 endure everything for the sake of the republic. Let Pompey go to his own
-province; let them both disband their armies; let all persons in Italy
+province; let them both disband their armies; let all persons in <place region="italy">Italy</place>
 lay down their arms; let all fears be removed from the city; let free
 elections, and the whole republic be resigned to the direction of the
-senate and Roman people. That these things might be the more easily
+senate and <tribe name="romans">Roman people</tribe>. That these things might be the more easily
 performed, and conditions secured and confirmed by oath, either let
 Pompey come to<persName tribe="roman">Caesar</persName>, or allow<persName tribe="roman">Caesar</persName> to go to him; it might be that
 all their disputes would be settled by an interview."</chapter>
@@ -220,8 +220,8 @@ all their disputes would be settled by an interview."</chapter>
 Capua, where they met the consuls and Pompey, and declared to them
 <persName tribe="roman">Caesar's</persName> terms. Having deliberated on the matter, they replied, and sent
 written proposals to him by the same persons, the purport of which was,
-that<persName tribe="roman">Caesar</persName> should return into Gaul, leave Ariminum, and disband his
-army: if he complied with this, that Pompey would go to Spain. In the
+that<persName tribe="roman">Caesar</persName> should return into <place region="gaul">Gaul</place>, leave Ariminum, and disband his
+army: if he complied with this, that Pompey would go to <place region="spain">Spain</place>. In the
 meantime, until security was given that<persName tribe="roman">Caesar</persName> would perform his
 promises, that the consuls and Pompey would not give over their levies.</chapter>
 
@@ -353,7 +353,7 @@ army, and sent Attius away in safety. The three first days<persName tribe="roman
 employed in fortifying his camp with strong works, in bringing in corn
 from the neighbouring free towns, and waiting for the rest of his
 forces. Within the three days the eighth legion came to him, and
-twenty-two cohorts of the new levies in Gaul, and about three hundred
+twenty-two cohorts of the new levies in <place region="gaul">Gaul</place>, and about three hundred
 horse from the king of Noricum. On their arrival he made a second camp
 on another part of the town, and gave the command of it to Curio. He
 determined to surround the town with a rampart and turrets during the
@@ -427,7 +427,7 @@ life, and entreated him to spare him, and reminded him of their former
 friendship; and acknowledged that<persName tribe="roman">Caesar's</persName> favours to him were very
 great; in that through his interest he had been admitted into the
 college of priests; in that after his praetorship he had been appointed
-to the government of Spain; in that he had been assisted by him in his
+to the government of <place region="spain">Spain</place>; in that he had been assisted by him in his
 suit for the consulate.<persName tribe="roman">Caesar</persName> interrupted him in his speech, and told
 him, "that he had not left his province to do mischief [to any man], but
 to protect himself from the injuries of his enemies; to restore to their
@@ -489,10 +489,10 @@ consuls were gone to Dyrrachium with a considerable part of the army,
 and that Pompey remained at Brundusium with twenty cohorts; but could
 not find out, for a certainty, whether Pompey stayed behind to keep
 possession of Brundusium, that he might the more easily command the
-whole Adriatic sea, with the extremities of Italy and the coast of
+whole Adriatic sea, with the extremities of <place region="italy">Italy</place> and the coast of
 Greece, and be able to conduct the war on either side of it, or whether
 he remained there for want of shipping; and, being afraid that Pompey
-would come to the conclusion that he ought not to relinquish Italy, he
+would come to the conclusion that he ought not to relinquish <place region="italy">Italy</place>, he
 determined to deprive him of the means of communication afforded by the
 harbour of Brundusium. The plan of his work was as follows:--Where the
 mouth of the port was narrowest he threw up a mole of earth on either
@@ -538,7 +538,7 @@ with energy in the war.</chapter>
 days were spent in them, the ships which had conveyed the first division
 of the army to Dyrrachium being sent back by the consuls, returned to
 Brundusium. Pompey, either frightened at<persName tribe="roman">Caesar's</persName> works or determined
-from the beginning to quit Italy, began to prepare for his departure on
+from the beginning to quit <place region="italy">Italy</place>, began to prepare for his departure on
 the arrival of the ships; and the more effectually to retard<persName tribe="roman">Caesar's</persName>
 attack, lest his soldiers should force their way into the town at the
 moment of his departure, he stopped up the gates, built walls across the
@@ -576,16 +576,16 @@ transmarine auxiliaries, with the hope of bringing the war to a
 conclusion, yet he dreaded the delay and length of time necessary to
 effect it: because Pompey, by collecting all his ships, had deprived him
 of the means of pursuing him at present. The only resource left to
-Caesar, was to wait for a fleet from the distant regions of Gaul,
+Caesar, was to wait for a fleet from the distant regions of <place region="gaul">Gaul</place>,
 Picenum, and the straits of Gibraltar. But this, on account of the
 season of the year, appeared tedious and troublesome. He was unwilling
-that, in the meantime, the veteran army, and the two Spains, one of
+that, in the meantime, the veteran army, and the two <place region="spain">Spain</place>s, one of
 which was bound to Pompey by the strongest obligations, should be
 confirmed in his interest; that auxiliaries and cavalry should be
-provided and Gaul and Italy reduced in his absence.</chapter>
+provided and <place region="gaul">Gaul</place> and <place region="italy">Italy</place> reduced in his absence.</chapter>
 
 <chapter n="XXX">XXX.--Therefore, for the present, he relinquished all intention of
-pursuing Pompey, and resolved to march to Spain, and commanded the
+pursuing Pompey, and resolved to march to <place region="spain">Spain</place>, and commanded the
 magistrates of the free towns to procure him ships, and to have them
 conveyed to Brundusium. He detached Valerius, his lieutenant, with one
 legion to Sardinia; Curio, the proprietor, to Sicily with three legions;
@@ -593,7 +593,7 @@ and ordered him, when he had recovered Sicily, to immediately transport
 his army to Africa. Marcus Cotta was at this time governor of Sardinia:
 Marcus Cato, of Sicily: and Tubero, by the lots, should have had the
 government of Africa. The Caralitani, as soon as they heard that
-Valerius was sent against them, even before he left Italy, of their own
+Valerius was sent against them, even before he left <place region="italy">Italy</place>, of their own
 accord drove Cotta out of the town; who, terrified because he understood
 that the whole province was combined [against him], fled from Sardinia
 to Africa. Cato was in Sicily, repairing the old ships of war, and
@@ -666,12 +666,12 @@ Metellus, one of the tribunes, was suborned by<persName tribe="roman">Caesar's</
 prevent this, and to embarrass everything else which<persName tribe="roman">Caesar</persName> should
 propose.<persName tribe="roman">Caesar</persName> having discovered his intention, after spending several
 days to no purpose, left the city, in order that he might not lose any
-more time, and went to Transalpine Gaul, without effecting what he had
+more time, and went to Transalpine <place region="gaul">Gaul</place>, without effecting what he had
 intended.</chapter>
 
 <chapter n="XXXIV">XXXIV.--On his arrival there, he was informed that, Vibullius Rufus,
 whom he had taken a few days before at Corfinium, and set at liberty,
-was sent by Pompey into Spain; and that Domitius also was gone to seize
+was sent by Pompey into <place region="spain">Spain</place>; and that Domitius also was gone to seize
 Massilia with seven row-galleys, which were fitted up by some private
 persons at Igilium and Cosa, and which he had manned with his own
 slaves, freedmen, and colonists: and that some young noblemen of
@@ -688,16 +688,16 @@ walls, the fleet, and the gates.</chapter>
 <chapter n="XXXV">XXXV.--<persName tribe="roman">Caesar</persName> sent for fifteen of the principal persons of Massilia to
 attend him. To prevent the war commencing among them, he remonstrates
 [in the following language]; "that they ought to follow the precedent
-set by all Italy, rather than submit to the will of any one man." He
+set by all <place region="italy">Italy</place>, rather than submit to the will of any one man." He
 made use of such arguments as he thought would tend to bring them to
 reason. The deputies reported his speech to their countrymen, and by the
 authority of the state bring him back this answer: "That they understood
-that the Roman people was divided into two factions: that they had
+that the <tribe name="romans">Roman people</tribe> was divided into two factions: that they had
 neither judgment nor abilities to decide which had the juster cause; but
 that the heads of these factions were Cneius Pompey and Caius<persName tribe="roman">Caesar</persName>,
 the two patrons of the state: the former of whom had granted to their
 state the lands of the Volcae Arecomici, and Helvii; the latter had
-assigned them a part of his conquests in Gaul, and had augmented their
+assigned them a part of his conquests in <place region="gaul">Gaul</place>, and had augmented their
 revenue. Wherefore, having received equal favours from both, they ought
 to show equal affection to both, and assist neither against the other,
 nor admit either into their city or harbours."</chapter>
@@ -719,7 +719,7 @@ brought to Massilia, he put under the command of Decimus Brutus; and
 left Caius Trebonius his lieutenant, to invest the city.</chapter>
 
 <chapter n="XXXVII">XXXVII.--Whilst he was preparing and getting these things in readiness,
-he sent Caius Fabius one of his lieutenants into Spain with three
+he sent Caius Fabius one of his lieutenants into <place region="spain">Spain</place> with three
 legions, which he had disposed in winter quarters in Narbo, and the
 neighbouring country; and ordered him immediately to seize the passes of
 the Pyrenees, which were at that time occupied by detachments from
@@ -730,14 +730,14 @@ dislodged the party from the hills, and by hasty marches came up with
 the army of Afranius.</chapter>
 
 <chapter n="XXXVIII">XXXVIII.--On the arrival of Vibullius Rufus, whom, we have already
-mentioned, Pompey had sent into Spain, Afranius, Petreius, and Varro,
-his lieutenants (one of whom had the command of Hither Spain, with three
+mentioned, Pompey had sent into <place region="spain">Spain</place>, Afranius, Petreius, and Varro,
+his lieutenants (one of whom had the command of Hither <place region="spain">Spain</place>, with three
 legions; the second of the country from the forest of Castulo to the
 river Guadiana with two legions; the third from the river Guadiana to
 the country of the Vettones and Lusitania, with the like number of
 legions), divided amongst themselves their respective departments.
 Petreius was to march from Lusitania through the Vettones, and join
-Afranius with all his forces; Varro was to guard all Further Spain with
+Afranius with all his forces; Varro was to guard all Further <place region="spain">Spain</place> with
 what legions he had. These matters being settled, reinforcements of
 horse and foot were demanded from Lusitania, by Petreius; from the
 Celtiberi, Cantabri, and all the barbarous nations which border on the
@@ -748,16 +748,16 @@ of its situation.</chapter>
 
 <chapter n="XXXIX">XXXIX.--Afranius, as above mentioned, had three legions, Petreius two.
 There were besides about eighty cohorts raised in Hither and Further
-Spain (of which, the troops belonging to the former province had
+<place region="spain">Spain</place> (of which, the troops belonging to the former province had
 shields, those of the latter targets), and about five thousand horse
-raised in both provinces.<persName tribe="roman">Caesar</persName> had sent his legions into Spain, with
+raised in both provinces.<persName tribe="roman">Caesar</persName> had sent his legions into <place region="spain">Spain</place>, with
 about six thousand auxiliary foot, and three thousand horse, which had
-served under him in all his former wars, and the same number from Gaul,
+served under him in all his former wars, and the same number from <place region="gaul">Gaul</place>,
 which he himself had provided, having expressly called out all the most
 noble and valiant men of each state. The bravest of these were from the
-Aquitani and the mountaineers, who border on the Province in Gaul. He
+Aquitani and the mountaineers, who border on the Province in <place region="gaul">Gaul</place>. He
 had been informed that Pompey was marching through Mauritania with his
-legions to Spain, and would shortly arrive. He at the same time borrowed
+legions to <place region="spain">Spain</place>, and would shortly arrive. He at the same time borrowed
 money from the tribunes and centurions, which he distributed amongst his
 soldiers. By this proceeding he gained two points; he secured the
 interest of the centurions by this pledge in his hands, and by his
@@ -929,7 +929,7 @@ space of thirty miles, they were all of necessity confined within these
 narrow limits. Neither could the states, which had espoused<persName tribe="roman">Caesar's</persName>
 cause, furnish him with corn, nor the troops, which had gone far to
 forage, return, as they were stopped by the waters: nor could the
-convoys, coming from Italy and Gaul, make their way to the camp.
+convoys, coming from <place region="italy">Italy</place> and <place region="gaul">Gaul</place>, make their way to the camp.
 Besides, it was the most distressing season of the year, when there was
 no corn in the blade, and it was nearly ripe: and the states were
 exhausted, because Afranius had conveyed almost all the corn, before
@@ -938,7 +938,7 @@ already consumed by<persName tribe="roman">Caesar</persName>. The cattle, which 
 secondary resource against want, had been removed by the states to a
 great distance on account of the war. They who had gone out to get
 forage or corn, were chased by the light troops of the Lusitanians, and
-the targeteers of Hither Spain, who were well acquainted with the
+the targeteers of Hither <place region="spain">Spain</place>, who were well acquainted with the
 country, and could readily swim across the river, because it is the
 custom of all those people not to join their armies without bladders.</chapter>
 
@@ -960,7 +960,7 @@ very rapid flood, and to avoid the darts.</chapter>
 
 <chapter n="LI">LI.--Intelligence was brought to Afranius that the great convoys, which
 were on their march to<persName tribe="roman">Caesar</persName>, had halted at the river. Archers from the
-Rutheni, and horse from the Gauls, with a long train of baggage,
+Rutheni, and horse from the <place region="gaul">Gaul</place>s, with a long train of baggage,
 according to the Gallic custom of travelling, had arrived there; there
 were besides about six thousand people of all descriptions, with slaves
 and freed men. But there was no order, or regular discipline, as every
@@ -999,7 +999,7 @@ circumstantial accounts of these things to Rome, to their acquaintances.
 Report exaggerated them so that the war appeared to be almost at an end.
 When these letters and despatches were received at Rome, a great
 concourse of people resorted to the house of Afranius, and
-congratulations ran high: several went out of Italy to Cneius Pompey;
+congratulations ran high: several went out of <place region="italy">Italy</place> to Cneius Pompey;
 some of them, to be the first to bring him the intelligence; others,
 that they might not be thought to have waited the issue of the war, and
 to have come last of all.</chapter>
@@ -1007,7 +1007,7 @@ to have come last of all.</chapter>
 <chapter n="LIV">LIV.--When<persName tribe="roman">Caesar's</persName> affairs were in this unfavourable position, and all
 the passes were guarded by the soldiers and horse of Afranius, and the
 bridges could not be prepared,<persName tribe="roman">Caesar</persName> ordered his soldiers to make ships
-of the kind that his knowledge of Britain a few years before had taught
+of the kind that his knowledge of <place region="britain">Britain</place> a few years before had taught
 him. First, the keels and ribs were made of light timber, then, the rest
 of the hulk of the ships was wrought with wicker-work, and covered over
 with hides. When these were finished, he drew them down to the river in
@@ -1349,7 +1349,7 @@ meantime some of them invite their acquaintances, and bring them to
 their camp, others are brought away by their friends, so that the two
 camps seemed to be united into one, and several of the tribunes and
 centurions came to<persName tribe="roman">Caesar</persName>, and paid their respects to him. The same was
-done by some of the nobility of Spain, whom they summoned to their
+done by some of the nobility of <place region="spain">Spain</place>, whom they summoned to their
 assistance, and kept in their camp as hostages. They inquired after
 their acquaintance and friends, by whom each might have the means of
 being recommended to<persName tribe="roman">Caesar</persName>. Even Afranius's son, a young man,
@@ -1547,10 +1547,10 @@ his part, he would not avail himself of their present humiliation, or
 his present advantage, to require terms by which his power might be
 increased, but only that those armies, which they had maintained for so
 many years to oppose him, should be disbanded: for six legions had been
-sent into Spain, and a seventh raised there, and many and powerful
+sent into <place region="spain">Spain</place>, and a seventh raised there, and many and powerful
 fleets provided, and generals of great military experience sent to
 command them, for no other purpose than to oppose him; that none of
-these measures were adopted to keep the Spains in peace, or for the use
+these measures were adopted to keep the <place region="spain">Spain</place>s in peace, or for the use
 of the province, which, from the length of the peace, stood in need of
 no such aid; that all these things were long since designed against him:
 that against him a new sort of government was established, that the same
@@ -1583,7 +1583,7 @@ discharged immediately: for although every security might be given that
 they would be disbanded, still the matter would be uncertain, if it was
 deferred to a future day. After a short debate on either side, it was
 brought to this issue: that those who had any settlement or possession
-in Spain, should be immediately discharged: the rest at the river Var.
+in <place region="spain">Spain</place>, should be immediately discharged: the rest at the river Var.
 Caesar gave security that they should receive no damage, and that no
 person should be obliged against his inclination to take the military
 oath under him.</chapter>
@@ -1603,18 +1603,18 @@ days,<persName tribe="roman">Caesar</persName> ordered two of his legions to go 
 the vanquished enemy: that they should encamp at a small distance from
 each other. The execution of this business he gave in charge to Quintus
 Fufius Kalenus, one of his lieutenants. According to his directions,
-they marched from Spain to the river Var, and there the rest of the army
+they marched from <place region="spain">Spain</place> to the river Var, and there the rest of the army
 was disbanded.
 </chapter>
 </book>
     
     <book><heading>BOOK II</heading>
 
-<chapter n="I">I.--Whilst these things were going forward in Spain, Caius Trebonius,
+<chapter n="I">I.--Whilst these things were going forward in <place region="spain">Spain</place>, Caius Trebonius,
 <persName tribe="roman">Caesar's</persName> lieutenant, who had been left to conduct the assault of
 Massilia, began to raise a mound, vineae, and turrets against the town,
 on two sides: one of which was next the harbour and docks, the other on
-that part where there is a passage from Gaul and Spain to that sea which
+that part where there is a passage from <place region="gaul">Gaul</place> and <place region="spain">Spain</place> to that sea which
 forces itself up the mouth of the Rhone. For Massilia is washed almost
 on three sides by the sea, the remaining fourth part is the only side
 which has access by land. A part even of this space, which reaches to
@@ -1726,7 +1726,7 @@ the sight of their country, or the entreaties of their relations, did
 not urge them to run a desperate risk of their lives. Therefore, of the
 number of the ships not one was lost: of the fleet of the Massilians
 five were sunk, four taken, and one ran off with Nasidius: all that
-escaped made the best of their way to Hither Spain, but one of the rest
+escaped made the best of their way to Hither <place region="spain">Spain</place>, but one of the rest
 was sent forward to Massilia for the purpose of bearing this
 intelligence, and when it came near the city, the whole people crowded
 out to hear the tidings, and on being informed of the event, were so
@@ -1920,9 +1920,9 @@ walls and turrets, they could perceive that they were not equal to our
 men in bravery, they had recourse to the same proposals of surrender as
 before.</chapter>
 
-<chapter n="XVII">XVII.--In Further Spain, Marcus Varro, in the beginning of the
+<chapter n="XVII">XVII.--In Further <place region="spain">Spain</place>, Marcus Varro, in the beginning of the
 disturbances, when he heard of the circumstances which took place in
-Italy, being diffident of Pompey's success, used to speak in a very
+<place region="italy">Italy</place>, being diffident of Pompey's success, used to speak in a very
 friendly manner of<persName tribe="roman">Caesar</persName>. That though, being pre-engaged to Cneius
 Pompey in quality of lieutenant, he was bound in honour to him, that,
 nevertheless, there existed a very intimate tie between him and<persName tribe="roman">Caesar</persName>;
@@ -1945,7 +1945,7 @@ his two legions, he added to them about thirty auxiliary cohorts: he
 collected a large quantity of corn to send partly to the Massilians,
 partly to Afranius and Petreius. He commanded the inhabitants of Gades
 to build ten ships of war; besides, he took care that several others
-should be built in Spain. He removed all the money and ornaments from
+should be built in <place region="spain">Spain</place>. He removed all the money and ornaments from
 the temple of Hercules to the town of Gades, and sent six cohorts
 thither from the province to guard them, and gave the command of the
 town of Gades to Caius Gallonius, a Roman knight, and friend of
@@ -1965,17 +1965,17 @@ troops on them; he passed judgment against some private persons, and
 condemned to confiscation the properties of those who had spoken or made
 orations against the republic, and forced the whole province to take an
 oath of allegiance to him and Pompey. Being informed of all that
-happened in Hither Spain, he prepared for war. This was his plan of
+happened in Hither <place region="spain">Spain</place>, he prepared for war. This was his plan of
 operations. He was to retire with his two legions to Gades, and to lay
 up all the shipping and provisions there. For he had been informed that
 the whole province was inclined to favour<persName tribe="roman">Caesar's</persName> party. He thought
 that the war might be easily protracted in an island, if he was provided
-with corn and shipping.<persName tribe="roman">Caesar</persName>, although called back to Italy by many
+with corn and shipping.<persName tribe="roman">Caesar</persName>, although called back to <place region="italy">Italy</place> by many
 and important matters, yet had determined to leave no dregs of war
-behind him in Spain, because he knew that Pompey had many dependants and
+behind him in <place region="spain">Spain</place>, because he knew that Pompey had many dependants and
 clients in the Hither province.</chapter>
 
-<chapter n="XIX">XIX.--Having therefore sent two legions into Further Spain under the
+<chapter n="XIX">XIX.--Having therefore sent two legions into Further <place region="spain">Spain</place> under the
 command of Quintus Cassius, tribune of the people; he himself advances
 with six hundred horse by forced marches, and issues a proclamation,
 appointing a day on which the magistrates and nobility of all the states
@@ -2066,7 +2066,7 @@ the town, as they were ordered: brought their ships out of the port and
 docks, and delivered up the money in their treasury. When these affairs
 were despatched,<persName tribe="roman">Caesar</persName>, sparing the town more out of regard to their
 renown and antiquity than to any claim they could lay to his favour,
-left two legions in garrison there, sent the rest to Italy, and set out
+left two legions in garrison there, sent the rest to <place region="italy">Italy</place>, and set out
 himself for Rome.</chapter>
 
 <chapter n="XXIII">XXIII.--About the same time Caius Curio, having sailed from Sicily to
@@ -2232,21 +2232,21 @@ opinion as yourselves on this matter."</chapter>
 <chapter n="XXXII">XXXII.--Having broken up the council he called the soldiers together,
 and reminded them "what advantage<persName tribe="roman">Caesar</persName> had derived from their zeal at
 Corfinium; how by their good offices and influence he had brought over a
-great part of Italy to his interest. For, says he, all the municipal
+great part of <place region="italy">Italy</place> to his interest. For, says he, all the municipal
 towns afterwards imitated you and your conduct; nor was it without
 reason that<persName tribe="roman">Caesar</persName> judged so favourably, and the enemy so harshly of
 you. For Pompey, though beaten in no engagement, yet was obliged to
-shift his ground, and leave Italy, from the precedent established by
+shift his ground, and leave <place region="italy">Italy</place>, from the precedent established by
 your conduct.<persName tribe="roman">Caesar</persName> committed me, whom he considered his dearest
 friend, and the provinces of Sicily and Africa, without which he was not
-able to protect Rome or Italy, to your protection. There are some here
+able to protect Rome or <place region="italy">Italy</place>, to your protection. There are some here
 present who encourage you to revolt from us; for what can they wish for
 more, than at once to ruin us, and to involve you in a heinous crime? or
 what baser opinions could they in their resentment entertain of you,
 than that you would betray those who acknowledged themselves indebted to
 you for everything, and put yourselves in the power of those who think
 they have been ruined by you? Have you not heard of<persName tribe="roman">Caesar's</persName> exploits in
-Spain? that he routed two armies, conquered two generals, recovered two
+<place region="spain">Spain</place>? that he routed two armies, conquered two generals, recovered two
 provinces, and effected all this within forty days after he came in
 sight of the enemy? Can those who were not able to stand against him
 whilst they were uninjured resist him when they are ruined? Will you,
@@ -2278,7 +2278,7 @@ That I carried out of the very harbour and bay, two hundred of the
 enemy's victuallers, and reduced them to that situation that they can
 receive no supplies either by land or sea? Will you divorce yourselves
 from this fortune and these generals; and prefer the disgrace of
-Corfinium, the defeat of Italy, the surrender of both Spains, and the
+Corfinium, the defeat of <place region="italy">Italy</place>, the surrender of both <place region="spain">Spain</place>s, and the
 prestige of the African war? I, for my part, wished to be called a
 soldier of<persName tribe="roman">Caesar's</persName>; you honoured me with the title of Imperator. If you
 repent your bounty, I give it back to you; restore to me my former name
@@ -2364,7 +2364,7 @@ city, a circumstance which greatly comforted their desponding hearts.</chapter>
 
 <chapter n="XXXVII">XXXVII.--The same intelligence was brought to Curio; but for some time
 he could not give credit to it, because he had so great confidence in
-his own good fortune. And at this time<persName tribe="roman">Caesar's</persName> success in Spain was
+his own good fortune. And at this time<persName tribe="roman">Caesar's</persName> success in <place region="spain">Spain</place> was
 announced in Africa by messages and letters. Being elated by all these
 things, he imagined that the king would not dare to attempt anything
 against him. But when he found out, from undoubted authority, that his
@@ -2522,7 +2522,7 @@ more returned to his own kingdom, with all his forces.
 <chapter n="I">I.--Julius<persName tribe="roman">Caesar</persName>, holding the election as dictator, was himself
 appointed consul with Publius Servilius; for this was the year in which
 it was permitted by the laws that he should be chosen consul. This
-business being ended, as credit was beginning to fail in Italy, and the
+business being ended, as credit was beginning to fail in <place region="italy">Italy</place>, and the
 debts could not be paid, he determined that arbitrators should be
 appointed: and that they should make an estimate of the possessions and
 properties [of the debtors], how much they were worth before the war,
@@ -2552,10 +2552,10 @@ scarcely found as many ships as would be sufficient to transport fifteen
 thousand legionary soldiers and five hundred horse. This [the scarcity
 of shipping] was the only thing that prevented<persName tribe="roman">Caesar</persName> from putting a
 speedy conclusion to the war. And even these troops embarked very short
-of their number, because several had fallen in so many wars in Gaul, and
-the long march from Spain had lessened their number very much, and a
+of their number, because several had fallen in so many wars in <place region="gaul">Gaul</place>, and
+the long march from <place region="spain">Spain</place> had lessened their number very much, and a
 severe autumn in Apulia and the district about Brundisium, after the
-very wholesome countries of Spain and Gaul, had impaired the health of
+very wholesome countries of <place region="spain">Spain</place> and <place region="gaul">Gaul</place>, had impaired the health of
 the whole army.</chapter>
 
 <chapter n="III">III.--Pompey having got a year's respite to provide forces, during which
@@ -2568,7 +2568,7 @@ dynasts, tetrarchs, and free states of Achaia; and had obliged the
 corporations of those provinces, of which he himself had the government,
 to count down to him a large sum.</chapter>
 
-<chapter n="IV">IV.--He had made up nine legions of Roman citizens; five from Italy,
+<chapter n="IV">IV.--He had made up nine legions of Roman citizens; five from <place region="italy">Italy</place>,
 which he had brought with him; one veteran legion from Sicily, which
 being composed of two, he called the Gemella; one from Crete and
 Macedonia, of veterans who had been discharged by their former generals,
@@ -2580,11 +2580,11 @@ soldiers taken from Caius Antonius. Besides these, he expected two
 legions from Syria, with Scipio; from Crete, Lacedaemon, Pontus, Syria,
 and other states, he got about three thousand archers, six cohorts of
 slingers, two thousand mercenary soldiers, and seven thousand horse; six
-hundred of which, Deiotarus had brought from Gaul; Ariobarzanes, five
+hundred of which, Deiotarus had brought from <place region="gaul">Gaul</place>; Ariobarzanes, five
 hundred from Cappadocia. Cotus had given him about the same number from
 Thrace, and had sent his son Sadalis with them. From Macedonia there
 were two hundred, of extraordinary valour, commanded by Rascipolis; five
-hundred Gauls and Germans; Gabinius's troops from Alexandria, whom Aulus
+hundred <place region="gaul">Gaul</place>s and Germans; Gabinius's troops from Alexandria, whom Aulus
 Gabinius had left with king Ptolemy, to guard his person. Pompey, the
 son, had brought in his fleet eight hundred, whom he had raised among
 his own and his shepherds' slaves. Tarcundarius, Castor and Donilaus had
@@ -2611,7 +2611,7 @@ matter. The chief direction rested upon him.</chapter>
 <chapter n="VI">VI.--When<persName tribe="roman">Caesar</persName> came to Brundisium, he made a speech to the soldiers:
 "That since they were now almost arrived at the termination of their
 toils and dangers, they should patiently submit to leave their slaves
-and baggage in Italy, and to embark without luggage, that a greater
+and baggage in <place region="italy">Italy</place>, and to embark without luggage, that a greater
 number of men might be put on board: that they might expect everything
 from victory and his liberality." They cried out with one voice, "he
 might give what orders he pleased, that they would cheerfully fulfil
@@ -2681,16 +2681,16 @@ sustaining such considerable losses, withdrew to Pompey, to Dyrrachium.</chapter
 
 <chapter n="X">X.--We have mentioned that Vibullius Rufus, an officer of Pompey's, had
 fallen twice into<persName tribe="roman">Caesar's</persName> power; first at Corfinium, and afterwards in
-Spain.<persName tribe="roman">Caesar</persName> thought him a proper person, on account of his favours
+<place region="spain">Spain</place>.<persName tribe="roman">Caesar</persName> thought him a proper person, on account of his favours
 conferred on him, to send with proposals to Pompey: and he knew that he
 had an influence over Pompey. This was the substance of his proposals:
 "That it was the duty of both, to put an end to their obstinacy, and
 forbear hostilities, and not tempt fortune any further; that sufficient
 loss had been suffered on both sides, to serve as a lesson and
 instruction to them, to render them apprehensive of future calamities,
-by Pompey, in having been driven out of Italy, and having lost Sicily,
-Sardinia, and the two Spains, and one hundred and thirty cohorts of
-Roman citizens, in Italy and Spain: by himself, in the death of Curio,
+by Pompey, in having been driven out of <place region="italy">Italy</place>, and having lost Sicily,
+Sardinia, and the two <place region="spain">Spain</place>s, and one hundred and thirty cohorts of
+Roman citizens, in <place region="italy">Italy</place> and <place region="spain">Spain</place>: by himself, in the death of Curio,
 and the loss of so great an army in Africa, and the surrender of his
 soldiers in Corcyra. Wherefore, they should have pity on themselves, and
 the republic: for, from their own misfortunes, they had sufficient
@@ -2725,7 +2725,7 @@ the same day for Oricum: when he arrived there, Lucius Torquatus, who
 was governor of the town by Pompey's appointment, and had a garrison of
 Parthinians in it, endeavoured to shut the gates and defend the town,
 and ordered the Greeks to man the walls, and to take arms. But as they
-refused to fight against the power of the Roman people, and as the
+refused to fight against the power of the <tribe name="romans">Roman people</tribe>, and as the
 citizens made a spontaneous attempt to admit<persName tribe="roman">Caesar</persName>, despairing of any
 assistance, he threw open the gates, and surrendered himself and the
 town to<persName tribe="roman">Caesar</persName>, and was preserved safe from injury by him.</chapter>
@@ -2735,7 +2735,7 @@ Apollonia. Staberius the governor, hearing of his approach, began to
 bring water into the citadel, and to fortify it, and to demand hostages
 of the town's people. But they refuse to give any, or to shut their
 gates against the consul, or to take upon them to judge contrary to what
-all Italy and the Roman people had judged. As soon as he knew their
+all <place region="italy">Italy</place> and the <tribe name="romans">Roman people</tribe> had judged. As soon as he knew their
 inclinations, he made his escape privately. The inhabitants of Apollonia
 sent ambassadors to<persName tribe="roman">Caesar</persName>, and gave him admission into their town.
 Their example was followed by the inhabitants of Bullis, Amantia, and
@@ -2761,7 +2761,7 @@ of Pompey, was in no great haste, but encamped by the river Apsus, in
 the territory of Apollonia, that the states which had deserved his
 support might be certain of protection from his out-guards and forts;
 and there he resolved to wait the arrival of his other legions from
-Italy, and to winter in tents. Pompey did the same; and pitching his
+<place region="italy">Italy</place>, and to winter in tents. Pompey did the same; and pitching his
 camp on the other side of the river Apsus, collected there all his
 troops and auxiliaries.</chapter>
 
@@ -2857,7 +2857,7 @@ scarcely entered on the subject when Pompey interrupted him, and forbade
 him to proceed. "What need," says he, "have I of life or Rome, if the
 world shall think I enjoy them by the bounty of<persName tribe="roman">Caesar</persName>; an opinion which
 can never be removed whilst it shall be thought that I have been brought
-back by him to Italy, from which I set out." After the conclusion of the
+back by him to <place region="italy">Italy</place>, from which I set out." After the conclusion of the
 war,<persName tribe="roman">Caesar</persName> was informed of these expressions by some persons who were
 present at the conversation. He attempted, however, by other means to
 bring about a negotiation of peace.</chapter>
@@ -2926,7 +2926,7 @@ and when he was attempting to harangue the people, turned him out of the
 rostrum. Stung with the ignominy and with resentment, he pretended in
 public that he would go to<persName tribe="roman">Caesar</persName>, but privately sent messengers to
 Milo, who had murdered Clodius, and had been condemned for it; and
-having invited him into Italy, because he had engaged the remains of the
+having invited him into <place region="italy">Italy</place>, because he had engaged the remains of the
 gladiators to his interest, by making them supple presents, he joined
 him, and sent him to Thurinum to tamper with the shepherds. When he
 himself was on his road to Casilinum, at the same time that his military
@@ -2949,7 +2949,7 @@ he died of it; and Caelius having set out, as he pretended for<persName tribe="r
 went to Thurii, where he was put to death as he was tampering with some
 of the freemen of the town, and was offering money to<persName tribe="roman">Caesar's</persName> Gallic
 and Spanish horse, which he had sent there to strengthen the garrison.
-And thus these mighty beginnings, which had embroiled Italy, and kept
+And thus these mighty beginnings, which had embroiled <place region="italy">Italy</place>, and kept
 the magistrates employed, found a speedy and happy issue.</chapter>
 
 <chapter n="XXIII">XXIII.--Libo having sailed from Oricum, with a fleet of fifty ships,
@@ -3067,10 +3067,10 @@ received Antony into their town, and gave him every assistance.
 Otacilius, apprehensive for his own safety, escaped out of the town, and
 went to Pompey. All his forces, whose number amounted to three veteran
 legions, and one of recruits, and about eight hundred horse, being
-landed, Antony sent most of his ships back to Italy, to transport the
+landed, Antony sent most of his ships back to <place region="italy">Italy</place>, to transport the
 remainder of the soldiers and horse. The pontons, which are a sort of
 Gallic ships, he left at Lissus with this object, that if Pompey,
-imagining Italy defenceless, should transport his army thither (and this
+imagining <place region="italy">Italy</place> defenceless, should transport his army thither (and this
 notion was spread among the common people),<persName tribe="roman">Caesar</persName> might have some means
 of pursuing him; and he sent messengers to him with great despatch, to
 inform him in what part of the country he had landed his army, and what
@@ -3252,7 +3252,7 @@ the rest of these two troops, and brought them to Domitius.</chapter>
 <chapter n="XXXIX">XXXIX.--<persName tribe="roman">Caesar</persName>, having drawn his garrisons out of the sea-ports, as
 before mentioned, left three cohorts at Oricum to protect the town, and
 committed to them the charge of his ships of war, which he had
-transported from Italy. Acilius, as lieutenant-general, had the charge
+transported from <place region="italy">Italy</place>. Acilius, as lieutenant-general, had the charge
 of this duty and the command of the town; he drew the ships into the
 inner part of the harbour, behind the town, and fastened them to the
 shore, and sank a merchant-ship in the mouth of the harbour to block it
@@ -3317,10 +3317,10 @@ come in, and be sheltered from some winds. Here he ordered a part of his
 men-of-war to attend him, and corn and provisions to be brought from
 Asia, and from all the countries of which he kept possession.<persName tribe="roman">Caesar</persName>,
 imagining that the war would be protracted to too great a length, and
-despairing of his convoys from Italy, because all the coasts were
+despairing of his convoys from <place region="italy">Italy</place>, because all the coasts were
 guarded with great diligence by Pompey's adherents; and because his own
-fleets, which he had built during the winter, in Sicily, Gaul, and
-Italy, were detained; sent Lucius Canuleius into Epirus to procure corn;
+fleets, which he had built during the winter, in Sicily, <place region="gaul">Gaul</place>, and
+<place region="italy">Italy</place>, were detained; sent Lucius Canuleius into Epirus to procure corn;
 and because these countries were too remote, he fixed granaries in
 certain places, and regulated the carriage of the corn for the
 neighbouring states. He likewise gave directions that search should be
@@ -3432,7 +3432,7 @@ of ships, which brought them provisions: nor could the wind blow from
 any point that would not be favourable to some of them. Whereas,<persName tribe="roman">Caesar</persName>,
 having consumed all the corn far and near, was in very great distress,
 but his soldiers bore all with uncommon patience. For they remembered
-that they lay under the same difficulties last year in Spain, and yet by
+that they lay under the same difficulties last year in <place region="spain">Spain</place>, and yet by
 labour and patience had concluded a dangerous war. They recollected too
 that they had suffered an alarming scarcity at Alesia, and a much
 greater at Avaricum, and yet had returned victorious over mighty
@@ -3578,7 +3578,7 @@ explain what conduct met his approbation, but even in some degree
 enforce his advice, and govern him [Pompey] if he persisted in error;
 that he commanded an army independent of Pompey, so that besides his
 authority, he had strength to compel; and if he did so, all men would be
-indebted to him for the quiet of Italy, the peace of the provinces, and
+indebted to him for the quiet of <place region="italy">Italy</place>, the peace of the provinces, and
 the preservation of the empire." These proposals Clodius made to him,
 and for some days at the first appeared to have met with a favourable
 reception, but afterwards was not admitted to an audience; for Scipio
@@ -3606,7 +3606,7 @@ almost starved, Pompey thought he ought to make some attempt by a sally.</chapte
 named Roscillus and Aegus, the sons of Abducillus, who for several years
 possessed the chief power in his own state; men of singular valour,
 whose gallant services<persName tribe="roman">Caesar</persName> had found very useful in all his wars in
-Gaul. To them, for these reasons, he had committed the offices of
+<place region="gaul">Gaul</place>. To them, for these reasons, he had committed the offices of
 greatest honour in their own country, and took care to have them chosen
 into the senate at an unusual age, and had bestowed on them lands taken
 from the enemy, and large pecuniary rewards, and from being needy had
@@ -3869,8 +3869,8 @@ place, addressed his soldiers and encouraged them "not to be troubled at
 what had happened, nor to be dismayed at it, but to weigh their many
 successful engagements against one disappointment, and that, too, a
 trifling one. That they ought to be grateful to Fortune, through whose
-favour they had recovered Italy without the effusion of blood; through
-whose favour they had subdued the two Spains, though protected by a most
+favour they had recovered <place region="italy">Italy</place> without the effusion of blood; through
+whose favour they had subdued the two <place region="spain">Spain</place>s, though protected by a most
 warlike people under the command of the most skilful and experienced
 generals: through whose favour they had reduced to submission the
 neighbouring states that abounded with corn: in fine, that they ought to
@@ -3967,8 +3967,8 @@ campaign on these principles: that if Pompey should march after him, he
 would be drawn off from the sea, and from those forces which he had
 provided in Dyrrachium, and separated from his corn and magazines, and
 be obliged to carry on the war on equal terms; but if he crossed over
-into Italy,<persName tribe="roman">Caesar</persName>, having effected a junction with Domitius, would
-march through Illyricum to the relief of Italy; but if he endeavoured to
+into <place region="italy">Italy</place>,<persName tribe="roman">Caesar</persName>, having effected a junction with Domitius, would
+march through Illyricum to the relief of <place region="italy">Italy</place>; but if he endeavoured to
 storm Apollonia and Oricum, and exclude him from the whole coast, he
 hoped, by besieging Scipio, to oblige him, of necessity, to come to his
 assistance. Accordingly,<persName tribe="roman">Caesar</persName> despatching couriers, writes to
@@ -3979,7 +3979,7 @@ forward on his march through Epirus and Acarnania. Pompey, also,
 guessing at<persName tribe="roman">Caesar's</persName> design, determined to hasten to Scipio, that if
 Caesar should march in that direction, he might be ready to relieve him;
 but that if<persName tribe="roman">Caesar</persName> should be unwilling to quit the sea-coast and
-Corcyra, because he expected legions and cavalry from Italy, he himself
+Corcyra, because he expected legions and cavalry from <place region="italy">Italy</place>, he himself
 might fall on Domitius with all his forces.</chapter>
 
 <chapter n="LXXIX">LXXIX.--For these reasons, each of them studied despatch, that he might
@@ -4002,7 +4002,7 @@ Domitius, and by Domitius to<persName tribe="roman">Caesar</persName>, were not 
 accomplish their journey. But the Allobroges, who were in the retinue of
 Aegus and Roscillus, and who had deserted to Pompey, having met on the
 road a scouting party of Domitius; either from old acquaintance, because
-they had served together in Gaul, or elated with vain glory, gave them
+they had served together in <place region="gaul">Gaul</place>, or elated with vain glory, gave them
 an account of all that had happened, and informed them of<persName tribe="roman">Caesar's</persName>
 departure, and Pompey's arrival. Domitius, who was scarce four hours'
 march distant, having got intelligence from these, by the courtesy of
@@ -4061,7 +4061,7 @@ ordered the trumpet to be sounded at his tent, and a pavilion to be
 erected for him. The forces of Pompey being thus augmented, and two such
 powerful armies united, their former expectations were confirmed, and
 their hopes of victory so much increased, that whatever time intervened
-was considered as so much delay to their return into Italy: and whenever
+was considered as so much delay to their return into <place region="italy">Italy</place>: and whenever
 Pompey acted with slowness and caution, they used to exclaim, that it
 was the business only of a single day, but that he had a passion for
 power, and was delighted in having persons of consular and praetorian
@@ -4083,7 +4083,7 @@ the most scurrilous language. Lentulus urging the respect due to his
 age, Domitius boasting his interest in the city and his dignity, and
 Scipio presuming on his alliance with Pompey. Attius Rufus charged
 Lucius Afranius before Pompey with betraying the army in the action that
-happened in Spain, and Lucius Domitius declared in the council that it
+happened in <place region="spain">Spain</place>, and Lucius Domitius declared in the council that it
 was his wish that, when the war should be ended, three billets should be
 given to all the senators who had taken part with them in the war, and
 that they should pass sentence on every single person who had stayed
@@ -4159,14 +4159,14 @@ opinion generally entertained of their experience and valour.</chapter>
 <chapter n="LXXXVII">LXXXVII.--After him Labienus spoke, as well to express his contempt of
 <persName tribe="roman">Caesar's</persName> forces, as to extol Pompey's scheme with the highest encomiums.
 "Think not, Pompey," says he, "that this is the army which conquered
-Gaul and Germany; I was present at all those battles and do not speak at
+<place region="gaul">Gaul</place> and Germany; I was present at all those battles and do not speak at
 random on a subject to which I am a stranger: a very small part of that
 army now remains, great numbers lost their lives, as must necessarily
 happen in so many battles, many fell victims to the autumnal pestilence
-in Italy, many returned home, and many were left behind on the
+in <place region="italy">Italy</place>, many returned home, and many were left behind on the
 continent. Have you not heard that the cohorts at Brundisium are
 composed of invalids? The forces which you now behold, have been
-recruited by levies lately made in Hither Spain, and the greater part
+recruited by levies lately made in Hither <place region="spain">Spain</place>, and the greater part
 from the colonies beyond the Po; moreover, the flower of the forces
 perished in the two engagements at Dyrrachium." Having so said, he took
 an oath, never to return to his camp unless victorious; and he
@@ -4540,7 +4540,7 @@ him from Asia, which he had made up out of Pompey's soldiers; for he was
 himself detained against his will, by the etesian winds, which are
 totally unfavourable to persons on a voyage from Alexandria. In the
 meantime, considering that the disputes of the princes belonged to the
-jurisdiction of the Roman people, and of him as consul, and that it was
+jurisdiction of the <tribe name="romans">Roman people</tribe>, and of him as consul, and that it was
 a duty more incumbent on him, as in his former consulate a league had
 been made with Ptolemy the late king, under sanction both of a law, and
 a decree of the senate, he signified that it was his pleasure, that king
@@ -4560,7 +4560,7 @@ king's name, and instructed him both by letters and messages how he
 should act. By the will of Ptolemy the father, the elder of his two sons
 and the more advanced in years of his two daughters were declared his
 heirs, and for the more effectual performance of his intention, in the
-same will he conjured the Roman people by all the gods, and by the
+same will he conjured the <tribe name="romans">Roman people</tribe> by all the gods, and by the
 league which he had entered into at Rome, to see his will executed. One
 of the copies of his will was conveyed to Rome by his ambassadors to be
 deposited in the treasury, but the public troubles preventing it, it was
@@ -4592,7 +4592,7 @@ king's consent.</chapter>
 number, spirit, or military experience; for he had twenty thousand men
 under arms. They consisted partly of Gabinius's soldiers, who were now
 become habituated to the licentious mode of living at Alexandria, and
-had forgotten the name and discipline of the Roman people, and had
+had forgotten the name and discipline of the <tribe name="romans">Roman people</tribe>, and had
 married wives there, by whom the greatest part of them had children. To
 these was added a collection of highwaymen and free-booters, from Syria,
 and the province of Cilicia, and the adjacent countries. Besides several
@@ -4673,4 +4673,4 @@ messengers being discovered and apprehended, he was put to death by
 Caesar. Such was the commencement of the Alexandrian war.
 </chapter>
 </book>
-</root>
+</section>
