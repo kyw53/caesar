@@ -20,6 +20,10 @@ People:
 	Aulus Gabinius
 
 	Caesar
+	
+	Pompey
+	
+	Marcus Aurelius
 
 Tribes:
 	belgae
