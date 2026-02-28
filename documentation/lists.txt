@@ -24,38 +24,55 @@ People:
 	Pompey
 	
 	Marcus Aurelius
+	
+	Ambiorix
+	
+	Indutiomarus
+	
+	Commius
 
 Tribes:
-	belgae
-
-	aquitani
-
-	gauls
-
-	germans
-
-	sequani
-
-	romans
-
-	rauraci
-
-	tulingi
-
-	latobrigi
-
-	boii
-
-	allobroges
-
-	Tulingi
-
-	lepontii
-
-	nervii
-
-	eburones
-
+belgae
+aquitani
+gauls
+germans
+helvetii
+sequani
+romans
+rauraci
+tulingi
+latobrigi
+boii
+allobroges
+Aedui
+Vocontii
+Ambarri
+Tigurini
+Lingones
+Tulingi
+Arverni
+Cimbri
+Teutones
+Suevi
+Remi
+Suessiones
+Nervii
+Atrebates
+Morini
+Menapu
+Caleti
+Velocasses
+Veromandui
+Aduatuci
+Veneti
+Osismii
+Nantuates
+Esubii
+Lexovii
+Nannetes
+Ambiliati
+Menapii
+lepontii
 Places:
 	Gaul
 

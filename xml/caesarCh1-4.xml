@@ -448,8 +448,8 @@ with two legions, and with those as guides who had examined the road; he
 explains what his plan is. He himself during the fourth watch, hastens
 to them by the same route by which the enemy had gone, and sends on all
 the cavalry before him. Publius <persName eth="roman">Considius</persName>, who was reputed to be very
-experienced in military affairs, and had been in the army of Lucius
-Sulla, and afterwards in that of Marcus Crassus, is sent forward with
+experienced in military affairs, and had been in the army of <persName eth="roman" role="general">Lucius
+Sulla</persName>, and afterwards in that of <persName eth="roman" role="consul" nameid="m_crassus">Marcus Crassus</persName>, is sent forward with
 the scouts.</chapter>
 
 <chapter n="XXII">XXII.--At day-break, when the summit of the mountain was in the
@@ -789,11 +789,11 @@ ambassadors came from the <tribe name="Aedui">Aedui</tribe> and the Treviri; fro
 complain that the Harudes, who had lately been brought over into <place region="gaul">Gaul</place>,
 were ravaging their territories; that they had not been able to purchase
 peace from <persName eth="germanii" role="king">Ariovistus</persName>, even by giving hostages: and from the Treviri,
-[to state] that a hundred cantons of the Suevi had encamped on the banks
+[to state] that a hundred cantons of the <tribe name="Suevi">Suevi</tribe> had encamped on the banks
 of the <place river="rhine">Rhine</place>, and were attempting to cross it; that the brothers, Nasuas
 and Cimberius, headed them. Being greatly alarmed at these things,
 <persName eth="roman" role="general">Caesar</persName> thought that he ought to use all despatch, lest, if this new band
-of Suevi should unite with the old troops of <persName eth="germanii" role="king">Ariovistus</persName>, he [<persName eth="germanii" role="king">Ariovistus</persName>]
+of <tribe name="Suevi">Suevi</tribe> should unite with the old troops of <persName eth="germanii" role="king">Ariovistus</persName>, he [<persName eth="germanii" role="king">Ariovistus</persName>]
 might be less easily withstood. Having, therefore, as quickly as he
 could, provided a supply of corn, he hastened to <persName eth="germanii" role="king">Ariovistus</persName> by forced
 marches.</chapter>
@@ -1133,7 +1133,7 @@ number of legionary soldiers, considering the number of the enemy; that
 himself, having drawn up his army in three lines, advanced to the camp
 of the enemy. Then at last of necessity the <tribe name="germans">Germans</tribe> drew their forces
 out of camp, and disposed them canton by canton, at equal distances, the
-Harudes, Marcomanni, Tribocci, Vangiones, Nemetes, Sedusii, Suevi; and
+Harudes, Marcomanni, Tribocci, Vangiones, Nemetes, Sedusii, <tribe name="Suevi">Suevi</tribe>; and
 surrounded their whole army with their chariots and waggons, that no
 hope might be left in flight. On these they placed their women, who,
 with dishevelled hair and in tears, entreated the soldiers, as they went
@@ -1152,8 +1152,8 @@ swords. There were found very many of our soldiers who leaped upon the
 phalanx, and with their hands tore away the shields, and wounded the
 enemy from above. Although the army of the enemy was routed on the left
 wing and put to flight, they [still] pressed heavily on our men from the
-right wing, by the great number of their troops. On observing which, P.
-Crassus, a young man, who commanded the cavalry--as he was more
+right wing, by the great number of their troops. On observing which, <persName eth="roman" role="officer" nameid="p_crassus">P.
+Crassus</persName>, a young man, who commanded the cavalry--as he was more
 disengaged than those who were employed in the fight--sent the third
 line as a relief to our men who were in distress.</chapter>
 
@@ -1181,7 +1181,7 @@ put to death by fire, or be reserved for another time: that by the
 favour of the lots he was uninjured. M. Mettius, also, was found and
 brought back to him [<persName eth="roman" role="general">Caesar</persName>].</chapter>
 
-<chapter n="LIV">LIV.--This battle having been reported beyond the <place river="rhine">Rhine</place>, the Suevi, who
+<chapter n="LIV">LIV.--This battle having been reported beyond the <place river="rhine">Rhine</place>, the <tribe name="Suevi">Suevi</tribe>, who
 had come to the banks of that river, began to return home, when the
 Ubii, who dwelt nearest to the <place river="rhine">Rhine</place>, pursuing them, while much alarmed,
 slew a great number of them. <persName eth="roman" role="general">Caesar</persName> having concluded two very important
@@ -1260,14 +1260,14 @@ themselves the command of the whole war. That the <tribe name="Suessiones">Suess
 nearest neighbours and possessed a very extensive and fertile country;
 that among them, even in our own memory, <persName eth="aedui" role="druid">Divitiacus</persName>, the most powerful
 man of all <place region="gaul">Gaul</place>, had been king; who had held the government of a great
-part of these regions, as well as of Britain; that their king at present
+part of these regions, as well as of <place region="Britain">Britain</place>; that their king at present
 was <persName eth="suessiones" role="king">Galba</persName>; that the direction of the whole war was conferred by the
 consent of all upon him, on account of his integrity and prudence; that
 they had twelve towns; that they had promised 50,000 armed men; and that
-the Nervii, who are reckoned the most warlike among them, and are
+the <tribe name="Nervii">Nervii</tribe>, who are reckoned the most warlike among them, and are
 situated at a very great distance, [had promised] as many; the
-Atrebates, 15,000; the Ambiani, 10,000; the Morini, 25,000; the Menapu,
-9000; the Caleti, 10,000; the Velocasses and the Veromandui as many; the
+<tribe name="Atrebates">Atrebates</tribe>, 15,000; the Ambiani, 10,000; the <tribe name="Morini">Morini</tribe>, 25,000; the <tribe name="Menapu">Menapu</tribe>,
+9000; the <tribe name="Caleti">Caleti</tribe>, 10,000; the <tribe name="Velocasses">Velocasses</tribe> and the <tribe name="Veromandui">Veromandui</tribe> as many; the
 <tribe name="Aduatuci">Aduatuci</tribe>, 19,000; that the Condrusi, the Eburones, the Caeraesi, the
 Paemani, who are called by the common name of <tribe name="germans">Germans</tribe>, [had promised],
 they thought, to the number of 40,000.</chapter>
@@ -1358,12 +1358,12 @@ enemy immediately hastened from that place to the river Aisne, which it
 has been stated was behind our camp. Finding a ford there, they
 endeavoured to lead a part of their forces over it; with the design,
 that, if they could, they might carry by storm the fort which Q.
-Titurius, <persName eth="roman" role="general">Caesar</persName>'s lieutenant, commanded, and might cut off the bridge;
+<persName eth="roman" role="lieutenant">Titurius</persName>, <persName eth="roman" role="general">Caesar</persName>'s lieutenant, commanded, and might cut off the bridge;
 but, if they could not do that, they should lay waste the lands of the
 <tribe name="Remi">Remi</tribe>, which were of great use to us in carrying on the war, and might
 hinder our men from foraging.</chapter>
 
-<chapter n="X">X.--<persName eth="roman" role="general">Caesar</persName>, being apprised of this by Titurius, leads all his cavalry
+<chapter n="X">X.--<persName eth="roman" role="general">Caesar</persName>, being apprised of this by <persName eth="roman" role="lieutenant">Titurius</persName>, leads all his cavalry
 and light-armed Numidians, slingers and archers, over the bridge, and
 hastens towards them. There was a severe struggle in that place. Our
 men, attacking in the river the disordered enemy, slew a great part of
@@ -1447,7 +1447,7 @@ and made war upon the <tribe name="romans">Roman people</tribe>, being urged the
 who said that the <tribe name="Aedui">Aedui</tribe>, reduced to slavery by <persName eth="roman" role="general">Caesar</persName>, were suffering
 every indignity and insult. That they who had been the leaders of that
 plot, because they perceived how great a calamity they had brought upon
-the state, had fled into Britain. That not only the Bellovaci, but also
+the state, had fled into <place region="Britain">Britain</place>. That not only the Bellovaci, but also
 the <tribe name="Aedui">Aedui</tribe>, entreated him to use his [accustomed] clemency and lenity
 towards them [the Bellovaci]: which if he did, he would increase the
 influence of the <tribe name="Aedui">Aedui</tribe> among all the <tribe name="belgae">Belgae</tribe>, by whose succour and
@@ -1461,7 +1461,7 @@ and pre-eminent in the number of its population, he demanded 600
 hostages. When these were delivered, and all the arms in the town
 collected, he went from that place into the territories of the Ambiani,
 who, without delay, surrendered themselves and all their possessions.
-Upon their territories bordered the Nervii, concerning whose character
+Upon their territories bordered the <tribe name="Nervii">Nervii</tribe>, concerning whose character
 and customs when <persName eth="roman" role="general">Caesar</persName> inquired he received the following information:
 --That "there was no access for merchants to them; that they suffered no
 wine and other things tending to luxury to be imported; because they
@@ -1474,9 +1474,9 @@ accept any condition of peace."</chapter>
 
 <chapter n="XVI">XVI.--After he had made three days' march through their territories, he
 discovered from some prisoners, that the river Sambre was not more than
-ten miles from his camp: that all the Nervii had stationed themselves on
-the other side of that river, and together with the Atrebates and the
-Veromandui, their neighbours, were there awaiting the arrival of the
+ten miles from his camp: that all the <tribe name="Nervii">Nervii</tribe> had stationed themselves on
+the other side of that river, and together with the <tribe name="Atrebates">Atrebates</tribe> and the
+<tribe name="Veromandui">Veromandui</tribe>, their neighbours, were there awaiting the arrival of the
 <tribe name="romans">Romans</tribe>; for they had persuaded both these nations to try the same
 fortune of war [as themselves]: that the forces of the <tribe name="Aduatuci">Aduatuci</tribe> were
 also expected by them, and were on their march; that they had put their
@@ -1488,14 +1488,14 @@ centurions to choose a convenient place for the camp. And as a great
 many of the surrounding <tribe name="belgae">Belgae</tribe> and other <tribe name="gauls">Gauls</tribe>, following <persName eth="roman" role="general">Caesar</persName>,
 marched with him; some of these, as was afterwards learnt from the
 prisoners, having accurately observed, during those days, the army's
-method of marching, went by night to the Nervii, and informed them that
+method of marching, went by night to the <tribe name="Nervii">Nervii</tribe>, and informed them that
 a great number of baggage-trains passed between the several legions, and
 that there would be no difficulty, when the first legion had come into
 the camp, and the other legions were at a great distance, to attack that
 legion while under baggage, which being routed, and the baggage-train
 seized, it would come to pass that the other legions would not dare to
 stand their ground. It added weight also to the advice of those who
-reported that circumstance, that the Nervii, from early times, because
+reported that circumstance, that the <tribe name="Nervii">Nervii</tribe>, from early times, because
 they were weak in cavalry (for not even at this time do they attend to
 it, but accomplish by their infantry whatever they can), in order that
 they might the more easily obstruct the cavalry of their neighbours if
@@ -1505,7 +1505,7 @@ to the sides, and the quick-briars and thorns springing up between them,
 had made these hedges present a fortification like a wall, through which
 it was not only impossible to enter, but even to penetrate with the eye.
 Since [therefore] the march of our army would be obstructed by these
-things, the Nervii thought that the advice ought not to be neglected by
+things, the <tribe name="Nervii">Nervii</tribe> thought that the advice ought not to be neglected by
 them.</chapter>
 
 <chapter n="XVIII">XVIII.--The nature of the ground which our men had chosen for the camp
@@ -1520,7 +1520,7 @@ along the river. The depth of the river was about three feet.</chapter>
 
 <chapter n="XIX">XIX.--<persName eth="roman" role="general">Caesar</persName>, having sent his cavalry on before, followed close after
 them with all his forces; but the plan and order of the march was
-different from that which the <tribe name="belgae">Belgae</tribe> had reported to the Nervii. For as
+different from that which the <tribe name="belgae">Belgae</tribe> had reported to the <tribe name="Nervii">Nervii</tribe>. For as
 he was approaching the enemy <persName eth="roman" role="general">Caesar</persName>, according to his custom, led on [as
 the van] six legions unencumbered by baggage; behind them he had placed
 the baggage-trains of the whole army; then the two legions which had
@@ -1538,7 +1538,7 @@ time for commencing action, as soon as they had arranged their line of
 battle and formed their ranks within the woods, and had encouraged one
 another, they rushed out suddenly with all their forces and made an
 attack upon our horse. The latter being easily routed and thrown into
-confusion, the Nervii ran down to the river with such incredible speed
+confusion, the <tribe name="Nervii">Nervii</tribe> ran down to the river with such incredible speed
 that they seemed to be in the woods, the river, and close upon us almost
 at the same time. And with the same speed they hastened up the hill to
 our camp and to those who were employed in the works.</chapter>
@@ -1591,7 +1591,7 @@ followed.</chapter>
 
 <chapter n="XXIII">XXIII.--The soldiers of the ninth and tenth legions, as they had been
 stationed on the left part of the army, casting their weapons, speedily
-drove the Atrebates (for that division had been opposed to them), who
+drove the <tribe name="Atrebates">Atrebates</tribe> (for that division had been opposed to them), who
 were breathless with running and fatigue, and worn out with wounds, from
 the higher ground into the river; and following them as they were
 endeavouring to pass it, slew with their swords a great part of them
@@ -1600,11 +1600,11 @@ river; and having advanced to a disadvantageous place, when the battle
 was renewed, they [nevertheless] again put to flight the enemy, who had
 returned and were opposing them. In like manner, in another quarter two
 different legions, the eleventh and the eighth, having routed the
-Veromandui, with whom they had engaged, were fighting from the higher
+<tribe name="Veromandui">Veromandui</tribe>, with whom they had engaged, were fighting from the higher
 ground upon the very banks of the river. But, almost the whole camp on
 the front and on the left side being then exposed, since the twelfth
 legion was posted in the right wing, and the seventh at no great
-distance from it, all the Nervii, in a very close body, with
+distance from it, all the <tribe name="Nervii">Nervii</tribe>, in a very close body, with
 Boduognatus, who held the chief command, as their leader, hastened
 towards that place; and part of them began to surround the legions on
 their unprotected flank, part to make for the highest point of the
@@ -1691,7 +1691,7 @@ ascend very high banks, and come up to a very disadvantageous place;
 since their greatness of spirit had rendered these actions easy,
 although in themselves very difficult.</chapter>
 
-<chapter n="XXVIII">XXVIII.--This battle being ended, and the nation and name of the Nervii
+<chapter n="XXVIII">XXVIII.--This battle being ended, and the nation and name of the <tribe name="Nervii">Nervii</tribe>
 being almost reduced to annihilation, their old men, whom together with
 the boys and women we have stated to have been collected together in the
 fenny places and marshes, on this battle having been reported to them,
@@ -1708,7 +1708,7 @@ themselves and their dependants from offering injury or outrage [to
 them].</chapter>
 
 <chapter n="XXIX">XXIX.--When the <tribe name="Aduatuci">Aduatuci</tribe>, of whom we have written above, were coming
-with all their forces to the assistance of the Nervii, upon this battle
+with all their forces to the assistance of the <tribe name="Nervii">Nervii</tribe>, upon this battle
 being reported to them, they returned home after they were on the march;
 deserting all their towns and forts, they conveyed together all their
 possessions into one town, eminently fortified by nature. While this
@@ -1762,7 +1762,7 @@ custom, rather than owing to their desert, should spare the state, if
 they should surrender themselves before the battering-ram should touch
 the wall; but that there was no condition of surrender, except upon
 their arms being delivered up; that he should do to them that which he
-had done in the case of the Nervii, and would command their neighbours
+had done in the case of the <tribe name="Nervii">Nervii</tribe>, and would command their neighbours
 not to offer any injury to those who had surrendered to the Roman
 people." The matter being reported to their countrymen, they said that
 they would execute his commands. Having cast a very large quantity of
@@ -1795,8 +1795,8 @@ open the gates, which there was no one then to defend, and sending in
 our soldiers, sold the whole spoil of that town. The number of 53,000
 persons was reported to him by those who had bought them.</chapter>
 
-<chapter n="XXXIV">XXXIV.--At the same time he was informed by P. Crassus, whom he had sent
-with one legion against the Veneti, the Unelli, the Osismii, the
+<chapter n="XXXIV">XXXIV.--At the same time he was informed by <persName eth="roman" role="officer" nameid="p_crassus">P. Crassus</persName>, whom he had sent
+with one legion against the <tribe name="Veneti">Veneti</tribe>, the Unelli, the <tribe name="Osismii">Osismii</tribe>, the
 Curiosolitae, the Sesuvii, the Aulerci, and the Rhedones, which are
 maritime states, and touch upon the [Atlantic] ocean, that all these
 nations were brought under the dominion and power of the <tribe name="romans">Roman people</tribe>.</chapter>
@@ -1818,7 +1818,7 @@ that time had been conferred on none.</chapter></book>
 
 <book num="3"><heading>BOOK III</heading>
 
-<chapter n="I">I.--When <persName eth="roman" role="general">Caesar</persName> was setting out for <place region="italy">Italy</place>, he sent Servius <persName eth="suessiones" role="king">Galba</persName> with
+<chapter n="I">I.--When <persName eth="roman" role="general">Caesar</persName> was setting out for <place region="italy">Italy</place>, he sent <persName eth="roman" role="legate" nameid="s_galba">Servius Galba</persName> with
 the twelfth legion and part of the cavalry against the <tribe name="Nantuates">Nantuates</tribe>, the
 Veragri, and Seduni, who extend from the territories of the <tribe name="allobroges">Allobroges</tribe>,
 and the lake of <place settlement="geneva">Geneva</place>, and the river <place river="rhone">Rhone</place> to the top of the <place mountain="Alps">Alps</place>. The
@@ -1826,7 +1826,7 @@ reason for sending him was, that he desired that the pass along the
 <place mountain="Alps">Alps</place>, through which [the Roman] merchants had been accustomed to travel
 with great danger, and under great imposts, should be opened. He
 permitted him, if he thought it necessary, to station the legion in
-these places, for the purpose of wintering. <persName eth="suessiones" role="king">Galba</persName> having fought some
+these places, for the purpose of wintering. <persName eth="roman" role="legate" nameid="s_galba">Galba</persName> having fought some
 successful battles, and stormed several of their forts, upon ambassadors
 being sent to him from all parts and hostages given and a peace
 concluded, determined to station two cohorts among the <tribe name="Nantuates">Nantuates</tribe>, and to
@@ -1858,7 +1858,7 @@ them under the title of hostages, and they were persuaded that the
 parts to the neighbouring province [of Gaul], not only to secure the
 passes, but also as a constant possession.</chapter>
 
-<chapter n="III">III.--Having received these tidings, <persName eth="suessiones" role="king">Galba</persName>, since the works of the
+<chapter n="III">III.--Having received these tidings, <persName eth="suessiones" role="king" nameid="k_galba">Galba</persName>, since the works of the
 winter quarters and the fortifications were not fully completed, nor was
 sufficient preparation made with regard to corn and other provisions
 (since, as a surrender had been made, and hostages received, he had
@@ -1898,8 +1898,8 @@ demolish the rampart and to fill up the trench, while our men were
 becoming exhausted, and the matter was now brought to the last
 extremity, P. Sextius Baculus, a centurion of the first rank, whom we
 have related to have been disabled by severe wounds in the engagement
-with the Nervii, and also C. Volusenus, a tribune of the soldiers, a man
-of great skill and valour, hasten to <persName eth="suessiones" role="king">Galba</persName>, and assure him that the only
+with the <tribe name="Nervii">Nervii</tribe>, and also C. <persName eth="roman" role="officer">Volusenus</persName>, a tribune of the soldiers, a man
+of great skill and valour, hasten to <persName eth="roman" role="legate" nameid="s_galba">Galba</persName>, and assure him that the only
 hope of safety lay in making a sally, and trying the last resource.
 Whereupon, assembling the centurions, he quickly gives orders to the
 soldiers to discontinue the fight a short time, and only collect the
@@ -1917,7 +1917,7 @@ barbarians it appeared certain had come up to our camp), put to flight
 the rest when panic-stricken, and do not suffer them to halt even upon
 the higher grounds. All the forces of the enemy being thus routed, and
 stripped of their arms, [our men] betake themselves to their camp and
-fortifications. Which battle being finished, inasmuch as <persName eth="suessiones" role="king">Galba</persName> was
+fortifications. Which battle being finished, inasmuch as <persName eth="roman" role="legate" nameid="s_galba">Galba</persName> was
 unwilling to tempt fortune again, and remembered that he had come into
 winter quarters with one design, and saw that he had met with a
 different state of affairs; chiefly however urged by the want of corn
@@ -1933,25 +1933,25 @@ being overcome, the <tribe name="germans">Germans</tribe> expelled, the Seduni a
 defeated, and when he had, therefore, in the beginning of winter, set
 out for <place region="Illyricum">Illyricum</place>, as he wished to visit those nations, and acquire a
 knowledge of their countries, a sudden war sprang up in <place region="gaul">Gaul</place>. The
-occasion of that war was this: P. Crassus, a young man, had taken up his
+occasion of that war was this: <persName eth="roman" role="officer" nameid="p_crassus">P. Crassus</persName>, a young man, had taken up his
 winter quarters with the seventh legion among the Andes, who border upon
 the [Atlantic] ocean. He, as there was a scarcity of corn in those
 parts, sent out some officers of cavalry and several military tribunes
 amongst the neighbouring states, for the purpose of procuring corn and
-provision; in which number T. Terrasidius was sent amongst the Esubii;
+provision; in which number T. Terrasidius was sent amongst the <tribe name="Esubii">Esubii</tribe>;
 M. Trebius Gallus amongst the Curiosolitae; Q. Velanius, with T. Silius,
-amongst the Veneti.</chapter>
+amongst the <tribe name="Veneti">Veneti</tribe>.</chapter>
 
 <chapter n="VIII">VIII.--The influence of this state is by far the most considerable of
-any of the countries on the whole sea coast, because the Veneti both
+any of the countries on the whole sea coast, because the <tribe name="Veneti">Veneti</tribe> both
 have a very great number of ships, with which they have been accustomed
-to sail to Britain, and [thus] excel the rest in their knowledge and
+to sail to <place region="Britain">Britain</place>, and [thus] excel the rest in their knowledge and
 experience of nautical affairs; and as only a few ports lie scattered
 along that stormy and open sea, of which they are in possession, they
 hold as tributaries almost all those who are accustomed to traffic in
 that sea. With them arose the beginning [of the revolt] by their
 detaining Silius and Velanius; for they thought that they should recover
-by their means the hostages which they had given to Crassus. The
+by their means the hostages which they had given to <persName eth="roman" role="officer" nameid="p_crassus">Crassus</persName>. The
 neighbouring people, led on by their influence (as the measures of the
 <tribe name="gauls">Gauls</tribe> are sudden and hasty), detain Trebius and Terrasidius for the same
 motive; and quickly sending ambassadors, by means of their leading men,
@@ -1960,15 +1960,15 @@ consent, and abide the same issue of fortune; and they solicit the other
 states to choose rather to continue in that liberty which they had
 received from their ancestors, than endure slavery under the <tribe name="romans">Romans</tribe>. All
 the sea coast being quickly brought over to their sentiments, they send
-a common embassy to P. Crassus [to say], "If he wished to receive back
+a common embassy to <persName eth="roman" role="officer" nameid="p_crassus">P. Crassus</persName> [to say], "If he wished to receive back
 his officers, let him send back to them their hostages."</chapter>
 
-<chapter n="IX">IX.--<persName eth="roman" role="general">Caesar</persName>, being informed of these things by Crassus, since he was so
+<chapter n="IX">IX.--<persName eth="roman" role="general">Caesar</persName>, being informed of these things by <persName eth="roman" role="officer" nameid="p_crassus">Crassus</persName>, since he was so
 far distant himself, orders ships of war to be built in the meantime on
 the river Loire, which flows into the ocean; rowers to be raised from
 the province; sailors and pilots to be provided. These matters being
 quickly executed, he himself, as soon as the season of the year permits,
-hastens to the army. The Veneti, and the other states also, being
+hastens to the army. The <tribe name="Veneti">Veneti</tribe>, and the other states also, being
 informed of <persName eth="roman" role="general">Caesar</persName>'s arrival, when they reflected how great a crime they
 had committed, in that the ambassadors (a character which had amongst
 all nations ever been sacred and inviolable) had by them been detained
@@ -1988,11 +1988,11 @@ islands of those parts where they would have to carry on the war; and
 that navigation was very different in a narrow sea from what it was in
 the vast and open ocean. Having come to this resolution, they fortify
 their towns, convey corn into them from the country parts, bring
-together as many ships as possible to Venetia, where it appeared <persName eth="roman" role="general">Caesar</persName>
+together as many ships as possible to <place region="Venetia">Venetia</place>, where it appeared <persName eth="roman" role="general">Caesar</persName>
 would at first carry on the war. They unite to themselves as allies for
-that war, the Osismii, the Lexovii, the Nannetes, the Ambiliati, the
-Morini, the Diablintes, and the Menapii; and send for auxiliaries from
-Britain, which is situated over against those regions.</chapter>
+that war, the <tribe name="Osismii">Osismii</tribe>, the <tribe name="Lexovii">Lexovii</tribe>, the <tribe name="Nannetes">Nannetes</tribe>, the <tribe name="Ambiliati">Ambiliati</tribe>, the
+<tribe name="Morini">Morini</tribe>, the Diablintes, and the <tribe name="Menapii">Menapii</tribe>; and send for auxiliaries from
+<place region="Britain">Britain</place>, which is situated over against those regions.</chapter>
 
 <chapter n="X">X.--There were these difficulties which we have mentioned above, in
 carrying on the war, but many things, nevertheless, urged <persName eth="roman" role="general">Caesar</persName> to that
@@ -2007,21 +2007,21 @@ liberty and hate the condition of slavery, he thought he ought to divide
 and more widely distribute his army, before more states should join the
 confederation.</chapter>
 
-<chapter n="XI">XI.--He therefore sends T. Labienus, his lieutenant, with the cavalry to
+<chapter n="XI">XI.--He therefore sends T. <persName eth="roman" role="lieutenant">Labienus</persName>, his lieutenant, with the cavalry to
 the Treviri, who are nearest to the river <place river="rhine">Rhine</place>. He charges him to visit
 the <tribe name="Remi">Remi</tribe> and the other Belgians, and to keep them in their allegiance
 and repel the <tribe name="germans">Germans</tribe> (who were said to have been summoned by the <tribe name="belgae">Belgae</tribe>
 to their aid) if they attempted to cross the river by force in their
-ships. He orders P. Crassus to proceed into <place region="aquitania">Aquitania</place> with twelve
+ships. He orders <persName eth="roman" role="officer" nameid="p_crassus">P. Crassus</persName> to proceed into <place region="aquitania">Aquitania</place> with twelve
 legionary cohorts and a great number of the cavalry, lest auxiliaries
 should be sent into <place region="gaul">Gaul</place> by these states, and such great nations be
-united. He sends Q. Titurius Sabinus, his lieutenant, with three
-legions, among the Unelli, the Curiosolitae, and the Lexovii, to take
+united. He sends <persName eth="roman" role="lieutenant">Q. Titurius Sabinus</persName>, his lieutenant, with three
+legions, among the Unelli, the Curiosolitae, and the <tribe name="Lexovii">Lexovii</tribe>, to take
 care that their forces should be kept separate from the rest. He
 appoints D. Brutus, a young man, over the fleet and those Gallic vessels
 which he had ordered to be furnished by the Pictones and the Santoni,
 and the other provinces which remained at peace; and commands him to
-proceed towards the Veneti, as soon as he could. He himself hastens
+proceed towards the <tribe name="Veneti">Veneti</tribe>, as soon as he could. He himself hastens
 thither with the land forces.</chapter>
 
 <chapter n="XII">XII.--The sites of their towns were generally such that, being placed on
@@ -2030,7 +2030,7 @@ approach by land when the tide had rushed in from the main ocean, which
 always happens twice in the space of twelve hours; nor by ships,
 because, upon the tide ebbing again, the ships were likely to be dashed
 upon the shoals. Thus, by either circumstance, was the storming of their
-towns rendered difficult; and if at any time perchance the Veneti,
+towns rendered difficult; and if at any time perchance the <tribe name="Veneti">Veneti</tribe>,
 overpowered by the greatness of our works (the sea having been excluded
 by a mound and large dams, and the latter being made almost equal in
 height to the walls of the town), had begun to despair of their
@@ -2114,7 +2114,7 @@ one, so that very few out of all the number, [and those] by the
 intervention of night, arrived at the land, after the battle had lasted
 almost from the fourth hour till sunset.</chapter>
 
-<chapter n="XVI">XVI.--By this battle the war with the Veneti and the whole of the sea
+<chapter n="XVI">XVI.--By this battle the war with the <tribe name="Veneti">Veneti</tribe> and the whole of the sea
 coast was finished; for both all the youth, and all, too, of more
 advanced age, in whom there was any discretion or rank, had assembled in
 that battle; and they had collected in that one place whatever naval
@@ -2126,7 +2126,7 @@ severely, in order that for the future the rights of ambassadors might
 be more carefully respected, by barbarians: having, therefore, put to
 death all their senate, he sold the rest for slaves.</chapter>
 
-<chapter n="XVII">XVII.--While these things are going on amongst the Veneti, Q. Titurius
+<chapter n="XVII">XVII.--While these things are going on amongst the <tribe name="Veneti">Veneti</tribe>, Q. Titurius
 Sabinus with those troops which he had received from <persName eth="roman" role="general">Caesar</persName>, arrives in
 the territories of the Unelli. Over these people Viridovix ruled, and
 held the chief command of all those states which had revolted: from
@@ -2187,11 +2187,11 @@ men with full vigour followed them while disordered, and slew a great
 number of them; the horse pursuing the rest, left but few, who escaped
 by flight. Thus at the same time, Sabinus was informed of the naval
 battle and <persName eth="roman" role="general">Caesar</persName> of victory gained by Sabinus; and all the states
-immediately surrendered themselves to Titurius: for as the temper of the
+immediately surrendered themselves to <persName eth="roman" role="lieutenant">Titurius</persName>: for as the temper of the
 <tribe name="gauls">Gauls</tribe> is impetuous and ready to undertake wars, so their mind is weak,
 and by no means resolute in enduring calamities.</chapter>
 
-<chapter n="XX">XX.--About the same time, P. Crassus, when he had arrived in <place region="aquitania">Aquitania</place>
+<chapter n="XX">XX.--About the same time, <persName eth="roman" role="officer" nameid="p_crassus">P. Crassus</persName>, when he had arrived in <place region="aquitania">Aquitania</place>
 (which, as has been before said, both from its extent of territory and
 the great number of its people, is to be reckoned a third part of Gaul),
 understanding that he was to wage war in these parts, where a few years
@@ -2216,14 +2216,14 @@ of <place region="aquitania">Aquitania</place> rested on their valour; [and] our
 desired it might be seen what they could accomplish without their
 general and without the other legions, under a very young commander; at
 length the enemy, worn out with wounds, began to turn their backs, and a
-great number of them being slain, Crassus began to besiege the
+great number of them being slain, <persName eth="roman" role="officer" nameid="p_crassus">Crassus</persName> began to besiege the
 [principal] town of the Sotiates on his march. Upon their valiantly
 resisting, he raised vineae and turrets. They at one time attempting a
 sally, at another forming mines to our rampart and vineae (at which the
 <tribe name="aquitani">Aquitani</tribe> are eminently skilled, because in many places amongst them
 there are copper mines); when they perceived that nothing could be
 gained by these operations through the perseverance of our men, they
-send ambassadors to Crassus, and entreat him to admit them to a
+send ambassadors to <persName eth="roman" role="officer" nameid="p_crassus">Crassus</persName>, and entreat him to admit them to a
 surrender. Having obtained it, they, being ordered to deliver up their
 arms, comply.</chapter>
 
@@ -2239,10 +2239,10 @@ devoted himself, refused to die); Adcantuannus, [I say] endeavouring to
 make a sally with these, when our soldiers had rushed together to arms,
 upon a shout being raised at that part of the fortification, and a
 fierce battle had been fought there, was driven back into the town, yet
-he obtained from Crassus [the indulgence] that he should enjoy the same
+he obtained from <persName eth="roman" role="officer" nameid="p_crassus">Crassus</persName> [the indulgence] that he should enjoy the same
 terms of surrender [as the other inhabitants].</chapter>
 
-<chapter n="XXIII">XXIII.--Crassus, having received their arms and hostages, marched into
+<chapter n="XXIII">XXIII.--<persName eth="roman" role="officer" nameid="p_crassus">Crassus</persName>, having received their arms and hostages, marched into
 the territories of the Vocates and the Tarusates. But then, the
 barbarians being alarmed, because they had heard that a town fortified
 by the nature of the place and by art had been taken by us in a few days
@@ -2255,7 +2255,7 @@ a great host of men. They who had been with Q. Sertorius the whole
 period [of his war in <place region="spain">Spain</place>] and were supposed to have very great skill
 in military matters, are chosen leaders. These, adopting the practice of
 the <tribe name="romans">Roman people</tribe>, begin to select [advantageous] places, to fortify
-their camp, to cut off our men from provisions, which, when Crassus
+their camp, to cut off our men from provisions, which, when <persName eth="roman" role="officer" nameid="p_crassus">Crassus</persName>
 observes, [and likewise] that his forces, on account of their small
 number, could not safely be separated; that the enemy both made
 excursions and beset the passes, and [yet] left sufficient guard for
@@ -2276,7 +2276,7 @@ the <tribe name="romans">Romans</tribe>, on account of the want of corn, should 
 they intended to attack them while encumbered in their march and
 depressed in spirit [as being assailed while] under baggage. This
 measure being approved of by the leaders and the forces of the <tribe name="romans">Romans</tribe>
-drawn out, the enemy [still] kept themselves in their camp. Crassus
+drawn out, the enemy [still] kept themselves in their camp. <persName eth="roman" role="officer" nameid="p_crassus">Crassus</persName>
 having remarked this circumstance, since the enemy, intimidated by their
 own delay, and by the reputation [_i.e._ for cowardice arising thence]
 had rendered our soldiers more eager for fighting, and the remarks of
@@ -2286,17 +2286,17 @@ the enemy, to the great gratification of his own troops.</chapter>
 
 <chapter n="XXV">XXV.--There, while some were filling up the ditch, and others, by
 throwing a large number of darts, were driving the defenders from the
-rampart and fortifications, and the auxiliaries, on whom Crassus did not
+rampart and fortifications, and the auxiliaries, on whom <persName eth="roman" role="officer" nameid="p_crassus">Crassus</persName> did not
 much rely in the battle, by supplying stones and weapons [to the
 soldiers], and by conveying turf to the mound, presented the appearance
 and character of men engaged in fighting; while also the enemy were
 fighting resolutely and boldly, and their weapons, discharged from their
 higher position, fell with great effect; the horse, having gone round
-the camp of the enemy, reported to Crassus that the camp was not
+the camp of the enemy, reported to <persName eth="roman" role="officer" nameid="p_crassus">Crassus</persName> that the camp was not
 fortified with equal care on the side of the Decuman gate, and had an
 easy approach.</chapter>
 
-<chapter n="XXVI">XXVI.--Crassus, having exhorted the commanders of the horse to animate
+<chapter n="XXVI">XXVI.--<persName eth="roman" role="officer" nameid="p_crassus">Crassus</persName>, having exhorted the commanders of the horse to animate
 their men by great rewards and promises, points out to them what he
 wished to have done. They, as they had been commanded, having brought
 out the four cohorts, which, as they had been left as a guard for the
@@ -2316,7 +2316,7 @@ the number of 50,000, which it was certain had assembled out of
 <place region="aquitania">Aquitania</place> and from the Cantabri, returned late at night to the camp.</chapter>
 
 <chapter n="XXVII">XXVII.--Having heard of this battle, the greatest part of <place region="aquitania">Aquitania</place>
-surrendered itself to Crassus, and of its own accord sent hostages, in
+surrendered itself to <persName eth="roman" role="officer" nameid="p_crassus">Crassus</persName>, and of its own accord sent hostages, in
 which number were the Tarbelli, the Bigerriones, the Preciani, the
 Vocasates, the Tarusates, the Elurates, the Garites, the Ausci, the
 Garumni, the Sibuzates, the Cocosates. A few [and those] most remote
@@ -2324,7 +2324,7 @@ nations, relying on the time of the year, because winter was at hand,
 neglected to do this.</chapter>
 
 <chapter n="XXVIII">XXVIII.--About the same time <persName eth="roman" role="general">Caesar</persName>, although the summer was nearly
-past, yet since, all <place region="gaul">Gaul</place> being reduced, the Morini and the Menapii
+past, yet since, all <place region="gaul">Gaul</place> being reduced, the <tribe name="Morini">Morini</tribe> and the <tribe name="Menapii">Menapii</tribe>
 alone remained in arms, and had never sent ambassadors to him [to make a
 treaty] of peace, speedily led his army thither, thinking that that war
 might soon be terminated. They resolved to conduct the war on a very
@@ -2353,19 +2353,19 @@ and, through the continuance of the rains, the soldiers could not any
 longer remain in their tents. Therefore, having laid waste all their
 country, [and] having burnt their villages and houses, <persName eth="roman" role="general">Caesar</persName> led back
 his army and stationed them in winter-quarters among the Aulerci and
-Lexovii, and the other states which had made war upon him last.</chapter></book>
+<tribe name="Lexovii">Lexovii</tribe>, and the other states which had made war upon him last.</chapter></book>
 
 
 
 <book num="4"><heading>BOOK IV></heading>
 
-<chapter n="I">I.--The following winter (this was the year in which Cn. Pompey and M.
-Crassus were consuls), those <tribe name="germans">Germans</tribe> [called] the Usipetes, and likewise
+<chapter n="I">I.--The following winter (this was the year in which Cn. <persName eth="roman" role="consul">Pompey</persName> and <persName eth="roman" role="consul" nameid="m_crassus">M.
+Crassus</persName> were consuls), those <tribe name="germans">Germans</tribe> [called] the <tribe name="Usipetes">Usipetes</tribe>, and likewise
 the Tenchtheri, with a great number of men, crossed the <place river="rhine">Rhine</place>, not far
 from the place at which that river discharges itself into the sea. The
 motive for crossing [that river] was that, having been for several years
-harassed by the Suevi, they were constantly engaged in war, and hindered
-from the pursuits of agriculture. The nation of the Suevi is by far the
+harassed by the <tribe name="Suevi">Suevi</tribe>, they were constantly engaged in war, and hindered
+from the pursuits of agriculture. The nation of the <tribe name="Suevi">Suevi</tribe> is by far the
 largest and the most warlike nation of all the <tribe name="germans">Germans</tribe>. They are said to
 possess a hundred cantons, from each of which they yearly send from
 their territories for the purpose of war a thousand armed men: the
@@ -2408,38 +2408,38 @@ and are rendered effeminate by that commodity.</chapter>
 about their territories lie unoccupied to a very great extent, inasmuch
 as [they think] that by this circumstance is indicated that a great
 number of nations cannot, withstand their power; and thus on one side of
-the Suevi the lands are said to lie desolate for about six hundred
+the <tribe name="Suevi">Suevi</tribe> the lands are said to lie desolate for about six hundred
 miles. On the other side they border on the Ubii, whose state was large
 and flourishing, considering the condition of the <tribe name="germans">Germans</tribe>, and who are
 somewhat more refined than those of the same race and the rest [of the
 <tribe name="germans">Germans</tribe>], and that because they border on the <place river="rhine">Rhine</place>, and are much
 resorted to by merchants, and are accustomed to the manners of the
-<tribe name="gauls">Gauls</tribe>, by reason of their approximity to them. Though the Suevi, after
+<tribe name="gauls">Gauls</tribe>, by reason of their approximity to them. Though the <tribe name="Suevi">Suevi</tribe>, after
 making the attempt frequently and in several wars, could not expel this
 nation from their territories, on account of the extent and population
 of their state, yet they made them tributaries, and rendered them less
 distinguished and powerful [than they had ever been].</chapter>
 
-<chapter n="IV">IV.--In the same condition were the Usipetes and the Tenchtheri (whom we
+<chapter n="IV">IV.--In the same condition were the <tribe name="Usipetes">Usipetes</tribe> and the Tenchtheri (whom we
 have mentioned above), who for many years resisted the power of the
-Suevi, but being at last driven from their possessions, and having
+<tribe name="Suevi">Suevi</tribe>, but being at last driven from their possessions, and having
 wandered through many parts of Germany, came to the <place river="rhine">Rhine</place>, to districts
-which the Menapii inhabited, and where they had lands, houses, and
+which the <tribe name="Menapii">Menapii</tribe> inhabited, and where they had lands, houses, and
 villages on either side of the river. The latter people, alarmed by the
 arrival of so great a multitude, removed from those houses which they
 had on the other side of the river, and having placed guards on this
 side the <place river="rhine">Rhine</place>, proceeded to hinder the <tribe name="germans">Germans</tribe> from crossing. They,
 finding themselves, after they had tried all means, unable either to
 force a passage on account of their deficiency in shipping, or cross by
-stealth on account of the guards of the Menapii, pretended to return to
+stealth on account of the guards of the <tribe name="Menapii">Menapii</tribe>, pretended to return to
 their own settlements and districts; and, after having proceeded three
 days' march, returned; and their cavalry having performed the whole of
-this journey in one night, cut off the Menapii, who were ignorant of,
+this journey in one night, cut off the <tribe name="Menapii">Menapii</tribe>, who were ignorant of,
 and did not expect [their approach, and] who, having moreover been
 informed of the departure of the <tribe name="germans">Germans</tribe> by their scouts, had without
 apprehension returned to their villages beyond the <place river="rhine">Rhine</place>. Having slain
 these, and seized their ships, they crossed the river before that part
-of the Menapii, who were at peace in their settlements over the <place river="rhine">Rhine</place>,
+of the <tribe name="Menapii">Menapii</tribe>, who were at peace in their settlements over the <place river="rhine">Rhine</place>,
 were apprised of [their intention]; and seizing all their houses,
 maintained themselves upon their provisions during the rest of the
 winter.</chapter>
@@ -2486,7 +2486,7 @@ reluctantly, having been expelled from their country. If the <tribe name="romans
 disposed to accept their friendship, they might be serviceable allies to
 them; and let them either assign them lands, or permit them to retain
 those which they had acquired by their arms; that they are inferior to
-the Suevi alone, to whom not even the immortal gods can show themselves
+the <tribe name="Suevi">Suevi</tribe> alone, to whom not even the immortal gods can show themselves
 equal; that there was none at all besides on earth whom they could not
 conquer."</chapter>
 
@@ -2498,7 +2498,7 @@ possession of those of others, nor were there any lands lying waste in
 <place region="gaul">Gaul</place> which could be given away, especially to so great a number of men,
 without doing wrong [to others]; but they might, if they were desirous,
 settle in the territories of the Ubii; whose ambassadors were then with
-him, and were complaining of the aggressions of the Suevi, and
+him, and were complaining of the aggressions of the <tribe name="Suevi">Suevi</tribe>, and
 requesting assistance from him; and that he would obtain this request
 from them."</chapter>
 
@@ -2629,7 +2629,7 @@ weighty, that, since he saw the <tribe name="germans">Germans</tribe> were so ea
 <place region="gaul">Gaul</place>, he desired they should have their fears for their own territories
 when they discovered that the army of the <tribe name="romans">Roman people</tribe> both could and
 dared pass the <place river="rhine">Rhine</place>. There was added also, that that portion of the
-cavalry of the Usipetes and the Tenchtheri, which I have above related
+cavalry of the <tribe name="Usipetes">Usipetes</tribe> and the Tenchtheri, which I have above related
 to have crossed the Meuse for the purpose of plundering and procuring
 forage, and was not present at the engagement, had betaken themselves,
 after the retreat of their countrymen, across the <place river="rhine">Rhine</place> into the
@@ -2642,7 +2642,7 @@ he claim that anything beyond the <place river="rhine">Rhine</place> should be s
 dominion or power?" The Ubii also, who alone, out of all the nations
 lying beyond the <place river="rhine">Rhine</place>, had sent ambassadors to <persName eth="roman" role="general">Caesar</persName>, and formed an
 alliance and given hostages, earnestly entreated "that he would bring
-them assistance, because they were grievously oppressed by the Suevi;
+them assistance, because they were grievously oppressed by the <tribe name="Suevi">Suevi</tribe>;
 or, if he was prevented from doing so by the business of the
 commonwealth, he would at least transport his army over the <place river="rhine">Rhine</place>; that
 that would be sufficient for their present assistance and their hope for
@@ -2695,33 +2695,33 @@ him, whom, on their suing for peace and alliance, he answers in a
 courteous manner, and orders hostages to be brought to him. But the
 Sigambri, at the very time the bridge was begun to be built, made
 preparations for a flight (by the advice of such of the Tenchtheri and
-Usipetes as they had amongst them), and quitted their territories and
+<tribe name="Usipetes">Usipetes</tribe> as they had amongst them), and quitted their territories and
 conveyed away all their possessions, and concealed themselves in deserts
 and woods.</chapter>
 
 <chapter n="XIX">XIX.--<persName eth="roman" role="general">Caesar</persName>, having remained in their territories a few days, and burnt
 all their villages and houses, and cut down their corn, proceeded into
 the territories of the Ubii; and having promised them his assistance, if
-they were ever harassed by the Suevi, he learned from them these
-particulars: that the Suevi, after they had by means of their scouts
+they were ever harassed by the <tribe name="Suevi">Suevi</tribe>, he learned from them these
+particulars: that the <tribe name="Suevi">Suevi</tribe>, after they had by means of their scouts
 found that the bridge was being built, had called a council, according
 to their custom, and sent orders to all parts of their state to remove
 from the towns and convey their children, wives, and all their
 possessions into the woods, and that all who could bear arms should
 assemble in one place; that the place thus chosen was nearly the centre
-of those regions which the Suevi possessed; that in this spot they had
+of those regions which the <tribe name="Suevi">Suevi</tribe> possessed; that in this spot they had
 resolved to await the arrival of the <tribe name="romans">Romans</tribe>, and give them battle there.
 When <persName eth="roman" role="general">Caesar</persName> discovered this, having already accomplished all those
 things on account of which he had resolved to lead his army over,
 namely, to strike fear into the <tribe name="germans">Germans</tribe>, take vengeance on the Sigambri,
-and free the Ubii from the invasion of the Suevi, having spent
+and free the Ubii from the invasion of the <tribe name="Suevi">Suevi</tribe>, having spent
 altogether eighteen days beyond the <place river="rhine">Rhine</place>, and thinking he had advanced
 far enough to serve both honour and interest, he returned into <place region="gaul">Gaul</place>, and
 cut down the bridge.</chapter>
 
 <chapter n="XX">XX.--During the short part of summer which remained, <persName eth="roman" role="general">Caesar</persName>, although in
 these countries, as all <place region="gaul">Gaul</place> lies towards the north, the winters are
-early, nevertheless resolved to proceed into Britain, because he
+early, nevertheless resolved to proceed into <place region="Britain">Britain</place>, because he
 discovered that in almost all the wars with the <tribe name="gauls">Gauls</tribe> succours had been
 furnished to our enemy from that country; and even if the time of year
 should be insufficient for carrying on the war, yet he thought it would
@@ -2737,32 +2737,32 @@ the nations which inhabited it, nor what system of war they followed,
 nor what customs they used, nor what harbours were convenient for a
 great number of large ships.</chapter>
 
-<chapter n="XXI">XXI.--He sends before him Caius Volusenus with a ship of war, to acquire
+<chapter n="XXI">XXI.--He sends before him Caius <persName eth="roman" role="officer">Volusenus</persName> with a ship of war, to acquire
 a knowledge of these particulars before he in person should make a
 descent into the island, as he was convinced that this was a judicious
 measure. He commissioned him to thoroughly examine into all matters, and
 then return to him as soon as possible. He himself proceeds to the
-Morini with all his forces. He orders ships from all parts of the
+<tribe name="Morini">Morini</tribe> with all his forces. He orders ships from all parts of the
 neighbouring countries, and the fleet which the preceding summer he had
-built for the war with the Veneti, to assemble in this place. In the
+built for the war with the <tribe name="Veneti">Veneti</tribe>, to assemble in this place. In the
 meantime, his purpose having been discovered, and reported to the
 Britons by merchants, ambassadors come to him from several states of the
 island, to promise that they will give hostages, and submit to the
 government of the <tribe name="romans">Roman people</tribe>. Having given them an audience, he after
 promising liberally, and exhorting them to continue in that purpose,
 sends them back to their own country, and [despatches] with them
-Commius, whom, upon subduing the Atrebates, he had created king there, a
+<persName eth="atrebates" role="king">Commius</persName>, whom, upon subduing the <tribe name="Atrebates">Atrebates</tribe>, he had created king there, a
 man whose courage and conduct he esteemed, and who he thought would be
 faithful to him, and whose influence ranked highly in those countries.
 He orders him to visit as many states as he could, and persuade them to
 embrace the protection of the <tribe name="romans">Roman people</tribe>, and apprise them that he
-would shortly come thither. Volusenus, having viewed the localities as
+would shortly come thither. <persName eth="roman" role="officer">Volusenus</persName>, having viewed the localities as
 far as means could be afforded one who dared not leave his ship and
 trust himself to barbarians, returns to <persName eth="roman" role="general">Caesar</persName> on the fifth day, and
 reports what he had there observed.</chapter>
 
 <chapter n="XXII">XXII.--While <persName eth="roman" role="general">Caesar</persName> remains in these parts for the purpose of procuring
-ships, ambassadors come to him from a great portion of the Morini, to
+ships, ambassadors come to him from a great portion of the <tribe name="Morini">Morini</tribe>, to
 plead their excuse respecting their conduct on the late occasion;
 alleging that it was as men uncivilised, and as those who were
 unacquainted with our custom, that they had made war upon the Roman
@@ -2771,7 +2771,7 @@ thinking that this had happened fortunately enough for him, because he
 neither wished to leave an enemy behind him, nor had an opportunity for
 carrying on a war, by reason of the time of year, nor considered that
 employment in such trifling matters was to be preferred to his
-enterprise on Britain, imposes a large number of hostages; and when
+enterprise on <place region="Britain">Britain</place>, imposes a large number of hostages; and when
 these were brought, he received them to his protection. Having collected
 together and provided about eighty transport ships, as many as he
 thought necessary for conveying over two legions, he assigned such
@@ -2779,9 +2779,9 @@ thought necessary for conveying over two legions, he assigned such
 officers of cavalry. There were in addition to these eighteen ships of
 burden which were prevented, eight miles from that place, by winds, from
 being able to reach the same port. These he distributed amongst the
-horse; the rest of the army he delivered to Q. Titurius Sabinus and L.
+horse; the rest of the army he delivered to <persName eth="roman" role="lieutenant">Q. Titurius Sabinus</persName> and L.
 Aurunculeius Cotta, his lieutenants, to lead into the territories of the
-Menapii and those cantons of the Morini from which ambassadors had not
+<tribe name="Menapii">Menapii</tribe> and those cantons of the <tribe name="Morini">Morini</tribe> from which ambassadors had not
 come to him. He ordered P. Sulpicius Rufus, his lieutenant, to hold
 possession of the harbour, with such a garrison as he thought
 sufficient.</chapter>
@@ -2789,7 +2789,7 @@ sufficient.</chapter>
 <chapter n="XXIII">XXIII.--These matters being arranged, finding the weather favourable for
 his voyage, he set sail about the third watch, and ordered the horse to
 march forward to the farther port, and there embark and follow him. As
-this was performed rather tardily by them, he himself reached Britain
+this was performed rather tardily by them, he himself reached <place region="Britain">Britain</place>
 with the first squadron of ships, about the fourth hour of the day, and
 there saw the forces of the enemy drawn up in arms on all the hills. The
 nature of the place was this: the sea was confined by mountains so close
@@ -2797,7 +2797,7 @@ to it that a dart could be thrown from their summit upon the shore.
 Considering this by no means a fit place for disembarking, he remained
 at anchor till the ninth hour, for the other ships to arrive there.
 Having in the meantime assembled the lieutenants and military tribunes,
-he told them both what he had learnt from Volusenus, and what he wished
+he told them both what he had learnt from <persName eth="roman" role="officer">Volusenus</persName>, and what he wished
 to be done; and enjoined them (as the principle of military matters, and
 especially as maritime affairs, which have a precipitate and uncertain
 action, required) that all things should be performed by them at a nod
@@ -2864,9 +2864,9 @@ This alone was wanting to <persName eth="roman" role="general">Caesar</persName>
 <chapter n="XXVII">XXVII.--The enemy being thus vanquished in battle, as soon as they
 recovered after their flight, instantly sent ambassadors to <persName eth="roman" role="general">Caesar</persName> to
 negotiate about peace. They promised to give hostages and perform what
-he should command. Together with these ambassadors came Commius the
+he should command. Together with these ambassadors came <persName eth="atrebates" role="king">Commius</persName> the
 Atrebatian, who, as I have above said, had been sent by <persName eth="roman" role="general">Caesar</persName> into
-Britain. Him they had seized upon when leaving his ship, although in the
+<place region="Britain">Britain</place>. Him they had seized upon when leaving his ship, although in the
 character of ambassador he bore the general's commission to them, and
 thrown into chains: then after the battle was fought, they sent him
 back, and in suing for peace cast the blame of that act upon the common
@@ -2882,9 +2882,9 @@ from all quarters, and proceeded to surrender themselves and their
 states to <persName eth="roman" role="general">Caesar</persName>.</chapter>
 
 <chapter n="XXVIII">XXVIII.--A peace being established by these proceedings four days after
-we had come into Britain, the eighteen ships, to which reference has
+we had come into <place region="Britain">Britain</place>, the eighteen ships, to which reference has
 been made above, and which conveyed the cavalry, set sail from the upper
-port with a gentle gale; when, however, they were approaching Britain
+port with a gentle gale; when, however, they were approaching <place region="Britain">Britain</place>
 and were seen from the camp, so great a storm suddenly arose that none
 of them could maintain their course at sea; and some were taken back to
 the same port from which they had started;--others, to their great
@@ -2908,7 +2908,7 @@ all things which are of service in repairing vessels were wanting, and
 corn for the winter had not been provided in those places, because it
 was understood by all that they would certainly winter in <place region="gaul">Gaul</place>.</chapter>
 
-<chapter n="XXX">XXX.--On discovering these things the chiefs of Britain, who had come up
+<chapter n="XXX">XXX.--On discovering these things the chiefs of <place region="Britain">Britain</place>, who had come up
 after the battle was fought to perform those conditions which <persName eth="roman" role="general">Caesar</persName> had
 imposed, held a conference, when they perceived that cavalry, and ships,
 and corn were wanting to the <tribe name="romans">Romans</tribe>, and discovered the small number of
@@ -2918,7 +2918,7 @@ legions without baggage), and thought that the best plan was to renew
 the war, and cut off our men from corn and provisions and protract the
 affair till winter; because they felt confident that, if they were
 vanquished or cut off from a return, no one would afterwards pass over
-into Britain for the purpose of making war. Therefore, again entering
+into <place region="Britain">Britain</place> for the purpose of making war. Therefore, again entering
 into a conspiracy, they began to depart from the camp by degrees and
 secretly bring up their people from the country parts.</chapter>
 
@@ -2969,9 +2969,9 @@ and exercise attain to such expertness that they are accustomed, even on
 a declining and steep place, to check their horses at full speed, and
 manage and turn them in an instant and run along the pole, and stand on
 the yoke, and thence betake themselves with the greatest celerity to
-their chariots again.
+their chariots again.</chapter>
 
-XXXIV.-Under these circumstances, our men being dismayed by the novelty
+<chapter n="XXXIV">XXXIV.-Under these circumstances, our men being dismayed by the novelty
 of this mode of battle, <persName eth="roman" role="general">Caesar</persName> most seasonably brought assistance; for
 upon his arrival the enemy paused, and our men recovered from their
 fear; upon which, thinking the time unfavourable for provoking the enemy
@@ -2991,7 +2991,7 @@ the camp.</chapter>
 <chapter n="XXXV">XXXV.--Although <persName eth="roman" role="general">Caesar</persName> anticipated that the same thing which had
 happened on former occasions would then occur--that, if the enemy were
 routed, they would escape from danger by their speed; still, having got
-about thirty horse, which Commius the Atrebatian, of whom mention has
+about thirty horse, which <persName eth="atrebates" role="king">Commius</persName> the Atrebatian, of whom mention has
 been made, had brought over with him [from Gaul], he drew up the legions
 in order of battle before the camp. When the action commenced, the enemy
 were unable to sustain the attack of our men long, and turned their
@@ -3010,8 +3010,8 @@ except two of the ships of burden which could not make the same port
 which the other ships did, and were carried a little lower down.</chapter>
 
 <chapter n="XXXVII">XXXVII.--When our soldiers, about 300 in number, had been drawn out of
-these two ships, and were marching to the camp, the Morini, whom <persName eth="roman" role="general">Caesar</persName>,
-when setting forth for Britain, had left in a state of peace, excited by
+these two ships, and were marching to the camp, the <tribe name="Morini">Morini</tribe>, whom <persName eth="roman" role="general">Caesar</persName>,
+when setting forth for <place region="Britain">Britain</place>, had left in a state of peace, excited by
 the hope of spoil, at first surrounded them with a small number of men,
 and ordered them to lay down their arms, if they did not wish to be
 slain; afterwards however, when they, forming a circle, stood on their
@@ -3023,19 +3023,21 @@ receiving but few wounds themselves, slew several of them. But after our
 cavalry came in sight, the enemy, throwing away their arms, turned their
 backs, and a great number of them were killed.</chapter>
 
-<chapter n="XXXVIII">XXXVIII.--The day following <persName eth="roman" role="general">Caesar</persName> sent Labienus, his lieutenant, with
-those legions which he had brought back from Britain, against the
-Morini, who had revolted; who, as they had no place to which they might
+<chapter n="XXXVIII">XXXVIII.--The day following <persName eth="roman" role="general">Caesar</persName> sent <persName eth="roman" role="lieutenant">Labienus</persName>, his lieutenant, with
+those legions which he had brought back from <place region="Britain">Britain</place>, against the
+<tribe name="Morini">Morini</tribe>, who had revolted; who, as they had no place to which they might
 retreat, on account of the drying up of their marshes (which they had
 availed themselves of as a place of refuge the preceding year), almost
-all fell into the power of Labienus. In the meantime <persName eth="roman" role="general">Caesar</persName>'s
-lieutenants, Q. Titurius and L. Cotta, who had led the legions into the
-territories of the Menapii, having laid waste all their lands, cut down
+all fell into the power of <persName eth="roman" role="lieutenant">Labienus</persName>. In the meantime <persName eth="roman" role="general">Caesar</persName>'s
+lieutenants, Q. <persName eth="roman" role="lieutenant">Titurius</persName> and L. Cotta, who had led the legions into the
+territories of the <tribe name="Menapii">Menapii</tribe>, having laid waste all their lands, cut down
 their corn and burnt their houses, returned to <persName eth="roman" role="general">Caesar</persName> because the
-Menapii had all concealed themselves in their thickest woods. <persName eth="roman" role="general">Caesar</persName>
+<tribe name="Menapii">Menapii</tribe> had all concealed themselves in their thickest woods. <persName eth="roman" role="general">Caesar</persName>
 fixed the winter quarters of all the legions amongst the <tribe name="belgae">Belgae</tribe>. Thither
 only two British states sent hostages; the rest omitted to do so. For
 these successes, a thanksgiving of twenty days was decreed by the senate
-upon receiving <persName eth="roman" role="general">Caesar</persName>'s letter.</chapter></book></section>
+upon receiving <persName eth="roman" role="general">Caesar</persName>'s letter.</chapter>
+</book>
+</section>
 
 </root>
