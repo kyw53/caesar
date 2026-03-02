@@ -5,23 +5,30 @@ body{
 h1{
     font-style: italic;
     font-weight:bold;
-    margin: 32px;
-    font-size:24pt;
+    margin: 24px;
+    font-size:32pt;
+    text-align:center;
 }
 h2{
     font-style: italic;
     margin: 32px;
 }
 
+hr{
+    border-color:#FFFF33;
+    
+}
 
 img{
     padding: 32px;
     border-radius: 12px;
+    text-align:center;
 }
 
 p{
     margin: 32px;
-    font-size:18pt;
+    font-size:16pt;
+    padding:10px;
 }
 nav 
 {
