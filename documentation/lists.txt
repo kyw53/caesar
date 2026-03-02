@@ -30,85 +30,71 @@ People:
 	Indutiomarus
 	
 	Commius
+	
+	Vercingetorix
 
 Tribes:
-belgae
-aquitani
-gauls
-germans
-helvetii
-sequani
-romans
-rauraci
-tulingi
-latobrigi
-boii
-allobroges
-Aedui
-Vocontii
-Ambarri
-Tigurini
-Lingones
-Tulingi
-Arverni
-Cimbri
-Teutones
-Suevi
-Remi
-Suessiones
-Nervii
-Atrebates
-Morini
-Menapu
-Caleti
-Velocasses
-Veromandui
 Aduatuci
-Veneti
-Osismii
-Nantuates
+Aedui
+Ambarri
+Ambiliati
+Arverni
+Atrebates
+Caleti
+Cimbri
 Esubii
 Lexovii
-Nannetes
-Ambiliati
+Lingones
 Menapii
+Menapu
+Morini
+Nannetes
+Nantuates
+Nervii
+Osismii
+Remi
+Suessiones
+Suevi
+Teutones
+Tigurini
+Tulingi
+Velocasses
+Veneti
+Veromandui
+Vocontii
+allobroges
+aquitani
+belgae
+boii
+gauls (gallic)
+germans
+helvetii
+latobrigi
 lepontii
+rauraci
+romans
+sequani
+tulingi
+
 Places:
-	Gaul
-
-	Garonne
-
-	Marne
-
-	Seine
-
-	Rhine
-
-	Rhone
-
-	Aquitania
-
-	Pyrenaean
-
-	Spain
-
-	Jura
-
-	Geneva
-
-	Noreia
-
-	Mount Jura
-
-	Alps
-
-	Italy
-	
-	Britain
-	
-	Thames
-	
-	Germany
+Alps
+Aquitania
+Britain
+Garonne
+Gaul
+Geneva
+Germany
+Italy
+Jura
+Marne
+Mount Jura
+Noreia
+Pyrenaean
+Rhine
+Rhone
+Seine
+Spain
+Thames
 
 
 
