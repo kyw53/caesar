@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<section>
-    THE CIVIL WAR
+<root>
+<section part="civil_war"> THE CIVIL WAR
 
-<book num="1"><heading>BOOK I</heading>
+<book num="9"><heading>BOOK I</heading>
 
 <chapter n="I">I.--When<persName eth="roman" role="officer" nameid="caesar">Caesar's</persName> letter was delivered to the consuls, they were with
 great difficulty, and a hard struggle of the tribunes, prevailed on to
 suffer it to be read in the senate; but the tribunes could not prevail,
 that any question should be put to the senate on the subject of the
 letter. The consuls put the question on the regulation of the state.
-Lucius Lentulus the consul promises that he will not fail the senate and
+Lucius <persName ethnicity="roman" role="consul" nameid="lentulus">Lentulus</persName> the consul promises that he will not fail the senate and
 republic, "if they declared their sentiments boldly and resolutely, but
 if they turned their regard to<persName eth="roman" role="officer" nameid="caesar">Caesar</persName>, and courted his favour, as they
 did on former occasions, he would adopt a plan for himself, and not
 submit to the authority of the senate: that he too had a means of
-regaining<persName eth="roman" role="officer" nameid="caesar">Caesar's</persName> favour and friendship." Scipio spoke to the same
+regaining<persName eth="roman" role="officer" nameid="caesar">Caesar's</persName> favour and friendship." <persName ethnicity="roman" role="general" nameid="scipio">Scipio</persName>'s spoke to the same
 purport, "that it was <persName ethnicity="roman" role="consul" nameid="pompey">Pompey</persName>'s intention not to abandon the republic, if
 the senate would support him; but if they should hesitate and act
 without energy, they would in vain implore his aid, if they should
 require it hereafter."</chapter>
 
-<chapter n="II">II.--This speech of Scipio's, as the senate was convened in the city,
+<chapter n="II">II.--This speech of <persName ethnicity="roman" role="general" nameid="scipio">Scipio</persName>'s's, as the senate was convened in the city,
 and<persName ethnicity="roman" role="consul" nameid="pompey">Pompey</persName> was near at hand, seemed to have fallen from the lips of
 Pompey himself. Some delivered their sentiments with more moderation, as
 Marcellus first, who in the beginning of his speech, said, "that the
@@ -32,14 +32,14 @@ should set out for his province, that there might be no cause for arms:
 that<persName eth="roman" role="officer" nameid="caesar">Caesar</persName> was naturally apprehensive as two legions were forced from
 him, that<persName ethnicity="roman" role="consul" nameid="pompey">Pompey</persName> was retaining those troops, and keeping them near the
 city to do him injury": as Marcus Rufus, who followed Calidius almost
-word for word. They were all harshly rebuked by Lentulus, who
+word for word. They were all harshly rebuked by <persName ethnicity="roman" role="consul" nameid="lentulus">Lentulus</persName>, who
 peremptorily refused to propose Calidius's motion. Marcellus, overawed
 by his reproofs, retracted his opinion. Thus most of the senate,
 intimidated by the expressions of the consul, by the fears of a present
 army, and the threats of <persName ethnicity="roman" role="consul" nameid="pompey">Pompey</persName>'s friends, unwillingly and reluctantly
-adopted Scipio's opinion, that<persName eth="roman" role="officer" nameid="caesar">Caesar</persName> should disband his army by a
+adopted <persName ethnicity="roman" role="general" nameid="scipio">Scipio</persName>'s's opinion, that<persName eth="roman" role="officer" nameid="caesar">Caesar</persName> should disband his army by a
 certain day, and should he not do so, he should be considered as acting
-against the state. Marcus Antonius, and Quintus Cassius, tribunes of the
+against the state. <persName ethnicity="roman" role="general" nameid="markus_antonius">/0</persName>, and Quintus Cassius, tribunes of the
 people, interposed. The question was immediately put on their
 interposition. Violent opinions were expressed: whoever spoke with the
 greatest acrimony and cruelty, was most highly commended by<persName eth="roman" role="officer" nameid="caesar">Caesar's</persName>
@@ -64,15 +64,15 @@ expressed by some to the effect that commissioners should be sent to
 Caesar to acquaint him with the senate's pleasure.</chapter>
 
 <chapter n="IV">IV.--All these proposals were rejected, and opposition made to them all,
-in the speeches of the consul, Scipio, and Cato. An old grudge against
-Caesar and chagrin at a defeat actuated Cato. Lentulus was wrought upon
+in the speeches of the consul, <persName ethnicity="roman" role="general" nameid="scipio">Scipio</persName>'s, and Cato. An old grudge against
+Caesar and chagrin at a defeat actuated Cato. <persName ethnicity="roman" role="consul" nameid="lentulus">Lentulus</persName> was wrought upon
 by the magnitude of his debts, and the hopes of having the government of
 an army and provinces, and by the presents which he expected from such
 princes as should receive the title of friends of the <tribe name="romans">Roman people</tribe>, and
 boasted amongst his friends, that he would be a second Sylla, to whom
 the supreme authority should return. Similar hopes of a province and
 armies, which he expected to share with<persName ethnicity="roman" role="consul" nameid="pompey">Pompey</persName> on account of his
-connection with him, urged on Scipio; and moreover, [he was influenced
+connection with him, urged on <persName ethnicity="roman" role="general" nameid="scipio">Scipio</persName>'s; and moreover, [he was influenced
 by] the fear of being called to trial, and the adulation and an
 ostentatious display of himself and his friends in power, who at that
 time had great influence in the republic, and courts of judicature.
@@ -82,7 +82,7 @@ alienated himself from<persName eth="roman" role="officer" nameid="caesar">Caesa
 reconciliation with their common enemies; the greatest part of whom he
 had himself brought upon<persName eth="roman" role="officer" nameid="caesar">Caesar</persName> during his affinity with him. At the
 same time, chagrined at the disgrace which he had incurred by converting
-the two legions from their expedition through Asia and Syria, to
+the two legions from their expedition through Asia and <place region="syria">Syria</place>, to
 [augment] his own power and authority, he was anxious to bring matters
 to a war.</chapter>
 
@@ -101,7 +101,7 @@ despaired of). "That the consuls, praetors, tribunes of the people, and
 proconsuls in the city should take care that the state received no
 injury." These decrees are dated the eighth day before the ides of
 January; therefore, in the first five days, on which the senate could
-meet, from the day on which Lentulus entered into his consulate, the two
+meet, from the day on which <persName ethnicity="roman" role="consul" nameid="lentulus">Lentulus</persName> entered into his consulate, the two
 days of election excepted, the severest and most virulent decrees were
 passed against<persName eth="roman" role="officer" nameid="caesar">Caesar's</persName> government, and against those most illustrious
 characters, the tribunes of the people. The latter immediately made
@@ -111,7 +111,7 @@ could be brought to a peaceful termination by any equitable act on the
 part of the enemies.</chapter>
 
 <chapter n="VI">VI.--During the succeeding days the senate is convened outside the city.
-Pompey repeated the same things which he had declared through Scipio. He
+Pompey repeated the same things which he had declared through <persName ethnicity="roman" role="general" nameid="scipio">Scipio</persName>'s. He
 applauded the courage and firmness of the senate, acquainted them with
 his force, and told them that he had ten legions ready; that he was
 moreover informed and assured that<persName eth="roman" role="officer" nameid="caesar">Caesar's</persName> soldiers were disaffected,
@@ -124,7 +124,7 @@ be [honoured with the title of] friend and ally. But Marcellus said that
 he would not allow this motion for the present. Philip, one of the
 tribunes, stopped [the appointment of] Sylla; the resolutions respecting
 the other matters passed. The provinces, two of which were consular, the
-remainder praetorian, were decreed to private persons; Scipio got Syria,
+remainder praetorian, were decreed to private persons; <persName ethnicity="roman" role="general" nameid="scipio">Scipio</persName>'s got <place region="syria">Syria</place>,
 Lucius<persName eth="roman">Domitius</persName> <place region="gaul">Gaul</place>: Philip and Marcellus were omitted, from a private
 motive, and their lots were not even admitted. To the other provinces
 praetors were sent, nor was time granted as in former years, to refer to
@@ -235,7 +235,7 @@ he should not set out till after<persName eth="roman" role="officer" nameid="cae
 would not appear bound by any religious scruples about asserting a
 falsehood. But his not granting time for a conference, nor promising to
 set out to meet him, made the expectation of peace appear very hopeless.
-Caesar, therefore, sent Marcus Antonius, with five cohorts from Ariminum
+Caesar, therefore, sent <persName ethnicity="roman" role="general" nameid="markus_antonius">/0</persName>, with five cohorts from Ariminum
 to Arretium; he himself stayed at Ariminum with two legions, with the
 intention of raising levies there. He secured Pisaurus, Fanum, and
 Ancona, with a cohort each.</chapter>
@@ -273,7 +273,7 @@ thanks to the people of Auximum, and promised to be grateful for their
 conduct.</chapter>
 
 <chapter n="XIV">XIV.--Intelligence of this being brought to <place settlement="Rome">Rome</place>, so great a panic
-spread on a sudden that when Lentulus, the consul, came to open the
+spread on a sudden that when <persName ethnicity="roman" role="consul" nameid="lentulus">Lentulus</persName>, the consul, came to open the
 treasury, to deliver money to<persName ethnicity="roman" role="consul" nameid="pompey">Pompey</persName> by the senate's decree, immediately
 on opening the hallowed door he fled from the city. For it was falsely
 rumoured that<persName eth="roman" role="officer" nameid="caesar">Caesar</persName> was approaching, and that his cavalry were already
@@ -284,7 +284,7 @@ disposed in winter quarters in Apulia. The levies were stopped within
 the city. No place on this side of Capua was thought secure. At Capua
 they first began to take courage and to rally, and determined to raise
 levies in the colonies, which had been sent thither by the Julian law:
-and Lentulus brought into the public market-place the gladiators which
+and <persName ethnicity="roman" role="consul" nameid="lentulus">Lentulus</persName> brought into the public market-place the gladiators which
 Caesar maintained there for the entertainment of the people, and
 confirmed them in their liberty, and gave them horses and ordered them
 to attend him; but afterwards, being warned by his friends that this
@@ -298,7 +298,7 @@ to him even from Cingulum, a town which Labienus had laid out and built
 at his own expense, and offered most earnestly to comply with his
 orders. He demanded soldiers: they sent them. In the meantime, the
 twelfth legion came to join<persName eth="roman" role="officer" nameid="caesar">Caesar</persName>; with these two he marched to
-Asculum, the chief town of Picenum. Lentulus Spinther occupied that town
+Asculum, the chief town of Picenum. <persName ethnicity="roman" role="consul" nameid="lentulus">Lentulus</persName> Spinther occupied that town
 with ten cohorts; but, on being informed of<persName eth="roman" role="officer" nameid="caesar">Caesar's</persName> approach, he fled
 from the town, and, in attempting to bring off his cohorts with him, was
 deserted by a great part of his men. Being left on the road with a small
@@ -314,7 +314,7 @@ Corfinium, to<persName eth="roman">Domitius</persName> Aenobarbus, and informed 
 advancing with two legions.<persName eth="roman">Domitius</persName> had collected about twenty cohorts
 from Alba, and the Marsians, Pelignians, and neighbouring states.</chapter>
 
-<chapter n="XVI">XVI.--<persName eth="roman" role="officer" nameid="caesar">Caesar</persName>, having recovered Asculum and driven out Lentulus, ordered
+<chapter n="XVI">XVI.--<persName eth="roman" role="officer" nameid="caesar">Caesar</persName>, having recovered Asculum and driven out <persName ethnicity="roman" role="consul" nameid="lentulus">Lentulus</persName>, ordered
 the soldiers that had deserted from him to be sought out and a muster to
 be made; and, having delayed for one day there to provide corn, he
 marched to Corfinium. On his approach, five cohorts, sent by<persName eth="roman">Domitius</persName>
@@ -342,7 +342,7 @@ centurions and veterans.</chapter>
 Sulmo, a town about seven miles distant from Corfinium, were ready to
 obey his orders, but were prevented by Quintus Lucretius, a senator, and
 Attius, a Pelignian, who were in possession of the town with a garrison
-of seven cohorts. He sent Marcus Antonius thither, with five cohorts of
+of seven cohorts. He sent <persName ethnicity="roman" role="general" nameid="markus_antonius">/0</persName> thither, with five cohorts of
 the eighth legion. The inhabitants, as soon as they saw our standards,
 threw open their gates, and all the people, both citizens and soldiers,
 went out to meet and welcome Antonius. Lucretius and Attius leaped off
@@ -415,10 +415,10 @@ single person should get out privately. Nor was any man so negligent or
 drowsy as to sleep that night. To so great height was their expectation
 raised, that they were carried away, heart and soul, each to different
 objects, what would become of the Corfinians, what of<persName eth="roman">Domitius</persName>, what of
-Lentulus, what of the rest; what event would be the consequence of
+<persName ethnicity="roman" role="consul" nameid="lentulus">Lentulus</persName>, what of the rest; what event would be the consequence of
 another.</chapter>
 
-<chapter n="XXII">XXII.--About the fourth watch, Lentulus Spinther said to our sentinels
+<chapter n="XXII">XXII.--About the fourth watch, <persName ethnicity="roman" role="consul" nameid="lentulus">Lentulus</persName> Spinther said to our sentinels
 and guards from the walls, that he desired to have an interview with
 Caesar, if permission were given him. Having obtained it, he was
 escorted out of town; nor did the soldiers of<persName eth="roman">Domitius</persName> leave him till
@@ -434,7 +434,7 @@ to protect himself from the injuries of his enemies; to restore to their
 dignity the tribunes of the people who had been driven out of the city
 on his account, and to assert his own liberty, and that of the Roman
 people, who were oppressed by a few factious men." Encouraged by this
-address, Lentulus begged leave to return to the town, that the security
+address, <persName ethnicity="roman" role="consul" nameid="lentulus">Lentulus</persName> begged leave to return to the town, that the security
 which he had obtained for himself might be an encouragement to the rest
 to hope for theirs; saying that some were so terrified that they were
 induced to make desperate attempts on their own lives. Leave being
@@ -443,7 +443,7 @@ granted him, he departed.</chapter>
 <chapter n="XXIII">XXIII.--When day appeared<persName eth="roman" role="officer" nameid="caesar">Caesar</persName> ordered all the senators and their
 children, the tribunes of the soldiers, and the Roman knights, to be
 brought before him. Among the persons of senatorial rank were Lucius
-Domitius, Publius Lentulus Spinther, Lucius Vibullius Rufus, Sextus
+Domitius, Publius <persName ethnicity="roman" role="consul" nameid="lentulus">Lentulus</persName> Spinther, Lucius Vibullius Rufus, Sextus
 Quintilius Varus, the quaestor, and Lucius Rubrius, besides the son of
 Domitius, and several other young men, and a great number of Roman
 knights and burgesses, whom<persName eth="roman">Domitius</persName> had summoned from the municipal
@@ -1608,7 +1608,7 @@ was disbanded.
 </chapter>
 </book>
     
-    <book num="2"><heading>BOOK II</heading>
+    <book num="10"><heading>BOOK II</heading>
 
 <chapter n="I">I.--Whilst these things were going forward in <place region="spain">Spain</place>, Caius Trebonius,
 <persName eth="roman" role="officer" nameid="caesar">Caesar's</persName> lieutenant, who had been left to conduct the assault of
@@ -2518,7 +2518,7 @@ more returned to his own kingdom, with all his forces.
 </chapter>
 </book>
 
-<book num="3"><heading>BOOK III</heading>
+<book num="11"><heading>BOOK III</heading>
 
 <chapter n="I">I.--Julius<persName eth="roman" role="officer" nameid="caesar">Caesar</persName>, holding the election as dictator, was himself
 appointed consul with Publius Servilius; for this was the year in which
@@ -2562,9 +2562,9 @@ the whole army.</chapter>
 <chapter n="III">III.--Pompey having got a year's respite to provide forces, during which
 he was not engaged in war, nor employed by an enemy, had collected a
 numerous fleet from Asia, and the Cyclades, from Corcyra, Athens,
-Pontus, Bithynia, Syria, Cilicia, Phoenicia, and <place region="egypt">Egypt,</place> and had given
+Pontus, Bithynia, <place region="syria">Syria</place>, Cilicia, Phoenicia, and <place region="egypt">Egypt,</place> and had given
 directions that a great number should be built in every other place. He
-had exacted a large sum of money from Asia, Syria, and all the kings,
+had exacted a large sum of money from Asia, <place region="syria">Syria</place>, and all the kings,
 dynasts, tetrarchs, and free states of Achaia; and had obliged the
 corporations of those provinces, of which he himself had the government,
 to count down to him a large sum.</chapter>
@@ -2574,11 +2574,11 @@ which he had brought with him; one veteran legion from Sicily, which
 being composed of two, he called the Gemella; one from Crete and
 Macedonia, of veterans who had been discharged by their former generals,
 and had settled in those provinces; two from Asia, which had been levied
-by the activity of Lentulus. Besides he had distributed among his
+by the activity of <persName ethnicity="roman" role="consul" nameid="lentulus">Lentulus</persName>. Besides he had distributed among his
 legions a considerable number, by way of recruits, from Thessaly,
 Boeotia, Achaia, and Epirus: with his legions he also intermixed the
 soldiers taken from Caius Antonius. Besides these, he expected two
-legions from Syria, with Scipio; from Crete, Lacedaemon, Pontus, Syria,
+legions from <place region="syria">Syria</place>, with <persName ethnicity="roman" role="general" nameid="scipio">Scipio</persName>'s; from Crete, Lacedaemon, Pontus, <place region="syria">Syria</place>,
 and other states, he got about three thousand archers, six cohorts of
 slingers, two thousand mercenary soldiers, and seven thousand horse; six
 hundred of which, Deiotarus had brought from <place region="gaul">Gaul</place>; Ariobarzanes, five
@@ -2590,7 +2590,7 @@ hundred <place region="gaul">Gaul</place>s and Germans; <persName ethnicity="rom
 son, had brought in his fleet eight hundred, whom he had raised among
 his own and his shepherds' slaves. Tarcundarius, Castor and Donilaus had
 given three hundred from Gallograecia: one of these came himself, the
-other sent his son. Two hundred were sent from Syria by Comagenus
+other sent his son. Two hundred were sent from <place region="syria">Syria</place> by Comagenus
 Antiochus, whom<persName ethnicity="roman" role="consul" nameid="pompey">Pompey</persName> rewarded amply. The most of them were archers. To
 these were added Dardanians, and Bessians, some of them mercenaries;
 others procured by power and influence: also, Macedonians, Thessalians,
@@ -2603,7 +2603,7 @@ quarters at Dyrrachium, Apollonia, and the other sea-ports, to hinder
 Caesar from passing the sea: and for this purpose had stationed his
 fleet along the sea-coast. The Egyptian fleet was commanded by<persName ethnicity="roman" role="consul" nameid="pompey">Pompey</persName>,
 the son: the Asiatic, by Decimus Laelius, and Caius Triarius: the
-Syrian, by Caius Cassius: the Rhodian, by Caius Marcellus, in
+<place region="syria">Syria</place>n, by Caius Cassius: the Rhodian, by Caius Marcellus, in
 conjunction with Caius Coponius; and the Liburnian, and Achaian, by
 Scribonius Libo, and Marcus Octavius. But Marcus Bibulus was appointed
 commander-in-chief of the whole maritime department, and regulated every
@@ -3005,7 +3005,7 @@ That these parts principally were left unguarded by the enemy's fleet,
 because they dare not venture too far from the harbour.</chapter>
 
 <chapter n="XXVI">XXVI.--They [his officers], exerting boldness and courage, aided by the
-instructions of Marcus Antonius, and Fufius Kalenus, and animated by the
+instructions of <persName ethnicity="roman" role="general" nameid="markus_antonius">/0</persName>, and Fufius Kalenus, and animated by the
 soldiers strongly encouraging them, and declining no danger for<persName eth="roman" role="officer" nameid="caesar">Caesar's</persName>
 safety, having got a southerly wind, weighed anchor, and the next day
 were carried past Apollonia and Dyrrachium, and being seen from the
@@ -3100,7 +3100,7 @@ two armies, quitted his position, and went with all his forces to
 Asparagium, in the territory of Dyrrachium, and there encamped in a
 convenient situation.</chapter>
 
-<chapter n="XXXI">XXXI.--During these times, Scipio, though he had sustained some losses
+<chapter n="XXXI">XXXI.--During these times, <persName ethnicity="roman" role="general" nameid="scipio">Scipio</persName>'s, though he had sustained some losses
 near mount Amanus, had assumed to himself the title of imperator, after
 which he demanded large sums of money from the states and princes. He
 had also exacted from the tax-gatherers two years' rents that they owed;
@@ -3108,7 +3108,7 @@ and enjoined them to lend him the amount of the next year, and demanded
 a supply of horse from the whole province. When they were collected,
 leaving behind him his neighbouring enemies, the Parthians (who shortly
 before had killed Marcus Crassus, the imperator, and had kept Marcus
-Bibulus besieged), he drew his legions and cavalry out of Syria; and
+Bibulus besieged), he drew his legions and cavalry out of <place region="syria">Syria</place>; and
 when he came into the province, which was under great anxiety and fear
 of the Parthian war, and heard some declarations of the soldiers, "That
 they would march against an enemy, if he would lead them on; but would
@@ -3141,12 +3141,12 @@ and every state. And they said that these were loans, exacted by the
 senate's decree. The taxes of the ensuing year were demanded beforehand
 as a loan from the collectors, as on their first appointment.</chapter>
 
-<chapter n="XXXIII">XXXIII.--Moreover, Scipio ordered the money formerly lodged in the
+<chapter n="XXXIII">XXXIII.--Moreover, <persName ethnicity="roman" role="general" nameid="scipio">Scipio</persName>'s ordered the money formerly lodged in the
 temple of Diana at Ephesus, to be taken out with the statues of that
-goddess which remained there. When Scipio came to the temple, letters
+goddess which remained there. When <persName ethnicity="roman" role="general" nameid="scipio">Scipio</persName>'s came to the temple, letters
 were delivered to him from<persName ethnicity="roman" role="consul" nameid="pompey">Pompey</persName>, in the presence of several senators,
 whom he had called upon to attend him; [informing him] that<persName eth="roman" role="officer" nameid="caesar">Caesar</persName> had
-crossed the sea with his legions; that Scipio should hasten to him with
+crossed the sea with his legions; that <persName ethnicity="roman" role="general" nameid="scipio">Scipio</persName>'s should hasten to him with
 his army, and postpone all other business. As soon as he received the
 letter, he dismissed his attendants, and began to prepare for his
 journey to Macedonia; and a few days after set out. This circumstance
@@ -3180,7 +3180,7 @@ friends' influence.</chapter>
 
 <chapter n="XXXVI">XXXVI.--At the same time,<persName eth="roman">Domitius</persName> arrived in Macedonia: and when
 numerous embassies had begun to wait on him from many of the states,
-news was brought that Scipio was approaching with his legions, which
+news was brought that <persName ethnicity="roman" role="general" nameid="scipio">Scipio</persName>'s was approaching with his legions, which
 occasioned various opinions and reports; for in strange events, rumour
 generally goes before. Without making any delay in any part of
 Macedonia, he marched with great haste against<persName eth="roman">Domitius</persName>; and when he was
@@ -3192,32 +3192,32 @@ Haliacmon, which divides Macedonia from Thessaly, under the care of
 Marcus Favonius, with a guard of eight cohorts, and ordered him to build
 a strong fort there. At the same time, Cotus's cavalry, which used to
 infest the neighbourhood of Macedonia, flew to attack Cassius's camp, at
-which Cassius being alarmed, and having received information of Scipio's
-approach, and seen the horse, which he imagined to be Scipio's, he
+which Cassius being alarmed, and having received information of <persName ethnicity="roman" role="general" nameid="scipio">Scipio</persName>'s's
+approach, and seen the horse, which he imagined to be <persName ethnicity="roman" role="general" nameid="scipio">Scipio</persName>'s's, he
 betook himself to the mountains that environ Thessaly, and thence began
-to make his route towards Ambracia. But when Scipio was hastening to
+to make his route towards Ambracia. But when <persName ethnicity="roman" role="general" nameid="scipio">Scipio</persName>'s was hastening to
 pursue him, despatches overtook him from Favonius, that<persName eth="roman">Domitius</persName> was
 marching against him with his legions, and that he could not maintain
-the garrison over which he was appointed, without Scipio's assistance.
-On receipt of these despatches, Scipio changed his designs and his
+the garrison over which he was appointed, without <persName ethnicity="roman" role="general" nameid="scipio">Scipio</persName>'s's assistance.
+On receipt of these despatches, <persName ethnicity="roman" role="general" nameid="scipio">Scipio</persName>'s changed his designs and his
 route, desisted from his pursuit of Cassius, and hastened to relieve
 Favonius. Accordingly, continuing his march day and night, he came to
 him so opportunely, that the dust raised by <persName eth="roman">Domitius's</persName> army, and
-Scipio's advanced guard, were observed at the same instant. Thus, the
-vigilance of<persName eth="roman">Domitius</persName> saved Cassius, and the expedition of Scipio,
+<persName ethnicity="roman" role="general" nameid="scipio">Scipio</persName>'s's advanced guard, were observed at the same instant. Thus, the
+vigilance of<persName eth="roman">Domitius</persName> saved Cassius, and the expedition of <persName ethnicity="roman" role="general" nameid="scipio">Scipio</persName>'s,
 Favonius.
 
-XXXVII--Scipio, having stayed for two days in his camp, along the river
+XXXVII--<persName ethnicity="roman" role="general" nameid="scipio">Scipio</persName>'s, having stayed for two days in his camp, along the river
 Haliacmon, which ran between him and <persName eth="roman">Domitius's</persName> camp, on the third day,
 at dawn, led his army across a ford, and having made a regular
 encampment the day following, drew up his forces in front of his camp.
 Domitius thought he ought not to show any reluctance, but should draw
 out his forces and hazard a battle. But as there was a plain six miles
-in breadth between the two camps, he posted his army before Scipio's
+in breadth between the two camps, he posted his army before <persName ethnicity="roman" role="general" nameid="scipio">Scipio</persName>'s's
 camp; while the latter persevered in not quitting his entrenchment.
 However,<persName eth="roman">Domitius</persName> with difficulty restrained his men, and prevented
 their beginning a battle; the more so as a rivulet with steep banks,
-joining Scipio's camp, retarded the progress of our men. When Scipio
+joining <persName ethnicity="roman" role="general" nameid="scipio">Scipio</persName>'s's camp, retarded the progress of our men. When <persName ethnicity="roman" role="general" nameid="scipio">Scipio</persName>'s
 perceived the eagerness and alacrity of our troops to engage, suspecting
 that he should be obliged the next day, either to fight, against his
 inclination, or to incur great disgrace by keeping within his camp,
@@ -3234,11 +3234,11 @@ their turn, made a general charge on the enemy: and having killed about
 eighty of them, and put the rest to flight, retreated to their camp with
 the loss of only two men.</chapter>
 
-<chapter n="XXXVIII">XXXVIII.--After these transactions,<persName eth="roman">Domitius</persName>, hoping to allure Scipio to
+<chapter n="XXXVIII">XXXVIII.--After these transactions,<persName eth="roman">Domitius</persName>, hoping to allure <persName ethnicity="roman" role="general" nameid="scipio">Scipio</persName>'s to
 a battle, pretended to be obliged to change his position through want of
 corn, and having given the signal for decamping, advanced about three
 miles, and posted his army and cavalry in a convenient place, concealed
-from the enemy's view. Scipio being in readiness to pursue him, detached
+from the enemy's view. <persName ethnicity="roman" role="general" nameid="scipio">Scipio</persName>'s being in readiness to pursue him, detached
 his cavalry and a considerable number of light infantry to explore
 <persName eth="roman">Domitius's</persName> route. When they had marched a short way, and their foremost
 troops were within reach of our ambush, their suspicions being raised by
@@ -3565,7 +3565,7 @@ that his whole army, when drawn up, might be protected by the darts
 discharged from it.</chapter>
 
 <chapter n="LVII">LVII.--Whilst these things were going forward in Achaia and at
-Dyrrachium, and when it was certainly known that Scipio was arrived in
+Dyrrachium, and when it was certainly known that <persName ethnicity="roman" role="general" nameid="scipio">Scipio</persName>'s was arrived in
 Macedonia,<persName eth="roman" role="officer" nameid="caesar">Caesar</persName>, never losing sight of his first intention, sends
 Clodius to him, an intimate friend to both, whom<persName eth="roman" role="officer" nameid="caesar">Caesar</persName>, on the
 introduction and recommendation of<persName ethnicity="roman" role="consul" nameid="pompey">Pompey</persName>, had admitted into the number
@@ -3574,7 +3574,7 @@ Pompey, the substance of which was as follows: "That he had made every
 effort towards peace, and imputed the ill success of those efforts to
 the fault of those whom he had employed to conduct those negotiations:
 because they were afraid to carry his proposals to<persName ethnicity="roman" role="consul" nameid="pompey">Pompey</persName> at an improper
-time. That Scipio had such authority, that he could not only freely
+time. That <persName ethnicity="roman" role="general" nameid="scipio">Scipio</persName>'s had such authority, that he could not only freely
 explain what conduct met his approbation, but even in some degree
 enforce his advice, and govern him [Pompey] if he persisted in error;
 that he commanded an army independent of<persName ethnicity="roman" role="consul" nameid="pompey">Pompey</persName>, so that besides his
@@ -3582,7 +3582,7 @@ authority, he had strength to compel; and if he did so, all men would be
 indebted to him for the quiet of <place region="italy">Italy</place>, the peace of the provinces, and
 the preservation of the empire." These proposals Clodius made to him,
 and for some days at the first appeared to have met with a favourable
-reception, but afterwards was not admitted to an audience; for Scipio
+reception, but afterwards was not admitted to an audience; for <persName ethnicity="roman" role="general" nameid="scipio">Scipio</persName>'s
 being reprimanded by Favonius, as we found afterwards when the war was
 ended, and the negotiation having miscarried, Clodius returned to
 Caesar.</chapter>
@@ -3671,7 +3671,7 @@ farthest distance from<persName eth="roman" role="officer" nameid="caesar">Caesa
 the ships, which he had freighted with the fascines and light-armed
 troops; and all the ships of war that lay at Dyrrachium; and to each he
 gave particular instructions: at this part of the lines<persName eth="roman" role="officer" nameid="caesar">Caesar</persName> had
-posted Lentulus Marcellinus, the quaestor, with the ninth legion, and as
+posted <persName ethnicity="roman" role="consul" nameid="lentulus">Lentulus</persName> Marcellinus, the quaestor, with the ninth legion, and as
 he was not in a good state of health, Fulvius Costhumus was sent to
 assist him in the command.</chapter>
 
@@ -3722,7 +3722,7 @@ cohorts were killed, except the principal.</chapter>
 
 <chapter n="LXV">LXV.--And now the Pompeians, after great havoc of our troops, were
 approaching Marcellinus's camp, and had struck no small terror into the
-rest of the cohorts, when Marcus Antonius, who commanded the nearest
+rest of the cohorts, when <persName ethnicity="roman" role="general" nameid="markus_antonius">/0</persName>, who commanded the nearest
 fort, being informed of what had happened, was observed descending from
 the rising ground with twelve cohorts. His arrival checked the
 Pompeians, and encouraged our men to recover from their extreme
@@ -3971,13 +3971,13 @@ be obliged to carry on the war on equal terms; but if he crossed over
 into <place region="italy">Italy</place>,<persName eth="roman" role="officer" nameid="caesar">Caesar</persName>, having effected a junction with<persName eth="roman">Domitius</persName>, would
 march through Illyricum to the relief of <place region="italy">Italy</place>; but if he endeavoured to
 storm Apollonia and Oricum, and exclude him from the whole coast, he
-hoped, by besieging Scipio, to oblige him, of necessity, to come to his
+hoped, by besieging <persName ethnicity="roman" role="general" nameid="scipio">Scipio</persName>'s, to oblige him, of necessity, to come to his
 assistance. Accordingly,<persName eth="roman" role="officer" nameid="caesar">Caesar</persName> despatching couriers, writes to
 Domitius, and acquaints him with his wishes on the subject: and having
 stationed a garrison of four cohorts at Apollonia, one at Lissus, and
 three at Oricum, besides those who were sick of their wounds, he set
 forward on his march through Epirus and Acarnania.<persName ethnicity="roman" role="consul" nameid="pompey">Pompey</persName>, also,
-guessing at<persName eth="roman" role="officer" nameid="caesar">Caesar's</persName> design, determined to hasten to Scipio, that if
+guessing at<persName eth="roman" role="officer" nameid="caesar">Caesar's</persName> design, determined to hasten to <persName ethnicity="roman" role="general" nameid="scipio">Scipio</persName>'s, that if
 Caesar should march in that direction, he might be ready to relieve him;
 but that if<persName eth="roman" role="officer" nameid="caesar">Caesar</persName> should be unwilling to quit the sea-coast and
 Corcyra, because he expected legions and cavalry from <place region="italy">Italy</place>, he himself
@@ -3988,7 +3988,7 @@ succour his friends, and not miss an opportunity of surprising his
 enemies. But<persName eth="roman" role="officer" nameid="caesar">Caesar's</persName> engagements at Apolloma had carried him aside from
 the direct road.<persName ethnicity="roman" role="consul" nameid="pompey">Pompey</persName> had taken the short road to Macedonia, through
 Candavia. To this was added another unexpected disadvantage, that
-Domitius, who for several days had been encamped opposite Scipio, had
+Domitius, who for several days had been encamped opposite <persName ethnicity="roman" role="general" nameid="scipio">Scipio</persName>'s, had
 quitted that post for the sake of provisions, and had marched to
 Heraclea Sentica, a city subject to Candavia; so that fortune herself
 seemed to throw him in <persName ethnicity="roman" role="consul" nameid="pompey">Pompey</persName>'s way. Of this,<persName eth="roman" role="officer" nameid="caesar">Caesar</persName> was ignorant up to
@@ -4021,9 +4021,9 @@ Androsthenes, the praetor of Thessaly, as he preferred to be the
 companion of <persName ethnicity="roman" role="consul" nameid="pompey">Pompey</persName>'s victory, rather than<persName eth="roman" role="officer" nameid="caesar">Caesar's</persName> associate in his
 misfortunes, collected all the people, both slaves and freemen, from the
 country into the town and shut the gates, and despatched messengers to
-Scipio and<persName ethnicity="roman" role="consul" nameid="pompey">Pompey</persName> "to come to his relief, that he could depend on the
+<persName ethnicity="roman" role="general" nameid="scipio">Scipio</persName>'s and<persName ethnicity="roman" role="consul" nameid="pompey">Pompey</persName> "to come to his relief, that he could depend on the
 strength of the town, if succour was speedily sent; but that it could
-not withstand a long siege." Scipio, as soon as he received advice of
+not withstand a long siege." <persName ethnicity="roman" role="general" nameid="scipio">Scipio</persName>'s, as soon as he received advice of
 the departure of the armies from Dyrrachium, had marched with his
 legions to Larissa:<persName ethnicity="roman" role="consul" nameid="pompey">Pompey</persName> was not yet arrived near Thessaly.<persName eth="roman" role="officer" nameid="caesar">Caesar</persName>
 having fortified his camp, ordered scaling ladders and pent-houses to be
@@ -4046,7 +4046,7 @@ walls. But when they were made acquainted with the fate of the city of
 Gomphi by some prisoners, whom<persName eth="roman" role="officer" nameid="caesar">Caesar</persName> had ordered to be brought up to
 the walls, they threw open their gates. As he preserved them with the
 greatest care, there was not a state in Thessaly (except Larissa, which
-was awed by a strong army of Scipio's), but on comparing the fate of the
+was awed by a strong army of <persName ethnicity="roman" role="general" nameid="scipio">Scipio</persName>'s's), but on comparing the fate of the
 inhabitants of Metropolis with the severe treatment of Gomphi, gave
 admission to<persName eth="roman" role="officer" nameid="caesar">Caesar</persName>, and obeyed his orders. Having chosen a position
 convenient for procuring corn, which was now almost ripe on the ground,
@@ -4055,9 +4055,9 @@ of all his warlike operations.</chapter>
 
 <chapter n="LXXXII">LXXXII.--Pompey arrived in Thessaly a few days after, and having
 harangued the combined army, returned thanks to his own men, and
-exhorted Scipio's soldiers, that as the victory was now secured, they
+exhorted <persName ethnicity="roman" role="general" nameid="scipio">Scipio</persName>'s's soldiers, that as the victory was now secured, they
 should endeavour to merit a part of the rewards and booty. And receiving
-all the legions into one camp, he shared his honours with Scipio,
+all the legions into one camp, he shared his honours with <persName ethnicity="roman" role="general" nameid="scipio">Scipio</persName>'s,
 ordered the trumpet to be sounded at his tent, and a pavilion to be
 erected for him. The forces of<persName ethnicity="roman" role="consul" nameid="pompey">Pompey</persName> being thus augmented, and two such
 powerful armies united, their former expectations were confirmed, and
@@ -4078,11 +4078,11 @@ he might not seem deceived through his authority: whilst others,
 embarked in equal labour and danger, pleaded that no individual ought to
 have a preference before all the rest.</chapter>
 
-<chapter n="LXXXIII">LXXXIII.--Already<persName eth="roman">Domitius</persName>, Scipio, and Lentulus Spinthur, in their
+<chapter n="LXXXIII">LXXXIII.--Already<persName eth="roman">Domitius</persName>, <persName ethnicity="roman" role="general" nameid="scipio">Scipio</persName>'s, and <persName ethnicity="roman" role="consul" nameid="lentulus">Lentulus</persName> Spinthur, in their
 daily quarrels about<persName eth="roman" role="officer" nameid="caesar">Caesar's</persName> priesthood, openly abused each other in
-the most scurrilous language. Lentulus urging the respect due to his
+the most scurrilous language. <persName ethnicity="roman" role="consul" nameid="lentulus">Lentulus</persName> urging the respect due to his
 age,<persName eth="roman">Domitius</persName> boasting his interest in the city and his dignity, and
-Scipio presuming on his alliance with<persName ethnicity="roman" role="consul" nameid="pompey">Pompey</persName>. Attius Rufus charged
+<persName ethnicity="roman" role="general" nameid="scipio">Scipio</persName>'s presuming on his alliance with<persName ethnicity="roman" role="consul" nameid="pompey">Pompey</persName>. Attius Rufus charged
 Lucius Afranius before<persName ethnicity="roman" role="consul" nameid="pompey">Pompey</persName> with betraying the army in the action that
 happened in <place region="spain">Spain</place>, and Lucius<persName eth="roman">Domitius</persName> declared in the council that it
 was his wish that, when the war should be ended, three billets should be
@@ -4182,8 +4182,8 @@ a general of such experience.</chapter>
 that his army was drawn up in the following manner:--On the left wing
 were the two legions delivered over by<persName eth="roman" role="officer" nameid="caesar">Caesar</persName> at the beginning of the
 disputes in compliance with the senate's decree, one of which was called
-the first, the other the third. Here<persName ethnicity="roman" role="consul" nameid="pompey">Pompey</persName> commanded in person. Scipio
-with the Syrian legions commanded the centre. The Cilician legion in
+the first, the other the third. Here<persName ethnicity="roman" role="consul" nameid="pompey">Pompey</persName> commanded in person. <persName ethnicity="roman" role="general" nameid="scipio">Scipio</persName>'s
+with the <place region="syria">Syria</place>n legions commanded the centre. The Cilician legion in
 conjunction with the Spanish cohorts, which we said were brought over by
 Afranius, were disposed on the right wing. These<persName ethnicity="roman" role="consul" nameid="pompey">Pompey</persName> considered his
 steadiest troops. The rest he had interspersed between the centre and
@@ -4219,7 +4219,7 @@ custom, and spoke to them of the favours that they had constantly
 received from him, he took especial care to remind them "that he could
 call his soldiers to witness the earnestness with which he had sought
 peace, the efforts that he had made by Vatinius to gain a conference
-[with Labienus], and likewise by Claudius to treat with Scipio, in what
+[with Labienus], and likewise by Claudius to treat with <persName ethnicity="roman" role="general" nameid="scipio">Scipio</persName>'s, in what
 manner he had exerted himself at Oricum, to gain permission from Libo to
 send ambassadors; that he had been always reluctant to shed the blood of
 his soldiers, and did not wish to deprive the republic of one or other
@@ -4322,7 +4322,7 @@ high mountains which joined the camp.</chapter>
 
 <chapter n="XCVI">XCVI.--In <persName ethnicity="roman" role="consul" nameid="pompey">Pompey</persName>'s camp you might see arbours in which tables were laid,
 a large quantity of plate set out, the floors of the tents covered with
-fresh sods, the tents of Lucius Lentulus and others shaded with ivy, and
+fresh sods, the tents of Lucius <persName ethnicity="roman" role="consul" nameid="lentulus">Lentulus</persName> and others shaded with ivy, and
 many other things which were proofs of excessive luxury, and a
 confidence of victory, so that it might readily be inferred that they
 had no apprehensions of the issue of the day, as they indulged
@@ -4399,7 +4399,7 @@ either by the disgrace of losing his ships, or by the want of
 necessaries, to quit the port and islands.</chapter>
 
 <chapter n="CI">CI.--Much about the same time, Cassius arrived in Sicily with a fleet of
-Syrians, Phoenicians, and Cilicians: and as<persName eth="roman" role="officer" nameid="caesar">Caesar's</persName> fleet was divided
+<place region="syria">Syria</place>ns, Phoenicians, and Cilicians: and as<persName eth="roman" role="officer" nameid="caesar">Caesar's</persName> fleet was divided
 into two parts, Publius Sulpicius the praetor commanding one division at
 Vibo near the straits, Pomponius the other at Messana, Cassius got into
 Messana with his fleet before Pomponius had notice of his arrival, and
@@ -4445,14 +4445,14 @@ his friends in Amphipolis, and collecting a sum of money for his
 necessary expenses, upon advice of<persName eth="roman" role="officer" nameid="caesar">Caesar's</persName> approach, set sail from that
 place, and arrived in a few days at Mitylene. Here he was detained two
 days, and having added a few galleys to his fleet he went to Cilicia,
-and thence to Cyprus. There he is informed that, by the consent of all
+and thence to <place region="cyprus">Cyprus</place>. There he is informed that, by the consent of all
 the inhabitants of Antioch and Roman citizens who traded there, the
 castle had been seized to shut him out of the town; and that messengers
 had been despatched to all those who were reported to have taken refuge
 in the neighbouring states, that they should not come to Antioch; that
 if they did that, it would be attended with imminent danger to their
-lives. The same thing had happened to Lucius Lentulus, who had been
-consul the year before, and to Publius Lentulus a consular senator, and
+lives. The same thing had happened to Lucius <persName ethnicity="roman" role="consul" nameid="lentulus">Lentulus</persName>, who had been
+consul the year before, and to Publius <persName ethnicity="roman" role="consul" nameid="lentulus">Lentulus</persName> a consular senator, and
 to several others at Rhodes, who having followed<persName ethnicity="roman" role="consul" nameid="pompey">Pompey</persName> in his flight,
 and arrived at the island, were not admitted into the town or port; and
 having received a message to leave that neighbourhood, set sail much
@@ -4460,7 +4460,7 @@ against their will; for the rumour of<persName eth="roman" role="officer" nameid
 those states.</chapter>
 
 <chapter n="CIII">CIII.--Pompey, being informed of these proceedings, laid aside his
-design of going to Syria, and having taken the public money from the
+design of going to <place region="syria">Syria</place>, and having taken the public money from the
 farmers of the revenue, and borrowed more from some private friends, and
 having put on board his ships a large quantity of brass for military
 purposes, and two thousand armed men, whom he partly selected from the
@@ -4477,7 +4477,7 @@ his father and him. But <persName ethnicity="roman" role="consul" nameid="pompey
 commission, began to converse with less restraint with the king's
 troops, and to advise them to act with friendship to<persName ethnicity="roman" role="consul" nameid="pompey">Pompey</persName>, and not to
 think meanly of his bad fortune. In Ptolemy's army were several of
-<persName ethnicity="roman" role="consul" nameid="pompey">Pompey</persName>'s soldiers, of whom <persName ethnicity="roman" role="legate" nameid="gabinius">Gabinius</persName> had received the command in Syria,
+<persName ethnicity="roman" role="consul" nameid="pompey">Pompey</persName>'s soldiers, of whom <persName ethnicity="roman" role="legate" nameid="gabinius">Gabinius</persName> had received the command in <place region="syria">Syria</place>,
 and had brought them over to <place settlement="Alexandria">Alexandria</place>, and at the conclusion of the
 war had left with Ptolemy the father of the young king.</chapter>
 
@@ -4493,7 +4493,7 @@ military tribune to assassinate him. Being kindly addressed by them, and
 deluded by an acquaintance with Septimius, because in the war with the
 pirates the latter had commanded a company under him, he embarked in a
 small boat with a few attendants, and was there murdered by <persName ethnicity="egyptian" role="officer" nameid="achillas">Achillas</persName> and
-Septimius. In like manner, Lucius Lentulus was seized by the king's
+Septimius. In like manner, Lucius <persName ethnicity="roman" role="consul" nameid="lentulus">Lentulus</persName> was seized by the king's
 order, and put to death in prison.</chapter>
 
 <chapter n="CV">CV.--When<persName eth="roman" role="officer" nameid="caesar">Caesar</persName> arrived in Asia, he found that Titus Ampius had
@@ -4506,7 +4506,7 @@ Minerva, upon calculating and enumerating the days, that on the very day
 on which<persName eth="roman" role="officer" nameid="caesar">Caesar</persName> had gained his battle, the image of Victory which was
 placed before Minerva, and faced her statue, turned about towards the
 portal and entrance of the temple; and the same day, at Antioch in
-Syria, such a shout of an army and sound of trumpets was twice heard,
+<place region="syria">Syria</place>, such a shout of an army and sound of trumpets was twice heard,
 that the citizens ran in arms to the walls. The same thing happened at
 Ptolemais; a sound of drums too was heard at Pergamus, in the private
 and retired parts of the temple, into which none but the priests are
@@ -4517,7 +4517,7 @@ had sprouted up from the pavement, through the joints of the stones, and
 shot up above the roof.</chapter>
 
 <chapter n="CVI">CVI.--After a few days' delay in Asia,<persName eth="roman" role="officer" nameid="caesar">Caesar</persName>, having heard that<persName ethnicity="roman" role="consul" nameid="pompey">Pompey</persName>
-had been seen in Cyprus, and conjecturing that he had directed his
+had been seen in <place region="cyprus">Cyprus</place>, and conjecturing that he had directed his
 course into <place region="egypt">Egypt,</place> on account of his connection with that kingdom, set
 out for <place settlement="Alexandria">Alexandria</place> with two legions (one of which he ordered to follow
 him from Thessaly, the other he called in from Achaia, from Fufius, the
@@ -4595,7 +4595,7 @@ under arms. They consisted partly of <persName ethnicity="roman" role="legate" n
 become habituated to the licentious mode of living at <place settlement="Alexandria">Alexandria</place>, and
 had forgotten the name and discipline of the <tribe name="romans">Roman people</tribe>, and had
 married wives there, by whom the greatest part of them had children. To
-these was added a collection of highwaymen and free-booters, from Syria,
+these was added a collection of highwaymen and free-booters, from <place region="syria">Syria</place>,
 and the province of Cilicia, and the adjacent countries. Besides several
 convicts and transports had been collected: for at <place settlement="Alexandria">Alexandria</place> all our
 runaway slaves were sure of finding protection for their persons on the
@@ -4675,3 +4675,4 @@ Caesar. Such was the commencement of the Alexandrian war.
 </chapter>
 </book>
 </section>
+</root>
