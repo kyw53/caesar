@@ -2510,14 +2510,14 @@ countrymen; and, after having deliberated on the matter, would return to
 <persName eth="roman" role="general" nameid="caesar">Caesar</persName> after the third day, they begged that he would not in the
 meantime advance his camp nearer to them. <persName eth="roman" role="general" nameid="caesar">Caesar</persName> said that he could not
 grant them even that; for he had learned that they had sent a great part
-of their cavalry over the Meuse to the Ambivariti, some days before, for
+of their cavalry over the <place river="Meuse">Meuse</place> to the Ambivariti, some days before, for
 the purpose of plundering and procuring forage. He supposed that they
 were then waiting for these horse, and that the delay was caused on this
 account.</chapter>
 
-<chapter n="X">X.--The Meuse rises from mount Le Vosge, which is in the territories of
+<chapter n="X">X.--The <place river="Meuse">Meuse</place> rises from mount Le Vosge, which is in the territories of
 the <tribe name="Lingones">Lingones</tribe>; and, having received a branch of the <place river="rhine">Rhine</place>, which is
-called the Waal, forms the island of the Batavi, and not more than
+called the Waal, forms the island of the <tribe name="Batavi">Batavi</tribe>, and not more than
 eighty miles from it it falls into the ocean. But the <place river="rhine">Rhine</place> takes its
 course among the <tribe name="Lepontii">Lepontii</tribe>, who inhabit the <place mountain="Alps">Alps</place>, and is carried with a
 rapid current for a long distance through the territories of the
@@ -2551,7 +2551,7 @@ assailed, to sustain the attack until he came up with the army.</chapter>
 
 <chapter n="XII">XII.--But the enemy, as soon as they saw our horse, the number of which
 was 5000, whereas they themselves had not more than 800 horse, because
-those which had gone over the Meuse for the purpose of foraging had not
+those which had gone over the <place river="Meuse">Meuse</place> for the purpose of foraging had not
 returned, while our men had no apprehensions, because their ambassadors
 had gone away from <persName eth="roman" role="general" nameid="caesar">Caesar</persName> a little before, and that day had been
 requested by them as a period of truce, made an onset on our men, and
@@ -2615,7 +2615,7 @@ to fly in all directions; in pursuit of whom <persName eth="roman" role="general
 <chapter n="XV">XV.--The <tribe name="germans">Germans</tribe> when, upon hearing a noise behind them, [they looked
 and] saw that their families were being slain, throwing away their arms
 and abandoning their standards, fled out of the camp, and when they had
-arrived at the confluence of the Meuse and the <place river="rhine">Rhine</place>, the survivors
+arrived at the confluence of the <place river="Meuse">Meuse</place> and the <place river="rhine">Rhine</place>, the survivors
 despairing of farther escape, as a great number of their countrymen had
 been killed, threw themselves into the river and there perished,
 overcome by fear, fatigue, and the violence of the stream. Our soldiers,
@@ -2626,14 +2626,15 @@ liberty of departing. They however, dreading revenge and torture from
 the <tribe name="Gauls">Gauls</tribe>, whose lands they had harassed, said that they desired to
 remain with him. <persName eth="roman" role="general" nameid="caesar">Caesar</persName> granted them permission.</chapter>
 
-<chapter n="XVI">XVI.--The German war being finished, <persName eth="roman" role="general" nameid="caesar">Caesar</persName> thought it expedient for him
+<chapter n="XVI">XVI.--The <event victor="Romans" type="battle" figure="430000">German war</event> being finished, <persName eth="roman" role="general" nameid="caesar">Caesar</persName> thought it expedient for him
+    <!-- KYW: @figure is the number of Germanii -->
 to cross the <place river="rhine">Rhine</place>, for many reasons; of which this was the most
 weighty, that, since he saw the <tribe name="germans">Germans</tribe> were so easily urged to go into
 <place region="gaul">Gaul</place>, he desired they should have their fears for their own territories
 when they discovered that the army of the <tribe name="Romans">Roman people</tribe> both could and
 dared pass the <place river="rhine">Rhine</place>. There was added also, that that portion of the
 cavalry of the <tribe name="Usipetes">Usipetes</tribe> and the <tribe name="Tenchtheri">Tenchtheri</tribe>, which I have above related
-to have crossed the Meuse for the purpose of plundering and procuring
+to have crossed the <place river="Meuse">Meuse</place> for the purpose of plundering and procuring
 forage, and was not present at the engagement, had betaken themselves,
 after the retreat of their countrymen, across the <place river="rhine">Rhine</place> into the
 territories of the <tribe name="Sigambri">Sigambri</tribe>, and united themselves to them. When <persName eth="roman" role="general" nameid="caesar">Caesar</persName>
