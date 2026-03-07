@@ -5,13 +5,17 @@ body{
 h1{
     font-style: italic;
     font-weight:bold;
-    margin: 24px;
-    font-size:32pt;
+    font-size:36px;
     text-align:center;
 }
 h2{
-    font-style: italic;
-    margin: 32px;
+    font-size:32px;
+    margin:48px;
+}
+
+h3{
+    font-size:24px;
+    margin:48px;
 }
 
 hr{
@@ -26,7 +30,7 @@ img{
 }
 
 p{
-    margin: 32px;
+    margin: 48px;
     font-size:16pt;
     padding:10px;
 }
