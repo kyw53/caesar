@@ -45,7 +45,6 @@ nav div:hover {
     margin-left: 220px;
     min-height: 100vh;
     padding: 40px;
-    background-color: #e3ddc8;
 }
 
 /* Typography */
@@ -83,4 +82,32 @@ img {
     border-radius: 10px;
     display: block;
     margin: 20px auto;
+}
+
+body.home {
+    background-image: 
+        linear-gradient(rgba(227, 221, 200, 0.5)),
+        url("images/map-background.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+body.main-content {
+    background-color: #e3ddc8;
+}
+
+footer {
+  margin-left: 220px; 
+  text-align: center;
+  font-size: 12px;
+  padding: 10px 0;
+  color: #555;
+}
+footer img {
+  display: inline;     
+  height: 16px;         
+  vertical-align: middle;
+  margin-left: 3px;
 }
