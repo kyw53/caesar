@@ -1,20 +1,26 @@
-In Caesar's Commentaries, the Roman Messala appears 2 times. 
- In Caesar's Commentaries, the Roman M_Piso appears 2 times. 
- In Caesar's Commentaries, the Roman L_Piso appears 3 times. 
- In Caesar's Commentaries, the Roman Gabinius appears 5 times. 
- In Caesar's Commentaries, the Roman Caesar appears 625 times. 
- In Caesar's Commentaries, the Roman L_Cassius appears 3 times. 
- In Caesar's Commentaries, the Roman Labienus appears 13 times. 
- In Caesar's Commentaries, the Roman M_Crassus appears 2 times. 
+In Caesar's Commentaries, the Roman Caesar appears 892 times. 
+ In Caesar's Commentaries, the Roman Pompey appears 270 times. 
+ In Caesar's Commentaries, the Roman Labienus appears 68 times. 
+ In Caesar's Commentaries, the Roman Afranius appears 58 times. 
+ In Caesar's Commentaries, the Roman Scipio appears 41 times. 
+ In Caesar's Commentaries, the Roman Marcus_Antonius appears 34 times. 
+ In Caesar's Commentaries, the Roman C_Fabius appears 28 times. 
+ In Caesar's Commentaries, the Roman C_Trebonius appears 23 times. 
+ In Caesar's Commentaries, the Roman Petreius_Younger appears 23 times. 
+ In Caesar's Commentaries, the Roman G_Caninius appears 20 times. 
+ In Caesar's Commentaries, the Roman Lentulus appears 20 times. 
  In Caesar's Commentaries, the Roman P_Crassus appears 18 times. 
  In Caesar's Commentaries, the Roman Sabinus appears 15 times. 
- In Caesar's Commentaries, the Roman Cotta appears 3 times. 
- In Caesar's Commentaries, the Roman Baculus appears 2 times. 
+ In Caesar's Commentaries, the Roman D_Brutus appears 13 times. 
+ In Caesar's Commentaries, the Roman M_Crassus appears 11 times. 
+ In Caesar's Commentaries, the Roman Gabinius appears 5 times. 
  In Caesar's Commentaries, the Roman S_Galba appears 5 times. 
- In Caesar's Commentaries, the Roman D_Brutus appears 2 times. 
- In Caesar's Commentaries, the Roman Pompey appears 260 times. 
- In Caesar's Commentaries, the Roman Lentulus appears 20 times. 
- In Caesar's Commentaries, the Roman Scipio appears 41 times. 
- In Caesar's Commentaries, the Roman Markus_Antonius appears 21 times. 
  In Caesar's Commentaries, the Roman Cato appears 5 times. 
- In Caesar's Commentaries, the Roman Afranius appears 58 times. 
+ In Caesar's Commentaries, the Roman L_Piso appears 3 times. 
+ In Caesar's Commentaries, the Roman L_Cassius appears 3 times. 
+ In Caesar's Commentaries, the Roman P_Considius appears 3 times. 
+ In Caesar's Commentaries, the Roman Cotta appears 3 times. 
+ In Caesar's Commentaries, the Roman Messala appears 2 times. 
+ In Caesar's Commentaries, the Roman M_Piso appears 2 times. 
+ In Caesar's Commentaries, the Roman Baculus appears 2 times. 
+ In Caesar's Commentaries, the Roman Petreius_Elder appears 1 times. 
