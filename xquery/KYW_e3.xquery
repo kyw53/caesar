@@ -18,7 +18,7 @@ declare option saxon:output "method=html";
         <h1>Roman Appearance Count</h1>
         <p>Wondering which Romans show up in Caesar's Commentaries?</p>
         
-                <table>
+                <table class="basicTable">
                 <tr><th>Order</th><th>Roman</th><th>Appearances</th></tr>
                 {
                 let $text := doc("../xml/caesar_all_chapters.xml")

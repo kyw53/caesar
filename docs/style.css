@@ -111,3 +111,8 @@ footer img {
   vertical-align: middle;
   margin-left: 3px;
 }
+
+.basicTable {
+    text-align:center;
+    font-size: 18px;
+}

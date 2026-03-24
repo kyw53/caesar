@@ -17,9 +17,10 @@ declare option saxon:output "method=html";
         
         <div class="main-content">
         <h1>Divide et Impera</h1>
-        <h2>Wondering which Romans show up in Caesar's Commentaries?</h2>
+        <h2>Tables</h2>
+        <h3>Wondering which Romans show up in Caesar's Commentaries?</h3>
         
-                <table style="text-align:center">
+                <table class="basicTable">
                 <tr><th>Order</th><th>Roman</th><th>Appearances</th></tr>
                 {
                 let $text := doc("../xml/caesar_all_chapters.xml")
@@ -31,8 +32,10 @@ declare option saxon:output "method=html";
                     order by $roman-count descending
                 return <tr><td>{$pos}</td> <td>{$roman}</td> <td>{$roman-count}</td></tr>
          }</table>
+         <h3>Table 2:</h3>
+         <p>[Placeholder]</p>
          
-         <h2>Table 2:</h2>
+         <h3>Table 3:</h3>
          <p>[Placeholder]</p>
          </div>
     </body>
