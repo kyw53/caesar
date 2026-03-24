@@ -3,7 +3,7 @@ declare option saxon:output "method=html";
 <html>
     <head>
         <title>Tables</title>
-        <link type="text/css" href="../docs/style.css" rel="stylesheet" />
+        <link type="text/css" href="style.css" rel="stylesheet" />
     </head>
     
     <body>
