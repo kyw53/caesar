@@ -46,25 +46,28 @@ declare variable $caesar := doc("../xml/caesar_all_chapters.xml");
          <h3>Table 2:</h3>
          <p>Locations mentioned in the Ceasar's Commentaries</p>
             <table border="1">
-                <tr><th>Type</th><th>Location</th><th>Appearances</th></tr>
+                <tr>
+                    <th>Type</th>
+                    <th>Location</th>
+                    <th>Appearances</th></tr>
                 {
                 let $text := doc("../xml/caesar_all_chapters.xml")
                 let $book := //book
                 let $place := $book//place[data()]=>distinct-values()
                 (:let $type:=$book//place/@river=>count():)(:placeholder until know how to select all the attributes:)
-                let $nodes := $text//place[data() = $place]
+                (:let $nodes := $text//place[data() = $place]
                 let $place-count := count($nodes)
                 let $type :=
                     if ($nodes[1]/@region) then "region"
                     else if ($nodes[1]/@river) then "river"
                     else if ($nodes[1]/@mountain) then "mountain"
-                    else "other"
+                    else "other":)
                 where $place-count > 1
                     order by $type descending
                     order by $place-count ascending
                 return 
                     <tr>
-                        <td>{$type}</td> 
+                        (:<td>{$type}</td> :)
                         <td>{$place}</td> 
                         <td>{$place-count}</td>
                     </tr>
