@@ -40,7 +40,8 @@ declare option saxon:output "method=html";
                 let $text := doc("../xml/caesar_all_chapters.xml")
                 let $book := //book
                 let $place := $book//place[data()]=>distinct-values()
-                let $type:=$book//place/@river=>count()(:placeholder until know how to select all the attributes:)
+                (:let $type:=$book//place/@river=>count():)(:placeholder until know how to select all the attributes:)
+                let $type:=$book//place/@*
                 let $place-count := //place[data()] =>count()
                     where $place-count > 1
                     order by $type descending
