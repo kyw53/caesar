@@ -1,0 +1,1 @@
+Settled on using the Tables page to dump our raw tables, then putting data visualizations on our page 5. We then also used our tables to help us figure out what we needed to correct in the markup in terms of attributes and values. We also talked about potentially using the translate() function to get rid of the underscores in the output of @nameid. 

@@ -1,0 +1,9 @@
+Research Question:
+
+How do Caesar’s Commentaries on the Gallic and Civil Wars construct the relative importance of tribes across geographic space, and what patterns of power and interaction emerge through mapping and frequency analysis of people, tribes, and locations?
+
+Methodology:
+
+We used XML markup to tag people, tribes, and locations, then analyze the data through mapping and frequency-based visualizations to identify patterns of geographic movement and narrative emphasis. In particular, we made sure to tag Romans that appear in both sections, as that allowed us to track who may have gotten their start in Gaul before they got involved in the Civil War.
+
+
