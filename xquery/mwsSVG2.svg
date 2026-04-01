@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450">
+   <g transform="translate(50,50)">
+      <text x="200" y="0" font-size="26" font-weight="bold">
+            Top 5 Tribes Mentioned
+        </text>
+      <!-- axes -->
+      <line x1="150"
+            y1="50"
+            x2="150"
+            y2="350"
+            stroke="black"
+            stroke-width="2"/>
+      <line x1="150"
+            y1="350"
+            x2="700"
+            y2="350"
+            stroke="black"
+            stroke-width="2"/>
+      <g>
+         <text x="20" y="100" font-size="18"/>
+         <rect x="150"
+               y="80"
+               width=""
+               height="25"
+               fill="darkred"
+               stroke="black"/>
+         <text x="" y="100" font-size="16"/>
+      </g>
+      <g>
+         <text x="20" y="150" font-size="18"/>
+         <rect x="150"
+               y="130"
+               width=""
+               height="25"
+               fill="darkred"
+               stroke="black"/>
+         <text x="" y="150" font-size="16"/>
+      </g>
+      <g>
+         <text x="20" y="200" font-size="18"/>
+         <rect x="150"
+               y="180"
+               width=""
+               height="25"
+               fill="darkred"
+               stroke="black"/>
+         <text x="" y="200" font-size="16"/>
+      </g>
+      <g>
+         <text x="20" y="250" font-size="18"/>
+         <rect x="150"
+               y="230"
+               width=""
+               height="25"
+               fill="darkred"
+               stroke="black"/>
+         <text x="" y="250" font-size="16"/>
+      </g>
+      <g>
+         <text x="20" y="300" font-size="18"/>
+         <rect x="150"
+               y="280"
+               width=""
+               height="25"
+               fill="darkred"
+               stroke="black"/>
+         <text x="" y="300" font-size="16"/>
+      </g>
+      <!-- scale labels -->
+      <text x="150" y="370" font-size="14">0</text>
+      <text x="250" y="370" font-size="14">25</text>
+      <text x="350" y="370" font-size="14">50</text>
+      <text x="450" y="370" font-size="14">75</text>
+      <text x="550" y="370" font-size="14">100</text>
+      <text x="650" y="370" font-size="14">125</text>
+   </g>
+</svg>
