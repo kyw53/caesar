@@ -4,19 +4,17 @@ declare variable $yspacer := 50;
 declare variable $barHeight := 25;
 
 let $tribes :=
-    for $name in distinct-values($caesar//tribe/@name ! string())
-    let $count := count($caesar//tribe[@name = $name])
-    where normalize-space($name) != ""
-    order by $count descending, $name
-    return
-        <tribe>
-            <name>{$name}</name>
-            <count>{$count}</count>
-        </tribe>
-
-let $top5 := subsequence($tribes, 1, 5)
-
-return
+                for $name in distinct-values($caesar//Q{}tribe/@name ! string())
+                let $count := count($caesar//Q{}tribe[@name = $name])
+                order by $count descending, $name
+                return
+                    <tribe>
+                        <name>{$name}</name>
+                        <count>{$count}</count>
+                    </tribe>
+            
+            let $top5 := subsequence($tribes, 1, 5)
+return            
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="450">
     <g transform="translate(50,50)">
         
@@ -28,15 +26,15 @@ return
         <line x1="150" y1="50" x2="150" y2="350" stroke="black" stroke-width="2"/>
         <line x1="150" y1="350" x2="700" y2="350" stroke="black" stroke-width="2"/>
         
-        {
+        {           
             for $tribe at $pos in $top5
-            let $name := string(//tribe/@name)
-            let $count := xs:integer($tribe/count)
+            let $count := xs:integer($tribe//Q{}count)
+            
             let $y := $pos * $yspacer + 30
             let $barWidth := $count * $xscale
             return
                 <g>
-                    <text x="20" y="{$y + 20}" font-size="18">{$name}</text>
+                    <text x="75" y="{$y + 20}" font-size="18">{string($tribe/Q{}name)}</text>
                     
                     <rect x="150"
                           y="{$y}"
