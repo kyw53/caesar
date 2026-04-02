@@ -85,5 +85,6 @@ declare variable $barHeight := 25;
         }
         </svg>
         }
+        </div>
     </body>
 </html>
