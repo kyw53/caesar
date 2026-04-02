@@ -4,11 +4,23 @@ declare variable $yspacer := 30;
 declare variable $barHeight := 25;
 
 <html>
-   <head>
-      <title>Top 5 Places Mentioned in Each Book</title>
-   </head>
-   <body>
-        <h1>Top 5 Places Mentioned in Each Book</h1>
+    <head>
+        <title>Page 5</title>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link type="text/css" href="style.css" rel="stylesheet" />
+    </head>
+    <body> 
+        <nav>
+            <div><a href="index.html">Home</a></div>
+            <div><a href="background.html">Background</a></div>
+            <div><a href="about.html">About</a></div>
+            <div><a href="romanTable.html">Tables</a></div>
+            <div><a href="page5.html">Page 5</a></div>
+        </nav>
+        <div class="main-content">
+        <h1>Divide et Impera</h1>
+        <h2>Top 5 Places Mentioned in Each Book</h2>
         {
         let $books := $caesar//Q{}book
         let $bookCount := count($books)
