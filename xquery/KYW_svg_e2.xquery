@@ -1,7 +1,7 @@
 declare variable $x-spacer := 45;
 declare variable $y-spacer := 45;
 declare variable $text := doc("../xml/caesar_all_chapters.xml");
-declare variable $c_books := $text//section[@part="civil"]//book;
+declare variable $c_books := $text//Q{}section[@part="civil"]//Q{}book;
 
 
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 -1000 1000 1000">
