@@ -1,0 +1,1 @@
+Continued working on SVG E2 and trying to get the XQuery to work. Plan to make 2 vertical bar graphs (Caesar by book and another TBD) and 1 network graph (Romans by book) (1 graph per person). Plan for two tables, one based on frequency of locations by book, and another TBD. Continued working on XPath/XQuery to get those done.
