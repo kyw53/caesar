@@ -27,8 +27,8 @@ declare variable $caesar := doc("../xml/caesar_all_chapters.xml");
             <table border="1">
                 <tr><th>Order</th><th>Roman</th><th>Appearances</th></tr>
                 {
-                let $text := doc("../xml/caesar_all_chapters.xml")
-                let $book := //book
+                let $text := doc("../xml/caesar_all_chapters.xml") (:whc: you already defined a global variable $caesar for this:)
+                let $book := //book (:whc: this path doesn't start with $text or $caesar, so you'll always have to have the correct xml file selected in the dropdown on oXygen :)
                 let $romans := $book//persName[@eth="roman"]/data(@nameid)=>distinct-values()
                 for $roman at $pos in $romans
                 let $roman-count := //persName[data(@nameid) = $roman] =>count()
@@ -62,7 +62,7 @@ declare variable $caesar := doc("../xml/caesar_all_chapters.xml");
                     else if ($nodes[1]/@river) then "river"
                     else if ($nodes[1]/@mountain) then "mountain"
                     else "other":)
-                where $place-count > 1
+                where $place-count > 1  (:whc: you have commented out the definition for variable $place-count, so the XQuery can't run:)
                     order by $type descending
                     order by $place-count ascending
                 return 

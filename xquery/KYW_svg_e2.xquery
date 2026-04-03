@@ -4,7 +4,7 @@ declare variable $text := doc("../xml/caesar_all_chapters.xml");
 declare variable $c_books := $text//section[@part="civil"]//book;
 
 
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 -1000 1000 1000">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -1000 1000 1000">
 <desc>A rough draft for a network diagram showing the Romans mentioned in each book of both the Gallic Wars and the Civil War.</desc>
 <g alignment-baseline="baseline" transform="translate(0, 0)">
 
@@ -76,7 +76,7 @@ declare variable $c_books := $text//section[@part="civil"]//book;
    order by $num
    return 
    for $roman in $book//Q{}persName[@eth="roman"]/data(@nameid)=>distinct-values()
-   let $roman-count := //Q{}persName[data(@nameid) = $roman] =>count()
+   let $roman-count := $book//Q{}persName[data(@nameid) = $roman] =>count()
    return <g>
    <text x="100" y="-100">{$roman}</text>
    </g>
