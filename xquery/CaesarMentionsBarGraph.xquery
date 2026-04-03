@@ -22,6 +22,8 @@ declare variable $yspacer := 20;
         <div class="main-content">
         <h1>Divide et Impera</h1>
         <h2>In which book is Caesar mentioned the most the most times?</h2>
+        <h3>This table tries to explore how many times Ceasar is mentioned in each book and to find a dynamic in it</h3>
+
            
    <svg xmlns="http://www.w3.org/2000/svg" width="1300" height="1000">
        <g transform="translate(60,0)">
@@ -76,7 +78,6 @@ declare variable $yspacer := 20;
         </g>
     </svg>
 
-        <p>This table tries to explore how many times Ceasar is mentioned in each book and to find a dynamic in it</p>
         
         </div>
     </body>
