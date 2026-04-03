@@ -24,7 +24,7 @@ declare variable $c_books := $text//section[@part="civil"]//book;
     <h3>Mostly functional at last</h3>
     <p>
         <div class="kyle-svg">
-        <svg xmlns="http://www.w3.org/2000/svg" width="auto" height="auto" viewBox="-125 -1000 1250 1000">
+        <svg xmlns="http://www.w3.org/2000/svg" width="auto" height="auto" viewBox="-125 -800 1250 600">
             <desc>A network graph</desc>
             {
             let $num := $text/Q{}book/(@num)
