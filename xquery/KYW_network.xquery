@@ -1,3 +1,4 @@
+declare namespace math = "http://www.w3.org/2005/xpath-functions/math";
 declare variable $section := //section/data(@part);
 declare variable $x-spacer := 55;
 declare variable $y-spacer := 45;
@@ -31,8 +32,8 @@ declare variable $c_books := $text//section[@part="civil"]//book;
             for $book at $num in $g_books
             return <g>
             <line x1="200" x2="{($x-spacer * 4.5 *math:cos(40 * ($num + 1))) + 200}" y1="-500" y2="{-500 - ($y-spacer * 4.5 *math:sin(40 * ($num + 1) ))}" stroke="#8a2b2b" opacity="25%"/>
-            <circle r="8.5" cx="{($x-spacer * 4.5 *math:cos(40 * ($num + 1))) + 200}" cy="{-500 - ($y-spacer * 4.5 *math:sin(40 * ($num + 1) ))}" fill="#FFFFFF" stroke="#8a2b2b" stroke-dasharray="3"/>
-            <text x="{($x-spacer * 4.5 * math:cos(40 * ($num + 1))) + 200}" y="{-500 - ($y-spacer * 4.5 *math:sin(40 * ($num + 1) ))}" text-anchor="middle" font-size="4">Book {($num)}</text>
+            <circle r="12.5" cx="{($x-spacer * 4.5 *math:cos(40 * ($num + 1))) + 200}" cy="{-500 - ($y-spacer * 4.5 *math:sin(40 * ($num + 1) ))}" fill="#FFFFFF" stroke="#8a2b2b" stroke-dasharray="3"/>
+            <text x="{($x-spacer * 4.5 * math:cos(40 * ($num + 1))) + 200}" y="{-500 - ($y-spacer * 4.5 *math:sin(40 * ($num + 1) ))}" text-anchor="middle" font-size="6">Book {($num)}</text>
             </g>
             }
                 {
@@ -44,9 +45,9 @@ declare variable $c_books := $text//section[@part="civil"]//book;
                     for $roman at $pos in $book//Q{}persName[@eth="roman"]/data(@nameid)=>distinct-values()
                     let $roman-count := $book//Q{}persName[data(@nameid) = $roman] =>count()
                     return <g>
-                    <line x1="{($x-spacer * 4.5 *math:cos(40 * ($num + 1))) + 200}" x2="{($x-spacer * 4.5 *math:cos(40 * ($num + 1))) + 200 +($x-spacer*math:cos(36*($pos - 1)))}" y1="{-500 - ($y-spacer * 4.5 *math:sin(40 * ($num + 1) )) }" y2="{-500 - ($y-spacer * 4.5 *math:sin(40 * ($num + 1) )) - ($y-spacer*math:sin(36*($pos - 1)))}" stroke="#8a2b2b" opacity="25%" stroke-width="{$roman-count*0.5}"/>
-                    <circle r="8.5" cx="{($x-spacer * 4.5 *math:cos(40 * ($num + 1))) + 200 +($x-spacer*math:cos(36*($pos - 1)))}" cy="{-500 - ($y-spacer * 4.5 *math:sin(40 * ($num + 1) )) - ($y-spacer*math:sin(36*($pos - 1)))}" fill="none" stroke="#8a2b2b" stroke-dasharray="3"/>
-                    <text x="{($x-spacer * 4.5 *math:cos(40 * ($num + 1))) + 200 +($x-spacer*math:cos(36*($pos - 1)))}" y="{-500 - ($y-spacer * 4.5 *math:sin(40 * ($num + 1) )) - ($y-spacer*math:sin(36*($pos - 1)))}" text-anchor="middle" font-size="4">{$roman}</text>
+                    <line x1="{($x-spacer * 4.5 *math:cos(40 * ($num + 1))) + 200}" x2="{($x-spacer * 4.5 *math:cos(40 * ($num + 1))) + 200 +($x-spacer*math:cos(36*($pos - 1)))}" y1="{-500 - ($y-spacer * 4.5 *math:sin(40 * ($num + 1) )) }" y2="{-500 - ($y-spacer * 4.5 *math:sin(40 * ($num + 1) )) - ($y-spacer*math:sin(36*($pos - 1)))}" stroke="#8a2b2b" opacity="25%" stroke-width="{math:sqrt($roman-count)}"/>
+                    <circle r="10.5" cx="{($x-spacer * 4.5 *math:cos(40 * ($num + 1))) + 200 +($x-spacer*math:cos(36*($pos - 1)))}" cy="{-500 - ($y-spacer * 4.5 *math:sin(40 * ($num + 1) )) - ($y-spacer*math:sin(36*($pos - 1)))}" fill="none" stroke="#8a2b2b" stroke-dasharray="3"/>
+                    <text x="{($x-spacer * 4.5 *math:cos(40 * ($num + 1))) + 200 +($x-spacer*math:cos(36*($pos - 1)))}" y="{-500 - ($y-spacer * 4.5 *math:sin(40 * ($num + 1) )) - ($y-spacer*math:sin(36*($pos - 1)))}" text-anchor="middle" font-size="6">{$roman}</text>
                     </g>
                 }
                 
@@ -55,8 +56,8 @@ declare variable $c_books := $text//section[@part="civil"]//book;
             for $book at $num in $c_books
             return <g>
             <line x1="800" x2="{($x-spacer * 4.5 *math:cos(40 * ($num + 1))) + 800}" y1="-500" y2="{-500 - ($y-spacer * 4.5 *math:sin(40 * ($num + 1) ))}" stroke="#8a2b2b" opacity="25%"/>
-            <circle r="8.5" cx="{($x-spacer * 4.5 *math:cos(40 * ($num + 1))) + 800}" cy="{-500 - ($y-spacer * 4.5 *math:sin(40 * ($num + 1) ))}" fill="#FFFFFF" stroke="#8a2b2b" stroke-dasharray="3"/>
-            <text x="{($x-spacer * 4.5 * math:cos(40 * ($num + 1))) + 800}" y="{-500 - ($y-spacer * 4.5 *math:sin(40 * ($num + 1) ))}" text-anchor="middle" font-size="4">Book {($num)}</text>
+            <circle r="12.5" cx="{($x-spacer * 4.5 *math:cos(40 * ($num + 1))) + 800}" cy="{-500 - ($y-spacer * 4.5 *math:sin(40 * ($num + 1) ))}" fill="#FFFFFF" stroke="#8a2b2b" stroke-dasharray="3"/>
+            <text x="{($x-spacer * 4.5 * math:cos(40 * ($num + 1))) + 800}" y="{-500 - ($y-spacer * 4.5 *math:sin(40 * ($num + 1) ))}" text-anchor="middle" font-size="6">Book {($num)}</text>
             </g>
             }
                 {
@@ -68,9 +69,9 @@ declare variable $c_books := $text//section[@part="civil"]//book;
                     for $roman at $pos in $book//Q{}persName[@eth="roman"]/data(@nameid)=>distinct-values()
                     let $roman-count := $book//Q{}persName[data(@nameid) = $roman] =>count()
                     return <g>
-                    <line x1="{($x-spacer * 4.5 *math:cos(40 * ($num + 1))) + 800}" x2="{($x-spacer * 4.5 *math:cos(40 * ($num + 1))) + 800 +($x-spacer*math:cos(40*($pos - 1)))}" y1="{-500 - ($y-spacer * 4.5 *math:sin(40 * ($num + 1) )) }" y2="{-500 - ($y-spacer * 4.5 *math:sin(40 * ($num + 1) )) - ($y-spacer*math:sin(40*($pos - 1)))}" stroke="#8a2b2b" opacity="25%" stroke-width="{$roman-count*0.5}"/>
-                    <circle r="8.5" cx="{($x-spacer * 4.5 *math:cos(40 * ($num + 1))) + 800 +($x-spacer*math:cos(40*($pos - 1)))}" cy="{-500 - ($y-spacer * 4.5 *math:sin(40 * ($num + 1) )) - ($y-spacer*math:sin(40*($pos - 1)))}" fill="none" stroke="#8a2b2b" stroke-dasharray="3"/>
-                    <text x="{($x-spacer * 4.5 *math:cos(40 * ($num + 1))) + 800 +($x-spacer*math:cos(40*($pos - 1)))}" y="{-500 - ($y-spacer * 4.5 *math:sin(40 * ($num + 1) )) - ($y-spacer*math:sin(40*($pos - 1)))}" text-anchor="middle" font-size="4">{$roman}</text>
+                    <line x1="{($x-spacer * 4.5 *math:cos(40 * ($num + 1))) + 800}" x2="{($x-spacer * 4.5 *math:cos(40 * ($num + 1))) + 800 +($x-spacer*math:cos(40*($pos - 1)))}" y1="{-500 - ($y-spacer * 4.5 *math:sin(40 * ($num + 1) )) }" y2="{-500 - ($y-spacer * 4.5 *math:sin(40 * ($num + 1) )) - ($y-spacer*math:sin(40*($pos - 1)))}" stroke="#8a2b2b" opacity="25%" stroke-width="{math:sqrt($roman-count)}"/>
+                    <circle r="10.5" cx="{($x-spacer * 4.5 *math:cos(40 * ($num + 1))) + 800 +($x-spacer*math:cos(40*($pos - 1)))}" cy="{-500 - ($y-spacer * 4.5 *math:sin(40 * ($num + 1) )) - ($y-spacer*math:sin(40*($pos - 1)))}" fill="none" stroke="#8a2b2b" stroke-dasharray="3"/>
+                    <text x="{($x-spacer * 4.5 *math:cos(40 * ($num + 1))) + 800 +($x-spacer*math:cos(40*($pos - 1)))}" y="{-500 - ($y-spacer * 4.5 *math:sin(40 * ($num + 1) )) - ($y-spacer*math:sin(40*($pos - 1)))}" text-anchor="middle" font-size="6">{$roman}</text>
                     </g>
                 }    
             <g alignment-baseline="baseline" transform="translate(0, 0)">
