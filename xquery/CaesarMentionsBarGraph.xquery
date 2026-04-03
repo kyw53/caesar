@@ -22,11 +22,9 @@ declare variable $yspacer := 20;
         <div class="main-content">
         <h1>Divide et Impera</h1>
         <h2>In which book is Caesar mentioned the most the most times?</h2>
-        
-<svg xmlns="http://www.w3.org/2000/svg" width="1300" height="1000">
-    <g transform="translate(60,0)">
-
-    <g>
+           
+   <svg xmlns="http://www.w3.org/2000/svg" width="1300" height="1000">
+       <g transform="translate(60,0)">
         {
             let $books :=$text//Q{}book
             for $book at $pos in $books
@@ -73,17 +71,13 @@ declare variable $yspacer := 20;
                     font-family="sans-serif" 
                     font-size="12px" 
                     fill="black">{$caesar-count}</text>
-                
                 </g>
         }
         </g>
-    </g>
-</svg>
-        
-        </div>
-        <div>
+    </svg>
+
         <p>This table tries to explore how many times Ceasar is mentioned in each book and to find a dynamic in it</p>
         
         </div>
-        </body>
-        </html>
+    </body>
+</html>
