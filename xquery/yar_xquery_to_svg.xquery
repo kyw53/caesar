@@ -15,7 +15,7 @@ declare variable $romans := $book//persName[@eth="roman"]/data(@nameid)=>distinc
         {
             for $roman at $pos in $romans
             let $roman-count := $text//Q{}persName[data(@nameid) = $roman] =>count()
-                where $roman-count > 2
+                
             return
                 <g>
                 <line x1="0" y1="0" x2="{($pos+1)*$yspacer}" y2="0" stroke="black" stroke-width="2"/>
