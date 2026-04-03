@@ -1,0 +1,1931 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="100%"
+     height="100%"
+     viewBox="0 -1000 1000 1000">
+   <desc>A network graph</desc>
+   <g>
+      <line x1="200"
+            x2="172.67915714983573"
+            y1="-500"
+            y2="-298.73754758051655"
+            stroke="#8a2b2b"
+            opacity="25%"/>
+      <circle r="8.5"
+              cx="172.67915714983573"
+              cy="-298.73754758051655"
+              fill="#FFFFFF"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="172.67915714983573"
+            y="-298.73754758051655"
+            text-anchor="middle"
+            font-size="4">Book 1</text>
+   </g>
+   <g>
+      <line x1="200"
+            x2="401.50979020532407"
+            y1="-500"
+            y2="-617.5737648029937"
+            stroke="#8a2b2b"
+            opacity="25%"/>
+      <circle r="8.5"
+              cx="401.50979020532407"
+              cy="-617.5737648029937"
+              fill="#FFFFFF"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="401.50979020532407"
+            y="-617.5737648029937"
+            text-anchor="middle"
+            font-size="4">Book 2</text>
+   </g>
+   <g>
+      <line x1="200"
+            x2="-41.46825491682125"
+            y1="-500"
+            y2="-544.4336148217485"
+            stroke="#8a2b2b"
+            opacity="25%"/>
+      <circle r="8.5"
+              cx="-41.46825491682125"
+              cy="-544.4336148217485"
+              fill="#FFFFFF"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="-41.46825491682125"
+            y="-544.4336148217485"
+            text-anchor="middle"
+            font-size="4">Book 3</text>
+   </g>
+   <g>
+      <line x1="200"
+            x2="320.578949564234"
+            y1="-500"
+            y2="-323.1572973141661"
+            stroke="#8a2b2b"
+            opacity="25%"/>
+      <circle r="8.5"
+              cx="320.578949564234"
+              cy="-323.1572973141661"
+              fill="#FFFFFF"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="320.578949564234"
+            y="-323.1572973141661"
+            text-anchor="middle"
+            font-size="4">Book 4</text>
+   </g>
+   <g>
+      <line x1="200"
+            x2="280.6308731199491"
+            y1="-500"
+            y2="-691.4526438715261"
+            stroke="#8a2b2b"
+            opacity="25%"/>
+      <circle r="8.5"
+              cx="280.6308731199491"
+              cy="-691.4526438715261"
+              fill="#FFFFFF"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="280.6308731199491"
+            y="-691.4526438715261"
+            text-anchor="middle"
+            font-size="4">Book 5</text>
+   </g>
+   <g>
+      <line x1="200"
+            x2="-28.13054602013065"
+            y1="-500"
+            y2="-421.46859228208103"
+            stroke="#8a2b2b"
+            opacity="25%"/>
+      <circle r="8.5"
+              cx="-28.13054602013065"
+              cy="-421.46859228208103"
+              fill="#FFFFFF"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="-28.13054602013065"
+            y="-421.46859228208103"
+            text-anchor="middle"
+            font-size="4">Book 6</text>
+   </g>
+   <g>
+      <line x1="200"
+            x2="423.66701521272694"
+            y1="-500"
+            y2="-413.29852581289856"
+            stroke="#8a2b2b"
+            opacity="25%"/>
+      <circle r="8.5"
+              cx="423.66701521272694"
+              cy="-413.29852581289856"
+              fill="#FFFFFF"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="423.66701521272694"
+            y="-413.29852581289856"
+            text-anchor="middle"
+            font-size="4">Book 7</text>
+   </g>
+   <g>
+      <line x1="200"
+            x2="129.7864548570845"
+            y1="-500"
+            y2="-694.1804339913971"
+            stroke="#8a2b2b"
+            opacity="25%"/>
+      <circle r="8.5"
+              cx="129.7864548570845"
+              cy="-694.1804339913971"
+              fill="#FFFFFF"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="129.7864548570845"
+            y="-694.1804339913971"
+            text-anchor="middle"
+            font-size="4">Book 8</text>
+   </g>
+   <g>
+      <line x1="172.67915714983573"
+            x2="227.67915714983573"
+            y1="-298.73754758051655"
+            y2="-298.73754758051655"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="1"/>
+      <circle r="8.5"
+              cx="227.67915714983573"
+              cy="-298.73754758051655"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="227.67915714983573"
+            y="-298.73754758051655"
+            text-anchor="middle"
+            font-size="4">Messala</text>
+   </g>
+   <g>
+      <line x1="172.67915714983573"
+            x2="165.64115422032847"
+            y1="-298.73754758051655"
+            y2="-254.10749917557632"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="1"/>
+      <circle r="8.5"
+              cx="165.64115422032847"
+              cy="-254.10749917557632"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="165.64115422032847"
+            y="-254.10749917557632"
+            text-anchor="middle"
+            font-size="4">M. Piso</text>
+   </g>
+   <g>
+      <line x1="172.67915714983573"
+            x2="119.48037479477219"
+            y1="-298.73754758051655"
+            y2="-310.1595989048082"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="1"/>
+      <circle r="8.5"
+              cx="119.48037479477219"
+              cy="-310.1595989048082"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="119.48037479477219"
+            y="-310.1595989048082"
+            text-anchor="middle"
+            font-size="4">L. Piso</text>
+   </g>
+   <g>
+      <line x1="172.67915714983573"
+            x2="193.3321850270214"
+            y1="-298.73754758051655"
+            y2="-340.44438032431685"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="0.5"/>
+      <circle r="8.5"
+              cx="193.3321850270214"
+              cy="-340.44438032431685"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="193.3321850270214"
+            y="-340.44438032431685"
+            text-anchor="middle"
+            font-size="4">Gabinius</text>
+   </g>
+   <g>
+      <line x1="172.67915714983573"
+            x2="220.59226420661463"
+            y1="-298.73754758051655"
+            y2="-276.6415758550854"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="54"/>
+      <circle r="8.5"
+              cx="220.59226420661463"
+              cy="-276.6415758550854"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="220.59226420661463"
+            y="-276.6415758550854"
+            text-anchor="middle"
+            font-size="4">Caesar</text>
+   </g>
+   <g>
+      <line x1="172.67915714983573"
+            x2="139.76385335165355"
+            y1="-298.73754758051655"
+            y2="-262.6856789724942"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="1.5"/>
+      <circle r="8.5"
+              cx="139.76385335165355"
+              cy="-262.6856789724942"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="139.76385335165355"
+            y="-262.6856789724942"
+            text-anchor="middle"
+            font-size="4">L. Cassius</text>
+   </g>
+   <g>
+      <line x1="172.67915714983573"
+            x2="133.18997753150148"
+            y1="-298.73754758051655"
+            y2="-330.06017955603755"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="3.5"/>
+      <circle r="8.5"
+              cx="133.18997753150148"
+              cy="-330.06017955603755"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="133.18997753150148"
+            y="-330.06017955603755"
+            text-anchor="middle"
+            font-size="4">Labienus</text>
+   </g>
+   <g>
+      <line x1="172.67915714983573"
+            x2="215.70082319666065"
+            y1="-298.73754758051655"
+            y2="-326.77309707568094"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="1.5"/>
+      <circle r="8.5"
+              cx="215.70082319666065"
+              cy="-326.77309707568094"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="215.70082319666065"
+            y="-326.77309707568094"
+            text-anchor="middle"
+            font-size="4">P. Considius</text>
+   </g>
+   <g>
+      <line x1="172.67915714983573"
+            x2="201.15791452563047"
+            y1="-298.73754758051655"
+            y2="-260.2398508967296"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="0.5"/>
+      <circle r="8.5"
+              cx="201.15791452563047"
+              cy="-260.2398508967296"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="201.15791452563047"
+            y="-260.2398508967296"
+            text-anchor="middle"
+            font-size="4">M. Crassus</text>
+   </g>
+   <g>
+      <line x1="172.67915714983573"
+            x2="122.3689973633901"
+            y1="-298.73754758051655"
+            y2="-280.5546127049803"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="0.5"/>
+      <circle r="8.5"
+              cx="122.3689973633901"
+              cy="-280.5546127049803"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="122.3689973633901"
+            y="-280.5546127049803"
+            text-anchor="middle"
+            font-size="4">P. Crassus</text>
+   </g>
+   <g>
+      <line x1="-41.46825491682125"
+            x2="13.531745083178748"
+            y1="-544.4336148217485"
+            y2="-544.4336148217485"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="9"/>
+      <circle r="8.5"
+              cx="13.531745083178748"
+              cy="-544.4336148217485"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="13.531745083178748"
+            y="-544.4336148217485"
+            text-anchor="middle"
+            font-size="4">Caesar</text>
+   </g>
+   <g>
+      <line x1="-41.46825491682125"
+            x2="-48.50625784632851"
+            y1="-544.4336148217485"
+            y2="-499.8035664168083"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="2.5"/>
+      <circle r="8.5"
+              cx="-48.50625784632851"
+              cy="-499.8035664168083"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="-48.50625784632851"
+            y="-499.8035664168083"
+            text-anchor="middle"
+            font-size="4">S. Galba</text>
+   </g>
+   <g>
+      <line x1="-41.46825491682125"
+            x2="-94.6670372718848"
+            y1="-544.4336148217485"
+            y2="-555.8556661460401"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="0.5"/>
+      <circle r="8.5"
+              cx="-94.6670372718848"
+              cy="-555.8556661460401"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="-94.6670372718848"
+            y="-555.8556661460401"
+            text-anchor="middle"
+            font-size="4">Baculus</text>
+   </g>
+   <g>
+      <line x1="-41.46825491682125"
+            x2="-20.815227039635587"
+            y1="-544.4336148217485"
+            y2="-586.1404475655488"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="8"/>
+      <circle r="8.5"
+              cx="-20.815227039635587"
+              cy="-586.1404475655488"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="-20.815227039635587"
+            y="-586.1404475655488"
+            text-anchor="middle"
+            font-size="4">P. Crassus</text>
+   </g>
+   <g>
+      <line x1="-41.46825491682125"
+            x2="6.444852139957639"
+            y1="-544.4336148217485"
+            y2="-522.3376430963174"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="0.5"/>
+      <circle r="8.5"
+              cx="6.444852139957639"
+              cy="-522.3376430963174"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="6.444852139957639"
+            y="-522.3376430963174"
+            text-anchor="middle"
+            font-size="4">Labienus</text>
+   </g>
+   <g>
+      <line x1="-41.46825491682125"
+            x2="-74.38355871500345"
+            y1="-544.4336148217485"
+            y2="-508.38174621372616"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="5"/>
+      <circle r="8.5"
+              cx="-74.38355871500345"
+              cy="-508.38174621372616"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="-74.38355871500345"
+            y="-508.38174621372616"
+            text-anchor="middle"
+            font-size="4">Sabinus</text>
+   </g>
+   <g>
+      <line x1="-41.46825491682125"
+            x2="-80.9574345351555"
+            y1="-544.4336148217485"
+            y2="-575.7562467972696"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="1"/>
+      <circle r="8.5"
+              cx="-80.9574345351555"
+              cy="-575.7562467972696"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="-80.9574345351555"
+            y="-575.7562467972696"
+            text-anchor="middle"
+            font-size="4">D. Brutus</text>
+   </g>
+   <g>
+      <line x1="401.50979020532407"
+            x2="456.50979020532407"
+            y1="-617.5737648029937"
+            y2="-617.5737648029937"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="21"/>
+      <circle r="8.5"
+              cx="456.50979020532407"
+              cy="-617.5737648029937"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="456.50979020532407"
+            y="-617.5737648029937"
+            text-anchor="middle"
+            font-size="4">Caesar</text>
+   </g>
+   <g>
+      <line x1="401.50979020532407"
+            x2="394.47178727581684"
+            y1="-617.5737648029937"
+            y2="-572.9437163980534"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="1.5"/>
+      <circle r="8.5"
+              cx="394.47178727581684"
+              cy="-572.9437163980534"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="394.47178727581684"
+            y="-572.9437163980534"
+            text-anchor="middle"
+            font-size="4">Labienus</text>
+   </g>
+   <g>
+      <line x1="401.50979020532407"
+            x2="348.3110078502605"
+            y1="-617.5737648029937"
+            y2="-628.9958161272853"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="1.5"/>
+      <circle r="8.5"
+              cx="348.3110078502605"
+              cy="-628.9958161272853"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="348.3110078502605"
+            y="-628.9958161272853"
+            text-anchor="middle"
+            font-size="4">Sabinus</text>
+   </g>
+   <g>
+      <line x1="401.50979020532407"
+            x2="422.1628180825097"
+            y1="-617.5737648029937"
+            y2="-659.280597546794"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="0.5"/>
+      <circle r="8.5"
+              cx="422.1628180825097"
+              cy="-659.280597546794"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="422.1628180825097"
+            y="-659.280597546794"
+            text-anchor="middle"
+            font-size="4">Cotta</text>
+   </g>
+   <g>
+      <line x1="401.50979020532407"
+            x2="449.42289726210294"
+            y1="-617.5737648029937"
+            y2="-595.4777930775625"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="0.5"/>
+      <circle r="8.5"
+              cx="449.42289726210294"
+              cy="-595.4777930775625"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="449.42289726210294"
+            y="-595.4777930775625"
+            text-anchor="middle"
+            font-size="4">Baculus</text>
+   </g>
+   <g>
+      <line x1="401.50979020532407"
+            x2="368.59448640714186"
+            y1="-617.5737648029937"
+            y2="-581.5218961949713"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="0.5"/>
+      <circle r="8.5"
+              cx="368.59448640714186"
+              cy="-581.5218961949713"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="368.59448640714186"
+            y="-581.5218961949713"
+            text-anchor="middle"
+            font-size="4">P. Crassus</text>
+   </g>
+   <g>
+      <line x1="280.6308731199491"
+            x2="335.6308731199491"
+            y1="-691.4526438715261"
+            y2="-691.4526438715261"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="36.5"/>
+      <circle r="8.5"
+              cx="335.6308731199491"
+              cy="-691.4526438715261"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="335.6308731199491"
+            y="-691.4526438715261"
+            text-anchor="middle"
+            font-size="4">Caesar</text>
+   </g>
+   <g>
+      <line x1="280.6308731199491"
+            x2="273.5928701904419"
+            y1="-691.4526438715261"
+            y2="-646.8225954665859"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="8"/>
+      <circle r="8.5"
+              cx="273.5928701904419"
+              cy="-646.8225954665859"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="273.5928701904419"
+            y="-646.8225954665859"
+            text-anchor="middle"
+            font-size="4">Labienus</text>
+   </g>
+   <g>
+      <line x1="280.6308731199491"
+            x2="227.43209076488557"
+            y1="-691.4526438715261"
+            y2="-702.8746951958177"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="1"/>
+      <circle r="8.5"
+              cx="227.43209076488557"
+              cy="-702.8746951958177"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="227.43209076488557"
+            y="-702.8746951958177"
+            text-anchor="middle"
+            font-size="4">C. Trebonius</text>
+   </g>
+   <g>
+      <line x1="280.6308731199491"
+            x2="301.28390099713477"
+            y1="-691.4526438715261"
+            y2="-733.1594766153264"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="2"/>
+      <circle r="8.5"
+              cx="301.28390099713477"
+              cy="-733.1594766153264"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="301.28390099713477"
+            y="-733.1594766153264"
+            text-anchor="middle"
+            font-size="4">C. Fabius</text>
+   </g>
+   <g>
+      <line x1="280.6308731199491"
+            x2="328.543980176728"
+            y1="-691.4526438715261"
+            y2="-669.356672146095"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="2.5"/>
+      <circle r="8.5"
+              cx="328.543980176728"
+              cy="-669.356672146095"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="328.543980176728"
+            y="-669.356672146095"
+            text-anchor="middle"
+            font-size="4">M. Crassus</text>
+   </g>
+   <g>
+      <line x1="320.578949564234"
+            x2="375.578949564234"
+            y1="-323.1572973141661"
+            y2="-323.1572973141661"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="0.5"/>
+      <circle r="8.5"
+              cx="375.578949564234"
+              cy="-323.1572973141661"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="375.578949564234"
+            y="-323.1572973141661"
+            text-anchor="middle"
+            font-size="4">Pompey</text>
+   </g>
+   <g>
+      <line x1="320.578949564234"
+            x2="313.54094663472677"
+            y1="-323.1572973141661"
+            y2="-278.5272489092259"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="0.5"/>
+      <circle r="8.5"
+              cx="313.54094663472677"
+              cy="-278.5272489092259"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="313.54094663472677"
+            y="-278.5272489092259"
+            text-anchor="middle"
+            font-size="4">M. Crassus</text>
+   </g>
+   <g>
+      <line x1="320.578949564234"
+            x2="267.38016720917045"
+            y1="-323.1572973141661"
+            y2="-334.57934863845776"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="25"/>
+      <circle r="8.5"
+              cx="267.38016720917045"
+              cy="-334.57934863845776"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="267.38016720917045"
+            y="-334.57934863845776"
+            text-anchor="middle"
+            font-size="4">Caesar</text>
+   </g>
+   <g>
+      <line x1="320.578949564234"
+            x2="341.23197744141964"
+            y1="-323.1572973141661"
+            y2="-364.8641300579664"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="1"/>
+      <circle r="8.5"
+              cx="341.23197744141964"
+              cy="-364.8641300579664"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="341.23197744141964"
+            y="-364.8641300579664"
+            text-anchor="middle"
+            font-size="4">Sabinus</text>
+   </g>
+   <g>
+      <line x1="320.578949564234"
+            x2="368.49205662101286"
+            y1="-323.1572973141661"
+            y2="-301.061325588735"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="1"/>
+      <circle r="8.5"
+              cx="368.49205662101286"
+              cy="-301.061325588735"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="368.49205662101286"
+            y="-301.061325588735"
+            text-anchor="middle"
+            font-size="4">Cotta</text>
+   </g>
+   <g>
+      <line x1="320.578949564234"
+            x2="287.6636457660518"
+            y1="-323.1572973141661"
+            y2="-287.10542870614375"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="1"/>
+      <circle r="8.5"
+              cx="287.6636457660518"
+              cy="-287.10542870614375"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="287.6636457660518"
+            y="-287.10542870614375"
+            text-anchor="middle"
+            font-size="4">Labienus</text>
+   </g>
+   <g>
+      <line x1="423.66701521272694"
+            x2="478.66701521272694"
+            y1="-413.29852581289856"
+            y2="-413.29852581289856"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="46"/>
+      <circle r="8.5"
+              cx="478.66701521272694"
+              cy="-413.29852581289856"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="478.66701521272694"
+            y="-413.29852581289856"
+            text-anchor="middle"
+            font-size="4">Caesar</text>
+   </g>
+   <g>
+      <line x1="423.66701521272694"
+            x2="416.6290122832197"
+            y1="-413.29852581289856"
+            y2="-368.66847740795833"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="0.5"/>
+      <circle r="8.5"
+              cx="416.6290122832197"
+              cy="-368.66847740795833"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="416.6290122832197"
+            y="-368.66847740795833"
+            text-anchor="middle"
+            font-size="4">Pompey</text>
+   </g>
+   <g>
+      <line x1="423.66701521272694"
+            x2="370.4682328576634"
+            y1="-413.29852581289856"
+            y2="-424.7205771371902"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="1"/>
+      <circle r="8.5"
+              cx="370.4682328576634"
+              cy="-424.7205771371902"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="370.4682328576634"
+            y="-424.7205771371902"
+            text-anchor="middle"
+            font-size="4">D. Brutus</text>
+   </g>
+   <g>
+      <line x1="423.66701521272694"
+            x2="444.3200430899126"
+            y1="-413.29852581289856"
+            y2="-455.00535855669887"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="1"/>
+      <circle r="8.5"
+              cx="444.3200430899126"
+              cy="-455.00535855669887"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="444.3200430899126"
+            y="-455.00535855669887"
+            text-anchor="middle"
+            font-size="4">C. Trebonius</text>
+   </g>
+   <g>
+      <line x1="423.66701521272694"
+            x2="471.5801222695058"
+            y1="-413.29852581289856"
+            y2="-391.20255408746743"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="7.5"/>
+      <circle r="8.5"
+              cx="471.5801222695058"
+              cy="-391.20255408746743"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="471.5801222695058"
+            y="-391.20255408746743"
+            text-anchor="middle"
+            font-size="4">Labienus</text>
+   </g>
+   <g>
+      <line x1="423.66701521272694"
+            x2="390.75171141454473"
+            y1="-413.29852581289856"
+            y2="-377.2466572048762"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="2.5"/>
+      <circle r="8.5"
+              cx="390.75171141454473"
+              cy="-377.2466572048762"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="390.75171141454473"
+            y="-377.2466572048762"
+            text-anchor="middle"
+            font-size="4">C. Fabius</text>
+   </g>
+   <g>
+      <line x1="423.66701521272694"
+            x2="384.1778355943927"
+            y1="-413.29852581289856"
+            y2="-444.62115778841957"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="0.5"/>
+      <circle r="8.5"
+              cx="384.1778355943927"
+              cy="-444.62115778841957"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="384.1778355943927"
+            y="-444.62115778841957"
+            text-anchor="middle"
+            font-size="4">Petreius. Elder</text>
+   </g>
+   <g>
+      <line x1="423.66701521272694"
+            x2="466.68868125955186"
+            y1="-413.29852581289856"
+            y2="-441.33407530806295"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="0.5"/>
+      <circle r="8.5"
+              cx="466.68868125955186"
+              cy="-441.33407530806295"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="466.68868125955186"
+            y="-441.33407530806295"
+            text-anchor="middle"
+            font-size="4">Marcus. Antonius</text>
+   </g>
+   <g>
+      <line x1="423.66701521272694"
+            x2="452.14577258852165"
+            y1="-413.29852581289856"
+            y2="-374.8008291291116"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="1"/>
+      <circle r="8.5"
+              cx="452.14577258852165"
+              cy="-374.8008291291116"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="452.14577258852165"
+            y="-374.8008291291116"
+            text-anchor="middle"
+            font-size="4">G. Caninius</text>
+   </g>
+   <g>
+      <line x1="-28.13054602013065"
+            x2="26.86945397986935"
+            y1="-421.46859228208103"
+            y2="-421.46859228208103"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="16.5"/>
+      <circle r="8.5"
+              cx="26.86945397986935"
+              cy="-421.46859228208103"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="26.86945397986935"
+            y="-421.46859228208103"
+            text-anchor="middle"
+            font-size="4">Caesar</text>
+   </g>
+   <g>
+      <line x1="-28.13054602013065"
+            x2="-35.16854894963791"
+            y1="-421.46859228208103"
+            y2="-376.8385438771408"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="1"/>
+      <circle r="8.5"
+              cx="-35.16854894963791"
+              cy="-376.8385438771408"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="-35.16854894963791"
+            y="-376.8385438771408"
+            text-anchor="middle"
+            font-size="4">Pompey</text>
+   </g>
+   <g>
+      <line x1="-28.13054602013065"
+            x2="-81.3293283751942"
+            y1="-421.46859228208103"
+            y2="-432.8906436063727"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="5"/>
+      <circle r="8.5"
+              cx="-81.3293283751942"
+              cy="-432.8906436063727"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="-81.3293283751942"
+            y="-432.8906436063727"
+            text-anchor="middle"
+            font-size="4">Labienus</text>
+   </g>
+   <g>
+      <line x1="-28.13054602013065"
+            x2="-7.477518142944987"
+            y1="-421.46859228208103"
+            y2="-463.17542502588134"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="0.5"/>
+      <circle r="8.5"
+              cx="-7.477518142944987"
+              cy="-463.17542502588134"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="-7.477518142944987"
+            y="-463.17542502588134"
+            text-anchor="middle"
+            font-size="4">C. Fabius</text>
+   </g>
+   <g>
+      <line x1="-28.13054602013065"
+            x2="19.78256103664824"
+            y1="-421.46859228208103"
+            y2="-399.3726205566499"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="0.5"/>
+      <circle r="8.5"
+              cx="19.78256103664824"
+              cy="-399.3726205566499"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="19.78256103664824"
+            y="-399.3726205566499"
+            text-anchor="middle"
+            font-size="4">M. Crassus</text>
+   </g>
+   <g>
+      <line x1="-28.13054602013065"
+            x2="-61.045849818312846"
+            y1="-421.46859228208103"
+            y2="-385.4167236740587"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="1.5"/>
+      <circle r="8.5"
+              cx="-61.045849818312846"
+              cy="-385.4167236740587"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="-61.045849818312846"
+            y="-385.4167236740587"
+            text-anchor="middle"
+            font-size="4">C. Trebonius</text>
+   </g>
+   <g>
+      <line x1="129.7864548570845"
+            x2="184.7864548570845"
+            y1="-694.1804339913971"
+            y2="-694.1804339913971"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="34.5"/>
+      <circle r="8.5"
+              cx="184.7864548570845"
+              cy="-694.1804339913971"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="184.7864548570845"
+            y="-694.1804339913971"
+            text-anchor="middle"
+            font-size="4">Caesar</text>
+   </g>
+   <g>
+      <line x1="129.7864548570845"
+            x2="122.74845192757724"
+            y1="-694.1804339913971"
+            y2="-649.5503855864569"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="6"/>
+      <circle r="8.5"
+              cx="122.74845192757724"
+              cy="-649.5503855864569"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="122.74845192757724"
+            y="-649.5503855864569"
+            text-anchor="middle"
+            font-size="4">Marcus. Antonius</text>
+   </g>
+   <g>
+      <line x1="129.7864548570845"
+            x2="76.58767250202095"
+            y1="-694.1804339913971"
+            y2="-705.6024853156887"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="3"/>
+      <circle r="8.5"
+              cx="76.58767250202095"
+              cy="-705.6024853156887"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="76.58767250202095"
+            y="-705.6024853156887"
+            text-anchor="middle"
+            font-size="4">C. Trebonius</text>
+   </g>
+   <g>
+      <line x1="129.7864548570845"
+            x2="150.43948273427014"
+            y1="-694.1804339913971"
+            y2="-735.8872667351974"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="5.5"/>
+      <circle r="8.5"
+              cx="150.43948273427014"
+              cy="-735.8872667351974"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="150.43948273427014"
+            y="-735.8872667351974"
+            text-anchor="middle"
+            font-size="4">C. Fabius</text>
+   </g>
+   <g>
+      <line x1="129.7864548570845"
+            x2="177.6995619138634"
+            y1="-694.1804339913971"
+            y2="-672.084462265966"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="3.5"/>
+      <circle r="8.5"
+              cx="177.6995619138634"
+              cy="-672.084462265966"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="177.6995619138634"
+            y="-672.084462265966"
+            text-anchor="middle"
+            font-size="4">Labienus</text>
+   </g>
+   <g>
+      <line x1="129.7864548570845"
+            x2="96.8711510589023"
+            y1="-694.1804339913971"
+            y2="-658.1285653833747"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="7.5"/>
+      <circle r="8.5"
+              cx="96.8711510589023"
+              cy="-658.1285653833747"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="96.8711510589023"
+            y="-658.1285653833747"
+            text-anchor="middle"
+            font-size="4">G. Caninius</text>
+   </g>
+   <g>
+      <line x1="129.7864548570845"
+            x2="90.29727523875025"
+            y1="-694.1804339913971"
+            y2="-725.5030659669181"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="1"/>
+      <circle r="8.5"
+              cx="90.29727523875025"
+              cy="-725.5030659669181"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="90.29727523875025"
+            y="-725.5030659669181"
+            text-anchor="middle"
+            font-size="4">M. Crassus</text>
+   </g>
+   <g>
+      <line x1="129.7864548570845"
+            x2="172.8081209039094"
+            y1="-694.1804339913971"
+            y2="-722.2159834865614"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="3.5"/>
+      <circle r="8.5"
+              cx="172.8081209039094"
+              cy="-722.2159834865614"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="172.8081209039094"
+            y="-722.2159834865614"
+            text-anchor="middle"
+            font-size="4">Pompey</text>
+   </g>
+   <g>
+      <line x1="800"
+            x2="772.6791571498358"
+            y1="-500"
+            y2="-298.73754758051655"
+            stroke="#8a2b2b"
+            opacity="25%"/>
+      <circle r="8.5"
+              cx="772.6791571498358"
+              cy="-298.73754758051655"
+              fill="#FFFFFF"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="772.6791571498358"
+            y="-298.73754758051655"
+            text-anchor="middle"
+            font-size="4">Book 1</text>
+   </g>
+   <g>
+      <line x1="800"
+            x2="1001.5097902053241"
+            y1="-500"
+            y2="-617.5737648029937"
+            stroke="#8a2b2b"
+            opacity="25%"/>
+      <circle r="8.5"
+              cx="1001.5097902053241"
+              cy="-617.5737648029937"
+              fill="#FFFFFF"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="1001.5097902053241"
+            y="-617.5737648029937"
+            text-anchor="middle"
+            font-size="4">Book 2</text>
+   </g>
+   <g>
+      <line x1="800"
+            x2="558.5317450831787"
+            y1="-500"
+            y2="-544.4336148217485"
+            stroke="#8a2b2b"
+            opacity="25%"/>
+      <circle r="8.5"
+              cx="558.5317450831787"
+              cy="-544.4336148217485"
+              fill="#FFFFFF"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="558.5317450831787"
+            y="-544.4336148217485"
+            text-anchor="middle"
+            font-size="4">Book 3</text>
+   </g>
+   <g>
+      <line x1="605.0360622229118"
+            x2="660.0360622229118"
+            y1="-624.7433845372432"
+            y2="-624.7433845372432"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="99.5"/>
+      <circle r="8.5"
+              cx="660.0360622229118"
+              cy="-624.7433845372432"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="660.0360622229118"
+            y="-624.7433845372432"
+            text-anchor="middle"
+            font-size="4">Caesar</text>
+   </g>
+   <g>
+      <line x1="605.0360622229118"
+            x2="568.3544688320375"
+            y1="-624.7433845372432"
+            y2="-658.2734767588139"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="88.5"/>
+      <circle r="8.5"
+              cx="568.3544688320375"
+              cy="-658.2734767588139"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="568.3544688320375"
+            y="-658.2734767588139"
+            text-anchor="middle"
+            font-size="4">Pompey</text>
+   </g>
+   <g>
+      <line x1="605.0360622229118"
+            x2="598.9647638117642"
+            y1="-624.7433845372432"
+            y2="-580.0183951106912"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="4"/>
+      <circle r="8.5"
+              cx="598.9647638117642"
+              cy="-580.0183951106912"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="598.9647638117642"
+            y="-580.0183951106912"
+            text-anchor="middle"
+            font-size="4">Lentulus</text>
+   </g>
+   <g>
+      <line x1="605.0360622229118"
+            x2="649.8160156018728"
+            y1="-624.7433845372432"
+            y2="-650.8708878267973"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="7.5"/>
+      <circle r="8.5"
+              cx="649.8160156018728"
+              cy="-650.8708878267973"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="649.8160156018728"
+            y="-650.8708878267973"
+            text-anchor="middle"
+            font-size="4">Marcus. Antonius</text>
+   </g>
+   <g>
+      <line x1="605.0360622229118"
+            x2="551.3764500191737"
+            y1="-624.7433845372432"
+            y2="-634.6175211642984"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="17"/>
+      <circle r="8.5"
+              cx="551.3764500191737"
+              cy="-634.6175211642984"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="551.3764500191737"
+            y="-634.6175211642984"
+            text-anchor="middle"
+            font-size="4">Scipio</text>
+   </g>
+   <g>
+      <line x1="605.0360622229118"
+            x2="631.8313843482972"
+            y1="-624.7433845372432"
+            y2="-585.4450061626134"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="2"/>
+      <circle r="8.5"
+              cx="631.8313843482972"
+              cy="-585.4450061626134"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="631.8313843482972"
+            y="-585.4450061626134"
+            text-anchor="middle"
+            font-size="4">Gabinius</text>
+   </g>
+   <g>
+      <line x1="605.0360622229118"
+            x2="622.954034027345"
+            y1="-624.7433845372432"
+            y2="-667.2884165086934"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="3"/>
+      <circle r="8.5"
+              cx="622.954034027345"
+              cy="-667.2884165086934"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="622.954034027345"
+            y="-667.2884165086934"
+            text-anchor="middle"
+            font-size="4">Labienus</text>
+   </g>
+   <g>
+      <line x1="605.0360622229118"
+            x2="554.3403853295495"
+            y1="-624.7433845372432"
+            y2="-607.2919605999278"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="1.5"/>
+      <circle r="8.5"
+              cx="554.3403853295495"
+              cy="-607.2919605999278"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="554.3403853295495"
+            y="-607.2919605999278"
+            text-anchor="middle"
+            font-size="4">C. Trebonius</text>
+   </g>
+   <g>
+      <line x1="605.0360622229118"
+            x2="654.7398433812956"
+            y1="-624.7433845372432"
+            y2="-605.4763902734428"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="0.5"/>
+      <circle r="8.5"
+              cx="654.7398433812956"
+              cy="-605.4763902734428"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="654.7398433812956"
+            y="-605.4763902734428"
+            text-anchor="middle"
+            font-size="4">M. Crassus</text>
+   </g>
+   <g>
+      <line x1="605.0360622229118"
+            x2="589.4330521911528"
+            y1="-624.7433845372432"
+            y2="-667.8945920908869"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="0.5"/>
+      <circle r="8.5"
+              cx="589.4330521911528"
+              cy="-667.8945920908869"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="589.4330521911528"
+            y="-667.8945920908869"
+            text-anchor="middle"
+            font-size="4">Petreius. Younger</text>
+   </g>
+   <g>
+      <line x1="605.0360622229118"
+            x2="576.1447635975724"
+            y1="-624.7433845372432"
+            y2="-586.4520133534802"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="1"/>
+      <circle r="8.5"
+              cx="576.1447635975724"
+              cy="-586.4520133534802"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="576.1447635975724"
+            y="-586.4520133534802"
+            text-anchor="middle"
+            font-size="4">Afranius</text>
+   </g>
+   <g>
+      <line x1="669.9891561859723"
+            x2="724.9891561859723"
+            y1="-327.6888296730667"
+            y2="-327.6888296730667"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="83.5"/>
+      <circle r="8.5"
+              cx="724.9891561859723"
+              cy="-327.6888296730667"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="724.9891561859723"
+            y="-327.6888296730667"
+            text-anchor="middle"
+            font-size="4">Caesar</text>
+   </g>
+   <g>
+      <line x1="669.9891561859723"
+            x2="633.307562795098"
+            y1="-327.6888296730667"
+            y2="-361.21892189463745"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="6"/>
+      <circle r="8.5"
+              cx="633.307562795098"
+              cy="-361.21892189463745"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="633.307562795098"
+            y="-361.21892189463745"
+            text-anchor="middle"
+            font-size="4">Lentulus</text>
+   </g>
+   <g>
+      <line x1="669.9891561859723"
+            x2="663.9178577748247"
+            y1="-327.6888296730667"
+            y2="-282.96384024651485"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="3.5"/>
+      <circle r="8.5"
+              cx="663.9178577748247"
+              cy="-282.96384024651485"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="663.9178577748247"
+            y="-282.96384024651485"
+            text-anchor="middle"
+            font-size="4">Scipio</text>
+   </g>
+   <g>
+      <line x1="669.9891561859723"
+            x2="714.7691095649332"
+            y1="-327.6888296730667"
+            y2="-353.8163329626209"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="38"/>
+      <circle r="8.5"
+              cx="714.7691095649332"
+              cy="-353.8163329626209"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="714.7691095649332"
+            y="-353.8163329626209"
+            text-anchor="middle"
+            font-size="4">Pompey</text>
+   </g>
+   <g>
+      <line x1="669.9891561859723"
+            x2="616.3295439822342"
+            y1="-327.6888296730667"
+            y2="-337.56296630012196"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="3"/>
+      <circle r="8.5"
+              cx="616.3295439822342"
+              cy="-337.56296630012196"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="616.3295439822342"
+            y="-337.56296630012196"
+            text-anchor="middle"
+            font-size="4">Marcus. Antonius</text>
+   </g>
+   <g>
+      <line x1="669.9891561859723"
+            x2="696.7844783113576"
+            y1="-327.6888296730667"
+            y2="-288.390451298437"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="0.5"/>
+      <circle r="8.5"
+              cx="696.7844783113576"
+              cy="-288.390451298437"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="696.7844783113576"
+            y="-288.390451298437"
+            text-anchor="middle"
+            font-size="4">L. Piso</text>
+   </g>
+   <g>
+      <line x1="669.9891561859723"
+            x2="687.9071279904055"
+            y1="-327.6888296730667"
+            y2="-370.233861644517"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="2.5"/>
+      <circle r="8.5"
+              cx="687.9071279904055"
+              cy="-370.233861644517"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="687.9071279904055"
+            y="-370.233861644517"
+            text-anchor="middle"
+            font-size="4">Cato</text>
+   </g>
+   <g>
+      <line x1="669.9891561859723"
+            x2="619.29347929261"
+            y1="-327.6888296730667"
+            y2="-310.2374057357514"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="0.5"/>
+      <circle r="8.5"
+              cx="619.29347929261"
+              cy="-310.2374057357514"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="619.29347929261"
+            y="-310.2374057357514"
+            text-anchor="middle"
+            font-size="4">Labienus</text>
+   </g>
+   <g>
+      <line x1="669.9891561859723"
+            x2="719.6929373443561"
+            y1="-327.6888296730667"
+            y2="-308.4218354092664"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="1"/>
+      <circle r="8.5"
+              cx="719.6929373443561"
+              cy="-308.4218354092664"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="719.6929373443561"
+            y="-308.4218354092664"
+            text-anchor="middle"
+            font-size="4">G. Caninius</text>
+   </g>
+   <g>
+      <line x1="669.9891561859723"
+            x2="654.3861461542133"
+            y1="-327.6888296730667"
+            y2="-370.84003722671054"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="1.5"/>
+      <circle r="8.5"
+              cx="654.3861461542133"
+              cy="-370.84003722671054"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="654.3861461542133"
+            y="-370.84003722671054"
+            text-anchor="middle"
+            font-size="4">D. Brutus</text>
+   </g>
+   <g>
+      <line x1="669.9891561859723"
+            x2="641.0978575606329"
+            y1="-327.6888296730667"
+            y2="-289.3974584893038"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="0.5"/>
+      <circle r="8.5"
+              cx="641.0978575606329"
+              cy="-289.3974584893038"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="641.0978575606329"
+            y="-289.3974584893038"
+            text-anchor="middle"
+            font-size="4">C. Trebonius</text>
+   </g>
+   <g>
+      <line x1="669.9891561859723"
+            x2="724.1295796253324"
+            y1="-327.6888296730667"
+            y2="-335.6135678700352"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="3.5"/>
+      <circle r="8.5"
+              cx="724.1295796253324"
+              cy="-335.6135678700352"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="724.1295796253324"
+            y="-335.6135678700352"
+            text-anchor="middle"
+            font-size="4">C. Fabius</text>
+   </g>
+   <g>
+      <line x1="669.9891561859723"
+            x2="626.6638366799527"
+            y1="-327.6888296730667"
+            y2="-355.4095817924541"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="26"/>
+      <circle r="8.5"
+              cx="626.6638366799527"
+              cy="-355.4095817924541"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="626.6638366799527"
+            y="-355.4095817924541"
+            text-anchor="middle"
+            font-size="4">Afranius</text>
+   </g>
+   <g>
+      <line x1="669.9891561859723"
+            x2="673.6393419702315"
+            y1="-327.6888296730667"
+            y2="-282.7880421040042"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="10"/>
+      <circle r="8.5"
+              cx="673.6393419702315"
+              cy="-282.7880421040042"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="673.6393419702315"
+            y="-282.7880421040042"
+            text-anchor="middle"
+            font-size="4">Petreius. Younger</text>
+   </g>
+   <g>
+      <line x1="1043.6319054771207"
+            x2="1098.6319054771207"
+            y1="-535.6613218863581"
+            y2="-535.6613218863581"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="3"/>
+      <circle r="8.5"
+              cx="1098.6319054771207"
+              cy="-535.6613218863581"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="1098.6319054771207"
+            y="-535.6613218863581"
+            text-anchor="middle"
+            font-size="4">C. Trebonius</text>
+   </g>
+   <g>
+      <line x1="1043.6319054771207"
+            x2="1006.9503120862463"
+            y1="-535.6613218863581"
+            y2="-569.1914141079288"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="20.5"/>
+      <circle r="8.5"
+              cx="1006.9503120862463"
+              cy="-569.1914141079288"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="1006.9503120862463"
+            y="-569.1914141079288"
+            text-anchor="middle"
+            font-size="4">Caesar</text>
+   </g>
+   <g>
+      <line x1="1043.6319054771207"
+            x2="1037.560607065973"
+            y1="-535.6613218863581"
+            y2="-490.93633245980624"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="3"/>
+      <circle r="8.5"
+              cx="1037.560607065973"
+              cy="-490.93633245980624"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="1037.560607065973"
+            y="-490.93633245980624"
+            text-anchor="middle"
+            font-size="4">Pompey</text>
+   </g>
+   <g>
+      <line x1="1043.6319054771207"
+            x2="1088.4118588560816"
+            y1="-535.6613218863581"
+            y2="-561.7888251759123"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="3"/>
+      <circle r="8.5"
+              cx="1088.4118588560816"
+              cy="-561.7888251759123"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="1088.4118588560816"
+            y="-561.7888251759123"
+            text-anchor="middle"
+            font-size="4">D. Brutus</text>
+   </g>
+   <g>
+      <line x1="1043.6319054771207"
+            x2="989.9722932733825"
+            y1="-535.6613218863581"
+            y2="-545.5354585134133"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="1"/>
+      <circle r="8.5"
+              cx="989.9722932733825"
+              cy="-545.5354585134133"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="989.9722932733825"
+            y="-545.5354585134133"
+            text-anchor="middle"
+            font-size="4">Petreius. Younger</text>
+   </g>
+   <g>
+      <line x1="1043.6319054771207"
+            x2="1070.427227602506"
+            y1="-535.6613218863581"
+            y2="-496.36294351172836"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="2"/>
+      <circle r="8.5"
+              cx="1070.427227602506"
+              cy="-496.36294351172836"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="1070.427227602506"
+            y="-496.36294351172836"
+            text-anchor="middle"
+            font-size="4">Afranius</text>
+   </g>
+   <g>
+      <line x1="1043.6319054771207"
+            x2="1061.5498772815538"
+            y1="-535.6613218863581"
+            y2="-578.2063538578084"
+            stroke="#8a2b2b"
+            opacity="25%"
+            stroke-width="0.5"/>
+      <circle r="8.5"
+              cx="1061.5498772815538"
+              cy="-578.2063538578084"
+              fill="none"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="1061.5498772815538"
+            y="-578.2063538578084"
+            text-anchor="middle"
+            font-size="4">G. Caninius</text>
+   </g>
+   <g alignment-baseline="baseline" transform="translate(0, 0)">
+      <line x1="200"
+            x2="512.5"
+            y1="-500"
+            y2="-500"
+            stroke="#8a2b2b"
+            opacity="25%"/>
+      <line x1="500"
+            x2="787.5"
+            y1="-500"
+            y2="-500"
+            stroke="#8a2b2b"
+            opacity="25%"/>
+      <circle r="20.5"
+              cx="500"
+              cy="-500"
+              fill="#FFFFFF"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="500" y="-500" text-anchor="middle" font-size="8">Caesar</text>
+      <circle r="20.5"
+              cx="200"
+              cy="-500"
+              fill="#FFFFFF"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="200" y="-500" text-anchor="middle" font-size="6.5">Gallic Wars</text>
+      <circle r="20.5"
+              cx="800"
+              cy="-500"
+              fill="#FFFFFF"
+              stroke="#8a2b2b"
+              stroke-dasharray="3"/>
+      <text x="800" y="-500" text-anchor="middle" font-size="8">Civil War</text>
+   </g>
+</svg>
