@@ -6,7 +6,7 @@ declare variable $g_books := $text//section[@part="gaul"]//book;
 declare variable $c_books := $text//section[@part="civil"]//book;
 <html>
     <head>
-        <title>Exercise 3</title>
+        <title>Network</title>
         <link type="text/css" href="style.css" rel="stylesheet" />
     </head>
     <body>
