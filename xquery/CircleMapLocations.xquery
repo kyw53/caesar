@@ -1,14 +1,14 @@
-declare variable $caesar := doc("../xml/caesar_all_chapters.xml");
+declare namespace math = "http://www.w3.org/2005/xpath-functions/math";
 
-declare variable $bookSpacing := 180;
-declare variable $leftMargin := 120;
-declare variable $topMargin := 80;
-declare variable $circleGap := 85;
-declare variable $radiusScale := 3;
+declare variable $caesar := doc("../xml/caesar_all_chapters.xml");
+declare variable $coords := doc("../xml/MapCoords.xml");
+
+declare variable $radiusScale := 4;
+declare variable $defaultRadius := 8;
 
 <html>
     <head>
-        <title>Page 5</title>
+        <title>Maps of Locations</title>
         <meta charset="UTF-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
         <link type="text/css" href="style.css" rel="stylesheet"/>
@@ -23,80 +23,85 @@ declare variable $radiusScale := 3;
         
         <div class="main-content">
             <h1>Divide et Impera</h1>
-            <h2>Places by Book</h2>
+            <h2>Places on Map</h2>
             
             {
-                let $books := $caesar//Q{}book
-                let $bookCount := count($books)
-                let $svgHeight := ($bookCount * $bookSpacing) + 100
-                
+                let $places :=
+                    for $placename in distinct-values($caesar//Q{}place/text())
+                    let $cleanName := normalize-space(translate($placename, '[],', ''))
+                    let $count := count($caesar//Q{}place[normalize-space(translate(., '[],', '')) = $cleanName])
+                    where $cleanName != ""
+                    order by $count descending, $cleanName
+                    return
+                        <place>
+                            <name>{$cleanName}</name>
+                            <count>{$count}</count>
+                        </place>
+
                 return
-                    <svg xmlns="http://www.w3.org/2000/svg" width="1400" height="{$svgHeight}">
-                        {
-                            for $book at $bpos in $books
-                            let $booknum := xs:integer($book/@num)
-                            let $y := $topMargin + (($bpos - 1) * $bookSpacing)
-                            
-                            let $places :=
-                                for $placename in distinct-values($book//Q{}place/text())
-                                let $count := count($book//Q{}place[text() = $placename])
-                                where normalize-space($placename) != ""
-                                order by $count descending, $placename
+                    <svg xmlns="http://www.w3.org/2000/svg"
+                         width="1200"
+                         height="1050"
+                         viewBox="0 0 1613 1417">
+                        
+                        <style>
+                            .place-dot {{
+                                fill: darkred;
+                                fill-opacity: 0.65;
+                                stroke: black;
+                                stroke-width: 1.5;
+                            }}
+                            .place-label {{
+                                font-size: 18px;
+                                fill: black;
+                            }}
+                            .place-count {{
+                                font-size: 12px;
+                                fill: white;
+                                text-anchor: middle;
+                                dominant-baseline: middle;
+                            }}
+                        </style>
+
+                        <!-- background map -->
+                        <image href="Blank_map_of_Europe_cropped.svg"
+                               x="0"
+                               y="0"
+                               width="1613"
+                               height="1417"/>
+
+                        <!-- plotted places -->
+                        <g id="mapped-places">
+                            {
+                                for $place in $places
+                                let $name := $place/name/string()
+                                let $count := xs:integer($place/count/string())
+                                let $coord := $coords//place[@name = $name]
+                                where $coord
+                                let $x := xs:double($coord/@x)
+                                let $y := xs:double($coord/@y)
+                                let $r := math:sqrt($count) * $radiusScale
                                 return
-                                    <place>
-                                        <name>{$placename}</name>
-                                        <count>{$count}</count>
-                                    </place>
-                            
-                            return
-                                <g>
-                                    <!-- Book label -->
-                                    <text x="20" y="{$y}" font-size="22" font-weight="bold">
-                                        Book {$booknum}
-                                    </text>
-                                    
-                                    <!-- baseline -->
-                                    <line x1="{$leftMargin}" 
-                                          y1="{$y}" 
-                                          x2="1300" 
-                                          y2="{$y}" 
-                                          stroke="black" 
-                                          stroke-width="1"/>
-                                    
-                                    <!-- circles -->
-                                    {
-                                        for $place at $pos in $places
-                                        let $name := $place/name/string()
-                                        let $count := xs:integer($place/count/string())
-                                        let $cx := $leftMargin + (($pos - 1) * $circleGap)
-                                        let $r := $count * $radiusScale
-                                        return
-                                            <g>
-                                                <circle cx="{$cx}"
-                                                        cy="{$y}"
-                                                        r="{$r}"
-                                                        fill="darkred"
-                                                        fill-opacity="0.65"
-                                                        stroke="black"/>
-                                                
-                                                <text x="{$cx}"
-                                                      y="{$y + $r + 18}"
-                                                      font-size="12"
-                                                      text-anchor="middle">
-                                                    {$name}
-                                                </text>
-                                                
-                                                <text x="{$cx}"
-                                                      y="{$y + 4}"
-                                                      font-size="12"
-                                                      text-anchor="middle"
-                                                      fill="white">
-                                                    {$count}
-                                                </text>
-                                            </g>
-                                    }
-                                </g>
-                        }
+                                    <g>
+                                        <circle class="place-dot"
+                                                cx="{$x}"
+                                                cy="{$y}"
+                                                r="{$r}"/>
+                                        
+                                        <text class="place-count"
+                                              x="{$x}"
+                                              y="{$y}">
+                                            {$count}
+                                        </text>
+                                        
+                                        <text class="place-label"
+                                              x="{$x + $r + 6}"
+                                              y="{$y - 4}">
+                                            {$name}
+                                        </text>
+                                    </g>
+                            }
+                        </g>
                     </svg>
             }
         </div>
