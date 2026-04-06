@@ -21,7 +21,7 @@ declare variable $yspacer := 20;
         </nav>
         <div class="main-content">
         <h1>Divide et Impera</h1>
-        <h2>In which book is Caesar mentioned the most the most times?</h2>
+        <h2>In which book is Caesar mentioned the most times?</h2>
         <h3>This table tries to explore how many times Ceasar is mentioned in each book and to find a dynamic in it</h3>
 
            
