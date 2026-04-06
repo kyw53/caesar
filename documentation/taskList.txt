@@ -1,0 +1,11 @@
+Kyle: 
+	Network diagram
+	SVG of major events listing date, section, and tribes involved
+	
+Yarema:
+	Distribution of people by nationality, per book
+	Caesar mentions graphs
+
+Marris:
+	Places by book graph
+	X
