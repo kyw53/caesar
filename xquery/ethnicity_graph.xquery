@@ -78,7 +78,7 @@ declare variable $barHeight := 25;
                                 
                                 <text x="{150 + $barWidth + 10}"
                                       y="{$y + 18}"
-                                      font-size="16">{$count*100} %</text>
+                                      font-size="16">{round-half-to-even($count*100, 2)} %</text>
                             </g>
                     }
                     
