@@ -68,7 +68,6 @@ declare variable $barHeight := 25;
                                       font-size="18"
                                       text-anchor="end"
                                       dominant-baseline="middle">{$name}</text>
-                                
                                 <rect x="150"
                                       y="{$y}"
                                       width="{$barWidth}"
