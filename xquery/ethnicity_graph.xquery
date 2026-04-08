@@ -20,7 +20,7 @@ declare variable $barHeight := 25;
         </nav>
         <div class="main-content">
         <h1>Divide et Impera</h1>
-        <h2>Top 5 Places Mentioned in Each Book</h2>
+        <h2>The most mentioned ethinicieties in each book by percentage(%)</h2>
         {
         let $books := $caesar//Q{}book
         let $bookCount := count($books)
@@ -86,6 +86,7 @@ declare variable $barHeight := 25;
         }
         </svg>
         }
+        <p>This colection of graphs is aimed at analyzing how frequently </p>
         </div>
     </body>
 </html>
