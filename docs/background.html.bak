@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>About</title>
+        <title>Background</title>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link type="text/css" href="style.css" rel="stylesheet" />
     </head>
     <body>
+        
         <nav>
             <div><a href="index.html">Home</a></div>
             <div><a href="background.html">Background</a></div>
@@ -18,20 +19,17 @@
                     <a href="ethnicity-count.html">Ethicity Count</a>
                     <a href="coastGraph.html">Tribe Count</a>
                     <a href="unitGraph.html">Map Graph</a>
-                    <a href="CaesarMentionsBarGraph.html">Caesar Mentions</a>
+                    <a href="countryGraph.html">Caesar Mentions</a>
                 </div>
             </div>
         </nav>
         <div class="main-content">
             <h1>Divide et Impera</h1>
-            <h2>About</h2>
-            <h3>Research Question</h3>
-            <p>How does Caesar’s Gallic Wars construct the relative importance of tribes across geographic space, and what patterns of power and interaction emerge through mapping and frequency analysis of people, tribes, and locations?</p>
-            <h3>Methodology</h3>
-            <p>We use XML markup to tag people, tribes, and locations in Caesar’s Gallic Wars, then analyze the data through mapping and frequency-based visualizations to identify patterns of geographic movement and narrative emphasis.</p>
-            <h3>Team Members</h3>
-            <p> Yarema Sobol, Marris Sobotka, & Kyle Walker
-            </p>
+            <h2>Background Information</h2>
+            <h3>Gallic Wars</h3>
+            <p>GALLIA EST OMNIS DIVISA IN PARTES TRES...</p>
+            <h3>Civil War</h3>
+            <p>Text</p>
         </div>
     </body>
 </html>
