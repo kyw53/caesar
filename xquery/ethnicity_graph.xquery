@@ -20,7 +20,7 @@ declare variable $barHeight := 25;
                 <div class="dropdown-content">
                     <a href="network-output.html">Network Diagram</a>
                     <a href="personGraph.html">Ethicity Count</a>
-                    <a href="coastGraph.html">Tribe Count</a>
+                    <a href="BarGraphLocations.html">Location Count</a>
                     <a href="unitGraph.html">Map Graph</a>
                     <a href="countryGraph.html">Caesar Mentions</a>
                 </div>
