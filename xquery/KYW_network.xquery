@@ -97,7 +97,12 @@ declare variable $c_books := $text//section[@part="civil"]//book;
                     <text x="{($x-spacer * 4.5 *math:cos(40 * ($num - 8))) + 900 +(($x-spacer+$third-spacer)*math:cos(40*($pos)))}" y="{-500 - ($y-spacer * 4.5 *math:sin(40 * ($num - 8) )) - (($y-spacer+$third-spacer)*math:sin(40*($pos)))}" text-anchor="middle" font-size="6">{$roman}</text>
                     (: KYW: Roman nodes :)
                     </g>
-                }    
+                    
+                }   
+                {
+                for $roman in $g_books and $c_books
+                return <g><line/></g>
+                }
             <g alignment-baseline="baseline" transform="translate(0, 0)">
             <line x1="100" x2="512.5" y1="-500" y2="-500" stroke="#8a2b2b" opacity="25%"/>
             <line x1="500" x2="900" y1="-500" y2="-500" stroke="#8a2b2b" opacity="25%"/>
@@ -115,6 +120,7 @@ declare variable $c_books := $text//section[@part="civil"]//book;
         </svg>
         </div>
         </p>
+        <p>This diagram shows a list of distinct names of Romans for each book, separated into one half for the Gaulic Wars, and the other for the Civil War. Edges from the 'book' nodes to the 'person' nodes are scaled to the number of times that Roman appears in that book.</p>
         </div>
         </body>
         </html>
