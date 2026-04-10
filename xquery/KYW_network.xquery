@@ -16,7 +16,15 @@ declare variable $c_books := $text//section[@part="civil"]//book;
             <div><a href="background.html">Background</a></div>
             <div><a href="about.html">About</a></div>
             <div><a href="romanTable.html">Tables</a></div>
-            <div><a href="page5.html">Page 5</a></div>
+            <div class="dropdown"><a href="#">Graphs and Data</a>
+                <div class="dropdown-content">
+                    <a href="network-output.html">Network Diagram</a>
+                    <a href="ethnicity-count.html">Ethicity Count</a>
+                    <a href="coastGraph.html">Tribe Count</a>
+                    <a href="unitGraph.html">Map Graph</a>
+                    <a href="CaesarMentionsBarGraph.html">Caesar Mentions</a>
+                </div>
+            </div>
         </nav>
         
     <div class="main-content">
@@ -81,9 +89,11 @@ declare variable $c_books := $text//section[@part="civil"]//book;
                     
                     <circle r="12.5" cx="{($x-spacer * 4.5 *math:cos(40 * ($num -8))) + 800}" cy="{-500 - ($y-spacer * 4.5 *math:sin(40 * ($num -8) ))}" fill="#FFFFFF" stroke="#8a2b2b" stroke-dasharray="3"/>
                     <text x="{($x-spacer * 4.5 * math:cos(40 * ($num -8))) + 800}" y="{-500 - ($y-spacer * 4.5 *math:sin(40 * ($num -8) ))}" text-anchor="middle" font-size="6">Book {($num -8)}</text>
+                    (: KYW: book nodes :)
                     
                     <circle r="10.5" cx="{($x-spacer * 4.5 *math:cos(40 * ($num - 8))) + 800 +($x-spacer*math:cos(40*($pos)))}" cy="{-500 - ($y-spacer * 4.5 *math:sin(40 * ($num - 8) )) - ($y-spacer*math:sin(40*($pos)))}" fill="none" stroke="#8a2b2b" stroke-dasharray="3"/>
                     <text x="{($x-spacer * 4.5 *math:cos(40 * ($num - 8))) + 800 +($x-spacer*math:cos(40*($pos)))}" y="{-500 - ($y-spacer * 4.5 *math:sin(40 * ($num - 8) )) - ($y-spacer*math:sin(40*($pos)))}" text-anchor="middle" font-size="6">{$roman}</text>
+                    (: KYW: Roman nodes :)
                     </g>
                 }    
             <g alignment-baseline="baseline" transform="translate(0, 0)">
