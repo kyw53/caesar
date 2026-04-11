@@ -38,10 +38,14 @@ declare variable $c_books := $text//section[@part="civil"]//book;
             {
             let $num := $text/Q{}book/(@num)
             for $book at $num in $g_books
+            let $fn_x_1 := math:cos(40 * ($num))
+            let $fn_y_1 := math:sin(40 * ($num) )
             return <g>
-            <line x1="100" x2="{($x-spacer * 4.5 *math:cos(40 * ($num))) + 100}" y1="-500" y2="{-500 - ($y-spacer * 4.5 *math:sin(40 * ($num) ))}" stroke="#8a2b2b" opacity="25%"/>
+            <line x1="100" x2="{($x-spacer * 4.5 *$fn_x_1) + 100}" y1="-500" y2="{-500 - ($y-spacer * 4.5 *$fn_y_1)}" stroke="#7851A9" opacity="75%"/>
+            (: KYW: edge from section node to book nodes :)
             
             
+                />
             </g>
             }
                 {
@@ -53,24 +57,38 @@ declare variable $c_books := $text//section[@part="civil"]//book;
                     for $roman at $pos in $book//Q{}persName[@eth="roman"]/data(@nameid)=>distinct-values()
                     let $roman-count := $book//Q{}persName[data(@nameid) = $roman] =>count()
                     let $third-spacer := 5
+                    let $fn_x_1 := math:cos(40 * ($num))
+                    let $fn_x_2 := math:cos(36*($pos))
+                    let $fn_y_1 := ($y-spacer * 4.5 *math:sin(40 * ($num) ))
+                    let $fn_y_2 := math:sin(36*$pos)
                     return <g>
                     
                     
-                    <line x1="{($x-spacer * 4.5 *math:cos(40 * ($num))) + 100}" x2="{($x-spacer * 4.5 *math:cos(40 * ($num))) + 100 +(($x-spacer+$third-spacer)*math:cos(36*($pos)))}" y1="{-500 - ($y-spacer * 4.5 *math:sin(40 * ($num) )) }" y2="{-500 - ($y-spacer * 4.5 *math:sin(40 * ($num) )) - (($y-spacer+$third-spacer)*math:sin(36*($pos)))}" stroke="#8a2b2b" opacity="25%" stroke-width="{math:sqrt($roman-count)}"/>
+                     <path d="M{($x-spacer * 4.5 * $fn_x_1) + 100},{-500 - $fn_y_1} 
+                                                    A10,10 0 0,1 {($x-spacer * 4.5 * $fn_x_1) + 100 + ($x-spacer + $third-spacer)*$fn_x_2},{-500 - $fn_y_1 - ($y-spacer + $third-spacer)*$fn_y_2}"
+                    stroke="#8a2b2b" fill="none" opacity="25%" stroke-width="{math:sqrt($roman-count)}"
+                />
+                    (: KYW: edge from book node to Roman nodes; M gives the starting point for A, whose parameters are: A(x-radius, y-radius) (x-rotation) (large flag, sweep flag) (final-x, final-y) :)
                     
-                    <circle r="12.5" cx="{($x-spacer * 4.5 *math:cos(40 * ($num))) + 100}" cy="{-500 - ($y-spacer * 4.5 *math:sin(40 * ($num) ))}" fill="#FFFFFF" stroke="#8a2b2b" stroke-dasharray="3"/>
-                    <text x="{($x-spacer * 4.5 * math:cos(40 * ($num))) + 100}" y="{-500 - ($y-spacer * 4.5 *math:sin(40 * ($num) ))}" text-anchor="middle" font-size="6">Book {($num)}</text>
-                    <circle r="10.5" cx="{($x-spacer * 4.5 *math:cos(40 * ($num))) + 100 +(($x-spacer+$third-spacer)*math:cos(36*($pos)))}" cy="{-500 - ($y-spacer * 4.5 *math:sin(40 * ($num) )) - (($y-spacer+$third-spacer)*math:sin(36*($pos)))}" fill="#FFFFFF" stroke="#8a2b2b" stroke-dasharray="3"/>
-                    <text x="{($x-spacer * 4.5 *math:cos(40 * ($num))) + 100 +(($x-spacer+$third-spacer)*math:cos(36*($pos)))}" y="{-500 - ($y-spacer * 4.5 *math:sin(40 * ($num) )) - (($y-spacer+$third-spacer)*math:sin(36*($pos)))}" text-anchor="middle" font-size="6">{$roman}</text>
+                    <circle r="12.5" cx="{($x-spacer * 4.5 *$fn_x_1) + 100}" cy="{-500 - $fn_y_1}" fill="#FFFFFF" stroke="#8a2b2b" stroke-dasharray="3"/>
+                    <text x="{($x-spacer * 4.5 * $fn_x_1) + 100}" y="{-500 - $fn_y_1}" text-anchor="middle" font-size="6">Book {($num)}</text>
+                    (: KYW: nodes and text for books
+                    
+                    <circle r="10.5" cx="{($x-spacer * 4.5 *$fn_x_1) + 100 +(($x-spacer+$third-spacer)*$fn_x_2)}" cy="{-500 - $fn_y_1 - (($y-spacer+$third-spacer)*$fn_y_2)}" fill="#FFFFFF" stroke="#8a2b2b" stroke-dasharray="3"/>
+                    <text x="{($x-spacer * 4.5 *$fn_x_1) + 100 +(($x-spacer+$third-spacer)*$fn_x_2)}" y="{-500 - $fn_y_1 - (($y-spacer+$third-spacer)*$fn_y_2)}" text-anchor="middle" font-size="6">{$roman}</text>
+                    (: KYW: nodes and text for Romans :)
+                    
                     </g>
                 }
                 
             {
             let $num := $text/Q{}book/(@num)
             for $book at $num in $c_books
+            let $fn_x_1 := math:cos(40 * ($num))
+            let $fn_y_1 := math:sin(40 * ($num) )
             return <g>
-            <line x1="900" x2="{($x-spacer * 4.5 *math:cos(40 * ($num))) + 900}" y1="-500" y2="{-500 - ($y-spacer * 4.5 *math:sin(40 * ($num) ))}" stroke="#8a2b2b" opacity="25%"/>
-            (: KYW: line from section title to book nodes :)
+            <line x1="900" x2="{($x-spacer * 4.5 *$fn_x_1) + 900}" y1="-500" y2="{-500 - ($y-spacer * 4.5 *$fn_y_1)}" stroke="#7851A9" opacity="75%"/>
+            (: KYW: edge from section node to book nodes :)
             
             </g>
             }
@@ -84,31 +102,36 @@ declare variable $c_books := $text//section[@part="civil"]//book;
                     let $roman-count := $book//Q{}persName[data(@nameid) = $roman] =>count()
                     let $total-count :=$text//Q{}persName[data(@nameid) = $roman] =>count()
                     let $third-spacer := 85
+                    let $fn_x_1 := math:cos(40 * ($num - 8))
+                    let $fn_x_2 := math:cos(40*($pos))
+                    let $fn_y_1 := math:sin(40 * ($num - 8) )
+                    let $fn_y_2 := math:sin(40*($pos))
                     (:KYW: spot for conditional?:)
-                    return <g>
-                    <line x1="{($x-spacer * 4.5 *math:cos(40 * ($num - 8))) + 900}" x2="{($x-spacer * 4.5 *math:cos(40 * ($num - 8))) + 900 +(($x-spacer+$third-spacer)*math:cos(40*($pos)))}" y1="{-500 - ($y-spacer * 4.5 *math:sin(40 * ($num - 8) )) }" y2="{-500 - ($y-spacer * 4.5 *math:sin(40 * ($num - 8) )) - (($y-spacer+$third-spacer)*math:sin(40*($pos)))}" stroke="#8a2b2b" opacity="25%" stroke-width="{math:sqrt($roman-count)}"/>
-                    (: KYW: line from book node to Roman nodes :)
                     
-                    <circle r="12.5" cx="{($x-spacer * 4.5 *math:cos(40 * ($num -8))) + 900}" cy="{-500 - ($y-spacer * 4.5 *math:sin(40 * ($num -8) ))}" fill="#FFFFFF" stroke="#8a2b2b" stroke-dasharray="3"/>
-                    <text x="{($x-spacer * 4.5 * math:cos(40 * ($num -8))) + 900}" y="{-500 - ($y-spacer * 4.5 *math:sin(40 * ($num -8) ))}" text-anchor="middle" font-size="6">Book {($num -8)}</text>
+                    return <g>
+                    
+                    
+                    <path d="M{($x-spacer * 4.5 * $fn_x_1) + 900},{-500 - ($y-spacer * 4.5 *$fn_y_1)} 
+                                                    A10,10 0 0,1 {($x-spacer * 4.5 * $fn_x_1) + 900 + ($x-spacer + $third-spacer)*$fn_x_2},{-500 - ($y-spacer * 4.5 * $fn_y_1) - ($y-spacer + $third-spacer)*$fn_y_2}"
+                    stroke="#8a2b2b" fill="none" opacity="25%" stroke-width="{math:sqrt($roman-count)}"
+                />
+                    (: KYW: edge from section node to Roman nodes
+                    
+                    <circle r="12.5" cx="{($x-spacer * 4.5 *$fn_x_1) + 900}" cy="{-500 - ($y-spacer * 4.5 *$fn_y_1)}" fill="#FFFFFF" stroke="#8a2b2b" stroke-dasharray="3"/>
+                    <text x="{($x-spacer * 4.5 * $fn_x_1) + 900}" y="{-500 - ($y-spacer * 4.5 *$fn_y_1)}" text-anchor="middle" font-size="6">Book {($num -8)}</text>
                     (: KYW: book nodes :)
                     
-                    <circle r="10.5" cx="{($x-spacer * 4.5 *math:cos(40 * ($num - 8))) + 900 +(($x-spacer+$third-spacer)*math:cos(40*($pos)))}" cy="{-500 - ($y-spacer * 4.5 *math:sin(40 * ($num - 8) )) - (($y-spacer+$third-spacer)*math:sin(40*($pos)))}" fill="#FFFFFF" stroke="#8a2b2b" stroke-dasharray="3"/>
-                    <text x="{($x-spacer * 4.5 *math:cos(40 * ($num - 8))) + 900 +(($x-spacer+$third-spacer)*math:cos(40*($pos)))}" y="{-500 - ($y-spacer * 4.5 *math:sin(40 * ($num - 8) )) - (($y-spacer+$third-spacer)*math:sin(40*($pos)))}" text-anchor="middle" font-size="6">{$roman}</text>
+                    <circle r="10.5" cx="{($x-spacer * 4.5 *$fn_x_1) + 900 +(($x-spacer+$third-spacer)*$fn_x_2)}" cy="{-500 - ($y-spacer * 4.5 *$fn_y_1) - (($y-spacer+$third-spacer)*$fn_y_2)}" fill="#FFFFFF" stroke="#8a2b2b" stroke-dasharray="3"/>
+                    <text x="{($x-spacer * 4.5 *$fn_x_1) + 900 +(($x-spacer+$third-spacer)*$fn_x_2)}" y="{-500 - ($y-spacer * 4.5 *$fn_y_1) - (($y-spacer+$third-spacer)*$fn_y_2)}" text-anchor="middle" font-size="6">{$roman}</text>
                     (: KYW: Roman nodes :)
                     </g>
                     
                 }   
-                {
-                for $roman in $g_books and $c_books
-                return <g><line/></g>
-                }
+                
+                
+             
             <g alignment-baseline="baseline" transform="translate(0, 0)">
-            <line x1="100" x2="512.5" y1="-500" y2="-500" stroke="#8a2b2b" opacity="25%"/>
-            <line x1="500" x2="900" y1="-500" y2="-500" stroke="#8a2b2b" opacity="25%"/>
-            
-            <circle r="20.5" cx="500" cy="-500" fill="#FFFFFF" stroke="#8a2b2b" stroke-dasharray="3"/>
-            <text x="500" y="-500" text-anchor="middle" font-size="8">Caesar</text>
+          
             
             <circle r="20.5" cx="100" cy="-500" fill="#FFFFFF" stroke="#8a2b2b" stroke-dasharray="3"/>
             <text x="100" y="-500" text-anchor="middle" font-size="6.5">Gallic Wars</text>    
