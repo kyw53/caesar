@@ -49,7 +49,7 @@ declare variable $c_books := $text//section[@part="civil"]//book;
             </g>
             }
                 {
-                    let $g_books := $text//Q{}section[@part="gaul"]//Q{}book
+                    
                     for $book in $g_books
                     let $num := $book/@num
                     group by $num 
@@ -128,8 +128,6 @@ declare variable $c_books := $text//section[@part="civil"]//book;
                     
                 }   
                 
-                
-             
             <g alignment-baseline="baseline" transform="translate(0, 0)">
           
             
@@ -138,12 +136,24 @@ declare variable $c_books := $text//section[@part="civil"]//book;
             
             <circle r="20.5" cx="900" cy="-500" fill="#FFFFFF" stroke="#8a2b2b" stroke-dasharray="3"/>
             <text x="900" y="-500" text-anchor="middle" font-size="8">Civil War</text>
+            (: KYW: hard-codes nodes :)
+            
+            {for $book in $g_books 
+                let $num := $book/@num
+                group by $num 
+                return 
+                    let $g_romans := $book//Q{}persName[@eth="roman"]/data(@nameid)=>distinct-values()
+                    return $g_romans
+                
+                }
+                
+                (: KYW: WIP to get edges for Romans that appear in both sections; may abandon
             
             </g>
         </svg>
         </div>
         </p>
-        <p>This diagram shows a list of distinct names of Romans for each book, separated into one half for the Gaulic Wars, and the other for the Civil War. Edges from the 'book' nodes to the 'person' nodes are scaled to the number of times that Roman appears in that book.</p>
+        <p>This diagram shows a list of distinct names of Romans for each book, separated into one half for the Gallic Wars, and the other for the Civil War. Edges from the 'book' nodes to the 'person' nodes are scaled to the number of times that specific Roman appears in the book. As an example of what we can extract from this, <a href="https://en.wikipedia.org/wiki/Gaius_Caninius_Rebilus_(consul_45_BC)">Gaius Caninius Rebilus (G. Caninius)</a> appears in 2/3 of the books in the Civil War section as well as books 7 and 8 of the Gallic Wars. Then, by looking at the text and researching online, we were able to confirm that Caninius made a name for himself during the <a href="https://en.wikipedia.org/wiki/Battle_of_Alesia">siege of Alesia</a>, then getting rewarded with a very brief consulship in 45 BCE.</p>
         </div>
         </body>
         </html>
