@@ -44,7 +44,7 @@ every side by the nature of their situation; on one side by the <place river="Rh
 very broad and deep river, which separates the Helvetian territory from
 the <tribe name="Germani">Germans</tribe>; on a second side by the <place mountain="Jura">Jura</place>, a very high mountain which is
 [situated] between the <tribe name="Sequani">Sequani</tribe> and the <tribe name="Helvetii">Helvetii</tribe>; on a third by the Lake
-of <place settlement="Geneva">Geneva</place>, and by the river <place river="Rhone">Rhone</place>, which separates our Province from the
+of <place settlement="Geneva" modern="Geneva">Geneva</place>, and by the river <place river="Rhone">Rhone</place>, which separates our Province from the
 <tribe name="Helvetii">Helvetii</tribe>. From these circumstances it resulted that they could range
 less widely, and could less easily make war upon their neighbours; for
 which reason men fond of war [as they were] were affected with great
@@ -119,7 +119,7 @@ Province, much easier and freer from obstacles, because the <place river="Rhone"
 between the boundaries of the <tribe name="Helvetii">Helvetii</tribe> and those of the <tribe name="Allobroges">Allobroges</tribe>, who
 had lately been subdued, and is in some places crossed by a ford. The
 furthest town of the <tribe name="Allobroges">Allobroges</tribe>, and the nearest to the territories of
-the <tribe name="Helvetii">Helvetii</tribe>, is <place settlement="Geneva">Geneva</place>. From this town a bridge extends to the
+the <tribe name="Helvetii">Helvetii</tribe>, is <place settlement="Geneva" modern="Geneva">Geneva</place>. From this town a bridge extends to the
 <tribe name="Helvetii">Helvetii</tribe>. They thought that they should either persuade the <tribe name="Allobroges">Allobroges</tribe>,
 because they did not seem as yet well-affected towards the <tribe name="Romans">Roman people</tribe>,
 or compel them by force to allow them to pass through their territories.
@@ -132,9 +132,9 @@ consulship of <persName eth="roman" role="consul" nameid="L. Piso">Lucius Piso</
 <chapter n="VII">VII.--When it was reported to <persName eth="roman" role="general" nameid="Caesar">Caesar</persName> that they were attempting to make
 their route through our Province, he hastens to set out from the city,
 and, by as great marches as he can, proceeds to Further <place region="Gaul">Gaul</place>, and
-arrives at <place settlement="Geneva">Geneva</place>. He orders the whole Province [to furnish] as great a
+arrives at <place settlement="Geneva" modern="Geneva">Geneva</place>. He orders the whole Province [to furnish] as great a
 number of soldiers as possible, as there was in all only one legion in
-Further <place region="Gaul">Gaul</place>: he orders the bridge at <place settlement="Geneva">Geneva</place> to be broken down. When the
+Further <place region="Gaul">Gaul</place>: he orders the bridge at <place settlement="Geneva" modern="Geneva">Geneva</place> to be broken down. When the
 <tribe name="Helvetii">Helvetii</tribe> are apprised of his arrival, they send to him, as ambassadors,
 the most illustrious men of their state (in which embassy Numeius and
 Verudoctius held the chief place), to say "that it was their intention
@@ -155,7 +155,7 @@ they wanted anything, they might return on the day before the ides of
 <chapter n="VIII">VIII.--Meanwhile, with the legion which he had with him and the soldiers
 who had assembled from the Province, he carries along for <dimensions>nineteen
 [Roman, not quite eighteen English] miles a wall, to the height of
-sixteen feet</dimensions>, and a trench, from the lake of <place settlement="Geneva">Geneva</place>, which flows into
+sixteen feet</dimensions>, and a trench, from the lake of <place settlement="Geneva" modern="Geneva">Geneva</place>, which flows into
 the river <place river="Rhone">Rhone</place>, to <place mountain="Jura">Mount Jura</place>, which separates the territories of the
 <tribe name="Sequani">Sequani</tribe> from those of the <tribe name="Helvetii">Helvetii</tribe>. When that work was finished, he
 distributes garrisons, and closely fortifies redoubts, in order that he
@@ -190,7 +190,7 @@ other--the <tribe name="Sequani">Sequani</tribe> not to obstruct the <tribe name
 <chapter n="X">X.--It-is again told <persName eth="roman" role="general" nameid="Caesar">Caesar</persName> that the <tribe name="Helvetii">Helvetii</tribe> intend to march through
 the country of the <tribe name="Sequani">Sequani</tribe> and the <tribe name="Aedui">Aedui</tribe> into the territories of the
 Santones, which are not far distant from those boundaries of the
-<place settlement="Tolosa">Tolosa</place>tes, which [viz. <place settlement="Tolosa">Tolosa</place>, Toulouse] is a state in the Province. If
+<place settlement="Tolosa" modern="Toulouse">Tolosa</place>tes, which [viz. <place settlement="Tolosa" modern="Toulouse">Tolosa</place>, Toulouse] is a state in the Province. If
 this took place, he saw that it would be attended with great danger to
 the Province to have warlike men, enemies of the <tribe name="Romans">Roman people</tribe>, bordering
 upon an open and very fertile tract of country. For these reasons he
@@ -655,7 +655,7 @@ from the <tribe name="Romans">Roman people</tribe>, nor refuse to be for ever un
 empire. That he was the only one out of all the state of the <tribe name="Aedui">Aedui</tribe> who
 could not be prevailed upon to take the oath or to give his children as
 hostages. On that account he had fled from his state and had gone to the
-senate at <place settlement="Rome">Rome</place> to beseech aid, as he alone was bound neither by oath nor
+senate at <place settlement="Rome" modern="Rome">Rome</place> to beseech aid, as he alone was bound neither by oath nor
 hostages. But a worse thing had befallen the victorious <tribe name="Sequani">Sequani</tribe> than the
 vanquished <tribe name="Aedui">Aedui</tribe>, for <persName eth="germanii" role="king">Ariovistus</persName>, the king of the <tribe name="Germani">Germans</tribe>, had settled
 in their territories, and had seized upon a third of their land, which
@@ -824,7 +824,7 @@ on encountering them, could not bear even their countenance, and the
 fierceness of their eyes)--so great a panic on a sudden seized the whole
 army, as to discompose the minds and spirits of all in no slight degree.
 This first arose from the tribunes of the soldiers, the prefects and the
-rest, who, having followed <persName eth="roman" role="general" nameid="Caesar">Caesar</persName> from the city [<place settlement="Rome">Rome</place>] from motives of
+rest, who, having followed <persName eth="roman" role="general" nameid="Caesar">Caesar</persName> from the city [<place settlement="Rome" modern="Rome">Rome</place>] from motives of
 friendship, had no great experience in military affairs. And alleging,
 some of them one reason, some another, which they said made it necessary
 for them to depart, they requested that by his consent they might be
@@ -1410,7 +1410,7 @@ themselves into the camp, as they had been commanded.</chapter>
 <chapter n="XII">XII.--On the day following, before the enemy could recover from their
 terror and flight, <persName eth="roman" role="general" nameid="Caesar">Caesar</persName> led his army into the territories of the
 <tribe name="Suessiones">Suessiones</tribe>, which are next to the <tribe name="Remi">Remi</tribe>, and having accomplished a long
-march, hastens to the town named <place settlement="Noviodunum">Noviodunum</place>. Having attempted to take it
+march, hastens to the town named <place settlement="Noviodunum" modern="Neung-sur-Beuvron">Noviodunum</place>. Having attempted to take it
 by storm on his march, because he heard that it was destitute of
 [sufficient] defenders, he was not able to carry it by assault, on
 account of the breadth of the ditch and the height of the wall, though
@@ -1429,7 +1429,7 @@ might be spared.</chapter>
 and even the two sons of king <persName eth="suessiones" role="king" nameid="Galba">Galba</persName> himself; and all the arms in the
 town having been delivered up, admitted the <tribe name="Suessiones">Suessiones</tribe> to a surrender,
 and led his army against the <tribe name="Bellovaci">Bellovaci</tribe>. Who, when they had conveyed
-themselves and all their possessions into the town called <place settlement="Bratuspantium">Bratuspantium</place>,
+themselves and all their possessions into the town called <place settlement="Bratuspantium" modern="Beauvais">Bratuspantium</place>,
 and <persName eth="roman" role="general" nameid="Caesar">Caesar</persName> with his army was about five miles distant from that town,
 all the old men, going out of the town, began to stretch out their hands
 to <persName eth="roman" role="general" nameid="Caesar">Caesar</persName>, and to intimate by their voice that they would throw
@@ -1821,7 +1821,7 @@ that time had been conferred on none.</chapter></book>
 <chapter n="I">I.--When <persName eth="roman" role="general" nameid="Caesar">Caesar</persName> was setting out for <place region="Italy">Italy</place>, he sent <persName eth="roman" role="legate" nameid="S. Galba">Servius Galba</persName> with
 the twelfth legion and part of the cavalry against the <tribe name="Nantuates">Nantuates</tribe>, the
 Veragri, and Seduni, who extend from the territories of the <tribe name="Allobroges">Allobroges</tribe>,
-and the lake of <place settlement="Geneva">Geneva</place>, and the river <place river="Rhone">Rhone</place> to the top of the <place mountain="Alps">Alps</place>. The
+and the lake of <place settlement="Geneva" modern="Geneva">Geneva</place>, and the river <place river="Rhone">Rhone</place> to the top of the <place mountain="Alps">Alps</place>. The
 reason for sending him was, that he desired that the pass along the
 <place mountain="Alps">Alps</place>, through which [the Roman] merchants had been accustomed to travel
 with great danger, and under great imposts, should be opened. He
@@ -2200,8 +2200,8 @@ before L. Valerius Praeconinus, the lieutenant, had been killed, and his
 army routed, and from which L. Manilius, the proconsul, had fled with
 the loss of his baggage, he perceived that no ordinary care must be used
 by him. Wherefore, having provided corn, procured auxiliaries and
-cavalry, [and] having summoned by name many valiant men from <place settlement="Tolosa">Tolosa</place>,
-<place settlement="Carcaso">Carcaso</place>, and <place settlement="Narbo">Narbo</place>, which are the states of the province of <place region="Gaul">Gaul</place>, that
+cavalry, [and] having summoned by name many valiant men from <place settlement="Tolosa" modern="Toulouse">Tolosa</place>,
+<place settlement="Carcaso" modern="Carcassonne">Carcaso</place>, and <place settlement="Narbo">Narbo</place>, which are the states of the province of <place region="Gaul">Gaul</place>, that
     <!-- KYW: modern Fr. cities of Toulouse, Carcassone, and Narbonne -->
 border on these regions <place region="Aquitania">[Aquitania]</place>, he led his army into the
 territories of the <tribe name="Sotiates">Sotiates</tribe>. On his arrival being known, the <tribe name="Sotiates">Sotiates</tribe>
@@ -3292,7 +3292,7 @@ breed them for amusement and pleasure. The climate is more temperate
 than in <place region="Gaul">Gaul</place>, the colds being less severe.
 </chapter>
 <chapter n="XIII">XIII.--The island is triangular in its form, and one of its sides is
-opposite to <place region="Gaul">Gaul</place>. One angle of this side, which is in <place settlement="Kent">Kent</place>, whither
+opposite to <place region="Gaul">Gaul</place>. One angle of this side, which is in <place settlement="Kent" modern="Kent">Kent</place>, whither
 almost all ships from <place region="Gaul">Gaul</place> are directed, [looks] to the east; the lower
 looks to the south. This side extends about 500 miles. Another side lies
 towards Spain and the west, on which part is Ireland, less, as is
@@ -3310,7 +3310,7 @@ angle of that side looks principally towards <place region="Germany">Germany</pl
 considered to be 800 miles in length. Thus the whole island is [about]
 2000 miles in circumference.
 </chapter>
-<chapter n="XIV">XIV.--The most civilised of all these nations are they who inhabit <place settlement="Kent">Kent</place>,
+<chapter n="XIV">XIV.--The most civilised of all these nations are they who inhabit <place settlement="Kent" modern="Kent">Kent</place>,
 which is entirely a maritime district, nor do they differ much from the
 Gallic customs. Most of the inland inhabitants do not sow corn, but live
 on milk and flesh, and are clad with skins. All the <tribe name="Britons">Britons</tribe>, indeed, dye
@@ -3430,7 +3430,7 @@ of cattle was found there, and many of the enemy were taken and slain in
 their flight.
 </chapter>
 <chapter n="XXII">XXII.--While these things are going forward in those places,
-<persName eth="britanni" role="general" nameid="Cassivellaunus">Cassivellaunus</persName> sends messengers into <place settlement="Kent">Kent</place>, which, we have observed
+<persName eth="britanni" role="general" nameid="Cassivellaunus">Cassivellaunus</persName> sends messengers into <place settlement="Kent" modern="Kent">Kent</place>, which, we have observed
 above, is on the sea, over which districts four several kings reigned,
 <persName eth="treveri" role="chieftain">Cingetorix</persName>, Carvilius, Taximagulus, and Segonax, and commands them to
 collect all their forces, and unexpectedly assail and storm the naval
@@ -4185,7 +4185,7 @@ the spring, as he had been accustomed [to do], when the deputies from
 the rest, except the <tribe name="Senones">Senones</tribe>, the <tribe name="Carnutes">Carnutes</tribe>, and the <tribe name="Treviri">Treviri</tribe>, had come,
 judging this to be the commencement of war and revolt, that he might
 appear to consider all things of less consequence [than that war], he
-transfers the council to <place settlement="Lutetia">Lutetia</place> of the Parisii. These were adjacent to
+transfers the council to <place settlement="Lutetia" modern="Paris">Lutetia</place> of the Parisii. These were adjacent to
 the <tribe name="Senones">Senones</tribe>, and had united their state to them during the memory of
 their fathers, but were thought to have no part in the present plot.
 Having proclaimed this from the tribunal, he advances the same day
@@ -5001,7 +5001,7 @@ sacred obligations are made binding), that they should not be deserted
 by the rest of the <tribe name="Gauls">Gauls</tribe> on commencing the war.
 </chapter>
 <chapter n="III">III.--When the appointed day came, the <tribe name="Carnutes">Carnutes</tribe>, under the command of
-Cotuatus and Conetodunus, desperate men, meet together at <place settlement="Genabum">Genabum</place>, and
+Cotuatus and Conetodunus, desperate men, meet together at <place settlement="Genabum" modern="Orleans">Genabum</place>, and
 slay the Roman citizens who had settled there for the purpose of trading
 (among the rest, Caius Fusius Cita, a distinguished Roman knight, who by
 <persName eth="roman" nameid="Caesar">Caesar</persName>'s orders had presided over the provision department), and plunder
@@ -5010,7 +5010,7 @@ Gaul; for, whenever a more important and remarkable event takes place,
 they transmit the intelligence through their lands and districts by a
 shout; the others take it up in succession, and pass it to their
 neighbours, as happened on this occasion; for the things which were done
-at <place settlement="Genabum">Genabum</place> at sunrise were heard in the territories of the <tribe name="Arverni">Arverni</tribe>
+at <place settlement="Genabum" modern="Orleans">Genabum</place> at sunrise were heard in the territories of the <tribe name="Arverni">Arverni</tribe>
 before the end of the first watch, which is an extent of more than a
 hundred and sixty miles.
 </chapter>
@@ -5020,7 +5020,7 @@ supremacy of entire<place region="Gaul"> Gaul</place>, and had been put to death
 citizens, for this reason, because he aimed at sovereign power),
 summoned together his dependents, and easily excited them. On his design
 being made known, they rush to arms: he is expelled from the town of
-<place settlement="Gergovia">Gergovia</place> by his uncle Gobanitio and the rest of the nobles, who were of
+<place settlement="Gergovia" modern="Clermont-Ferrand">Gergovia</place> by his uncle Gobanitio and the rest of the nobles, who were of
 opinion, that such an enterprise ought not to be hazarded: he did not
 however desist, but held in the country a levy of the needy and
 desperate. Having collected such a body of troops, he brings over to his
@@ -5126,7 +5126,7 @@ the legions, and gathers all his army into one place before intelligence
 of his arrival could be announced to the <tribe name="Arverni">Arverni</tribe>.
 
 <persName eth="arverni" role="king" nameid="Vercingetorix">Vercingetorix</persName>, on hearing this circumstance, leads back his army into
-the country of the <tribe name="Bituriges">Bituriges</tribe>; and after marching from it to <place settlement="Gergovia">Gergovia</place>, a
+the country of the <tribe name="Bituriges">Bituriges</tribe>; and after marching from it to <place settlement="Gergovia" modern="Clermont-Ferrand">Gergovia</place>, a
 town of the <tribe name="Boii">Boii</tribe>, whom <persName eth="roman" nameid="Caesar">Caesar</persName> had settled there after defeating them in
 the Helvetian war, and had rendered tributary to the <tribe name="Aedui">Aedui</tribe>, he
 determined to attack it.
@@ -5147,7 +5147,7 @@ their allegiance, and resist the attack of the enemy with great
 resolution. Having left two legions and the luggage of the entire army
 at Agendicum, he marches to the <tribe name="Boii">Boii</tribe>.
 </chapter>
-<chapter n="XI">XI.--On the second day, when he came to <place settlement="Vellaunodunum">Vellaunodunum</place>, a town of the
+<chapter n="XI">XI.--On the second day, when he came to <place settlement="Vellaunodunum" modern="Montargis">Vellaunodunum</place>, a town of the
 <tribe name="Senones">Senones</tribe>, he determined to attack it, in order that he might not leave an
 enemy in his rear, and might the more easily procure supplies of
 provisions, and drew a line of circumvallation around it in two days: on
@@ -5156,16 +5156,16 @@ capitulation, he orders their arms to be brought together, their cattle
 to be brought forth, and six hundred hostages to be given. He leaves
 Caius <persName eth="roman" role="lieutenant" nameid="C. Trebonius">Trebonius</persName>, his lieutenant, to complete these arrangements; he
 himself sets out with the intention of marching as soon as possible to
-<place settlement="Genabum">Genabum</place>, a town of the <tribe name="Carnutes">Carnutes</tribe>, who having then for the first time
-received information of the siege of <place settlement="Vellaunodunum">Vellaunodunum</place>, as they thought that
+<place settlement="Genabum" modern="Orleans">Genabum</place>, a town of the <tribe name="Carnutes">Carnutes</tribe>, who having then for the first time
+received information of the siege of <place settlement="Vellaunodunum" modern="Montargis">Vellaunodunum</place>, as they thought that
 it would be protracted to a longer time, were preparing a garrison to
-send to <place settlement="Genabum">Genabum</place> for the defence of that town. <persName eth="roman" nameid="Caesar">Caesar</persName> arrived here in two
+send to <place settlement="Genabum" modern="Orleans">Genabum</place> for the defence of that town. <persName eth="roman" nameid="Caesar">Caesar</persName> arrived here in two
 days; after pitching his camp before the town, being prevented by the
 time of the day, he defers the attack to the next day, and orders his
 soldiers to prepare whatever was necessary for that enterprise; and as a
-bridge over the <place river="Loire">Loire</place> connected the town of <place settlement="Genabum">Genabum</place> with the opposite
+bridge over the <place river="Loire">Loire</place> connected the town of <place settlement="Genabum" modern="Orleans">Genabum</place> with the opposite
 bank, fearing lest the inhabitants should escape by night from the town,
-he orders two legions to keep watch under arms. The people of <place settlement="Genabum">Genabum</place>
+he orders two legions to keep watch under arms. The people of <place settlement="Genabum" modern="Orleans">Genabum</place>
 came forth silently from the city before midnight, and began to cross
 the river. When this circumstance was announced by scouts, <persName eth="roman" nameid="Caesar">Caesar</persName>,
 having set fire to the gates, sends in the legions which he had ordered
@@ -5177,8 +5177,8 @@ soldiers, then leads his army over the <place river="Loire">Loire</place>, and m
 territories of the <tribe name="Bituriges">Bituriges</tribe>.
 </chapter>
 <chapter n="XII">XII.--<persName eth="arverni" role="king" nameid="Vercingetorix">Vercingetorix</persName>, when he ascertained the arrival of <persName eth="roman" nameid="Caesar">Caesar</persName>, desisted
-from the siege [of <place settlement="Gergovia">Gergovia</place>], and marched to meet <persName eth="roman" nameid="Caesar">Caesar</persName>. The latter had
-commenced to besiege <place settlement="Noviodunum">Noviodunum</place>; and when ambassadors came from this
+from the siege [of <place settlement="Gergovia" modern="Clermont-Ferrand">Gergovia</place>], and marched to meet <persName eth="roman" nameid="Caesar">Caesar</persName>. The latter had
+commenced to besiege <place settlement="Noviodunum" modern="Neung-sur-Beuvron">Noviodunum</place>; and when ambassadors came from this
 town to beg that he would pardon them and spare their lives, in order
 that he might execute the rest of his designs with the rapidity by which
 he had accomplished most of them, he orders their arms to be collected,
@@ -5203,13 +5203,13 @@ after losing a great number of men. When they were routed, the townsmen,
 again intimidated, arrested those persons by whose exertions they
 thought that the mob had been roused, and brought them to <persName eth="roman" nameid="Caesar">Caesar</persName>, and
 surrendered themselves to him. When these affairs were accomplished,
-<persName eth="roman" nameid="Caesar">Caesar</persName> marched to the <place settlement="Avaricum">Avaricum</place>, which was the largest and best fortified
+<persName eth="roman" nameid="Caesar">Caesar</persName> marched to the <place settlement="Avaricum" modern="Bourges">Avaricum</place>, which was the largest and best fortified
 town in the territories of the <tribe name="Bituriges">Bituriges</tribe>, and situated in a most fertile
 tract of country; because he confidently expected that on taking that
 town, he would reduce beneath his dominion the state of the <tribe name="Bituriges">Bituriges</tribe>.
 </chapter>
 <chapter n="XIV">XIV.--<persName eth="arverni" role="king" nameid="Vercingetorix">Vercingetorix</persName>, after sustaining such a series of losses at
-<place settlement="Vellaunodunum">Vellaunodunum</place>, <place settlement="Genabum">Genabum</place>, and <place settlement="Noviodunum">Noviodunum</place>, summons his men to a council. He
+<place settlement="Vellaunodunum" modern="Montargis">Vellaunodunum</place>, <place settlement="Genabum" modern="Orleans">Genabum</place>, and <place settlement="Noviodunum" modern="Neung-sur-Beuvron">Noviodunum</place>, summons his men to a council. He
 impresses on them "that the war must be prosecuted on a very different
 system from that which had been previously adopted; but they should by
 all means aim at this object, that the<tribe name="Romans"> Romans</tribe> should be prevented from
@@ -5242,7 +5242,7 @@ than twenty towns of the <tribe name="Bituriges">Bituriges</tribe> are burnt in 
 are beheld in every quarter; and although all bore this with great
 regret, yet they laid before themselves this consolation, that, as the
 victory was certain, they could quickly recover their losses. There is a
-debate concerning <place settlement="Avaricum">Avaricum</place> in the general council, whether they should
+debate concerning <place settlement="Avaricum" modern="Bourges">Avaricum</place> in the general council, whether they should
 decide that it should be burnt or defended. The <tribe name="Bituriges">Bituriges</tribe> threw
 themselves at the feet of all the <tribe name="Gauls">Gauls</tribe>, and entreat that they should
 not be compelled to set fire with their own hands to the fairest city of
@@ -5257,9 +5257,9 @@ garrison is selected for the town.
 </chapter>
 <chapter n="XVI">XVI.--<persName eth="arverni" role="king" nameid="Vercingetorix">Vercingetorix</persName> follows closely upon <persName eth="roman" nameid="Caesar">Caesar</persName> by shorter marches, and
 selects for his camp a place defended by woods and marshes, at the
-distance of fifteen miles from <place settlement="Avaricum">Avaricum</place>. There he received intelligence
+distance of fifteen miles from <place settlement="Avaricum" modern="Bourges">Avaricum</place>. There he received intelligence
 by trusty scouts, every hour in the day, of what was going on at
-<place settlement="Avaricum">Avaricum</place>, and ordered whatever he wished to be done; he closely watched
+<place settlement="Avaricum" modern="Bourges">Avaricum</place>, and ordered whatever he wished to be done; he closely watched
 all our expeditions for corn and forage, and whenever they were
 compelled to go to a greater distance, he attacked them when dispersed,
 and inflicted severe loss upon them; although the evil was remedied by
@@ -5287,14 +5287,14 @@ years under his command in such a manner, that they never submitted to
 insult, and never abandoned an enterprise without accomplishing it; that
 they should consider it a disgrace if they abandoned the siege after
 commencing it; that it was better to endure every hardship than not to
-avenge the manes of the Roman citizens who perished at <place settlement="Genabum">Genabum</place> by the
+avenge the manes of the Roman citizens who perished at <place settlement="Genabum" modern="Orleans">Genabum</place> by the
 perfidy of the <tribe name="Gauls">Gauls</tribe>." They entrusted the same declarations to the
 centurions and military tribunes, that through them they might be
 communicated to <persName eth="roman" nameid="Caesar">Caesar</persName>.
 </chapter>
 <chapter n="XVIII">XVIII.--When the towers had now approached the walls, <persName eth="roman" nameid="Caesar">Caesar</persName> ascertained
 from the captives that <persName eth="arverni" role="king" nameid="Vercingetorix">Vercingetorix</persName>, after destroying the forage, had
-pitched his camp nearer <place settlement="Avaricum">Avaricum</place>, and that he himself with the cavalry
+pitched his camp nearer <place settlement="Avaricum" modern="Bourges">Avaricum</place>, and that he himself with the cavalry
 and light-armed infantry, who generally fought among the horse, had gone
 to lay an ambuscade in that quarter to which he thought that our troops
 would come the next day to forage. On learning these facts, he set out
@@ -5500,7 +5500,7 @@ parts of the town. A part was then slain by the infantry when they were
 crowding upon one another in the narrow passage of the gates; and a part
 having got without the gates, were cut to pieces by the cavalry: nor was
 there one who was anxious for the plunder. Thus, being excited by the
-massacre at <place settlement="Genabum">Genabum</place> and the fatigue of the siege, they spared neither
+massacre at <place settlement="Genabum" modern="Orleans">Genabum</place> and the fatigue of the siege, they spared neither
 those worn out with years, women, or children. Finally, out of all that
 number, which amounted to about forty thousand, scarcely eight hundred,
 who fled from the town when they heard the first alarm, reached
@@ -5519,7 +5519,7 @@ should not be too much depressed in spirit, nor alarmed at their loss;
 that the<tribe name="Romans"> Romans</tribe> did not conquer by valour nor in the field, but by a
 kind of art and skill in assault, with which they themselves were
 unacquainted; that whoever expected every event in the war to be
-favourable, erred; that it never was his opinion that <place settlement="Avaricum">Avaricum</place> should be
+favourable, erred; that it never was his opinion that <place settlement="Avaricum" modern="Bourges">Avaricum</place> should be
 defended, of the truth of which statement he had themselves as
 witnesses, but that it was owing to the imprudence of the <tribe name="Bituriges">Bituriges</tribe>, and
 the too ready compliance of the rest, that this loss was sustained;
@@ -5538,7 +5538,7 @@ because he himself was not disheartened by receiving so severe a loss,
 and had not concealed himself, nor shunned the eyes of the people: and
 he was believed to possess greater foresight and sounder judgment than
 the rest, because, when the affair was undecided, he had at first been
-of opinion that <place settlement="Avaricum">Avaricum</place> should be burnt, and afterwards that it should
+of opinion that <place settlement="Avaricum" modern="Bourges">Avaricum</place> should be burnt, and afterwards that it should
 be abandoned. Accordingly, as ill success weakens the authority of other
 generals, so, on the contrary, his dignity increased daily, although a
 loss was sustained: at the same time they began to entertain hopes, on
@@ -5553,19 +5553,19 @@ gain over the other states, and [in consequence] endeavoured to entice
 their leaders by gifts and promises. For this object he selected fitting
 emissaries by whose subtle pleading or private friendship each of the
 nobles could be most easily influenced. He takes care that those who
-fled to him on the storming of <place settlement="Avaricum">Avaricum</place> should be provided with arms and
+fled to him on the storming of <place settlement="Avaricum" modern="Bourges">Avaricum</place> should be provided with arms and
 clothes. At the same time, that his diminished forces should be
 recruited, he levies a fixed quota of soldiers from each state, and
 defines the number and day before which he should wish them brought to
 the camp, and orders all the archers, of whom there was a very great
 number in<place region="Gaul"> Gaul</place>, to be collected and sent to him. By these means, the
-troops which were lost at <place settlement="Avaricum">Avaricum</place> are speedily replaced. In the
+troops which were lost at <place settlement="Avaricum" modern="Bourges">Avaricum</place> are speedily replaced. In the
 meantime, Teutomarus, the son of Ollovicon, the king of the Nitiobriges,
 whose father had received the appellation of friend from our senate,
 came to him with a great number of his own horse and those whom he had
 hired from <place region="Aquitania">Aquitania</place>.
 </chapter>
-<chapter n="XXXII">XXXII.--<persName eth="roman" nameid="Caesar">Caesar</persName>, after delaying several days at <place settlement="Avaricum">Avaricum</place>, and finding
+<chapter n="XXXII">XXXII.--<persName eth="roman" nameid="Caesar">Caesar</persName>, after delaying several days at <place settlement="Avaricum" modern="Bourges">Avaricum</place>, and finding
 there the greatest plenty of corn and other provisions, refreshed his
 army after their fatigue and privation. The winter being almost ended,
 when he was invited by the favourable season of the year to prosecute
@@ -5618,7 +5618,7 @@ cavalry and ten thousand infantry, which he might place in different
 garrisons to protect his convoys of provisions, and then divided his
 army into two parts: he gave <persName eth="roman" role="lieutenant" nameid="Labienus">Labienus</persName> four legions to lead into the
 country of the <tribe name="Senones">Senones</tribe> and Parisii; and led in person six into the
-country of the <tribe name="Arverni">Arverni</tribe>, in the direction of the town of <place settlement="Gergovia">Gergovia</place>, along
+country of the <tribe name="Arverni">Arverni</tribe>, in the direction of the town of <place settlement="Gergovia" modern="Clermont-Ferrand">Gergovia</place>, along
 the banks of the Allier. He gave part of the cavalry to <persName eth="roman" role="lieutenant" nameid="Labienus">Labienus</persName>, and
 kept part to himself. <persName eth="arverni" role="king" nameid="Vercingetorix">Vercingetorix</persName>, on learning this circumstance,
 broke down all the bridges over the river and began to march on the
@@ -5645,7 +5645,7 @@ selected a fit place for a camp, and recalled the rest of his troops.
 marches, in order that he might not be compelled to come to an action
 against his will.
 </chapter>
-<chapter n="XXXVI">XXXVI.--<persName eth="roman" nameid="Caesar">Caesar</persName>, in five days' march, went from that place to <place settlement="Gergovia">Gergovia</place>,
+<chapter n="XXXVI">XXXVI.--<persName eth="roman" nameid="Caesar">Caesar</persName>, in five days' march, went from that place to <place settlement="Gergovia" modern="Clermont-Ferrand">Gergovia</place>,
 and after engaging in a slight cavalry skirmish that day, on viewing the
 situation of the city, which, being built on a very high mountain, was
 very difficult of access, he despaired of taking it by storm, and
@@ -5671,7 +5671,7 @@ drew from the greater camp to the less a double trench twelve feet
 broad, so that the soldiers could even singly pass secure from any
 sudden attack of the enemy.
 </chapter>
-<chapter n="XXXVII">XXXVII.--Whilst these affairs were going on at <place settlement="Gergovia">Gergovia</place>,
+<chapter n="XXXVII">XXXVII.--Whilst these affairs were going on at <place settlement="Gergovia" modern="Clermont-Ferrand">Gergovia</place>,
 Convictolitanis, the Aeduan, to whom we have observed the magistracy was
 adjudged by <persName eth="roman" nameid="Caesar">Caesar</persName>, being bribed by the <tribe name="Arverni">Arverni</tribe>, holds a conference with
 certain young men, the chief of whom were Litavicus and his brothers,
@@ -5696,7 +5696,7 @@ measures, and the manner in which they should have them done.
 </chapter>
 <chapter n="XXXVIII">XXXVIII.--Litavicus, having received the command of the army, suddenly
 convened the soldiers, when he was about thirty miles distant from
-<place settlement="Gergovia">Gergovia</place>, and, weeping, said, "Soldiers, whither are we going? All our
+<place settlement="Gergovia" modern="Clermont-Ferrand">Gergovia</place>, and, weeping, said, "Soldiers, whither are we going? All our
 knights and all our nobles have perished. Eporedorix and Viridomarus,
 the principal men of the state, being accused of treason, have been
 slain by the<tribe name="Romans"> Romans</tribe> without even permission to plead their cause. Learn
@@ -5710,7 +5710,7 @@ with the <tribe name="Arverni">Arverni</tribe>; that they had concealed themselv
 of soldiers, and had escaped from the midst of the slaughter. The <tribe name="Aedui">Aedui</tribe>
 shout aloud and conjure Litavicus to provide for their safety. "As if,"
 said he, "it were a matter of deliberation, and not of necessity, for us
-to go to <place settlement="Gergovia">Gergovia</place> and unite ourselves to the <tribe name="Arverni">Arverni</tribe>. Or have we any
+to go to <place settlement="Gergovia" modern="Clermont-Ferrand">Gergovia</place> and unite ourselves to the <tribe name="Arverni">Arverni</tribe>. Or have we any
 reasons to doubt that the<tribe name="Romans"> Romans</tribe>, after perpetrating the atrocious
 crime, are now hastening to slay us? Therefore, if there be any spirit
 in us, let us avenge the death of those who have perished in a most
@@ -5758,12 +5758,12 @@ Litavicus discovered, the <tribe name="Aedui">Aedui</tribe> began to extend thei
 submission, and, laying down their arms, to deprecate death. Litavicus,
 with his clansmen, who after the custom of the <tribe name="Gauls">Gauls</tribe> consider it a crime
 to desert their patrons, even in extreme misfortune, flees forth to
-<place settlement="Gergovia">Gergovia</place>.
+<place settlement="Gergovia" modern="Clermont-Ferrand">Gergovia</place>.
 </chapter>
 <chapter n="XLI">XLI.--<persName eth="roman" nameid="Caesar">Caesar</persName>, after sending messengers to the state of the <tribe name="Aedui">Aedui</tribe>, to
 inform them that they whom he could have put to death by the right of
 war were spared through his kindness, and after giving three hours of
-the night to his army for his repose, directed his march to <place settlement="Gergovia">Gergovia</place>.
+the night to his army for his repose, directed his march to <place settlement="Gergovia" modern="Clermont-Ferrand">Gergovia</place>.
 Almost in the middle of the journey, a party of horse that were sent by
 <persName eth="roman" role="lieutenant" nameid="C. Fabius">Fabius</persName> stated in how great danger matters were; they inform him that the
 camp was attacked by a very powerful army, while fresh men were
@@ -5778,7 +5778,7 @@ similar casualty on the following day. <persName eth="roman" nameid="Caesar">Cae
 information, reached the camp before sunrise owing to the very great
 zeal of his soldiers.
 </chapter>
-<chapter n="XLII">XLII.--Whilst these things are going on at <place settlement="Gergovia">Gergovia</place>, the <tribe name="Aedui">Aedui</tribe>, on
+<chapter n="XLII">XLII.--Whilst these things are going on at <place settlement="Gergovia" modern="Clermont-Ferrand">Gergovia</place>, the <tribe name="Aedui">Aedui</tribe>, on
 receiving the first announcements from Litavicus, leave themselves no
 time to ascertain the truth of these statements. Some are stimulated by
 avarice, others by revenge and credulity, which is an innate propensity
@@ -5810,7 +5810,7 @@ much mildness as he can: "That he did not think worse of the state on
 account of the ignorance and fickleness of the mob, nor would diminish
 his regard for the <tribe name="Aedui">Aedui</tribe>." He himself, fearing a greater commotion in
 Gaul, in order to prevent his being surrounded by all the states, began
-to form plans as to the manner in which he should return from <place settlement="Gergovia">Gergovia</place>
+to form plans as to the manner in which he should return from <place settlement="Gergovia" modern="Clermont-Ferrand">Gergovia</place>
 and again concentrate his forces, lest a departure arising from the fear
 of a revolt should seem like a flight.
 </chapter>
@@ -5838,7 +5838,7 @@ muleteers with helmets, in the appearance and guise of horsemen, to ride
 round the hills. To these he adds a few cavalry, with instructions to
 range more widely to make a show. He orders them all to seek the same
 quarter by a long circuit; these proceedings were seen at a distance
-from the town, as <place settlement="Gergovia">Gergovia</place> commanded a view of the camp, nor could the
+from the town, as <place settlement="Gergovia" modern="Clermont-Ferrand">Gergovia</place> commanded a view of the camp, nor could the
 <tribe name="Gauls">Gauls</tribe> ascertain at so great a distance what certainty there was in the
 manoeuvre. He sends one legion to the same hill, and after it had
 marched a little, stations it in the lower ground, and conceals it in
@@ -5890,10 +5890,10 @@ were within the gates. The matrons begin to cast their clothes and
 silver over the wall, and bending over as far as the lower part of the
 bosom, with outstretched hands beseech the<tribe name="Romans"> Romans</tribe> to spare them, and not
 to sacrifice to their resentment even women and children, as they had
-done at <place settlement="Avaricum">Avaricum</place>. Some of them let themselves down from the walls by
+done at <place settlement="Avaricum" modern="Bourges">Avaricum</place>. Some of them let themselves down from the walls by
 their hands, and surrendered to our soldiers. Lucius Fabius, a centurion
 of the eighth legion, who, it was ascertained, had said that day among
-his fellow soldiers that he was excited by the plunder of <place settlement="Avaricum">Avaricum</place>, and
+his fellow soldiers that he was excited by the plunder of <place settlement="Avaricum" modern="Bourges">Avaricum</place>, and
 would not allow any one to mount the wall before him, finding three men
 of his own company, and being raised up by them, scaled the wall. He
 himself, in turn, taking hold of them one by one, drew them up to the
@@ -5964,7 +5964,7 @@ rashness and avarice of his soldiers, "In that they had judged for
 themselves how far they ought to proceed, or what they ought to do, and
 could not be kept back by the tribunes of the soldiers and the
 lieutenants;" and stated, "what the disadvantage of the ground could
-effect, what opinion he himself had entertained at <place settlement="Avaricum">Avaricum</place>, when having
+effect, what opinion he himself had entertained at <place settlement="Avaricum" modern="Bourges">Avaricum</place>, when having
 surprised the enemy without either general or cavalry, he had given up a
 certain victory, lest even a trifling loss should occur in the contest
 owing to the disadvantage of position. That as much as he admired the
@@ -6007,7 +6007,7 @@ insult; and to what condition and to what greatness he had raised them,
 seemed to surpass the dignity and influence of all the previous eras of
 their history. After giving these admonitions he dismissed them.
 </chapter>
-<chapter n="LV">LV.--<place settlement="Noviodunum">Noviodunum</place> was a town of the <tribe name="Aedui">Aedui</tribe>, advantageously situated on the
+<chapter n="LV">LV.--<place settlement="Noviodunum" modern="Neung-sur-Beuvron">Noviodunum</place> was a town of the <tribe name="Aedui">Aedui</tribe>, advantageously situated on the
 banks of the <place river="Loire">Loire</place>. <persName eth="roman" nameid="Caesar">Caesar</persName> had conveyed hither all the hostages of<place region="Gaul"> Gaul</place>,
 the corn, public money, a great part of his own baggage and that of his
 army; he had sent hither a great number of horses, which he had
@@ -6019,7 +6019,7 @@ that Convictolitanis the chief magistrate and a great part of the senate
 had gone to meet him, that ambassadors had been publicly sent to
 <persName eth="arverni" role="king" nameid="Vercingetorix">Vercingetorix</persName> to negotiate a peace and alliance; they thought that so
 great an opportunity ought not to be neglected. Therefore, having put to
-the sword the garrison of <place settlement="Noviodunum">Noviodunum</place> and those who had assembled there
+the sword the garrison of <place settlement="Noviodunum" modern="Neung-sur-Beuvron">Noviodunum</place> and those who had assembled there
 for the purpose of trading or were on their march, they divided the
 money and horses among themselves; they took care that the hostages of
 the [different] states should be brought to Bibracte, to the chief
@@ -6058,7 +6058,7 @@ the country of the <tribe name="Senones">Senones</tribe>.
 </chapter>
 <chapter n="LVII">LVII.--Whilst these things are being done by <persName eth="roman" nameid="Caesar">Caesar</persName>, <persName eth="roman" role="lieutenant" nameid="Labienus">Labienus</persName>, leaving
 at Agendicum the recruits who had lately arrived from <place region="Italy">Italy</place>, to guard
-the baggage, marches with four legions to <place settlement="Lutetia">Lutetia</place> (which is a town of
+the baggage, marches with four legions to <place settlement="Lutetia" modern="Paris">Lutetia</place> (which is a town of
 the Parisii, situated on an island of the river <place river="Seine">Seine</place>), whose arrival
 being discovered by the enemy, numerous forces arrived from the
 neighbouring states. The supreme command is entrusted to Camulogenus,
@@ -6073,20 +6073,20 @@ with hurdles and clay, and secure a road. After he perceived that this
 was too difficult to accomplish, he issued in silence from his camp at
 the third watch, and reached Melodunum by the same route by which he
 came. This is a town of the <tribe name="Senones">Senones</tribe>, situated on an island in the <place river="Seine">Seine</place>,
-as we have just before observed of <place settlement="Lutetia">Lutetia</place>. Having seized upon about
+as we have just before observed of <place settlement="Lutetia" modern="Paris">Lutetia</place>. Having seized upon about
 fifty ships and quickly joined them together, and having placed soldiers
 in them, he intimidated by his unexpected arrival the inhabitants, of
 whom a great number had been called out to the war, and obtains
 possession of the town without a contest. Having repaired the bridge,
 which the enemy had broken down during the preceding days, he led over
-his army, and began to march along the banks of the river to <place settlement="Lutetia">Lutetia</place>.
+his army, and began to march along the banks of the river to <place settlement="Lutetia" modern="Paris">Lutetia</place>.
 The enemy, on learning the circumstance from those who had escaped from
-Melodunum, set fire to <place settlement="Lutetia">Lutetia</place>, and order the bridges of that town to be
+Melodunum, set fire to <place settlement="Lutetia" modern="Paris">Lutetia</place>, and order the bridges of that town to be
 broken down: they themselves set out from the marsh, and take their
-position on the banks of the <place river="Seine">Seine</place>, over against <place settlement="Lutetia">Lutetia</place> and opposite
+position on the banks of the <place river="Seine">Seine</place>, over against <place settlement="Lutetia" modern="Paris">Lutetia</place> and opposite
 the camp of <persName eth="roman" role="lieutenant" nameid="Labienus">Labienus</persName>.
 </chapter>
-<chapter n="LIX">LIX.--<persName eth="roman" nameid="Caesar">Caesar</persName> was now reported to have departed from <place settlement="Gergovia">Gergovia</place>;
+<chapter n="LIX">LIX.--<persName eth="roman" nameid="Caesar">Caesar</persName> was now reported to have departed from <place settlement="Gergovia" modern="Clermont-Ferrand">Gergovia</place>;
 intelligence was likewise brought to them concerning the revolt of the
 <tribe name="Aedui">Aedui</tribe>, and a successful rising in<place region="Gaul"> Gaul</place>; and that <persName eth="roman" nameid="Caesar">Caesar</persName>, having been
 prevented from prosecuting his journey and crossing the <place river="Loire">Loire</place>, and
@@ -6276,16 +6276,16 @@ after the revolt of Litavicus, and Eporedorix, under whose command the
 </chapter>
 <chapter n="LXVIII">LXVIII.--All his cavalry being routed, <persName eth="arverni" role="king" nameid="Vercingetorix">Vercingetorix</persName> led back his troops
 in the same order as he had arranged them before the camp, and
-immediately began to march to <place settlement="Alesia">Alesia</place>, which is a town of the Mandubii;
+immediately began to march to <place settlement="Alesia" modern="Alise-Sainte-Reine">Alesia</place>, which is a town of the Mandubii;
 and ordered the baggage to be speedily brought forth from the camp, and
 follow him closely. <persName eth="roman" nameid="Caesar">Caesar</persName>, having conveyed his baggage to the nearest
 hill, and having left two legions to guard it, pursued as far as the
 time of day would permit, and after slaying about three thousand of the
-rear of the enemy, encamped at <place settlement="Alesia">Alesia</place> on the next day. On reconnoitring
+rear of the enemy, encamped at <place settlement="Alesia" modern="Alise-Sainte-Reine">Alesia</place> on the next day. On reconnoitring
 the situation of the city, finding that the enemy were panic-stricken,
 because the cavalry in which they placed their chief reliance were
 beaten, he encouraged his men to endure the toil, and began to draw a
-line of circumvallation round <place settlement="Alesia">Alesia</place>.
+line of circumvallation round <place settlement="Alesia" modern="Alise-Sainte-Reine">Alesia</place>.
 </chapter>
 <chapter n="LXIX">LXIX.--The town itself was situated on the top of a hill, in a very
 lofty position, so that it did not appear likely to be taken, except by
@@ -6400,7 +6400,7 @@ to the departure of the enemy's cavalry; and in order that the Roman
 soldiers might not be compelled to go out of the camp with great risk,
 he orders all to provide forage and corn for thirty days.
 </chapter>
-<chapter n="LXXV">LXXV.--Whilst those things are carried on at <place settlement="Alesia">Alesia</place>, the <tribe name="Gauls">Gauls</tribe>, having
+<chapter n="LXXV">LXXV.--Whilst those things are carried on at <place settlement="Alesia" modern="Alise-Sainte-Reine">Alesia</place>, the <tribe name="Gauls">Gauls</tribe>, having
 convened a council of their chief nobility, determine that all who could
 bear arms should not be called out, which was the opinion of
 <persName eth="arverni" role="king" nameid="Vercingetorix">Vercingetorix</persName>, but that a fixed number should be levied from each state;
@@ -6443,14 +6443,14 @@ commanders were appointed: the supreme command is entrusted to <persName eth="at
 the Atrebatian, Viridomarus and Eporedorix the Aeduans, and
 <persName eth="arverni" nameid="Vergasillaunus">Vergasillaunus</persName> the Arvernian, the cousin-german of <persName eth="arverni" role="king" nameid="Vercingetorix">Vercingetorix</persName>. To
 them are assigned men selected from each state, by whose advice the war
-should be conducted. All march to <place settlement="Alesia">Alesia</place>, sanguine and full of
+should be conducted. All march to <place settlement="Alesia" modern="Alise-Sainte-Reine">Alesia</place>, sanguine and full of
 confidence: nor was there a single individual who imagined that the
 Romans could withstand the sight of such an immense host: especially in
 an action carried on both in front and rear, when [on the inside] the
 besieged would sally from the town and attack the enemy, and on the
 outside so great forces of cavalry and infantry would be seen.
 </chapter>
-<chapter n="LXXVII">LXXVII.--But those who were blockaded at <place settlement="Alesia">Alesia</place>, the day being past on
+<chapter n="LXXVII">LXXVII.--But those who were blockaded at <place settlement="Alesia" modern="Alise-Sainte-Reine">Alesia</place>, the day being past on
 which they had expected auxiliaries from their countrymen, and all their
 corn being consumed, ignorant of what was going on among the <tribe name="Aedui">Aedui</tribe>,
 convened an assembly and deliberated on the exigency of their situation.
@@ -6516,11 +6516,11 @@ admitted.
 </chapter>
 <chapter n="LXXIX">LXXIX.--In the meantime, <persName eth="atrebates" role="king" nameid="Commius">Commius</persName> and the rest of the leaders, to whom
 the supreme command had been intrusted, came with all their forces to
-<place settlement="Alesia">Alesia</place>, and having occupied the entire hill, encamp not more than a mile
+<place settlement="Alesia" modern="Alise-Sainte-Reine">Alesia</place>, and having occupied the entire hill, encamp not more than a mile
 from our fortifications. The following day, having led forth their
 cavalry from the camp, they fill all that plain, which, we have related,
 extended three miles in length, and draw out their infantry a little
-from that place, and post them on the higher ground. The town <place settlement="Alesia">Alesia</place>
+from that place, and post them on the higher ground. The town <place settlement="Alesia" modern="Alise-Sainte-Reine">Alesia</place>
 commanded a view of the whole plain. The besieged run together when
 these auxiliaries were seen; mutual congratulations ensue, and the minds
 of all are elated with joy. Accordingly, drawing out their troops, they
@@ -6549,7 +6549,7 @@ against the enemy in a compact body, and drove them back; and, when they
 were put to flight, the archers were surrounded and cut to pieces. In
 other parts, likewise, our men pursued to the camp the retreating enemy,
 and did not give them an opportunity of rallying. But those who had come
-forth from <place settlement="Alesia">Alesia</place> returned into the town dejected and almost despairing
+forth from <place settlement="Alesia" modern="Alise-Sainte-Reine">Alesia</place> returned into the town dejected and almost despairing
 of success.
 </chapter>
 <chapter n="LXXXI">LXXXI.--The <tribe name="Gauls">Gauls</tribe>, after the interval of a day, and after making, during
@@ -6610,7 +6610,7 @@ approach the fortifications in the plain, and the rest of the forces to
 make a demonstration in front of the camp.
 </chapter>
 <chapter n="LXXXIV">LXXXIV.--<persName eth="arverni" role="king" nameid="Vercingetorix">Vercingetorix</persName>, having beheld his countrymen from the citadel of
-<place settlement="Alesia">Alesia</place>, issues forth from the town; he brings forth from the camp long
+<place settlement="Alesia" modern="Alise-Sainte-Reine">Alesia</place>, issues forth from the town; he brings forth from the camp long
 hooks, movable pent-houses, mural hooks, and other things, which he had
 prepared for the purpose of making a sally. They engage on all sides at
 once, and every expedient is adopted. They flocked to whatever part of
@@ -6819,7 +6819,7 @@ meet the immediate necessity, in which they lived to shelter themselves
 against the winter, for, being lately conquered, they had lost several
 towns), and dispersed and fled. <persName eth="roman" nameid="Caesar">Caesar</persName>, unwilling to expose his soldiers
 to the violent storms that break out, especially at that season, took up
-his quarters at <place settlement="Genabum">Genabum</place>, a town of the <tribe name="Carnutes">Carnutes</tribe>; and lodged his men in
+his quarters at <place settlement="Genabum" modern="Orleans">Genabum</place>, a town of the <tribe name="Carnutes">Carnutes</tribe>; and lodged his men in
 houses, partly belonging to the <tribe name="Gauls">Gauls</tribe>, and partly built to shelter the
 tents, and hastily covered with thatch. But the horse and auxiliaries he
 sends to all parts to which he was told the enemy had marched; and not
@@ -6835,7 +6835,7 @@ states.
 gathering foes, and prevent any new war from breaking out, and being
 convinced, as far as reason could foresee, that no war of consequence
 could be set on foot in the summer campaign, stationed Caius <persName eth="roman" role="lieutenant" nameid="C. Trebonius">Trebonius</persName>,
-with the two legions which he had with him, in quarters at <place settlement="Genabum">Genabum</place>: and
+with the two legions which he had with him, in quarters at <place settlement="Genabum" modern="Orleans">Genabum</place>: and
 being informed by frequent embassies from the <tribe name="Remi">Remi</tribe>, that the <tribe name="Bellovaci">Bellovaci</tribe>
 (who exceed all the <tribe name="Gauls">Gauls</tribe> and <tribe name="Belgae">Belgae</tribe> in military prowess), and the
 neighbouring states, headed by Correus, one of the <tribe name="Bellovaci">Bellovaci</tribe>, and
@@ -6992,7 +6992,7 @@ dejected by a trifling calamity.
 </chapter>
 <chapter n="XIV">XIV.--After spending several days in the same camp, the guards of the
 <tribe name="Bellovaci">Bellovaci</tribe>, learning that Caius <persName eth="roman" role="lieutenant" nameid="C. Trebonius">Trebonius</persName> was advancing nearer with his
-legions, and fearing a siege like that of <place settlement="Alesia">Alesia</place>, send off by night all
+legions, and fearing a siege like that of <place settlement="Alesia" modern="Alise-Sainte-Reine">Alesia</place>, send off by night all
 who were disabled by age or infirmity, or unarmed, and along with them
 their whole baggage. Whilst they are preparing their disorderly and
 confused troop for march (for the <tribe name="Gauls">Gauls</tribe> are always attended by a vast
@@ -7319,7 +7319,7 @@ of drawing lines round the town by degrees, as his forces could bear the
 fatigue.
 </chapter>
 <chapter n="XXXIV">XXXIV.--When the townsmen perceived his design, being terrified by the
-recollection of the distress at <place settlement="Alesia">Alesia</place>, they began to dread similar
+recollection of the distress at <place settlement="Alesia" modern="Alise-Sainte-Reine">Alesia</place>, they began to dread similar
 consequences from a siege; and above all <persName eth="cadurci" role="leader" nameid="Luterius">Luterius</persName>, who had experienced
 that fatal event, cautioned them to make provision of corn; they
 therefore resolve by general consent to leave part of their troops
@@ -7869,7 +7869,7 @@ that they are ready to defend their general, and the tribunes of the
 commons, from all injuries.</chapter>
 
 <chapter n="VIII">VIII.--Having made himself acquainted with the disposition of his
-soldiers,<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName> set off with that legion to <place settlement="Ariminum">Ariminum</place>, and there met the
+soldiers,<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName> set off with that legion to <place settlement="Ariminum" modern="Rimini">Ariminum</place>, and there met the
 tribunes, who had fled to him for protection; he called his other
 legions from winter quarters, and ordered them to follow him. Thither
 came Lucius<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName>, a young man, whose father was a lieutenant general
@@ -7918,16 +7918,16 @@ performed, and conditions secured and confirmed by oath, either let
 all their disputes would be settled by an interview."</chapter>
 
 <chapter n="X">X.--Roscius and Lucius<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName>, having received this message, went to
-<place settlement="Capua">Capua</place>, where they met the consuls and<persName eth="roman" role="consul" nameid="Pompey">Pompey</persName>, and declared to them
+<place settlement="Capua" modern="Capua">Capua</place>, where they met the consuls and<persName eth="roman" role="consul" nameid="Pompey">Pompey</persName>, and declared to them
 <persName eth="roman" role="officer" nameid="Caesar">Caesar's</persName> terms. Having deliberated on the matter, they replied, and sent
 written proposals to him by the same persons, the purport of which was,
-that<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName> should return into <place region="Gaul">Gaul</place>, leave <place settlement="Ariminum">Ariminum</place>, and disband his
+that<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName> should return into <place region="Gaul">Gaul</place>, leave <place settlement="Ariminum" modern="Rimini">Ariminum</place>, and disband his
 army: if he complied with this, that<persName eth="roman" role="consul" nameid="Pompey">Pompey</persName> would go to <place region="Spain">Spain</place>. In the
 meantime, until security was given that<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName> would perform his
 promises, that the consuls and<persName eth="roman" role="consul" nameid="Pompey">Pompey</persName> would not give over their levies.</chapter>
 
 <chapter n="XI">XI.--It was not an equitable proposal, to require that<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName> should
-quit <place settlement="Ariminum">Ariminum</place> and return to his province; but that he [Pompey] should
+quit <place settlement="Ariminum" modern="Rimini">Ariminum</place> and return to his province; but that he [Pompey] should
 himself retain his province and the legions that belonged to another,
 and desire that<persName eth="roman" role="officer" nameid="Caesar">Caesar's</persName> army should be disbanded, whilst he himself was
 making new levies: and that he should merely promise to go to his
@@ -7936,8 +7936,8 @@ he should not set out till after<persName eth="roman" role="officer" nameid="Cae
 would not appear bound by any religious scruples about asserting a
 falsehood. But his not granting time for a conference, nor promising to
 set out to meet him, made the expectation of peace appear very hopeless.
-Caesar, therefore, sent <persName eth="roman" role="general" nameid="Marcus. Antonius">Marcus Antonius</persName>, with five cohorts from <place settlement="Ariminum">Ariminum</place>
-to Arretium; he himself stayed at <place settlement="Ariminum">Ariminum</place> with two legions, with the
+Caesar, therefore, sent <persName eth="roman" role="general" nameid="Marcus. Antonius">Marcus Antonius</persName>, with five cohorts from <place settlement="Ariminum" modern="Rimini">Ariminum</place>
+to Arretium; he himself stayed at <place settlement="Ariminum" modern="Rimini">Ariminum</place> with two legions, with the
 intention of raising levies there. He secured Pisaurus, Fanum, and
 Ancona, with a cohort each.</chapter>
 
@@ -7945,7 +7945,7 @@ Ancona, with a cohort each.</chapter>
 possession of Iguvium, with five cohorts, and was fortifying the town,
 but that the affections of all the inhabitants were very well inclined
 towards himself; he detached <persName eth="roman" role="aristocrat" nameid="C. Curio">Curio</persName> with three cohorts, which he had at
-<place settlement="Ariminum">Ariminum</place> and Pisaurus. Upon notice of his approach, Thermus, distrusting
+<place settlement="Ariminum" modern="Rimini">Ariminum</place> and Pisaurus. Upon notice of his approach, Thermus, distrusting
 the affections of the townsmen, drew his cohorts out of it, and made his
 escape; his soldiers deserted him on the road, and returned home. <persName eth="roman" role="aristocrat" nameid="C. Curio">Curio</persName>
 recovered Iguvium, with the cheerful concurrence of all the inhabitants.
@@ -7973,7 +7973,7 @@ Caesar applauded the soldiers of Attius, set Pupius at liberty, returned
 thanks to the people of Auximum, and promised to be grateful for their
 conduct.</chapter>
 
-<chapter n="XIV">XIV.--Intelligence of this being brought to <place settlement="Rome">Rome</place>, so great a panic
+<chapter n="XIV">XIV.--Intelligence of this being brought to <place settlement="Rome" modern="Rome">Rome</place>, so great a panic
 spread on a sudden that when <persName eth="roman" role="consul" nameid="Lentulus">Lentulus</persName>, the consul, came to open the
 treasury, to deliver money to<persName eth="roman" role="consul" nameid="Pompey">Pompey</persName> by the senate's decree, immediately
 on opening the hallowed door he fled from the city. For it was falsely
@@ -7982,7 +7982,7 @@ at the gates. <persName eth="roman" role="consul" nameid="C. Marcellus">Marcellu
 the magistrates. Cneius<persName eth="roman" role="consul" nameid="Pompey">Pompey</persName> had left the city the day before, and was
 on his march to those legions which he had received from<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName>, and had
 disposed in winter quarters in Apulia. The levies were stopped within
-the city. No place on this side of <place settlement="Capua">Capua</place> was thought secure. At <place settlement="Capua">Capua</place>
+the city. No place on this side of <place settlement="Capua" modern="Capua">Capua</place> was thought secure. At <place settlement="Capua" modern="Capua">Capua</place>
 they first began to take courage and to rally, and determined to raise
 levies in the colonies, which had been sent thither by the Julian law:
 and <persName eth="roman" role="consul" nameid="Lentulus">Lentulus</persName> brought into the public market-place the gladiators which
@@ -8325,7 +8325,7 @@ and quit the place.</chapter>
 
 <chapter n="XXXII">XXXII.--When these affairs were despatched,<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName>, that there might be
 an intermission from labour for the rest of the season, drew off his
-soldiers to the nearest municipal towns, and set off in person for <place settlement="Rome">Rome</place>.
+soldiers to the nearest municipal towns, and set off in person for <place settlement="Rome" modern="Rome">Rome</place>.
 Having assembled the senate, he reminded them of the injustice of his
 enemies; and told them, "That he aimed at no extraordinary honour, but
 had waited for the time appointed by law, for standing candidate for the
@@ -8361,7 +8361,7 @@ was desirous of excelling them in justice and equity."</chapter>
 found fit to execute the commission: for every person, from his own
 private fears, declined the office. For<persName eth="roman" role="consul" nameid="Pompey">Pompey</persName>, on leaving the city, had
 declared in the open senate, that he would hold in the same degree of
-estimation, those who stayed in <place settlement="Rome">Rome</place> and those in<persName eth="roman" role="officer" nameid="Caesar">Caesar's</persName> camp. Thus
+estimation, those who stayed in <place settlement="Rome" modern="Rome">Rome</place> and those in<persName eth="roman" role="officer" nameid="Caesar">Caesar's</persName> camp. Thus
 three days were wasted in disputes and excuses. Besides, Lucius
 Metellus, one of the tribunes, was suborned by<persName eth="roman" role="officer" nameid="Caesar">Caesar's</persName> enemies, to
 prevent this, and to embarrass everything else which<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName> should
@@ -8373,20 +8373,20 @@ intended.</chapter>
 <chapter n="XXXIV">XXXIV.--On his arrival there, he was informed that, <persName eth="roman" role="aristocrat" nameid="V. Rufus">Vibullius Rufus</persName>,
 whom he had taken a few days before at Corfinium, and set at liberty,
 was sent by<persName eth="roman" role="consul" nameid="Pompey">Pompey</persName> into <place region="Spain">Spain</place>; and that<persName eth="roman">Domitius</persName> also was gone to seize
-<place settlement="Massilia">massilia</place> with seven row-galleys, which were fitted up by some private
+<place settlement="Massilia" modern="Marseille">Massilia</place> with seven row-galleys, which were fitted up by some private
 persons at Igilium and Cosa, and which he had manned with his own
 slaves, freedmen, and colonists: and that some young noblemen of
-<place settlement="Massilia">massilia</place> had been sent before him; whom<persName eth="roman" role="consul" nameid="Pompey">Pompey</persName>, when leaving <place settlement="Rome">Rome</place> had
+<place settlement="Massilia" modern="Marseille">Massilia</place> had been sent before him; whom<persName eth="roman" role="consul" nameid="Pompey">Pompey</persName>, when leaving <place settlement="Rome" modern="Rome">Rome</place> had
 exhorted, that the late services of<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName> should not erase from their
 minds the memory of his former favours. On receiving this message, the
-<place settlement="Massilia">massilia</place>ns had shut their gates against<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName>, and invited over to them
+<place settlement="Massilia" modern="Marseille">Massilia</place>ns had shut their gates against<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName>, and invited over to them
 the <tribe name="Albici">Albici</tribe>, who had formerly been in alliance with them, and who
-inhabited the mountains that overhung <place settlement="Massilia">massilia</place>: they had likewise
+inhabited the mountains that overhung <place settlement="Massilia" modern="Marseille">Massilia</place>: they had likewise
 conveyed the corn from the surrounding country, and from all the forts
 into the city; had opened armouries in the city: and were repairing the
 walls, the fleet, and the gates.</chapter>
 
-<chapter n="XXXV">XXXV.--<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName> sent for fifteen of the principal persons of <place settlement="Massilia">massilia</place> to
+<chapter n="XXXV">XXXV.--<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName> sent for fifteen of the principal persons of <place settlement="Massilia" modern="Marseille">Massilia</place> to
 attend him. To prevent the war commencing among them, he remonstrates
 [in the following language]; "that they ought to follow the precedent
 set by all <place region="Italy">Italy</place>, rather than submit to the will of any one man." He
@@ -8404,7 +8404,7 @@ to show equal affection to both, and assist neither against the other,
 nor admit either into their city or harbours."</chapter>
 
 <chapter n="XXXVI">XXXVI.--Whilst this treaty was going forward,<persName eth="roman">Domitius</persName> arrived at
-<place settlement="Massilia">massilia</place> with his fleet, and was received into the city, and made
+<place settlement="Massilia" modern="Marseille">Massilia</place> with his fleet, and was received into the city, and made
 governor of it. The chief management of the war was entrusted to him. At
 his command they send the fleet to all parts; they seize all the
 merchantmen they could meet with, and carry them into the harbour; they
@@ -8413,10 +8413,10 @@ rig and refit their other vessels. They lay up in the public stores, all
 the corn that was found in the ships, and reserve the rest of their
 lading and convoy for the siege of the town, should such an event take
 place. Provoked at such ill treatment,<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName> led three legions against
-<place settlement="Massilia">massilia</place>, and resolved to provide turrets, and vinae to assault the
+<place settlement="Massilia" modern="Marseille">Massilia</place>, and resolved to provide turrets, and vinae to assault the
 town, and to build twelve ships at Arelas, which being completed and
 rigged in thirty days (from the time the timber was cut down), and being
-brought to <place settlement="Massilia">massilia</place>, he put under the command of Decimus <persName eth="roman" role="general" nameid="D. Brutus">Brutus</persName>; and
+brought to <place settlement="Massilia" modern="Marseille">Massilia</place>, he put under the command of Decimus <persName eth="roman" role="general" nameid="D. Brutus">Brutus</persName>; and
 left Caius <persName eth="roman" role="lieutenant" nameid="C. Trebonius">Trebonius</persName> his lieutenant, to invest the city.</chapter>
 
 <chapter n="XXXVII">XXXVII.--Whilst he was preparing and getting these things in readiness,
@@ -8696,9 +8696,9 @@ distant states, and endeavoured to remedy the present scarcity by every
 resource in his power.</chapter>
 
 <chapter n="LIII">LIII.--<persName eth="roman" role="general" nameid="Afranius">Afranius</persName> and <persName eth="roman" role="soldier" nameid="Petreius. Younger">Petreius</persName>, and their friends, sent fuller and more
-circumstantial accounts of these things to <place settlement="Rome">Rome</place>, to their acquaintances.
+circumstantial accounts of these things to <place settlement="Rome" modern="Rome">Rome</place>, to their acquaintances.
 Report exaggerated them so that the war appeared to be almost at an end.
-When these letters and despatches were received at <place settlement="Rome">Rome</place>, a great
+When these letters and despatches were received at <place settlement="Rome" modern="Rome">Rome</place>, a great
 concourse of people resorted to the house of <persName eth="roman" role="general" nameid="Afranius">Afranius</persName>, and
 congratulations ran high: several went out of <place region="Italy">Italy</place> to Cneius<persName eth="roman" role="consul" nameid="Pompey">Pompey</persName>;
 some of them, to be the first to bring him the intelligence; others,
@@ -8732,7 +8732,7 @@ which had rashly ventured out of the line before the others, and after
 putting it to the sword, returned safe with considerable booty to the
 camp over the same bridge.</chapter>
 
-<chapter n="LVI">LVI.--Whilst these affairs are going forward at Ilerda, the <place settlement="Massilia">massilia</place>ns,
+<chapter n="LVI">LVI.--Whilst these affairs are going forward at Ilerda, the <place settlement="Massilia" modern="Marseille">Massilia</place>ns,
 adopting the advice of<persName eth="roman">Domitius</persName>, prepared seventeen ships of war, of
 which eleven were decked. To these they add several smaller vessels,
 that our fleet might be terrified by numbers: they man them with a great
@@ -8742,7 +8742,7 @@ certain ships for his own use, which he manned with colonists and
 shepherds, whom he had brought along with him. A fleet being thus
 furnished with every necessary, he advanced with great confidence
 against our ships, commanded by Decimus <persName eth="roman" role="general" nameid="D. Brutus">Brutus</persName>. It was stationed at an
-island opposite to <place settlement="Massilia">massilia</place>.</chapter>
+island opposite to <place settlement="Massilia" modern="Marseille">Massilia</place>.</chapter>
 
 <chapter n="LVII">LVII.--<persName eth="roman" role="general" nameid="D. Brutus">Brutus</persName> was much inferior in number of ships; but<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName> had
 appointed to that fleet the bravest men selected from all his legions,
@@ -8750,15 +8750,15 @@ antesignani and centurions, who had requested to be employed in that
 service. They had provided iron hooks and harpoons, and had furnished
 themselves with a vast number of javelins, darts, and missiles. Thus
 prepared, and being apprised of the enemy's approach, they put out from
-the harbour, and engaged the <place settlement="Massilia">massilia</place>ns. Both sides fought with great
+the harbour, and engaged the <place settlement="Massilia" modern="Marseille">Massilia</place>ns. Both sides fought with great
 courage and resolution; nor did the <tribe name="Albici">Albici</tribe>, a hardy people, bred on the
 highlands and inured to arms, fall much short of our men in valour: and
-being lately come from the <place settlement="Massilia">massilia</place>ns, they retained in their minds
+being lately come from the <place settlement="Massilia" modern="Marseille">Massilia</place>ns, they retained in their minds
 their recent promises: and the wild shepherds, encouraged by the hope of
 liberty, were eager to prove their zeal in the presence of their
 masters.</chapter>
 
-<chapter n="LVIII">LVIII.--The <place settlement="Massilia">massilia</place>ns themselves, confiding in the quickness of their
+<chapter n="LVIII">LVIII.--The <place settlement="Massilia" modern="Marseille">Massilia</place>ns themselves, confiding in the quickness of their
 ships, and the skill of their pilots, eluded ours, and evaded the shock,
 and as long as they were permitted by clear space, lengthening their
 line they endeavoured to surround us, or to attack single ships with
@@ -8776,7 +8776,7 @@ theirs. And throwing in the grappling irons, and holding both ships
 fast, they fought on both sides of the deck, and boarded the enemy's;
 and having killed numbers of the <tribe name="Albici">Albici</tribe> and shepherds, they sank some of
 their ships, took others with the men on board, and drove the rest into
-the harbour. That day the <place settlement="Massilia">massilia</place>ns lost nine ships, including those
+the harbour. That day the <place settlement="Massilia" modern="Marseille">Massilia</place>ns lost nine ships, including those
 that were taken.</chapter>
 
 <chapter n="LIX">LIX.--When news of this battle was brought to<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName> at Ilerda, the
@@ -9255,7 +9255,7 @@ these measures were adopted to keep the <place region="Spain">Spain</place>s in 
 of the province, which, from the length of the peace, stood in need of
 no such aid; that all these things were long since designed against him:
 that against him a new sort of government was established, that the same
-person should be at the gates of <place settlement="Rome">Rome</place>, to direct the affairs of the
+person should be at the gates of <place settlement="Rome" modern="Rome">Rome</place>, to direct the affairs of the
 city; and though absent, have the government of two most warlike
 provinces for so many years: that against him the laws of the
 magistrates had been altered; that the late praetors and consuls should
@@ -9313,10 +9313,10 @@ was disbanded.
 
 <chapter n="I">I.--Whilst these things were going forward in <place region="Spain">Spain</place>, Caius <persName eth="roman" role="lieutenant" nameid="C. Trebonius">Trebonius</persName>,
 <persName eth="roman" role="officer" nameid="Caesar">Caesar's</persName> lieutenant, who had been left to conduct the assault of
-<place settlement="Massilia">massilia</place>, began to raise a mound, vineae, and turrets against the town,
+<place settlement="Massilia" modern="Marseille">Massilia</place>, began to raise a mound, vineae, and turrets against the town,
 on two sides: one of which was next the harbour and docks, the other on
 that part where there is a passage from <place region="Gaul">Gaul</place> and <place region="Spain">Spain</place> to that sea which
-forces itself up the mouth of the Rhone. For <place settlement="Massilia">massilia</place> is washed almost
+forces itself up the mouth of the Rhone. For <place settlement="Massilia" modern="Marseille">Massilia</place> is washed almost
 on three sides by the sea, the remaining fourth part is the only side
 which has access by land. A part even of this space, which reaches to
 the fortress, being fortified by the nature of the country, and a very
@@ -9345,16 +9345,16 @@ sallied, beat them back into the town.</chapter>
 
 <chapter n="III">III.--In the meantime, Lucius Nasidius, being sent by Cneius<persName eth="roman" role="consul" nameid="Pompey">Pompey</persName> with
 a fleet of sixteen sail, a few of which had beaks of brass, to the
-assistance of Lucius<persName eth="roman">Domitius</persName> and the <place settlement="Massilia">massilia</place>ns, passed the straits of
+assistance of Lucius<persName eth="roman">Domitius</persName> and the <place settlement="Massilia" modern="Marseille">Massilia</place>ns, passed the straits of
 <place region="Sicily">Sicily</place> without the knowledge or expectation of <persName eth="roman" role="aristocrat" nameid="C. Curio">Curio</persName>, and, putting with
 his fleet into Messana, and making the nobles and senate take flight
 with the sudden terror, carried off one of their ships out of dock.
 Having joined this to his other ships, he made good his voyage to
-<place settlement="Massilia">massilia</place>, and, having sent in a galley privately, acquaints<persName eth="roman">Domitius</persName> and
-the <place settlement="Massilia">massilia</place>ns of his arrival, and earnestly encourages them to hazard
+<place settlement="Massilia" modern="Marseille">Massilia</place>, and, having sent in a galley privately, acquaints<persName eth="roman">Domitius</persName> and
+the <place settlement="Massilia" modern="Marseille">Massilia</place>ns of his arrival, and earnestly encourages them to hazard
 another battle with <persName eth="roman" role="general" nameid="D. Brutus">Brutus</persName>'s fleet with the addition of his aid.</chapter>
 
-<chapter n="IV">IV.--The <place settlement="Massilia">massilia</place>ns, since their former loss, had brought the same
+<chapter n="IV">IV.--The <place settlement="Massilia" modern="Marseille">Massilia</place>ns, since their former loss, had brought the same
 number of old ships from the docks, and had repaired and fitted them out
 with great industry: they had a large supply of seamen and pilots. They
 had got several fishing-smacks, and covered them over, that the seamen
@@ -9368,14 +9368,14 @@ more vehemently alarmed at things unseen, concealed, and unknown, as was
 the case then. For the arrival of Lucius Nasidius had filled the state
 with the most sanguine hopes and wishes. Having got a fair wind, they
 sailed out of port and went to Nasidius to Taurois, which is a fort
-belonging to the <place settlement="Massilia">massilia</place>ns, and there ranged their fleet and again
+belonging to the <place settlement="Massilia" modern="Marseille">Massilia</place>ns, and there ranged their fleet and again
 encouraged each other to engage, and communicated their plan of
 operation. The command of the right division was given to the
-<place settlement="Massilia">massilia</place>ns, that of the left to Nasidius.</chapter>
+<place settlement="Massilia" modern="Marseille">Massilia</place>ns, that of the left to Nasidius.</chapter>
 
 <chapter n="V">V.--<persName eth="roman" role="general" nameid="D. Brutus">Brutus</persName> sailed to the same place with an augmented fleet: for to
 those made by<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName> at Arelas were added six ships taken from the
-<place settlement="Massilia">massilia</place>ns, which he had refitted since the last battle and had
+<place settlement="Massilia" modern="Marseille">Massilia</place>ns, which he had refitted since the last battle and had
 furnished with every necessary. Accordingly, having encouraged his men
 to despise a vanquished people whom they had conquered when yet
 unbroken, he advanced against them full of confidence and spirit. From
@@ -9395,7 +9395,7 @@ preserving the city, either by their internal resources or by foreign
 assistance.
 
 VI-.-When the battle was begun, no effort of valour was wanting to the
-<place settlement="Massilia">massilia</place>ns, but, mindful of the instructions which they had a little
+<place settlement="Massilia" modern="Marseille">Massilia</place>ns, but, mindful of the instructions which they had a little
 before received from their friends, they fought with such spirit as if
 they supposed that they would never have another opportunity to attempt
 a defence, and as if they believed that those whose lives should be
@@ -9425,14 +9425,14 @@ both.</chapter>
 <chapter n="VII">VII.--But Nasidius's ships were of no use, and soon left the fight; for
 the sight of their country, or the entreaties of their relations, did
 not urge them to run a desperate risk of their lives. Therefore, of the
-number of the ships not one was lost: of the fleet of the <place settlement="Massilia">massilia</place>ns
+number of the ships not one was lost: of the fleet of the <place settlement="Massilia" modern="Marseille">Massilia</place>ns
 five were sunk, four taken, and one ran off with Nasidius: all that
 escaped made the best of their way to Hither <place region="Spain">Spain</place>, but one of the rest
-was sent forward to <place settlement="Massilia">massilia</place> for the purpose of bearing this
+was sent forward to <place settlement="Massilia" modern="Marseille">Massilia</place> for the purpose of bearing this
 intelligence, and when it came near the city, the whole people crowded
 out to hear the tidings, and on being informed of the event, were so
 oppressed with grief, that one would have imagined that the city had
-been taken by an enemy at the same moment. The <place settlement="Massilia">massilia</place>ns, however,
+been taken by an enemy at the same moment. The <place settlement="Massilia" modern="Marseille">Massilia</place>ns, however,
 began to make the necessary preparations for the defence of their city
 with unwearied energy.</chapter>
 
@@ -9574,7 +9574,7 @@ prevented, by arrows and engines from the walls, from pursuing them when
 they fled. They retired to their walls, and there, without fear, set the
 musculus and brick tower on fire. Thus, by the perfidy of the enemy and
 the violence of the storm, the labour of many months was destroyed in a
-moment. The <place settlement="Massilia">massilia</place>ns made the same attempt the next day, having got
+moment. The <place settlement="Massilia" modern="Marseille">Massilia</place>ns made the same attempt the next day, having got
 such another storm. They sallied out against the other tower and agger,
 and fought with more confidence. But as our men had on the former
 occasion given up all thoughts of a contest, so, warned by the event of
@@ -9589,7 +9589,7 @@ they were fired with indignation that, in consequence of the impious
 violation of the truce, their valour should be held in derision. There
 was no place left them from which the materials for their mound could be
 fetched, in consequence of all the timber, far and wide, in the
-territories of the <place settlement="Massilia">massilia</place>ns, having been cut down and carried away;
+territories of the <place settlement="Massilia" modern="Marseille">Massilia</place>ns, having been cut down and carried away;
 they began therefore to make an agger of a new construction, never heard
 of before, of two walls of brick, each six feet thick, and to lay floors
 over them of almost the same breadth with the agger, made of timber. But
@@ -9632,7 +9632,7 @@ an office of trust; nor of his own strength, nor of the disposition of
 the whole province to<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName>. These sentiments he constantly expressed
 in his ordinary conversation, and did not attach himself to either
 party. But afterwards, when he found that<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName> was detained before
-<place settlement="Massilia">massilia</place>, that the forces of <persName eth="roman" role="soldier" nameid="Petreius. Younger">Petreius</persName> had effected a junction with the
+<place settlement="Massilia" modern="Marseille">Massilia</place>, that the forces of <persName eth="roman" role="soldier" nameid="Petreius. Younger">Petreius</persName> had effected a junction with the
 army of <persName eth="roman" role="general" nameid="Afranius">Afranius</persName>, that considerable reinforcements had come to their
 assistance, that there were great hopes and expectations, and heard that
 the whole Hither province had entered into a confederacy, and of the
@@ -9643,7 +9643,7 @@ fortune.</chapter>
 
 <chapter n="XVIII">XVIII.--He made levies throughout the province; and, having completed
 his two legions, he added to them about thirty auxiliary cohorts: he
-collected a large quantity of corn to send partly to the <place settlement="Massilia">massilia</place>ns,
+collected a large quantity of corn to send partly to the <place settlement="Massilia" modern="Marseille">Massilia</place>ns,
 partly to <persName eth="roman" role="general" nameid="Afranius">Afranius</persName> and <persName eth="roman" role="soldier" nameid="Petreius. Younger">Petreius</persName>. He commanded the inhabitants of Gades
 to build ten ships of war; besides, he took care that several others
 should be built in <place region="Spain">Spain</place>. He removed all the money and ornaments from
@@ -9740,11 +9740,11 @@ arrived in a few days at Tarraco, where ambassadors from the greatest
 part of the nearer province waited his arrival. Having in the same
 manner conferred marks of honour both publicly and privately on some
 states, he left Tarraco, and went thence by land to Narbo, and thence to
-<place settlement="Massilia">massilia</place>. There he was informed that a law was passed for creating a
+<place settlement="Massilia" modern="Marseille">Massilia</place>. There he was informed that a law was passed for creating a
 dictator, and that he had been nominated dictator by Marcus Lepidus the
 praetor.</chapter>
 
-<chapter n="XXII">XXII.--The <place settlement="Massilia">massilia</place>ns, wearied out by misfortunes of every sort, reduced
+<chapter n="XXII">XXII.--The <place settlement="Massilia" modern="Marseille">Massilia</place>ns, wearied out by misfortunes of every sort, reduced
 to the lowest ebb for want of corn, conquered in two engagements at sea,
 defeated in their frequent sallies, and struggling moreover with a fatal
 pestilence, from their long confinement and change of victuals (for they
@@ -9754,7 +9754,7 @@ kind), their turret being demolished, a great part of their wall having
 given way, and despairing of any aid, either from the provinces or their
 armies, for these they had heard had fallen into<persName eth="roman" role="officer" nameid="Caesar">Caesar's</persName> power,
 resolved to surrender now without dissimulation. But a few days before,
-Lucius<persName eth="roman">Domitius</persName>, having discovered the intention of the <place settlement="Massilia">massilia</place>ns, and
+Lucius<persName eth="roman">Domitius</persName>, having discovered the intention of the <place settlement="Massilia" modern="Marseille">Massilia</place>ns, and
 having procured three ships, two of which he gave up to his friends,
 went on board the third himself, having got a brisk wind, put out to
 sea. Some ships, which by <persName eth="roman" role="general" nameid="D. Brutus">Brutus</persName>'s orders were constantly cruising near
@@ -9762,13 +9762,13 @@ the port, having espied him, weighed anchor, and pursued him. But of
 these, the ship on board of which he was, persevered itself, and
 continuing its flight, and by the aid of the wind got out of sight: the
 other two, affrighted by the approach of our galleys, put back again
-into the harbour. The <place settlement="Massilia">massilia</place>ns conveyed their arms and engines out of
+into the harbour. The <place settlement="Massilia" modern="Marseille">Massilia</place>ns conveyed their arms and engines out of
 the town, as they were ordered: brought their ships out of the port and
 docks, and delivered up the money in their treasury. When these affairs
 were despatched,<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName>, sparing the town more out of regard to their
 renown and antiquity than to any claim they could lay to his favour,
 left two legions in garrison there, sent the rest to <place region="Italy">Italy</place>, and set out
-himself for <place settlement="Rome">Rome</place>.</chapter>
+himself for <place settlement="Rome" modern="Rome">Rome</place>.</chapter>
 
 <chapter n="XXIII">XXIII.--About the same time Caius <persName eth="roman" role="aristocrat" nameid="C. Curio">Curio</persName>, having sailed from <place region="Sicily">Sicily</place> to
 Africa, and from the first despising the forces of Publius Attius Varus,
@@ -9940,7 +9940,7 @@ you. For<persName eth="roman" role="consul" nameid="Pompey">Pompey</persName>, t
 shift his ground, and leave <place region="Italy">Italy</place>, from the precedent established by
 your conduct.<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName> committed me, whom he considered his dearest
 friend, and the provinces of <place region="Sicily">Sicily</place> and Africa, without which he was not
-able to protect <place settlement="Rome">Rome</place> or <place region="Italy">Italy</place>, to your protection. There are some here
+able to protect <place settlement="Rome" modern="Rome">Rome</place> or <place region="Italy">Italy</place>, to your protection. There are some here
 present who encourage you to revolt from us; for what can they wish for
 more, than at once to ruin us, and to involve you in a heinous crime? or
 what baser opinions could they in their resentment entertain of you,
@@ -10286,7 +10286,7 @@ hundred of which, Deiotarus had brought from <place region="Gaul">Gaul</place>; 
 hundred from Cappadocia. Cotus had given him about the same number from
 Thrace, and had sent his son Sadalis with them. From <place region="Macedonia">Macedonia</place> there
 were two hundred, of extraordinary valour, commanded by Rascipolis; five
-hundred <place region="Gaul">Gaul</place>s and <tribe name="Germani">Germans</tribe>; <persName eth="roman" role="legate" nameid="Gabinius">Gabinius</persName>'s troops from <place settlement="Alexandria">Alexandria</place>, whom Aulus
+hundred <place region="Gaul">Gaul</place>s and <tribe name="Germani">Germans</tribe>; <persName eth="roman" role="legate" nameid="Gabinius">Gabinius</persName>'s troops from <place settlement="Alexandria" modern="Alexandria">Alexandria</place>, whom Aulus
 <persName eth="roman" role="legate" nameid="Gabinius">Gabinius</persName> had left with king Ptolemy, to guard his person.<persName eth="roman" role="consul" nameid="Pompey">Pompey</persName>, the
 son, had brought in his fleet eight hundred, whom he had raised among
 his own and his shepherds' slaves. Tarcundarius, Castor and Donilaus had
@@ -10324,7 +10324,7 @@ safe road for his shipping to ride in, and dreading all other ports
 which he imagined were in possession of the enemy, he landed his men at
 a place called Pharsalus, without the loss of a single vessel.</chapter>
 
-<chapter n="VII">VII.--Lucretius Vespillo and Minutius Rufus were at <place settlement="Oricum">Oricum</place>, with
+<chapter n="VII">VII.--Lucretius Vespillo and Minutius Rufus were at <place settlement="Oricum" modern="Orikum">Oricum</place>, with
 eighteen Asiatic ships, which were given into their charge by the orders
 of Decimus Laelius: Marcus <persName eth="roman" role="officer" nameid="M. Bibilus">Bibulus</persName> at Corcyra, with a hundred and ten
 ships. But they had not the confidence to dare to move out of the
@@ -10346,7 +10346,7 @@ thirty, vented on them his rage at his own remissness, and set them all
 on fire: and, with the same flames, he destroyed the mariners and
 masters of the vessels, hoping by the severity of the punishment to
 deter the rest. Having accomplished this affair, he filled all the
-harbours and shores from Salona to <place settlement="Oricum">Oricum</place> with his fleets. Having
+harbours and shores from Salona to <place settlement="Oricum" modern="Orikum">Oricum</place> with his fleets. Having
 disposed his guard with great care, he lay on board himself in the depth
 of winter, declining no fatigue or duty, and not waiting for
 reinforcements, in hopes that he might come within<persName eth="roman" role="officer" nameid="Caesar">Caesar's</persName> reach.</chapter>
@@ -10403,7 +10403,7 @@ little favour to either, he who thought himself superior, would not
 submit to terms of accommodation; nor would he be content with an equal
 division, when he might expect to obtain the whole. That, as they could
 not agree before, the terms of peace ought to be submitted to the senate
-and people in <place settlement="Rome">Rome</place>. That in the meantime, it ought to content the
+and people in <place settlement="Rome" modern="Rome">Rome</place>. That in the meantime, it ought to content the
 republic and themselves, if they both immediately took oath in a public
 assembly, that they would disband their forces within the three
 following days. That having divested themselves of the arms and
@@ -10423,7 +10423,7 @@ march from <place region="Macedonia">Macedonia</place> to his winter quarters in
 but surprised at the unexpected news, he determined to go to Apollonia
 by speedy marches, to prevent<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName> from becoming master of all the
 maritime states. But as soon as<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName> had landed his troops, he set off
-the same day for <place settlement="Oricum">Oricum</place>: when he arrived there, Lucius Torquatus, who
+the same day for <place settlement="Oricum" modern="Orikum">Oricum</place>: when he arrived there, Lucius Torquatus, who
 was governor of the town by <persName eth="roman" role="consul" nameid="Pompey">Pompey</persName>'s appointment, and had a garrison of
 Parthinians in it, endeavoured to shut the gates and defend the town,
 and ordered the <tribe name="Greeks">Greeks</tribe> to man the walls, and to take arms. But as they
@@ -10432,7 +10432,7 @@ citizens made a spontaneous attempt to admit<persName eth="roman" role="officer"
 assistance, he threw open the gates, and surrendered himself and the
 town to<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName>, and was preserved safe from injury by him.</chapter>
 
-<chapter n="XII">XII.--Having taken <place settlement="Oricum">Oricum</place>,<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName> marched without making any delay to
+<chapter n="XII">XII.--Having taken <place settlement="Oricum" modern="Orikum">Oricum</place>,<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName> marched without making any delay to
 Apollonia. Staberius the governor, hearing of his approach, began to
 bring water into the citadel, and to fortify it, and to demand hostages
 of the town's people. But they refuse to give any, or to shut their
@@ -10445,7 +10445,7 @@ the other neighbouring states, and all <place region="Epirus">Epirus</place>: an
 to<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName>, and promised to obey his commands.</chapter>
 
 <chapter n="XIII">XIII.--But<persName eth="roman" role="consul" nameid="Pompey">Pompey</persName> having received information of the transactions at
-<place settlement="Oricum">Oricum</place> and Apollonia, began to be alarmed for Dyrrachium, and
+<place settlement="Oricum" modern="Orikum">Oricum</place> and Apollonia, began to be alarmed for Dyrrachium, and
 endeavoured to reach it, marching day and night. As soon as it was said
 that<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName> was approaching, such a panic fell upon <persName eth="roman" role="consul" nameid="Pompey">Pompey</persName>'s army,
 because in his haste he had made no distinction between night and day,
@@ -10475,13 +10475,13 @@ the ports and the whole shore was occupied by the enemy's fleet: on
 receiving this information he returned into the harbour, and recalled
 all the vessels. One of them, which continued the voyage and did not
 obey Kalenus's command, because it carried no troops, but was private
-property, bore away for <place settlement="Oricum">Oricum</place>, and was taken by <persName eth="roman" role="officer" nameid="M. Bibilus">Bibulus</persName>, who spared
+property, bore away for <place settlement="Oricum" modern="Orikum">Oricum</place>, and was taken by <persName eth="roman" role="officer" nameid="M. Bibilus">Bibulus</persName>, who spared
 neither slaves nor free men, nor even children; but put all to the
 sword. Thus the safety of the whole army depended on a very short space
 of time and a great casualty.</chapter>
 
 <chapter n="XV">XV.--<persName eth="roman" role="officer" nameid="M. Bibilus">Bibulus</persName>, as has been observed before, lay with his fleet near
-<place settlement="Oricum">Oricum</place>, and as he debarred<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName> of the liberty of the sea and
+<place settlement="Oricum" modern="Orikum">Oricum</place>, and as he debarred<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName> of the liberty of the sea and
 harbours, so he was deprived of all intercourse with the country by
 land; for the whole shore was occupied by parties disposed in different
 places by<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName>. And he was not allowed to get either wood or water, or
@@ -10509,7 +10509,7 @@ more remote states, and to provide corn, of which he had but a small
 quantity, was at this time at Buthrotum, opposite to Corcyra. There
 receiving Acilius and Marcus's letters, informing him of Libo's and
 <persName eth="roman" role="officer" nameid="M. Bibilus">Bibulus</persName>'s demands, he left his legion behind him, and returned himself
-to <place settlement="Oricum">Oricum</place>. When he arrived, they were invited to a conference. Libo came
+to <place settlement="Oricum" modern="Orikum">Oricum</place>. When he arrived, they were invited to a conference. Libo came
 and made an apology for <persName eth="roman" role="officer" nameid="M. Bibilus">Bibulus</persName>, "that he was a man of strong passion,
 and had a private quarrel against<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName>, contracted when he was aedile
 and praetor; that for this reason he had avoided the conference, lest
@@ -10556,7 +10556,7 @@ unexpected arrival had raised, was over, began again to deliver<persName eth="ro
 message in the presence of Libo, Lucius Lucceius, and Theophanes, to
 whom<persName eth="roman" role="consul" nameid="Pompey">Pompey</persName> used to communicate his most confidential secrets. He had
 scarcely entered on the subject when<persName eth="roman" role="consul" nameid="Pompey">Pompey</persName> interrupted him, and forbade
-him to proceed. "What need," says he, "have I of life or <place settlement="Rome">Rome</place>, if the
+him to proceed. "What need," says he, "have I of life or <place settlement="Rome" modern="Rome">Rome</place>, if the
 world shall think I enjoy them by the bounty of<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName>; an opinion which
 can never be removed whilst it shall be thought that I have been brought
 back by him to <place region="Italy">Italy</place>, from which I set out." After the conclusion of the
@@ -10593,12 +10593,12 @@ privates; hereupon <persName eth="roman" role="gov" nameid="Labienus">Labienus</
 about an accommodation, for we can have no peace unless we carry
 <persName eth="roman" role="officer" nameid="Caesar">Caesar's</persName> head back with us."</chapter>
 
-<chapter n="XX">XX.--At the same time in <place settlement="Rome">Rome</place>, Marcus Caelius Rufus, one of the
+<chapter n="XX">XX.--At the same time in <place settlement="Rome" modern="Rome">Rome</place>, Marcus Caelius Rufus, one of the
 praetors, having undertaken the cause of the debtors, on entering into
 his office, fixed his tribunal near the bench of Caius <persName eth="roman" role="lieutenant" nameid="C. Trebonius">Trebonius</persName>, the
 city praetor, and promised if any person appealed to him in regard to
 the valuation and payment of debts made by arbitration, as appointed by
-Caesar when in <place settlement="Rome">Rome</place>, that he would relieve them. But it happened, from
+Caesar when in <place settlement="Rome" modern="Rome">Rome</place>, that he would relieve them. But it happened, from
 the justice of <persName eth="roman" role="lieutenant" nameid="C. Trebonius">Trebonius</persName>'s decrees and his humanity (for he thought that
 in such dangerous times justice should be administered with moderation
 and compassion), that not one could be found who would offer himself the
@@ -10632,9 +10632,9 @@ having invited him into <place region="Italy">Italy</place>, because he had enga
 gladiators to his interest, by making them supple presents, he joined
 him, and sent him to Thurinum to tamper with the shepherds. When he
 himself was on his road to Casilinum, at the same time that his military
-standards and arms were seized at <place settlement="Capua">Capua</place>, his slaves seen at Naples, and
+standards and arms were seized at <place settlement="Capua" modern="Capua">Capua</place>, his slaves seen at Naples, and
 the design of betraying the town discovered: his plots being revealed,
-and <place settlement="Capua">Capua</place> shut against him, being apprehensive of danger, because the
+and <place settlement="Capua" modern="Capua">Capua</place> shut against him, being apprehensive of danger, because the
 Roman citizens residing there had armed themselves, and thought he ought
 to be treated as an enemy to the state, he abandoned his first design,
 and changed his route.</chapter>
@@ -10654,7 +10654,7 @@ and Spanish horse, which he had sent there to strengthen the garrison.
 And thus these mighty beginnings, which had embroiled <place region="Italy">Italy</place>, and kept
 the magistrates employed, found a speedy and happy issue.</chapter>
 
-<chapter n="XXIII">XXIII.--Libo having sailed from <place settlement="Oricum">Oricum</place>, with a fleet of fifty ships,
+<chapter n="XXIII">XXIII.--Libo having sailed from <place settlement="Oricum" modern="Orikum">Oricum</place>, with a fleet of fifty ships,
 which he commanded, came to Brundisium, and seized an island, which lies
 opposite to the harbour; judging it better to guard that place, which
 was our only pass to sea, than to keep all the shores and ports blocked
@@ -10854,7 +10854,7 @@ journey to <place region="Macedonia">Macedonia</place>; and a few days after set
 saved the money at Ephesus.</chapter>
 
 <chapter n="XXXIV">XXXIV.--<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName>, having effected a junction with <persName eth="roman" role="general" nameid="Marcus. Antonius">Antonius</persName>'s army, and
-having drawn his legion out of <place settlement="Oricum">Oricum</place>, which he had left there to guard
+having drawn his legion out of <place settlement="Oricum" modern="Orikum">Oricum</place>, which he had left there to guard
 the coast, thought he ought to sound the inclination of the provinces,
 and march farther into the country; and when ambassadors came to him
 from <place region="Thessaly">Thessaly</place> and <place region="Aetolia">Aetolia</place>, to engage that the states in those countries
@@ -10952,7 +10952,7 @@ horse, but he made his escape: they either killed or took prisoners all
 the rest of these two troops, and brought them to<persName eth="roman">Domitius</persName>.</chapter>
 
 <chapter n="XXXIX">XXXIX.--<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName>, having drawn his garrisons out of the sea-ports, as
-before mentioned, left three cohorts at <place settlement="Oricum">Oricum</place> to protect the town, and
+before mentioned, left three cohorts at <place settlement="Oricum" modern="Orikum">Oricum</place> to protect the town, and
 committed to them the charge of his ships of war, which he had
 transported from <place region="Italy">Italy</place>. Acilius, as lieutenant-general, had the charge
 of this duty and the command of the town; he drew the ships into the
@@ -10963,7 +10963,7 @@ and faced it to the entrance of the port, and filled it with soldiers,
 and ordered them to keep guard against any sudden attack.</chapter>
 
 <chapter n="XL">XL.--Cneius, <persName eth="roman" role="consul" nameid="Pompey">Pompey</persName>'s son, who commanded the Egyptian fleet, having got
-intelligence of these things, came to <place settlement="Oricum">Oricum</place>, and weighed up the ship,
+intelligence of these things, came to <place settlement="Oricum" modern="Orikum">Oricum</place>, and weighed up the ship,
 that had been sunk, with a windlass, and by straining at it with several
 ropes, and attacked the other which had been placed by Acilius to watch
 the port with several ships, on which he had raised very high turrets,
@@ -11136,8 +11136,8 @@ having consumed all the corn far and near, was in very great distress,
 but his soldiers bore all with uncommon patience. For they remembered
 that they lay under the same difficulties last year in <place region="Spain">Spain</place>, and yet by
 labour and patience had concluded a dangerous war. They recollected too
-that they had suffered an alarming scarcity at <place settlement="Alesia">Alesia</place>, and a much
-greater at <place settlement="Avaricum">Avaricum</place>, and yet had returned victorious over mighty
+that they had suffered an alarming scarcity at <place settlement="Alesia" modern="Alise-Sainte-Reine">Alesia</place>, and a much
+greater at <place settlement="Avaricum" modern="Bourges">Avaricum</place>, and yet had returned victorious over mighty
 nations. They refused neither barley nor pulse when offered them, and
 they held in great esteem cattle, of which they got great quantities
 from <place region="Epirus">Epirus</place>.</chapter>
@@ -11529,7 +11529,7 @@ rapidity of the enemy's pursuit, preserved our army.</chapter>
 <chapter n="LXXI">LXXI.--In the two actions of this day,<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName> lost nine hundred and
 sixty rank and file, several Roman knights of distinction, Felginas
 Tuticanus Gallus, a senator's son; Caius Felginas from Placentia; Aulus
-Gravius from Puteoli; Marcus Sacrativir from <place settlement="Capua">Capua</place>; and thirty-two
+Gravius from Puteoli; Marcus Sacrativir from <place settlement="Capua" modern="Capua">Capua</place>; and thirty-two
 military tribunes and centurions. But the greatest part of all these
 perished without a wound, being trodden to death in the trenches, on the
 ramparts and banks of the river by reason of the terror and flight of
@@ -11588,7 +11588,7 @@ but whether their own terror or some mistake, or whether Fortune herself
 had interrupted a victory almost secured and certain, they ought all now
 to use their utmost efforts to repair by their valour the loss which had
 been incurred; if they did so, their misfortunes would turn to their
-advantage, as it happened at <place settlement="Gergovia">Gergovia</place>, and those who feared to face the
+advantage, as it happened at <place settlement="Gergovia" modern="Clermont-Ferrand">Gergovia</place>, and those who feared to face the
 enemy would be the first to offer themselves to battle.</chapter>
 
 <chapter n="LXXIV">LXXIV.--Having concluded his speech, he disgraced some standard-bearers,
@@ -11671,12 +11671,12 @@ provided in Dyrrachium, and separated from his corn and magazines, and
 be obliged to carry on the war on equal terms; but if he crossed over
 into <place region="Italy">Italy</place>,<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName>, having effected a junction with<persName eth="roman">Domitius</persName>, would
 march through Illyricum to the relief of <place region="Italy">Italy</place>; but if he endeavoured to
-storm Apollonia and <place settlement="Oricum">Oricum</place>, and exclude him from the whole coast, he
+storm Apollonia and <place settlement="Oricum" modern="Orikum">Oricum</place>, and exclude him from the whole coast, he
 hoped, by besieging <persName eth="roman" role="general" nameid="Scipio">Scipio</persName>'s, to oblige him, of necessity, to come to his
 assistance. Accordingly,<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName> despatching couriers, writes to
 Domitius, and acquaints him with his wishes on the subject: and having
 stationed a garrison of four cohorts at Apollonia, one at Lissus, and
-three at <place settlement="Oricum">Oricum</place>, besides those who were sick of their wounds, he set
+three at <place settlement="Oricum" modern="Orikum">Oricum</place>, besides those who were sick of their wounds, he set
 forward on his march through <place region="Epirus">Epirus</place> and Acarnania.<persName eth="roman" role="consul" nameid="Pompey">Pompey</persName>, also,
 guessing at<persName eth="roman" role="officer" nameid="Caesar">Caesar's</persName> design, determined to hasten to <persName eth="roman" role="general" nameid="Scipio">Scipio</persName>'s, that if
 Caesar should march in that direction, he might be ready to relieve him;
@@ -11726,7 +11726,7 @@ country into the town and shut the gates, and despatched messengers to
 strength of the town, if succour was speedily sent; but that it could
 not withstand a long siege." <persName eth="roman" role="general" nameid="Scipio">Scipio</persName>'s, as soon as he received advice of
 the departure of the armies from Dyrrachium, had marched with his
-legions to <place settlement="Larissa">Larissa</place>:<persName eth="roman" role="consul" nameid="Pompey">Pompey</persName> was not yet arrived near <place region="Thessaly">Thessaly</place>.<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName>
+legions to <place settlement="Larissa" modern="Larissa">Larissa</place>:<persName eth="roman" role="consul" nameid="Pompey">Pompey</persName> was not yet arrived near <place region="Thessaly">Thessaly</place>.<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName>
 having fortified his camp, ordered scaling ladders and pent-houses to be
 made for a sudden assault, and hurdles to be provided. As soon as they
 were ready, he exhorted his soldiers, and told them of what advantage it
@@ -11746,7 +11746,7 @@ rumours, followed the same measures, shut the gates and manned their
 walls. But when they were made acquainted with the fate of the city of
 Gomphi by some prisoners, whom<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName> had ordered to be brought up to
 the walls, they threw open their gates. As he preserved them with the
-greatest care, there was not a state in <place region="Thessaly">Thessaly</place> (except <place settlement="Larissa">Larissa</place>, which
+greatest care, there was not a state in <place region="Thessaly">Thessaly</place> (except <place settlement="Larissa" modern="Larissa">Larissa</place>, which
 was awed by a strong army of <persName eth="roman" role="general" nameid="Scipio">Scipio</persName>'s's), but on comparing the fate of the
 inhabitants of Metropolis with the severe treatment of Gomphi, gave
 admission to<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName>, and obeyed his orders. Having chosen a position
@@ -11789,7 +11789,7 @@ happened in <place region="Spain">Spain</place>, and Lucius<persName eth="roman"
 was his wish that, when the war should be ended, three billets should be
 given to all the senators who had taken part with them in the war, and
 that they should pass sentence on every single person who had stayed
-behind at <place settlement="Rome">Rome</place>, or who had been within <persName eth="roman" role="consul" nameid="Pompey">Pompey</persName>'s garrisons and had not
+behind at <place settlement="Rome" modern="Rome">Rome</place>, or who had been within <persName eth="roman" role="consul" nameid="Pompey">Pompey</persName>'s garrisons and had not
 contributed their assistance in the military operations; that by the
 first billet they should-have power to acquit, by the second to pass
 sentence of death, and by the third to impose a pecuniary fine. In
@@ -11921,7 +11921,7 @@ received from him, he took especial care to remind them "that he could
 call his soldiers to witness the earnestness with which he had sought
 peace, the efforts that he had made by Vatinius to gain a conference
 [with <persName eth="roman" role="gov" nameid="Labienus">Labienus</persName>], and likewise by Claudius to treat with <persName eth="roman" role="general" nameid="Scipio">Scipio</persName>'s, in what
-manner he had exerted himself at <place settlement="Oricum">Oricum</place>, to gain permission from Libo to
+manner he had exerted himself at <place settlement="Oricum" modern="Orikum">Oricum</place>, to gain permission from Libo to
 send ambassadors; that he had been always reluctant to shed the blood of
 his soldiers, and did not wish to deprive the republic of one or other
 of her armies." After delivering this speech, he gave by a trumpet the
@@ -12032,7 +12032,7 @@ themselves in unnecessary pleasures, and yet upbraided with luxury
 want of common necessaries.<persName eth="roman" role="consul" nameid="Pompey">Pompey</persName>, as soon as our men had forced the
 trenches, mounting his horse, and stripping off his general's habit,
 went hastily out of the back gate of the camp, and galloped with all
-speed to <place settlement="Larissa">Larissa</place>. Nor did he stop there, but with the same despatch
+speed to <place settlement="Larissa" modern="Larissa">Larissa</place>. Nor did he stop there, but with the same despatch
 collecting a few of his flying troops, and halting neither day nor
 night, he arrived at the sea-side, attended by only thirty horse, and
 went on board a victualling barque, often complaining, as we have been
@@ -12045,7 +12045,7 @@ soldiers not to be too intent on plunder, and lose the opportunity of
 completing their conquest. Having obtained their consent, he began to
 draw lines round the mountain. The Pompeians distrusting the position,
 as there was no water on the mountain, abandoned it, and all began to
-retreat towards <place settlement="Larissa">Larissa</place>; which<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName> perceiving, divided his troops,
+retreat towards <place settlement="Larissa" modern="Larissa">Larissa</place>; which<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName> perceiving, divided his troops,
 and ordering part of his legions to remain in <persName eth="roman" role="consul" nameid="Pompey">Pompey</persName>'s camp, sent back a
 part to his own camp, and taking four legions with him, went by a
 shorter road to intercept the enemy: and having marched six miles, drew
@@ -12068,7 +12068,7 @@ pardoned them all, and gave orders to his soldiers that no injury should
 be done to them, and nothing taken from them. Having used this
 diligence, he ordered the legions in his camp to come and meet him, and
 those which were, with him to take their turn of rest, and go back to
-the camp; and the same day went to <place settlement="Larissa">Larissa</place>.</chapter>
+the camp; and the same day went to <place settlement="Larissa" modern="Larissa">Larissa</place>.</chapter>
 
 <chapter n="XCIX">XCIX.--In that battle, no more than two hundred privates were missing,
 but<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName> lost about thirty centurions, valiant officers. Crastinus,
@@ -12171,7 +12171,7 @@ sailed for Pelusium. It happened that king Ptolemy, a minor, was there
 with a considerable army, engaged in war with his sister <persName eth="egyptian">Cleopatra</persName>, whom
 a few months before, by the assistance of his relations and friends, he
 had expelled from the kingdom; and her camp lay at a small distance from
-his. To him<persName eth="roman" role="consul" nameid="Pompey">Pompey</persName> applied to be permitted to take refuge in <place settlement="Alexandria">Alexandria</place>,
+his. To him<persName eth="roman" role="consul" nameid="Pompey">Pompey</persName> applied to be permitted to take refuge in <place settlement="Alexandria" modern="Alexandria">Alexandria</place>,
 and to be protected in his calamity by his powerful assistance, in
 consideration of the friendship and amity which had subsisted between
 his father and him. But <persName eth="roman" role="consul" nameid="Pompey">Pompey</persName>'s deputies having executed their
@@ -12179,13 +12179,13 @@ commission, began to converse with less restraint with the king's
 troops, and to advise them to act with friendship to<persName eth="roman" role="consul" nameid="Pompey">Pompey</persName>, and not to
 think meanly of his bad fortune. In Ptolemy's army were several of
 <persName eth="roman" role="consul" nameid="Pompey">Pompey</persName>'s soldiers, of whom <persName eth="roman" role="legate" nameid="Gabinius">Gabinius</persName> had received the command in <place region="Syria">Syria</place>,
-and had brought them over to <place settlement="Alexandria">Alexandria</place>, and at the conclusion of the
+and had brought them over to <place settlement="Alexandria" modern="Alexandria">Alexandria</place>, and at the conclusion of the
 war had left with Ptolemy the father of the young king.</chapter>
 
 <chapter n="CIV">CIV.--The king's friends, who were regents of the kingdom during the
 minority, being informed of these things, either induced by fear, as
 they afterwards declared, lest<persName eth="roman" role="consul" nameid="Pompey">Pompey</persName> should corrupt the king's army,
-and seize on <place settlement="Alexandria">Alexandria</place> and <place region="Egypt">Egypt</place>; or despising his bad fortune, as in
+and seize on <place settlement="Alexandria" modern="Alexandria">Alexandria</place> and <place region="Egypt">Egypt</place>; or despising his bad fortune, as in
 adversity friends commonly change to enemies, in public gave a
 favourable answer to his deputies, and desired him to come to the king;
 but secretly laid a plot against him, and despatched <persName eth="egyptian" role="officer" nameid="Achillas">Achillas</persName>, captain
@@ -12220,7 +12220,7 @@ shot up above the roof.</chapter>
 <chapter n="CVI">CVI.--After a few days' delay in Asia,<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName>, having heard that<persName eth="roman" role="consul" nameid="Pompey">Pompey</persName>
 had been seen in <place region="Cyprus">Cyprus</place>, and conjecturing that he had directed his
 course into <place region="Egypt">Egypt,</place> on account of his connection with that kingdom, set
-out for <place settlement="Alexandria">Alexandria</place> with two legions (one of which he ordered to follow
+out for <place settlement="Alexandria" modern="Alexandria">Alexandria</place> with two legions (one of which he ordered to follow
 him from <place region="Thessaly">Thessaly</place>, the other he called in from <place region="Achaia">Achaia</place>, from Fufius, the
 lieutenant-general) and with eight hundred horse, ten ships of war from
 Rhodes, and a few from Asia. These legions amounted but to three
@@ -12228,7 +12228,7 @@ thousand two hundred men; the rest, disabled by wounds received in
 various battles, by fatigue and the length of their march, could not
 follow him. But<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName>, relying on the fame of his exploits; did not
 hesitate to set forward with a feeble force, and thought that he would
-be secure in any place. At <place settlement="Alexandria">Alexandria</place> he was informed of the death of
+be secure in any place. At <place settlement="Alexandria" modern="Alexandria">Alexandria</place> he was informed of the death of
 Pompey: and at his landing there, heard a cry among the soldiers whom
 the king had left to garrison the town, and saw a crowd gathering
 towards him, because the fasces were carried before him; for this the
@@ -12240,7 +12240,7 @@ soldiers were killed in all parts of the city.</chapter>
 <chapter n="CVIL">CVIL--Having observed this, he ordered other legions to be brought to
 him from Asia, which he had made up out of <persName eth="roman" role="consul" nameid="Pompey">Pompey</persName>'s soldiers; for he was
 himself detained against his will, by the etesian winds, which are
-totally unfavourable to persons on a voyage from <place settlement="Alexandria">Alexandria</place>. In the
+totally unfavourable to persons on a voyage from <place settlement="Alexandria" modern="Alexandria">Alexandria</place>. In the
 meantime, considering that the disputes of the princes belonged to the
 jurisdiction of the <tribe name="Romans">Roman people</tribe>, and of him as consul, and that it was
 a duty more incumbent on him, as in his former consulate a league had
@@ -12255,7 +12255,7 @@ kingdom on account of his youthfulness. He at first began to complain
 amongst his friends, and to express his indignation, that the king
 should be summoned to plead his cause: but afterwards, having prevailed
 on some of those whom he had made acquainted with his views to join him,
-he secretly called the army away from Pelusium to <place settlement="Alexandria">Alexandria</place>, and
+he secretly called the army away from Pelusium to <place settlement="Alexandria" modern="Alexandria">Alexandria</place>, and
 appointed <persName eth="egyptian" role="officer" nameid="Achillas">Achillas</persName>, already spoken of, commander-in-chief of the forces.
 Him he encouraged and animated by promises both in his own and the
 king's name, and instructed him both by letters and messages how he
@@ -12263,15 +12263,15 @@ should act. By the will of Ptolemy the father, the elder of his two sons
 and the more advanced in years of his two daughters were declared his
 heirs, and for the more effectual performance of his intention, in the
 same will he conjured the <tribe name="Romans">Roman people</tribe> by all the gods, and by the
-league which he had entered into at <place settlement="Rome">Rome</place>, to see his will executed. One
-of the copies of his will was conveyed to <place settlement="Rome">Rome</place> by his ambassadors to be
+league which he had entered into at <place settlement="Rome" modern="Rome">Rome</place>, to see his will executed. One
+of the copies of his will was conveyed to <place settlement="Rome" modern="Rome">Rome</place> by his ambassadors to be
 deposited in the treasury, but the public troubles preventing it, it was
-lodged with<persName eth="roman" role="consul" nameid="Pompey">Pompey</persName>: another was left sealed up, and kept at <place settlement="Alexandria">Alexandria</place>.</chapter>
+lodged with<persName eth="roman" role="consul" nameid="Pompey">Pompey</persName>: another was left sealed up, and kept at <place settlement="Alexandria" modern="Alexandria">Alexandria</place>.</chapter>
 
 <chapter n="CIX">CIX.--Whilst these things were debated before<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName>, and he was very
 anxious to settle the royal disputes as a common friend and arbitrator;
 news was brought on a sudden that the king's army and all his cavalry
-were on their march to <place settlement="Alexandria">Alexandria</place>.<persName eth="roman" role="officer" nameid="Caesar">Caesar's</persName> forces were by no means so
+were on their march to <place settlement="Alexandria" modern="Alexandria">Alexandria</place>.<persName eth="roman" role="officer" nameid="Caesar">Caesar's</persName> forces were by no means so
 strong that he could trust to them, if he had occasion to hazard a
 battle without the town. His only resource was to keep within the town
 in the most convenient places, and get information of <persName eth="egyptian" role="officer" nameid="Achillas">Achillas</persName>'s
@@ -12279,7 +12279,7 @@ designs. However he ordered his soldiers to repair to their arms; and
 advised the king to send some of his friends, who had the greatest
 influence, as deputies to <persName eth="egyptian" role="officer" nameid="Achillas">Achillas</persName> and to signify his royal pleasure.
 Dioscorides and Serapion, the persons sent by him, who had both been
-ambassadors at <place settlement="Rome">Rome</place>, and had been in great esteem with Ptolemy the
+ambassadors at <place settlement="Rome" modern="Rome">Rome</place>, and had been in great esteem with Ptolemy the
 father, went to <persName eth="egyptian" role="officer" nameid="Achillas">Achillas</persName>. But as soon as they appeared in his presence,
 without hearing them, or learning the occasion of their coming, he
 ordered them to be seized and put to death. One of them, after receiving
@@ -12293,29 +12293,29 @@ king's consent.</chapter>
 <chapter n="CX">CX.--The forces under <persName eth="egyptian" role="officer" nameid="Achillas">Achillas</persName> did not seem despicable, either for
 number, spirit, or military experience; for he had twenty thousand men
 under arms. They consisted partly of <persName eth="roman" role="legate" nameid="Gabinius">Gabinius</persName>'s soldiers, who were now
-become habituated to the licentious mode of living at <place settlement="Alexandria">Alexandria</place>, and
+become habituated to the licentious mode of living at <place settlement="Alexandria" modern="Alexandria">Alexandria</place>, and
 had forgotten the name and discipline of the <tribe name="Romans">Roman people</tribe>, and had
 married wives there, by whom the greatest part of them had children. To
 these was added a collection of highwaymen and free-booters, from <place region="Syria">Syria</place>,
 and the province of Cilicia, and the adjacent countries. Besides several
-convicts and transports had been collected: for at <place settlement="Alexandria">Alexandria</place> all our
+convicts and transports had been collected: for at <place settlement="Alexandria" modern="Alexandria">Alexandria</place> all our
 runaway slaves were sure of finding protection for their persons on the
 condition that they should give in their names, and enlist as soldiers:
 and if any of them was apprehended by his master, he was rescued by a
 crowd of his fellow soldiers, who being involved in the same guilt,
 repelled, at the hazard of their lives, every violence offered to any of
-their body. These by a prescriptive privilege of the <place settlement="Alexandria">Alexandria</place>n army,
+their body. These by a prescriptive privilege of the <place settlement="Alexandria" modern="Alexandria">Alexandria</place>n army,
 used to demand the king's favourites to be put to death, pillage the
 properties of the rich to increase their pay, invest the king's palace,
 banish some from the kingdom, and recall others from exile. Besides
 these, there were two thousand horse, who had acquired the skill of
-veterans by being in several wars in <place settlement="Alexandria">Alexandria</place>. These had restored
+veterans by being in several wars in <place settlement="Alexandria" modern="Alexandria">Alexandria</place>. These had restored
 Ptolemy the father to his kingdom, had killed <persName eth="roman" role="officer" nameid="M. Bibilus">Bibulus</persName>'s two sons; and
 had been engaged in war with the Egyptians; such was their experience in
 military affairs.</chapter>
 
 <chapter n="CXI">CXI.--Full of confidence in his troops, and despising the small number
-of<persName eth="roman" role="officer" nameid="Caesar">Caesar's</persName> soldiers, <persName eth="egyptian" role="officer" nameid="Achillas">Achillas</persName> seized <place settlement="Alexandria">Alexandria</place>, except that part of
+of<persName eth="roman" role="officer" nameid="Caesar">Caesar's</persName> soldiers, <persName eth="egyptian" role="officer" nameid="Achillas">Achillas</persName> seized <place settlement="Alexandria" modern="Alexandria">Alexandria</place>, except that part of
 the town which<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName> occupied with his troops. At first he attempted to
 force the palace; but<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName> had disposed his cohorts through the
 streets, and repelled his attack. At the same time there was an action
@@ -12326,7 +12326,7 @@ strong party the ships of war; of which fifty had been sent to <persName eth="ro
 assistance, but after the battle in <place region="Thessaly">Thessaly</place> had returned home. They
 were all of either three or five banks of oars, well equipped and
 appointed with every necessary for a voyage. Besides these, there were
-twenty-two vessels with decks, which were usually kept at <place settlement="Alexandria">Alexandria</place>, to
+twenty-two vessels with decks, which were usually kept at <place settlement="Alexandria" modern="Alexandria">Alexandria</place>, to
 guard the port. If they made themselves masters of these,<persName eth="roman" role="officer" nameid="Caesar">Caesar</persName> being
 deprived of his fleet, they would have the command of the port and whole
 sea, and could prevent him from procuring provisions and auxiliaries.
@@ -12340,7 +12340,7 @@ troops to the Pharos by his ships.
     
 <chapter n="CXIL">CXIL--The Pharos is a tower on an island, of prodigious height, built
 with amazing works, and takes its name from the island. This island
-lying over against <place settlement="Alexandria">Alexandria</place> forms a harbour; but on the upper side it
+lying over against <place settlement="Alexandria" modern="Alexandria">Alexandria</place> forms a harbour; but on the upper side it
 is connected with the town by a narrow way eight hundred paces in
 length, made by piles sunk in the sea, and by a bridge. In this island
 some of the Egyptians have houses, and a village as large as a town; and
