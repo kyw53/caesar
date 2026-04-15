@@ -3,8 +3,8 @@ declare namespace math = "http://www.w3.org/2005/xpath-functions/math";
 declare variable $caesar := doc("../xml/caesar_all_chapters.xml");
 declare variable $coords := doc("../xml/MapCoords.xml");
 
-declare variable $radiusScale := 4;
-declare variable $defaultRadius := 8;
+declare variable $radiusScale := 6;
+declare variable $defaultRadius := 4;
 
 <html>
     <head>
@@ -12,7 +12,31 @@ declare variable $defaultRadius := 8;
         <meta charset="UTF-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
         <link type="text/css" href="style.css" rel="stylesheet"/>
+    
+        <script type="text/javascript"><![CDATA[
+            var myX, myY, xyOn = true, myMouseX, myMouseY;
+    
+            document.onmouseup = getXYPosition;
+    
+            function getXYPosition(e) {
+                const svg = document.querySelector("svg");
+            
+                const pt = svg.createSVGPoint();
+                pt.x = e.clientX;
+                pt.y = e.clientY;
+            
+                const svgPoint = pt.matrixTransform(svg.getScreenCTM().inverse());
+            
+                alert("SVG X: " + svgPoint.x + "\nSVG Y: " + svgPoint.y);
+            }
+    
+            function toggleXY() {
+                xyOn = !xyOn;
+                return false;
+            }
+        ]]></script>
     </head>
+
     <body> 
         <nav>
             <div><a href="index.html">Home</a></div>
@@ -64,7 +88,7 @@ declare variable $defaultRadius := 8;
                         </style>
 
                         <!-- background map -->
-                        <image href="Blank_map_of_Europe_cropped.svg"
+                        <image href="../docs/Blank_map_of_Europe_cropped.svg"
                                x="0"
                                y="0"
                                width="1613"
@@ -74,13 +98,13 @@ declare variable $defaultRadius := 8;
                         <g id="mapped-places">
                             {
                                 for $place in $places
-                                let $name := $place/name/string()
-                                let $count := xs:integer($place/count/string())
-                                let $coord := $coords//place[@name = $name]
+                                let $name := $place/Q{}name/string()
+                                let $count := xs:integer($place/Q{}count/string())
+                                let $coord := $coords//Q{}place[@name = $name]
                                 where $coord
                                 let $x := xs:double($coord/@x)
                                 let $y := xs:double($coord/@y)
-                                let $r := math:sqrt($count) * $radiusScale
+                                let $r := math:sqrt($count) * $radiusScale + $defaultRadius
                                 return
                                     <g>
                                         <circle class="place-dot"

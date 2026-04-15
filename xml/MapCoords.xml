@@ -2,70 +2,73 @@
 
 <places>
     
-    <!-- REGIONS -->
-    <place name="Gaul" x="650" y="520"/>
-    <place name="Aquitania" x="560" y="700"/>
-    <place name="Spain" x="500" y="920"/>
-    <place name="Italy" x="840" y="820"/>
-    <place name="Britain" x="470" y="330"/>
-    <place name="Illyricum" x="980" y="760"/>
-    <place name="Germany" x="860" y="420"/>
-    <place name="Syria" x="1310" y="990"/>
-    <place name="Achaia" x="1110" y="960"/>
-    <place name="Macedonia" x="1140" y="900"/>
-    <place name="Thessaly" x="1120" y="980"/>
-    <place name="Epirus" x="1070" y="930"/>
-    <place name="Cyprus" x="1220" y="1110"/>
-    <place name="Egypt" x="1190" y="1180"/>
-    <place name="Sicily" x="860" y="1030"/>
-    <place name="Venetia" x="910" y="760"/>
-    <place name="Picenum" x="900" y="820"/>
-    <place name="Aetolia" x="1080" y="970"/>
-    <place name="Kent" x="520" y="410"/>
-    
-    <!-- RIVERS / FEATURES -->
-    <place name="Garonne" x="560" y="690"/>
-    <place name="Marne" x="705" y="470"/>
-    <place name="Seine" x="660" y="500"/>
-    <place name="Rhine" x="820" y="500"/>
-    <place name="Rhone" x="730" y="640"/>
-    <place name="Jura" x="700" y="600"/>
-    <place name="Mount Jura" x="700" y="585"/>
-    <place name="Alps" x="760" y="670"/>
-    <place name="Saone" x="685" y="575"/>
-    <place name="Loire" x="590" y="560"/>
-    <place name="Meuse" x="760" y="450"/>
-    <place name="Thames" x="520" y="350"/>
-    <place name="river Guadiana" x="365" y="1015"/>
-    <place name="Guadiana" x="365" y="1015"/>
-    <place name="river Segre" x="345" y="915"/>
-    <place name="Segre" x="345" y="915"/>
-    <place name="Cinca" x="385" y="900"/>
-    <place name="river Ebro" x="300" y="935"/>
-    <place name="Ebro" x="300" y="935"/>
-    <place name="Pyrenaean" x="500" y="790"/>
-    <place name="river Genusus" x="1045" y="900"/>
-    
-    <!-- SETTLEMENTS -->
-    <place name="Geneva" x="735" y="615"/>
-    <place name="Noreia" x="885" y="680"/>
-    <place name="Tolosa" x="500" y="760"/>
-    <place name="Rome" x="860" y="860"/>
-    <place name="Noviodunum" x="650" y="470"/>
-    <place name="Bratuspantium" x="710" y="430"/>
-    <place name="Carcaso" x="455" y="790"/>
-    <place name="Narbo" x="505" y="800"/>
-    <place name="Lutetia" x="675" y="500"/>
-    <place name="Genabum" x="620" y="560"/>
-    <place name="Gergovia" x="670" y="640"/>
-    <place name="Vellaunodunum" x="655" y="540"/>
-    <place name="Avaricum" x="610" y="620"/>
-    <place name="Alesia" x="700" y="590"/>
-    <place name="Ariminum" x="890" y="815"/>
-    <place name="Capua" x="865" y="940"/>
-    <place name="Massilia" x="620" y="770"/>
-    <place name="Alexandria" x="1190" y="1170"/>
-    <place name="Oricum" x="1050" y="900"/>
-    <place name="Larissa" x="1130" y="970"/>
-    
+    <places>
+        
+        <!-- REGIONS -->
+        <place name="Gaul" x="232" y="628"/>
+        <place name="Aquitania" x="217" y="785"/>
+        <place name="Spain" x="72" y="876"/>
+        <place name="Italy" x="590" y="803"/>
+        <place name="Britain" x="200" y="320"/>
+        <place name="Illyricum" x="739" y="731"/>
+        <place name="Germany" x="537" y="563"/>
+        <place name="Syria" x="1543" y="1000"/>
+        <place name="Achaia" x="950" y="1000"/>
+        <place name="Macedonia" x="894" y="833"/>
+        <place name="Thessaly" x="950" y="788"/>
+        <place name="Epirus" x="1173" y="619"/>
+        <place name="Cyprus" x="1409" y="1050"/>
+        <place name="Egypt" x="1357" y="1314"/>
+        <place name="Sicily" x="696" y="1070"/>
+        <place name="Venetia" x="622" y="700"/>
+        <place name="Picenum" x="645" y="791"/>
+        <place name="Aetolia" x="922" y="933"/>
+        <place name="Kent" x="250" y="413"/>
+        
+        <!-- RIVERS / FEATURES (checked) -->
+        <place name="Garonne" x="210" y="718"/>
+        <place name="Marne" x="309" y="537"/>
+        <place name="Seine" x="276" y="501"/>
+        <place name="Rhine" x="420" y="414"/>
+        <place name="Rhone" x="393" y="754"/>
+        <place name="Jura" x="413" y="642"/>
+        <place name="Mount Jura" x="413" y="642"/>
+        <place name="Alps" x="527" y="709"/>
+        <place name="Saone" x="382" y="653"/>
+        <place name="Loire" x="334" y="667"/>
+        <place name="Meuse" x="397" y="575"/>
+        <place name="Thames" x="258" y="385"/>
+        <place name="river Guadiana" x="56" y="1011"/>
+        <place name="Guadiana" x="100" y="964"/>
+        <place name="river Segre" x="175" y="900"/>
+        <place name="Segre" x="175" y="900"/>
+        <place name="Cinca" x="190" y="857"/>
+        <place name="river Ebro" x="216" y="872"/>
+        <place name="Ebro" x="235" y="864"/>
+        <place name="Pyrenaean" x="176" y="823"/>
+        <place name="river Genusus" x="876" y="900"/>
+        
+        <!-- SETTLEMENTS -->
+        <place name="Geneva" x="590" y="690"/>
+        <place name="Noreia" x="760" y="730"/>
+        <place name="Tolosa" x="310" y="805"/>
+        <place name="Rome" x="635" y="860"/>
+        <place name="Noviodunum" x="520" y="520"/>
+        <place name="Bratuspantium" x="585" y="455"/>
+        <place name="Carcaso" x="285" y="845"/>
+        <place name="Narbo" x="360" y="860"/>
+        <place name="Lutetia" x="470" y="470"/>
+        <place name="Genabum" x="500" y="600"/>
+        <place name="Gergovia" x="460" y="780"/>
+        <place name="Vellaunodunum" x="530" y="565"/>
+        <place name="Avaricum" x="500" y="665"/>
+        <place name="Alesia" x="575" y="635"/>
+        <place name="Ariminum" x="611" y="757"/>
+        <place name="Capua" x="668" y="894"/>
+        <place name="massilia" x="388" y="797"/>
+        <place name="Alexandria" x="1145" y="1025"/>
+        <place name="Oricum" x="900" y="860"/>
+        <place name="Larissa" x="980" y="900"/>
+        
+    </places>
 </places>
