@@ -1,0 +1,110 @@
+Book,Name,Section,Count
+Book 1,Messala,Gaul,2
+Book 1,M. Piso,Gaul,2
+Book 1,L. Piso,Gaul,2
+Book 1,Gabinius,Gaul,1
+Book 1,Caesar,Gaul,108
+Book 1,L. Cassius,Gaul,3
+Book 1,Labienus,Gaul,7
+Book 1,P. Considius,Gaul,3
+Book 1,M. Crassus,Gaul,1
+Book 1,P. Crassus,Gaul,1
+Book 2,Caesar,Gaul,42
+Book 2,Labienus,Gaul,3
+Book 2,Sabinus,Gaul,3
+Book 2,Cotta,Gaul,1
+Book 2,Baculus,Gaul,1
+Book 2,P. Crassus,Gaul,1
+Book 3,Caesar,Gaul,18
+Book 3,S. Galba,Gaul,5
+Book 3,Baculus,Gaul,1
+Book 3,C. Volusenus,Gaul,1
+Book 3,P. Crassus,Gaul,16
+Book 3,Labienus,Gaul,1
+Book 3,Sabinus,Gaul,10
+Book 3,D. Brutus,Gaul,2
+Book 4,Pompey,Gaul,1
+Book 4,M. Crassus,Gaul,1
+Book 4,Caesar,Gaul,50
+Book 4,C. Volusenus,Gaul,3
+Book 4,Sabinus,Gaul,2
+Book 4,Cotta,Gaul,2
+Book 4,Labienus,Gaul,2
+Book 5,Caesar,Gaul,73
+Book 5,Labienus,Gaul,16
+Book 5,C. Trebonius,Gaul,2
+Book 5,C. Fabius,Gaul,4
+Book 5,Q. Cicero,Gaul,19
+Book 5,M. Crassus,Gaul,5
+Book 6,Caesar,Gaul,33
+Book 6,Pompey,Gaul,2
+Book 6,Labienus,Gaul,10
+Book 6,C. Fabius,Gaul,1
+Book 6,M. Crassus,Gaul,1
+Book 6,Q. Cicero,Gaul,2
+Book 6,C. Trebonius,Gaul,3
+Book 7,Caesar,Gaul,92
+Book 7,Pompey,Gaul,1
+Book 7,D. Brutus,Gaul,2
+Book 7,C. Trebonius,Gaul,2
+Book 7,Labienus,Gaul,15
+Book 7,C. Fabius,Gaul,5
+Book 7,Petreius. Elder,Gaul,1
+Book 7,Marcus. Antonius,Gaul,1
+Book 7,G. Caninius,Gaul,2
+Book 7,Q. Cicero,Gaul,1
+Book 8,Caesar,Gaul,69
+Book 8,Marcus. Antonius,Gaul,12
+Book 8,C. Trebonius,Gaul,6
+Book 8,C. Fabius,Gaul,11
+Book 8,Labienus,Gaul,7
+Book 8,C. Volusenus,Gaul,5
+Book 8,G. Caninius,Gaul,15
+Book 8,M. Crassus,Gaul,2
+Book 8,C. Marcellus,Gaul,5
+Book 8,C. Curio,Gaul,1
+Book 8,Pompey,Gaul,7
+Book 11,Caesar,Civil,199
+Book 11,Pompey,Civil,177
+Book 11,Lentulus,Civil,8
+Book 11,Marcus. Antonius,Civil,15
+Book 11,Scipio,Civil,34
+Book 11,Gabinius,Civil,4
+Book 11,C. Marcellus,Civil,1
+Book 11,M. Bibilus,Civil,14
+Book 11,V. Rufus,Civil,1
+Book 11,C. Curio,Civil,1
+Book 11,Labienus,Civil,6
+Book 11,M. Varro,Civil,1
+Book 11,C. Trebonius,Civil,3
+Book 11,M. Crassus,Civil,1
+Book 11,C.  Longinus,Civil,3
+Book 11,Petreius. Younger,Civil,1
+Book 11,Afranius,Civil,2
+Book 9,Caesar,Civil,167
+Book 9,Lentulus,Civil,12
+Book 9,Scipio,Civil,7
+Book 9,Pompey,Civil,76
+Book 9,C. Marcellus,Civil,5
+Book 9,Marcus. Antonius,Civil,6
+Book 9,L. Piso,Civil,1
+Book 9,Cato,Civil,5
+Book 9,C. Curio,Civil,6
+Book 9,Labienus,Civil,1
+Book 9,V. Rufus,Civil,4
+Book 9,G. Caninius,Civil,2
+Book 9,D. Brutus,Civil,3
+Book 9,C. Trebonius,Civil,1
+Book 9,C. Fabius,Civil,7
+Book 9,Afranius,Civil,52
+Book 9,Petreius. Younger,Civil,20
+Book 9,M. Varro,Civil,2
+Book 10,C. Trebonius,Civil,6
+Book 10,Caesar,Civil,41
+Book 10,Pompey,Civil,6
+Book 10,C. Curio,Civil,44
+Book 10,D. Brutus,Civil,6
+Book 10,M. Varro,Civil,12
+Book 10,Petreius. Younger,Civil,2
+Book 10,Afranius,Civil,4
+Book 10,G. Caninius,Civil,1
