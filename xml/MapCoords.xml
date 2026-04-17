@@ -6,15 +6,15 @@
         
         <!-- REGIONS -->
         <place name="Gaul" x="232" y="628"/>
-        <place name="Aquitania" x="217" y="785"/>
-        <place name="Spain" x="72" y="876"/>
-        <place name="Italy" x="590" y="803"/>
+        <place name="Aquitania" x="191" y="772"/>
+        <place name="Spain" x="44" y="842"/>
+        <place name="Italy" x="581" y="831"/>
         <place name="Britain" x="200" y="320"/>
-        <place name="Illyricum" x="739" y="731"/>
+        <place name="Illyricum" x="787" y="768"/>
         <place name="Germany" x="537" y="563"/>
         <place name="Syria" x="1543" y="1000"/>
         <place name="Achaia" x="979" y="1030"/>
-        <place name="Macedonia" x="977" y="867"/>
+        <place name="Macedonia" x="1006" y="841"/>
         <place name="Thessaly" x="950" y="788"/>
         <place name="Epirus" x="875" y="844"/>
         <place name="Cyprus" x="1409" y="1050"/>
@@ -26,46 +26,46 @@
         <place name="Kent" x="250" y="413"/>
         
         <!-- RIVERS / FEATURES (checked) -->
-        <place name="Garonne" x="210" y="718"/>
+        <place name="Garonne" x="234" y="738"/>
         <place name="Marne" x="309" y="537"/>
         <place name="Seine" x="276" y="501"/>
         <place name="Rhine" x="420" y="414"/>
-        <place name="Rhone" x="393" y="754"/>
-        <place name="Jura" x="413" y="642"/>
-        <place name="Mount Jura" x="413" y="642"/>
-        <place name="Alps" x="527" y="709"/>
-        <place name="Saone" x="382" y="653"/>
-        <place name="Loire" x="334" y="667"/>
-        <place name="Meuse" x="397" y="575"/>
+        <place name="Rhone" x="366" y="737"/>
+        <place name="Jura" x="407" y="618"/>
+        <place name="Mount Jura" x="413" y="665"/>
+        <place name="Alps" x="497" y="711"/>
+        <place name="Saone" x="359" y="691"/>
+        <place name="Loire" x="331" y="653"/>
+        <place name="Meuse" x="396" y="547"/>
         <place name="Thames" x="258" y="385"/>
         <place name="river Guadiana" x="56" y="1011"/>
         <place name="Guadiana" x="100" y="964"/>
         <place name="river Segre" x="175" y="900"/>
-        <place name="Segre" x="175" y="900"/>
-        <place name="Cinca" x="190" y="857"/>
-        <place name="river Ebro" x="216" y="872"/>
+        <place name="Segre" x="126" y="867"/>
+        <place name="Cinca" x="190" y="934"/>
+        <place name="river Ebro" x="280" y="872"/>
         <place name="Ebro" x="235" y="864"/>
         <place name="Pyrenaean" x="176" y="823"/>
-        <place name="river Genusus" x="876" y="900"/>
+        <place name="river Genusus" x="872" y="884"/>
         
         <!-- SETTLEMENTS -->
-        <place name="Geneva" x="590" y="690"/>
-        <place name="Noreia" x="760" y="730"/>
+        <place name="Geneva" x="461" y="682"/>
+        <place name="Noreia" x="758" y="661"/>
         <place name="Tolosa" x="310" y="805"/>
         <place name="Rome" x="635" y="860"/>
         <place name="Noviodunum" x="520" y="520"/>
         <place name="Bratuspantium" x="585" y="455"/>
-        <place name="Carcaso" x="285" y="845"/>
-        <place name="Narbo" x="360" y="860"/>
+        <place name="Carcaso" x="246" y="790"/>
+        <place name="Narbo" x="284" y="833"/>
         <place name="Lutetia" x="470" y="470"/>
         <place name="Genabum" x="500" y="600"/>
-        <place name="Gergovia" x="460" y="780"/>
-        <place name="Vellaunodunum" x="530" y="565"/>
-        <place name="Avaricum" x="500" y="665"/>
-        <place name="Alesia" x="575" y="635"/>
+        <place name="Gergovia" x="455" y="756"/>
+        <place name="Vellaunodunum" x="631" y="572"/>
+        <place name="Avaricum" x="541" y="637"/>
+        <place name="Alesia" x="351" y="586"/>
         <place name="Ariminum" x="611" y="757"/>
         <place name="Capua" x="668" y="894"/>
-        <place name="massilia" x="388" y="797"/>
+        <place name="Massilia" x="398" y="791"/>
         <place name="Alexandria" x="1145" y="1025"/>
         <place name="Oricum" x="882" y="925"/>
         <place name="Larissa" x="981" y="939"/>
