@@ -13,7 +13,7 @@ concat("Book,Name,Section,Count&#xa;", string-join(
                     return
                     for $roman at $pos in $book//Q{}persName[@eth="roman"]/data(@nameid)=>distinct-values()
                     let $roman-count := $book//Q{}persName[data(@nameid) = $roman] =>count()
-                    return (concat ("Book ", $num, ",", $roman, ",", translate($section, "g", "G"), ",", $roman-count, "&#xa;"))
+                    return (concat ($num, ",", $roman, ",", translate($section, "g", "G"), ",", $roman-count, "&#xa;"))
                     
         ),
         string-join(
@@ -25,7 +25,7 @@ concat("Book,Name,Section,Count&#xa;", string-join(
                     return
                     for $roman at $pos in $book//Q{}persName[@eth="roman"]/data(@nameid)=>distinct-values()
                     let $roman-count := $book//Q{}persName[data(@nameid) = $roman] =>count()
-                    return (concat ("Book ", $num, ",", $roman, ",", translate($section, "c", "C"), ",", $roman-count, "&#xa;"))
+                    return (concat ($num, ",", $roman, ",", translate($section, "c", "C"), ",", $roman-count, "&#xa;"))
                     
         
         )
