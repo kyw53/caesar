@@ -1,110 +1,110 @@
-Book,Name,Section,Count
-1,Messala,Gaul,2
-1,M. Piso,Gaul,2
-1,L. Piso,Gaul,2
-1,Gabinius,Gaul,1
-1,Caesar,Gaul,108
-1,L. Cassius,Gaul,3
-1,Labienus,Gaul,7
-1,P. Considius,Gaul,3
-1,M. Crassus,Gaul,1
-1,P. Crassus,Gaul,1
-2,Caesar,Gaul,42
-2,Labienus,Gaul,3
-2,Sabinus,Gaul,3
-2,Cotta,Gaul,1
-2,Baculus,Gaul,1
-2,P. Crassus,Gaul,1
-3,Caesar,Gaul,18
-3,S. Galba,Gaul,5
-3,Baculus,Gaul,1
-3,C. Volusenus,Gaul,1
-3,P. Crassus,Gaul,16
-3,Labienus,Gaul,1
-3,Sabinus,Gaul,10
-3,D. Brutus,Gaul,2
-4,Pompey,Gaul,1
-4,M. Crassus,Gaul,1
-4,Caesar,Gaul,50
-4,C. Volusenus,Gaul,3
-4,Sabinus,Gaul,2
-4,Cotta,Gaul,2
-4,Labienus,Gaul,2
-5,Caesar,Gaul,73
-5,Labienus,Gaul,16
-5,C. Trebonius,Gaul,2
-5,C. Fabius,Gaul,4
-5,Q. Cicero,Gaul,19
-5,M. Crassus,Gaul,5
-6,Caesar,Gaul,33
-6,Pompey,Gaul,2
-6,Labienus,Gaul,10
-6,C. Fabius,Gaul,1
-6,M. Crassus,Gaul,1
-6,Q. Cicero,Gaul,2
-6,C. Trebonius,Gaul,3
-7,Caesar,Gaul,92
-7,Pompey,Gaul,1
-7,D. Brutus,Gaul,2
-7,C. Trebonius,Gaul,2
-7,Labienus,Gaul,15
-7,C. Fabius,Gaul,5
-7,Petreius. Elder,Gaul,1
-7,Marcus. Antonius,Gaul,1
-7,G. Caninius,Gaul,2
-7,Q. Cicero,Gaul,1
-8,Caesar,Gaul,69
-8,Marcus. Antonius,Gaul,12
-8,C. Trebonius,Gaul,6
-8,C. Fabius,Gaul,11
-8,Labienus,Gaul,7
-8,C. Volusenus,Gaul,5
-8,G. Caninius,Gaul,15
-8,M. Crassus,Gaul,2
-8,C. Marcellus,Gaul,5
-8,C. Curio,Gaul,1
-8,Pompey,Gaul,7
-11,Caesar,Civil,199
-11,Pompey,Civil,177
-11,Lentulus,Civil,8
-11,Marcus. Antonius,Civil,15
-11,Scipio,Civil,34
-11,Gabinius,Civil,4
-11,C. Marcellus,Civil,1
-11,M. Bibilus,Civil,14
-11,V. Rufus,Civil,1
-11,C. Curio,Civil,1
-11,Labienus,Civil,6
-11,M. Varro,Civil,1
-11,C. Trebonius,Civil,3
-11,M. Crassus,Civil,1
-11,C.  Longinus,Civil,3
-11,Petreius. Younger,Civil,1
-11,Afranius,Civil,2
-9,Caesar,Civil,167
-9,Lentulus,Civil,12
-9,Scipio,Civil,7
-9,Pompey,Civil,76
-9,C. Marcellus,Civil,5
-9,Marcus. Antonius,Civil,6
-9,L. Piso,Civil,1
-9,Cato,Civil,5
-9,C. Curio,Civil,6
-9,Labienus,Civil,1
-9,V. Rufus,Civil,4
-9,G. Caninius,Civil,2
-9,D. Brutus,Civil,3
-9,C. Trebonius,Civil,1
-9,C. Fabius,Civil,7
-9,Afranius,Civil,52
-9,Petreius. Younger,Civil,20
-9,M. Varro,Civil,2
-10,C. Trebonius,Civil,6
-10,Caesar,Civil,41
-10,Pompey,Civil,6
-10,C. Curio,Civil,44
-10,D. Brutus,Civil,6
-10,M. Varro,Civil,12
-10,Petreius. Younger,Civil,2
-10,Afranius,Civil,4
-10,G. Caninius,Civil,1
+Label,Description,Count
+1,Messala,2
+1,M. Piso,2
+1,L. Piso,2
+1,Gabinius,1
+1,Caesar,108
+1,L. Cassius,3
+1,Labienus,7
+1,P. Considius,3
+1,M. Crassus,1
+1,P. Crassus,1
+2,Caesar,42
+2,Labienus,3
+2,Sabinus,3
+2,Cotta,1
+2,Baculus,1
+2,P. Crassus,1
+3,Caesar,18
+3,S. Galba,5
+3,Baculus,1
+3,C. Volusenus,1
+3,P. Crassus,16
+3,Labienus,1
+3,Sabinus,10
+3,D. Brutus,2
+4,Pompey,1
+4,M. Crassus,1
+4,Caesar,50
+4,C. Volusenus,3
+4,Sabinus,2
+4,Cotta,2
+4,Labienus,2
+5,Caesar,73
+5,Labienus,16
+5,C. Trebonius,2
+5,C. Fabius,4
+5,Q. Cicero,19
+5,M. Crassus,5
+6,Caesar,33
+6,Pompey,2
+6,Labienus,10
+6,C. Fabius,1
+6,M. Crassus,1
+6,Q. Cicero,2
+6,C. Trebonius,3
+7,Caesar,92
+7,Pompey,1
+7,D. Brutus,2
+7,C. Trebonius,2
+7,Labienus,15
+7,C. Fabius,5
+7,Petreius. Elder,1
+7,Marcus. Antonius,1
+7,G. Caninius,2
+7,Q. Cicero,1
+8,Caesar,69
+8,Marcus. Antonius,12
+8,C. Trebonius,6
+8,C. Fabius,11
+8,Labienus,7
+8,C. Volusenus,5
+8,G. Caninius,15
+8,M. Crassus,2
+8,C. Marcellus,5
+8,C. Curio,1
+8,Pompey,7
+11,Caesar,199
+11,Pompey,177
+11,Lentulus,8
+11,Marcus. Antonius,15
+11,Scipio,34
+11,Gabinius,4
+11,C. Marcellus,1
+11,M. Bibilus,14
+11,V. Rufus,1
+11,C. Curio,1
+11,Labienus,6
+11,M. Varro,1
+11,C. Trebonius,3
+11,M. Crassus,1
+11,C.  Longinus,3
+11,Petreius. Younger,1
+11,Afranius,2
+9,Caesar,167
+9,Lentulus,12
+9,Scipio,7
+9,Pompey,76
+9,C. Marcellus,5
+9,Marcus. Antonius,6
+9,L. Piso,1
+9,Cato,5
+9,C. Curio,6
+9,Labienus,1
+9,V. Rufus,4
+9,G. Caninius,2
+9,D. Brutus,3
+9,C. Trebonius,1
+9,C. Fabius,7
+9,Afranius,52
+9,Petreius. Younger,20
+9,M. Varro,2
+10,C. Trebonius,6
+10,Caesar,41
+10,Pompey,6
+10,C. Curio,44
+10,D. Brutus,6
+10,M. Varro,12
+10,Petreius. Younger,2
+10,Afranius,4
+10,G. Caninius,1
