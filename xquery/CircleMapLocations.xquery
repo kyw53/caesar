@@ -88,7 +88,7 @@ declare variable $defaultRadius := 4;
                         </style>
 
                         <!-- background map -->
-                        <image href="../docs/Blank_map_of_Europe_cropped.svg"
+                        <image href="Blank_map_of_Europe_cropped.svg"
                                x="0"
                                y="0"
                                width="1613"

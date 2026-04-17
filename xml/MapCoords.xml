@@ -13,8 +13,8 @@
         <place name="Illyricum" x="739" y="731"/>
         <place name="Germany" x="537" y="563"/>
         <place name="Syria" x="1543" y="1000"/>
-        <place name="Achaia" x="950" y="1000"/>
-        <place name="Macedonia" x="894" y="833"/>
+        <place name="Achaia" x="979" y="1030"/>
+        <place name="Macedonia" x="977" y="867"/>
         <place name="Thessaly" x="950" y="788"/>
         <place name="Epirus" x="1173" y="619"/>
         <place name="Cyprus" x="1409" y="1050"/>
@@ -22,7 +22,7 @@
         <place name="Sicily" x="696" y="1070"/>
         <place name="Venetia" x="622" y="700"/>
         <place name="Picenum" x="645" y="791"/>
-        <place name="Aetolia" x="922" y="933"/>
+        <place name="Aetolia" x="953" y="988"/>
         <place name="Kent" x="250" y="413"/>
         
         <!-- RIVERS / FEATURES (checked) -->
@@ -67,8 +67,8 @@
         <place name="Capua" x="668" y="894"/>
         <place name="massilia" x="388" y="797"/>
         <place name="Alexandria" x="1145" y="1025"/>
-        <place name="Oricum" x="900" y="860"/>
-        <place name="Larissa" x="980" y="900"/>
+        <place name="Oricum" x="882" y="925"/>
+        <place name="Larissa" x="981" y="939"/>
         
     </places>
 </places>
