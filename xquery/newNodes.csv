@@ -1,121 +1,121 @@
-Label,Type,Description,Count
-Messala,Person,1,2
-M. Piso,Person,1,2
-L. Piso,Person,1,2
-Gabinius,Person,1,1
-Caesar,Person,1,108
-L. Cassius,Person,1,3
-Labienus,Person,1,7
-P. Considius,Person,1,3
-M. Crassus,Person,1,1
-P. Crassus,Person,1,1
-Caesar,Person,11,199
-Pompey,Person,11,177
-Lentulus,Person,11,8
-Marcus. Antonius,Person,11,15
-Scipio,Person,11,34
-Gabinius,Person,11,4
-C. Marcellus,Person,11,1
-M. Bibilus,Person,11,14
-V. Rufus,Person,11,1
-C. Curio,Person,11,1
-Labienus,Person,11,6
-M. Varro,Person,11,1
-C. Trebonius,Person,11,3
-M. Crassus,Person,11,1
-C.  Longinus,Person,11,3
-Petreius. Younger,Person,11,1
-Afranius,Person,11,2
-Caesar,Person,3,18
-S. Galba,Person,3,5
-Baculus,Person,3,1
-C. Volusenus,Person,3,1
-P. Crassus,Person,3,16
-Labienus,Person,3,1
-Sabinus,Person,3,10
-D. Brutus,Person,3,2
-Caesar,Person,2,42
-Labienus,Person,2,3
-Sabinus,Person,2,3
-Cotta,Person,2,1
-Baculus,Person,2,1
-P. Crassus,Person,2,1
-Caesar,Person,5,73
-Labienus,Person,5,16
-C. Trebonius,Person,5,2
-C. Fabius,Person,5,4
-Q. Cicero,Person,5,19
-M. Crassus,Person,5,5
-Pompey,Person,4,1
-M. Crassus,Person,4,1
-Caesar,Person,4,50
-C. Volusenus,Person,4,3
-Sabinus,Person,4,2
-Cotta,Person,4,2
-Labienus,Person,4,2
-Caesar,Person,7,92
-Pompey,Person,7,1
-D. Brutus,Person,7,2
-C. Trebonius,Person,7,2
-Labienus,Person,7,15
-C. Fabius,Person,7,5
-Petreius. Elder,Person,7,1
-Marcus. Antonius,Person,7,1
-G. Caninius,Person,7,2
-Q. Cicero,Person,7,1
-Caesar,Person,6,33
-Pompey,Person,6,2
-Labienus,Person,6,10
-C. Fabius,Person,6,1
-M. Crassus,Person,6,1
-Q. Cicero,Person,6,2
-C. Trebonius,Person,6,3
-Caesar,Person,9,167
-Lentulus,Person,9,12
-Scipio,Person,9,7
-Pompey,Person,9,76
-C. Marcellus,Person,9,5
-Marcus. Antonius,Person,9,6
-L. Piso,Person,9,1
-Cato,Person,9,5
-C. Curio,Person,9,6
-Labienus,Person,9,1
-V. Rufus,Person,9,4
-G. Caninius,Person,9,2
-D. Brutus,Person,9,3
-C. Trebonius,Person,9,1
-C. Fabius,Person,9,7
-Afranius,Person,9,52
-Petreius. Younger,Person,9,20
-M. Varro,Person,9,2
-Caesar,Person,8,69
-Marcus. Antonius,Person,8,12
-C. Trebonius,Person,8,6
-C. Fabius,Person,8,11
-Labienus,Person,8,7
-C. Volusenus,Person,8,5
-G. Caninius,Person,8,15
-M. Crassus,Person,8,2
-C. Marcellus,Person,8,5
-C. Curio,Person,8,1
-Pompey,Person,8,7
-C. Trebonius,Person,10,6
-Caesar,Person,10,41
-Pompey,Person,10,6
-C. Curio,Person,10,44
-D. Brutus,Person,10,6
-M. Varro,Person,10,12
-Petreius. Younger,Person,10,2
-Afranius,Person,10,4
-G. Caninius,Person,10,1
-Gaul,Book,1,131
-Gaul,Book,2,51
-Gaul,Book,3,54
-Gaul,Book,4,61
-Gaul,Book,5,119
-Gaul,Book,6,53
-Gaul,Book,7,122
-Gaul,Book,8,142
-Civil,Book,9,400
-Civil,Book,10,130
-Civil,Book,11,494
+ID,Label,Type,Description,Count
+1Messala1,Messala,Person,Book 1,2
+2M. Piso1,M. Piso,Person,Book 1,2
+3L. Piso1,L. Piso,Person,Book 1,2
+4Gabinius1,Gabinius,Person,Book 1,1
+5Caesar1,Caesar,Person,Book 1,108
+6L. Cassius1,L. Cassius,Person,Book 1,3
+7Labienus1,Labienus,Person,Book 1,7
+8P. Considius1,P. Considius,Person,Book 1,3
+9M. Crassus1,M. Crassus,Person,Book 1,1
+10P. Crassus1,P. Crassus,Person,Book 1,1
+1Caesar11,Caesar,Person,Book 11,199
+2Pompey11,Pompey,Person,Book 11,177
+3Lentulus11,Lentulus,Person,Book 11,8
+4Marcus. Antonius11,Marcus. Antonius,Person,Book 11,15
+5Scipio11,Scipio,Person,Book 11,34
+6Gabinius11,Gabinius,Person,Book 11,4
+7C. Marcellus11,C. Marcellus,Person,Book 11,1
+8M. Bibilus11,M. Bibilus,Person,Book 11,14
+9V. Rufus11,V. Rufus,Person,Book 11,1
+10C. Curio11,C. Curio,Person,Book 11,1
+11Labienus11,Labienus,Person,Book 11,6
+12M. Varro11,M. Varro,Person,Book 11,1
+13C. Trebonius11,C. Trebonius,Person,Book 11,3
+14M. Crassus11,M. Crassus,Person,Book 11,1
+15C.  Longinus11,C.  Longinus,Person,Book 11,3
+16Petreius. Younger11,Petreius. Younger,Person,Book 11,1
+17Afranius11,Afranius,Person,Book 11,2
+1Caesar3,Caesar,Person,Book 3,18
+2S. Galba3,S. Galba,Person,Book 3,5
+3Baculus3,Baculus,Person,Book 3,1
+4C. Volusenus3,C. Volusenus,Person,Book 3,1
+5P. Crassus3,P. Crassus,Person,Book 3,16
+6Labienus3,Labienus,Person,Book 3,1
+7Sabinus3,Sabinus,Person,Book 3,10
+8D. Brutus3,D. Brutus,Person,Book 3,2
+1Caesar2,Caesar,Person,Book 2,42
+2Labienus2,Labienus,Person,Book 2,3
+3Sabinus2,Sabinus,Person,Book 2,3
+4Cotta2,Cotta,Person,Book 2,1
+5Baculus2,Baculus,Person,Book 2,1
+6P. Crassus2,P. Crassus,Person,Book 2,1
+1Caesar5,Caesar,Person,Book 5,73
+2Labienus5,Labienus,Person,Book 5,16
+3C. Trebonius5,C. Trebonius,Person,Book 5,2
+4C. Fabius5,C. Fabius,Person,Book 5,4
+5Q. Cicero5,Q. Cicero,Person,Book 5,19
+6M. Crassus5,M. Crassus,Person,Book 5,5
+1Pompey4,Pompey,Person,Book 4,1
+2M. Crassus4,M. Crassus,Person,Book 4,1
+3Caesar4,Caesar,Person,Book 4,50
+4C. Volusenus4,C. Volusenus,Person,Book 4,3
+5Sabinus4,Sabinus,Person,Book 4,2
+6Cotta4,Cotta,Person,Book 4,2
+7Labienus4,Labienus,Person,Book 4,2
+1Caesar7,Caesar,Person,Book 7,92
+2Pompey7,Pompey,Person,Book 7,1
+3D. Brutus7,D. Brutus,Person,Book 7,2
+4C. Trebonius7,C. Trebonius,Person,Book 7,2
+5Labienus7,Labienus,Person,Book 7,15
+6C. Fabius7,C. Fabius,Person,Book 7,5
+7Petreius. Elder7,Petreius. Elder,Person,Book 7,1
+8Marcus. Antonius7,Marcus. Antonius,Person,Book 7,1
+9G. Caninius7,G. Caninius,Person,Book 7,2
+10Q. Cicero7,Q. Cicero,Person,Book 7,1
+1Caesar6,Caesar,Person,Book 6,33
+2Pompey6,Pompey,Person,Book 6,2
+3Labienus6,Labienus,Person,Book 6,10
+4C. Fabius6,C. Fabius,Person,Book 6,1
+5M. Crassus6,M. Crassus,Person,Book 6,1
+6Q. Cicero6,Q. Cicero,Person,Book 6,2
+7C. Trebonius6,C. Trebonius,Person,Book 6,3
+1Caesar9,Caesar,Person,Book 9,167
+2Lentulus9,Lentulus,Person,Book 9,12
+3Scipio9,Scipio,Person,Book 9,7
+4Pompey9,Pompey,Person,Book 9,76
+5C. Marcellus9,C. Marcellus,Person,Book 9,5
+6Marcus. Antonius9,Marcus. Antonius,Person,Book 9,6
+7L. Piso9,L. Piso,Person,Book 9,1
+8Cato9,Cato,Person,Book 9,5
+9C. Curio9,C. Curio,Person,Book 9,6
+10Labienus9,Labienus,Person,Book 9,1
+11V. Rufus9,V. Rufus,Person,Book 9,4
+12G. Caninius9,G. Caninius,Person,Book 9,2
+13D. Brutus9,D. Brutus,Person,Book 9,3
+14C. Trebonius9,C. Trebonius,Person,Book 9,1
+15C. Fabius9,C. Fabius,Person,Book 9,7
+16Afranius9,Afranius,Person,Book 9,52
+17Petreius. Younger9,Petreius. Younger,Person,Book 9,20
+18M. Varro9,M. Varro,Person,Book 9,2
+1Caesar8,Caesar,Person,Book 8,69
+2Marcus. Antonius8,Marcus. Antonius,Person,Book 8,12
+3C. Trebonius8,C. Trebonius,Person,Book 8,6
+4C. Fabius8,C. Fabius,Person,Book 8,11
+5Labienus8,Labienus,Person,Book 8,7
+6C. Volusenus8,C. Volusenus,Person,Book 8,5
+7G. Caninius8,G. Caninius,Person,Book 8,15
+8M. Crassus8,M. Crassus,Person,Book 8,2
+9C. Marcellus8,C. Marcellus,Person,Book 8,5
+10C. Curio8,C. Curio,Person,Book 8,1
+11Pompey8,Pompey,Person,Book 8,7
+1C. Trebonius10,C. Trebonius,Person,Book 10,6
+2Caesar10,Caesar,Person,Book 10,41
+3Pompey10,Pompey,Person,Book 10,6
+4C. Curio10,C. Curio,Person,Book 10,44
+5D. Brutus10,D. Brutus,Person,Book 10,6
+6M. Varro10,M. Varro,Person,Book 10,12
+7Petreius. Younger10,Petreius. Younger,Person,Book 10,2
+8Afranius10,Afranius,Person,Book 10,4
+9G. Caninius10,G. Caninius,Person,Book 10,1
+book11,Book,subdiv,Book 1,131
+book22,Book,subdiv,Book 2,51
+book33,Book,subdiv,Book 3,54
+book44,Book,subdiv,Book 4,61
+book55,Book,subdiv,Book 5,119
+book66,Book,subdiv,Book 6,53
+book77,Book,subdiv,Book 7,122
+book88,Book,subdiv,Book 8,142
+book99,Book,subdiv,Book 9,400
+book1010,Book,subdiv,Book 10,130
+book1111,Book,subdiv,Book 11,494
