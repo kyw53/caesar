@@ -2,11 +2,81 @@
 <html>
    <head>
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-      <title>Maps of Locations</title>
+      <title>Maps of Locations by Book</title>
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <link type="text/css" href="style.css" rel="stylesheet">
+      <link type="text/css" href="style.css" rel="stylesheet"><script>
+            function showBook(bookNum) {
+                let maps = document.querySelectorAll(".book-map");
+                maps.forEach(function(map) {map.style.display = "none";});
+
+                let target = document.getElementById("book-" + bookNum);
+                if (target) {target.style.display = "block";}}
+        </script><style>
+            .book-buttons {
+                margin-bottom: 20px;
+            }
+
+            .book-buttons button {
+                margin-right: 8px;
+                margin-bottom: 8px;
+                padding: 8px 12px;
+                font-size: 16px;
+                cursor: pointer;
+            }
+
+            .book-map {
+                display: none;
+            }
+
+            .river-dot {
+                fill: steelblue;
+                fill-opacity: 0.65;
+                stroke: black;
+                stroke-width: 1.5;
+            }
+
+            .settlement-dot {
+                fill: darkred;
+                fill-opacity: 0.65;
+                stroke: black;
+                stroke-width: 1.5;
+            }
+
+            .region-dot {
+                fill: darkgreen;
+                fill-opacity: 0.65;
+                stroke: black;
+                stroke-width: 1.5;
+            }
+
+            .mountain-dot {
+                fill: goldenrod;
+                fill-opacity: 0.65;
+                stroke: black;
+                stroke-width: 1.5;
+            }
+
+            .other-dot {
+                fill: gray;
+                fill-opacity: 0.65;
+                stroke: black;
+                stroke-width: 1.5;
+            }
+
+            .place-label {
+                font-size: 18px;
+                fill: black;
+            }
+
+            .place-count {
+                font-size: 12px;
+                fill: white;
+                text-anchor: middle;
+                dominant-baseline: middle;
+            }
+        </style>
    </head>
-   <body>
+   <body onload="showBook(1)">
       <nav>
          <div><a href="index.html">Home</a></div>
          <div><a href="background.html">Background</a></div>
@@ -15,53 +85,873 @@
       </nav>
       <div class="main-content">
          <h1>Divide et Impera</h1>
-         <h2>Places on Map</h2><svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1050" viewBox="0 0 1613 1417">
-            <style>
-                    .river-dot {
-                        fill: steelblue;
-                        fill-opacity: 0.65;
-                        stroke: black;
-                        stroke-width: 1.5;
-                    }
-
-                    .settlement-dot {
-                        fill: darkred;
-                        fill-opacity: 0.65;
-                        stroke: black;
-                        stroke-width: 1.5;
-                    }
-
-                    .region-dot {
-                        fill: darkgreen;
-                        fill-opacity: 0.65;
-                        stroke: black;
-                        stroke-width: 1.5;
-                    }
-
-                    .mountain-dot {
-                        fill: goldenrod;
-                        fill-opacity: 0.65;
-                        stroke: black;
-                        stroke-width: 1.5;
-                    }
-
-                    .other-dot {
-                        fill: gray;
-                        fill-opacity: 0.65;
-                        stroke: black;
-                        stroke-width: 1.5;
-                    }
-
-                    .place-label {
-                        font-size: 18px;
-                        fill: black;
-                    }
-
-                    .place-count {
-                        font-size: 12px;
-                        fill: white;
-                        text-anchor: middle;
-                        dominant-baseline: middle;
-                    }
-                </style>
-            <image href="Blank_map_of_Europe_cropped.svg" x="0" y="0" width="1613" height="1417"/>
+         <h2>Frequency of Locations Mentioned by Book</h2>
+         <div class="book-buttons"><button onclick="showBook(1)">Book 1</button><button onclick="showBook(2)">Book 2</button><button onclick="showBook(3)">Book 3</button><button onclick="showBook(4)">Book 4</button><button onclick="showBook(5)">Book 5</button><button onclick="showBook(6)">Book 6</button><button onclick="showBook(7)">Book 7</button><button onclick="showBook(8)">Book 8</button><button onclick="showBook(9)">Book 9</button><button onclick="showBook(10)">Book 10</button><button onclick="showBook(11)">Book 11</button></div>
+         <div class="book-map" id="book-1">
+            <h3>Book 1</h3><svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1050" viewBox="0 0 1613 1417">
+               <image href="Blank_map_of_Europe_cropped.svg" x="0" y="0" width="1613" height="1417"/>
+               <g id="mapped-places">
+                  <g>
+                     <circle class="region-dot" cx="232" cy="628" r="55"/>
+                     <text class="place-count" x="232" y="628">52</text>
+                     <text class="place-label" x="293" y="624">Gaul</text>
+                  </g>
+                  <g>
+                     <circle class="other-dot" cx="420" cy="414" r="34.417420270727604"/>
+                     <text class="place-count" x="420" y="414">18</text>
+                     <text class="place-label" x="460.4174202707276" y="410">Rhine</text>
+                  </g>
+                  <g>
+                     <circle class="other-dot" cx="366" cy="737" r="27.996655275194996"/>
+                     <text class="place-count" x="366" y="737">11</text>
+                     <text class="place-label" x="399.996655275195" y="733">Rhone</text>
+                  </g>
+                  <g>
+                     <circle class="settlement-dot" cx="461" cy="682" r="20.504341823651057"/>
+                     <text class="place-count" x="461" y="682">5</text>
+                     <text class="place-label" x="487.50434182365103" y="678">Geneva</text>
+                  </g>
+                  <g>
+                     <circle class="other-dot" cx="359" cy="691" r="20.504341823651057"/>
+                     <text class="place-count" x="359" y="691">5</text>
+                     <text class="place-label" x="385.50434182365103" y="687">Saone</text>
+                  </g>
+                  <g>
+                     <circle class="other-dot" cx="234" cy="738" r="17.009611535381534"/>
+                     <text class="place-count" x="234" y="738">3</text>
+                     <text class="place-label" x="257.0096115353815" y="734">Garonne</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="581" cy="831" r="17.009611535381534"/>
+                     <text class="place-count" x="581" y="831">3</text>
+                     <text class="place-label" x="604.0096115353815" y="827">Italy</text>
+                  </g>
+                  <g>
+                     <circle class="mountain-dot" cx="413" cy="665" r="14.805806756909202"/>
+                     <text class="place-count" x="413" y="665">2</text>
+                     <text class="place-label" x="433.8058067569092" y="661">Mount Jura</text>
+                  </g>
+                  <g>
+                     <circle class="settlement-dot" cx="635" cy="860" r="14.805806756909202"/>
+                     <text class="place-count" x="635" y="860">2</text>
+                     <text class="place-label" x="655.8058067569092" y="856">Rome</text>
+                  </g>
+                  <g>
+                     <circle class="other-dot" cx="497" cy="711" r="11.933752452815364"/>
+                     <text class="place-count" x="497" y="711">1</text>
+                     <text class="place-label" x="514.9337524528154" y="707">Alps</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="191" cy="772" r="11.933752452815364"/>
+                     <text class="place-count" x="191" y="772">1</text>
+                     <text class="place-label" x="208.93375245281536" y="768">Aquitania</text>
+                  </g>
+                  <g>
+                     <circle class="other-dot" cx="407" cy="618" r="11.933752452815364"/>
+                     <text class="place-count" x="407" y="618">1</text>
+                     <text class="place-label" x="424.9337524528154" y="614">Jura</text>
+                  </g>
+                  <g>
+                     <circle class="other-dot" cx="309" cy="537" r="11.933752452815364"/>
+                     <text class="place-count" x="309" y="537">1</text>
+                     <text class="place-label" x="326.9337524528154" y="533">Marne</text>
+                  </g>
+                  <g>
+                     <circle class="settlement-dot" cx="758" cy="661" r="11.933752452815364"/>
+                     <text class="place-count" x="758" y="661">1</text>
+                     <text class="place-label" x="775.9337524528154" y="657">Noreia</text>
+                  </g>
+                  <g>
+                     <circle class="other-dot" cx="176" cy="823" r="11.933752452815364"/>
+                     <text class="place-count" x="176" y="823">1</text>
+                     <text class="place-label" x="193.93375245281536" y="819">Pyrenaean</text>
+                  </g>
+                  <g>
+                     <circle class="other-dot" cx="276" cy="501" r="11.933752452815364"/>
+                     <text class="place-count" x="276" y="501">1</text>
+                     <text class="place-label" x="293.9337524528154" y="497">Seine</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="44" cy="842" r="11.933752452815364"/>
+                     <text class="place-count" x="44" y="842">1</text>
+                     <text class="place-label" x="61.93375245281536" y="838">Spain</text>
+                  </g>
+               </g>
+               <g id="legend" transform="translate(40,1250)">
+                  <rect x="0" y="0" width="200" height="150" fill="white" fill-opacity="0.8" stroke="black" stroke-width="1"/>
+                  <text x="10" y="15" font-size="16" font-weight="bold">
+                     Map Key
+                     </text>
+                  <circle cx="15" cy="35" r="8" class="river-dot"/>
+                  <text x="30" y="40" font-size="14">River</text>
+                  <circle cx="15" cy="60" r="8" class="settlement-dot"/>
+                  <text x="30" y="65" font-size="14">Settlement</text>
+                  <circle cx="15" cy="85" r="8" class="region-dot"/>
+                  <text x="30" y="90" font-size="14">Region</text>
+                  <circle cx="15" cy="110" r="8" class="mountain-dot"/>
+                  <text x="30" y="115" font-size="14">Mountain</text>
+                  <circle cx="15" cy="135" r="8" class="other-dot"/>
+                  <text x="30" y="140" font-size="14">Other</text>
+               </g></svg></div>
+         <div class="book-map" id="book-2">
+            <h3>Book 2</h3><svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1050" viewBox="0 0 1613 1417">
+               <image href="Blank_map_of_Europe_cropped.svg" x="0" y="0" width="1613" height="1417"/>
+               <g id="mapped-places">
+                  <g>
+                     <circle class="region-dot" cx="232" cy="628" r="29.019223070763072"/>
+                     <text class="place-count" x="232" y="628">12</text>
+                     <text class="place-label" x="267.0192230707631" y="624">Gaul</text>
+                  </g>
+                  <g>
+                     <circle class="other-dot" cx="420" cy="414" r="18.867504905630728"/>
+                     <text class="place-count" x="420" y="414">4</text>
+                     <text class="place-label" x="444.8675049056307" y="410">Rhine</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="581" cy="831" r="17.009611535381534"/>
+                     <text class="place-count" x="581" y="831">3</text>
+                     <text class="place-label" x="604.0096115353815" y="827">Italy</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="200" cy="320" r="14.805806756909202"/>
+                     <text class="place-count" x="200" y="320">2</text>
+                     <text class="place-label" x="220.8058067569092" y="316">Britain</text>
+                  </g>
+                  <g>
+                     <circle class="settlement-dot" cx="585" cy="455" r="11.933752452815364"/>
+                     <text class="place-count" x="585" y="455">1</text>
+                     <text class="place-label" x="602.9337524528154" y="451">Bratuspantium</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="787" cy="768" r="11.933752452815364"/>
+                     <text class="place-count" x="787" y="768">1</text>
+                     <text class="place-label" x="804.9337524528154" y="764">Illyricum</text>
+                  </g>
+                  <g>
+                     <circle class="settlement-dot" cx="520" cy="520" r="11.933752452815364"/>
+                     <text class="place-count" x="520" y="520">1</text>
+                     <text class="place-label" x="537.9337524528154" y="516">Noviodunum</text>
+                  </g>
+               </g>
+               <g id="legend" transform="translate(40,1250)">
+                  <rect x="0" y="0" width="200" height="150" fill="white" fill-opacity="0.8" stroke="black" stroke-width="1"/>
+                  <text x="10" y="15" font-size="16" font-weight="bold">
+                     Map Key
+                     </text>
+                  <circle cx="15" cy="35" r="8" class="river-dot"/>
+                  <text x="30" y="40" font-size="14">River</text>
+                  <circle cx="15" cy="60" r="8" class="settlement-dot"/>
+                  <text x="30" y="65" font-size="14">Settlement</text>
+                  <circle cx="15" cy="85" r="8" class="region-dot"/>
+                  <text x="30" y="90" font-size="14">Region</text>
+                  <circle cx="15" cy="110" r="8" class="mountain-dot"/>
+                  <text x="30" y="115" font-size="14">Mountain</text>
+                  <circle cx="15" cy="135" r="8" class="other-dot"/>
+                  <text x="30" y="140" font-size="14">Other</text>
+               </g></svg></div>
+         <div class="book-map" id="book-3">
+            <h3>Book 3</h3><svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1050" viewBox="0 0 1613 1417">
+               <image href="Blank_map_of_Europe_cropped.svg" x="0" y="0" width="1613" height="1417"/>
+               <g id="mapped-places">
+                  <g>
+                     <circle class="region-dot" cx="232" cy="628" r="26.92645048267573"/>
+                     <text class="place-count" x="232" y="628">10</text>
+                     <text class="place-label" x="264.9264504826757" y="624">Gaul</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="191" cy="772" r="23.34498464263357"/>
+                     <text class="place-count" x="191" y="772">7</text>
+                     <text class="place-label" x="220.34498464263356" y="768">Aquitania</text>
+                  </g>
+                  <g>
+                     <circle class="other-dot" cx="497" cy="711" r="18.867504905630728"/>
+                     <text class="place-count" x="497" y="711">4</text>
+                     <text class="place-label" x="521.8675049056308" y="707">Alps</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="200" cy="320" r="14.805806756909202"/>
+                     <text class="place-count" x="200" y="320">2</text>
+                     <text class="place-label" x="220.8058067569092" y="316">Britain</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="44" cy="842" r="14.805806756909202"/>
+                     <text class="place-count" x="44" y="842">2</text>
+                     <text class="place-label" x="64.8058067569092" y="838">Spain</text>
+                  </g>
+                  <g>
+                     <circle class="settlement-dot" cx="246" cy="790" r="11.933752452815364"/>
+                     <text class="place-count" x="246" y="790">1</text>
+                     <text class="place-label" x="263.9337524528154" y="786">Carcaso</text>
+                  </g>
+                  <g>
+                     <circle class="settlement-dot" cx="461" cy="682" r="11.933752452815364"/>
+                     <text class="place-count" x="461" y="682">1</text>
+                     <text class="place-label" x="478.9337524528154" y="678">Geneva</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="787" cy="768" r="11.933752452815364"/>
+                     <text class="place-count" x="787" y="768">1</text>
+                     <text class="place-label" x="804.9337524528154" y="764">Illyricum</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="581" cy="831" r="11.933752452815364"/>
+                     <text class="place-count" x="581" y="831">1</text>
+                     <text class="place-label" x="598.9337524528154" y="827">Italy</text>
+                  </g>
+                  <g>
+                     <circle class="other-dot" cx="331" cy="653" r="11.933752452815364"/>
+                     <text class="place-count" x="331" y="653">1</text>
+                     <text class="place-label" x="348.9337524528154" y="649">Loire</text>
+                  </g>
+                  <g>
+                     <circle class="settlement-dot" cx="284" cy="833" r="11.933752452815364"/>
+                     <text class="place-count" x="284" y="833">1</text>
+                     <text class="place-label" x="301.9337524528154" y="829">Narbo</text>
+                  </g>
+                  <g>
+                     <circle class="other-dot" cx="420" cy="414" r="11.933752452815364"/>
+                     <text class="place-count" x="420" y="414">1</text>
+                     <text class="place-label" x="437.9337524528154" y="410">Rhine</text>
+                  </g>
+                  <g>
+                     <circle class="other-dot" cx="366" cy="737" r="11.933752452815364"/>
+                     <text class="place-count" x="366" y="737">1</text>
+                     <text class="place-label" x="383.9337524528154" y="733">Rhone</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="622" cy="700" r="11.933752452815364"/>
+                     <text class="place-count" x="622" y="700">1</text>
+                     <text class="place-label" x="639.9337524528154" y="696">Venetia</text>
+                  </g>
+               </g>
+               <g id="legend" transform="translate(40,1250)">
+                  <rect x="0" y="0" width="200" height="150" fill="white" fill-opacity="0.8" stroke="black" stroke-width="1"/>
+                  <text x="10" y="15" font-size="16" font-weight="bold">
+                     Map Key
+                     </text>
+                  <circle cx="15" cy="35" r="8" class="river-dot"/>
+                  <text x="30" y="40" font-size="14">River</text>
+                  <circle cx="15" cy="60" r="8" class="settlement-dot"/>
+                  <text x="30" y="65" font-size="14">Settlement</text>
+                  <circle cx="15" cy="85" r="8" class="region-dot"/>
+                  <text x="30" y="90" font-size="14">Region</text>
+                  <circle cx="15" cy="110" r="8" class="mountain-dot"/>
+                  <text x="30" y="115" font-size="14">Mountain</text>
+                  <circle cx="15" cy="135" r="8" class="other-dot"/>
+                  <text x="30" y="140" font-size="14">Other</text>
+               </g></svg></div>
+         <div class="book-map" id="book-4">
+            <h3>Book 4</h3><svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1050" viewBox="0 0 1613 1417">
+               <image href="Blank_map_of_Europe_cropped.svg" x="0" y="0" width="1613" height="1417"/>
+               <g id="mapped-places">
+                  <g>
+                     <circle class="other-dot" cx="420" cy="414" r="36.008683647302114"/>
+                     <text class="place-count" x="420" y="414">20</text>
+                     <text class="place-label" x="462.0086836473021" y="410">Rhine</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="232" cy="628" r="27.996655275194996"/>
+                     <text class="place-count" x="232" y="628">11</text>
+                     <text class="place-label" x="265.996655275195" y="624">Gaul</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="200" cy="320" r="26.92645048267573"/>
+                     <text class="place-count" x="200" y="320">10</text>
+                     <text class="place-label" x="232.92645048267573" y="316">Britain</text>
+                  </g>
+                  <g>
+                     <circle class="other-dot" cx="396" cy="547" r="20.504341823651057"/>
+                     <text class="place-count" x="396" y="547">5</text>
+                     <text class="place-label" x="422.50434182365103" y="543">Meuse</text>
+                  </g>
+                  <g>
+                     <circle class="other-dot" cx="497" cy="711" r="11.933752452815364"/>
+                     <text class="place-count" x="497" y="711">1</text>
+                     <text class="place-label" x="514.9337524528154" y="707">Alps</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="191" cy="772" r="11.933752452815364"/>
+                     <text class="place-count" x="191" y="772">1</text>
+                     <text class="place-label" x="208.93375245281536" y="768">Aquitania</text>
+                  </g>
+               </g>
+               <g id="legend" transform="translate(40,1250)">
+                  <rect x="0" y="0" width="200" height="150" fill="white" fill-opacity="0.8" stroke="black" stroke-width="1"/>
+                  <text x="10" y="15" font-size="16" font-weight="bold">
+                     Map Key
+                     </text>
+                  <circle cx="15" cy="35" r="8" class="river-dot"/>
+                  <text x="30" y="40" font-size="14">River</text>
+                  <circle cx="15" cy="60" r="8" class="settlement-dot"/>
+                  <text x="30" y="65" font-size="14">Settlement</text>
+                  <circle cx="15" cy="85" r="8" class="region-dot"/>
+                  <text x="30" y="90" font-size="14">Region</text>
+                  <circle cx="15" cy="110" r="8" class="mountain-dot"/>
+                  <text x="30" y="115" font-size="14">Mountain</text>
+                  <circle cx="15" cy="135" r="8" class="other-dot"/>
+                  <text x="30" y="140" font-size="14">Other</text>
+               </g></svg></div>
+         <div class="book-map" id="book-5">
+            <h3>Book 5</h3><svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1050" viewBox="0 0 1613 1417">
+               <image href="Blank_map_of_Europe_cropped.svg" x="0" y="0" width="1613" height="1417"/>
+               <g id="mapped-places">
+                  <g>
+                     <circle class="region-dot" cx="232" cy="628" r="47.176369614348665"/>
+                     <text class="place-count" x="232" y="628">37</text>
+                     <text class="place-label" x="285.1763696143487" y="624">Gaul</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="200" cy="320" r="25.801257358446094"/>
+                     <text class="place-count" x="200" y="320">9</text>
+                     <text class="place-label" x="231.8012573584461" y="316">Britain</text>
+                  </g>
+                  <g>
+                     <circle class="other-dot" cx="420" cy="414" r="25.801257358446094"/>
+                     <text class="place-count" x="420" y="414">9</text>
+                     <text class="place-label" x="451.8012573584461" y="410">Rhine</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="250" cy="413" r="17.009611535381534"/>
+                     <text class="place-count" x="250" y="413">3</text>
+                     <text class="place-label" x="273.0096115353815" y="409">Kent</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="581" cy="831" r="14.805806756909202"/>
+                     <text class="place-count" x="581" y="831">2</text>
+                     <text class="place-label" x="601.8058067569092" y="827">Italy</text>
+                  </g>
+                  <g>
+                     <circle class="river-dot" cx="258" cy="385" r="14.805806756909202"/>
+                     <text class="place-count" x="258" y="385">2</text>
+                     <text class="place-label" x="278.8058067569092" y="381">Thames</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="537" cy="563" r="11.933752452815364"/>
+                     <text class="place-count" x="537" y="563">1</text>
+                     <text class="place-label" x="554.9337524528154" y="559">Germany</text>
+                  </g>
+                  <g>
+                     <circle class="other-dot" cx="396" cy="547" r="11.933752452815364"/>
+                     <text class="place-count" x="396" y="547">1</text>
+                     <text class="place-label" x="413.9337524528154" y="543">Meuse</text>
+                  </g>
+               </g>
+               <g id="legend" transform="translate(40,1250)">
+                  <rect x="0" y="0" width="200" height="150" fill="white" fill-opacity="0.8" stroke="black" stroke-width="1"/>
+                  <text x="10" y="15" font-size="16" font-weight="bold">
+                     Map Key
+                     </text>
+                  <circle cx="15" cy="35" r="8" class="river-dot"/>
+                  <text x="30" y="40" font-size="14">River</text>
+                  <circle cx="15" cy="60" r="8" class="settlement-dot"/>
+                  <text x="30" y="65" font-size="14">Settlement</text>
+                  <circle cx="15" cy="85" r="8" class="region-dot"/>
+                  <text x="30" y="90" font-size="14">Region</text>
+                  <circle cx="15" cy="110" r="8" class="mountain-dot"/>
+                  <text x="30" y="115" font-size="14">Mountain</text>
+                  <circle cx="15" cy="135" r="8" class="other-dot"/>
+                  <text x="30" y="140" font-size="14">Other</text>
+               </g></svg></div>
+         <div class="book-map" id="book-6">
+            <h3>Book 6</h3><svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1050" viewBox="0 0 1613 1417">
+               <image href="Blank_map_of_Europe_cropped.svg" x="0" y="0" width="1613" height="1417"/>
+               <g id="mapped-places">
+                  <g>
+                     <circle class="region-dot" cx="232" cy="628" r="32.735009811261456"/>
+                     <text class="place-count" x="232" y="628">16</text>
+                     <text class="place-label" x="270.7350098112615" y="624">Gaul</text>
+                  </g>
+                  <g>
+                     <circle class="other-dot" cx="420" cy="414" r="27.996655275194996"/>
+                     <text class="place-count" x="420" y="414">11</text>
+                     <text class="place-label" x="453.996655275195" y="410">Rhine</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="581" cy="831" r="17.009611535381534"/>
+                     <text class="place-count" x="581" y="831">3</text>
+                     <text class="place-label" x="604.0096115353815" y="827">Italy</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="200" cy="320" r="11.933752452815364"/>
+                     <text class="place-count" x="200" y="320">1</text>
+                     <text class="place-label" x="217.93375245281536" y="316">Britain</text>
+                  </g>
+                  <g>
+                     <circle class="settlement-dot" cx="470" cy="470" r="11.933752452815364"/>
+                     <text class="place-count" x="470" y="470">1</text>
+                     <text class="place-label" x="487.9337524528154" y="466">Lutetia</text>
+                  </g>
+                  <g>
+                     <circle class="other-dot" cx="396" cy="547" r="11.933752452815364"/>
+                     <text class="place-count" x="396" y="547">1</text>
+                     <text class="place-label" x="413.9337524528154" y="543">Meuse</text>
+                  </g>
+               </g>
+               <g id="legend" transform="translate(40,1250)">
+                  <rect x="0" y="0" width="200" height="150" fill="white" fill-opacity="0.8" stroke="black" stroke-width="1"/>
+                  <text x="10" y="15" font-size="16" font-weight="bold">
+                     Map Key
+                     </text>
+                  <circle cx="15" cy="35" r="8" class="river-dot"/>
+                  <text x="30" y="40" font-size="14">River</text>
+                  <circle cx="15" cy="60" r="8" class="settlement-dot"/>
+                  <text x="30" y="65" font-size="14">Settlement</text>
+                  <circle cx="15" cy="85" r="8" class="region-dot"/>
+                  <text x="30" y="90" font-size="14">Region</text>
+                  <circle cx="15" cy="110" r="8" class="mountain-dot"/>
+                  <text x="30" y="115" font-size="14">Mountain</text>
+                  <circle cx="15" cy="135" r="8" class="other-dot"/>
+                  <text x="30" y="140" font-size="14">Other</text>
+               </g></svg></div>
+         <div class="book-map" id="book-7">
+            <h3>Book 7</h3><svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1050" viewBox="0 0 1613 1417">
+               <image href="Blank_map_of_Europe_cropped.svg" x="0" y="0" width="1613" height="1417"/>
+               <g id="mapped-places">
+                  <g>
+                     <circle class="region-dot" cx="232" cy="628" r="38.96831102433787"/>
+                     <text class="place-count" x="232" y="628">24</text>
+                     <text class="place-label" x="276.9683110243379" y="624">Gaul</text>
+                  </g>
+                  <g>
+                     <circle class="settlement-dot" cx="455" cy="756" r="30.94372608313854"/>
+                     <text class="place-count" x="455" y="756">14</text>
+                     <text class="place-label" x="491.94372608313853" y="752">Gergovia</text>
+                  </g>
+                  <g>
+                     <circle class="settlement-dot" cx="541" cy="637" r="30"/>
+                     <text class="place-count" x="541" y="637">13</text>
+                     <text class="place-label" x="577" y="633">Avaricum</text>
+                  </g>
+                  <g>
+                     <circle class="settlement-dot" cx="351" cy="586" r="26.92645048267573"/>
+                     <text class="place-count" x="351" y="586">10</text>
+                     <text class="place-label" x="383.9264504826757" y="582">Alesia</text>
+                  </g>
+                  <g>
+                     <circle class="settlement-dot" cx="500" cy="600" r="25.801257358446094"/>
+                     <text class="place-count" x="500" y="600">9</text>
+                     <text class="place-label" x="531.801257358446" y="596">Genabum</text>
+                  </g>
+                  <g>
+                     <circle class="other-dot" cx="331" cy="653" r="24.611613513818405"/>
+                     <text class="place-count" x="331" y="653">8</text>
+                     <text class="place-label" x="361.6116135138184" y="649">Loire</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="581" cy="831" r="23.34498464263357"/>
+                     <text class="place-count" x="581" y="831">7</text>
+                     <text class="place-label" x="610.3449846426336" y="827">Italy</text>
+                  </g>
+                  <g>
+                     <circle class="settlement-dot" cx="470" cy="470" r="20.504341823651057"/>
+                     <text class="place-count" x="470" y="470">5</text>
+                     <text class="place-label" x="496.50434182365103" y="466">Lutetia</text>
+                  </g>
+                  <g>
+                     <circle class="settlement-dot" cx="520" cy="520" r="18.867504905630728"/>
+                     <text class="place-count" x="520" y="520">4</text>
+                     <text class="place-label" x="544.8675049056308" y="516">Noviodunum</text>
+                  </g>
+                  <g>
+                     <circle class="other-dot" cx="276" cy="501" r="18.867504905630728"/>
+                     <text class="place-count" x="276" y="501">4</text>
+                     <text class="place-label" x="300.8675049056307" y="497">Seine</text>
+                  </g>
+                  <g>
+                     <circle class="settlement-dot" cx="631" cy="572" r="17.009611535381534"/>
+                     <text class="place-count" x="631" y="572">3</text>
+                     <text class="place-label" x="654.0096115353815" y="568">Vellaunodunum</text>
+                  </g>
+                  <g>
+                     <circle class="other-dot" cx="420" cy="414" r="14.805806756909202"/>
+                     <text class="place-count" x="420" y="414">2</text>
+                     <text class="place-label" x="440.8058067569092" y="410">Rhine</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="191" cy="772" r="11.933752452815364"/>
+                     <text class="place-count" x="191" y="772">1</text>
+                     <text class="place-label" x="208.93375245281536" y="768">Aquitania</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="200" cy="320" r="11.933752452815364"/>
+                     <text class="place-count" x="200" y="320">1</text>
+                     <text class="place-label" x="217.93375245281536" y="316">Britain</text>
+                  </g>
+               </g>
+               <g id="legend" transform="translate(40,1250)">
+                  <rect x="0" y="0" width="200" height="150" fill="white" fill-opacity="0.8" stroke="black" stroke-width="1"/>
+                  <text x="10" y="15" font-size="16" font-weight="bold">
+                     Map Key
+                     </text>
+                  <circle cx="15" cy="35" r="8" class="river-dot"/>
+                  <text x="30" y="40" font-size="14">River</text>
+                  <circle cx="15" cy="60" r="8" class="settlement-dot"/>
+                  <text x="30" y="65" font-size="14">Settlement</text>
+                  <circle cx="15" cy="85" r="8" class="region-dot"/>
+                  <text x="30" y="90" font-size="14">Region</text>
+                  <circle cx="15" cy="110" r="8" class="mountain-dot"/>
+                  <text x="30" y="115" font-size="14">Mountain</text>
+                  <circle cx="15" cy="135" r="8" class="other-dot"/>
+                  <text x="30" y="140" font-size="14">Other</text>
+               </g></svg></div>
+         <div class="book-map" id="book-8">
+            <h3>Book 8</h3><svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1050" viewBox="0 0 1613 1417">
+               <image href="Blank_map_of_Europe_cropped.svg" x="0" y="0" width="1613" height="1417"/>
+               <g id="mapped-places">
+                  <g>
+                     <circle class="region-dot" cx="232" cy="628" r="36.008683647302114"/>
+                     <text class="place-count" x="232" y="628">20</text>
+                     <text class="place-label" x="274.0086836473021" y="624">Gaul</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="581" cy="831" r="20.504341823651057"/>
+                     <text class="place-count" x="581" y="831">5</text>
+                     <text class="place-label" x="607.5043418236511" y="827">Italy</text>
+                  </g>
+                  <g>
+                     <circle class="settlement-dot" cx="351" cy="586" r="14.805806756909202"/>
+                     <text class="place-count" x="351" y="586">2</text>
+                     <text class="place-label" x="371.8058067569092" y="582">Alesia</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="191" cy="772" r="14.805806756909202"/>
+                     <text class="place-count" x="191" y="772">2</text>
+                     <text class="place-label" x="211.8058067569092" y="768">Aquitania</text>
+                  </g>
+                  <g>
+                     <circle class="settlement-dot" cx="500" cy="600" r="14.805806756909202"/>
+                     <text class="place-count" x="500" y="600">2</text>
+                     <text class="place-label" x="520.8058067569092" y="596">Genabum</text>
+                  </g>
+                  <g>
+                     <circle class="other-dot" cx="331" cy="653" r="11.933752452815364"/>
+                     <text class="place-count" x="331" y="653">1</text>
+                     <text class="place-label" x="348.9337524528154" y="649">Loire</text>
+                  </g>
+                  <g>
+                     <circle class="other-dot" cx="420" cy="414" r="11.933752452815364"/>
+                     <text class="place-count" x="420" y="414">1</text>
+                     <text class="place-label" x="437.9337524528154" y="410">Rhine</text>
+                  </g>
+               </g>
+               <g id="legend" transform="translate(40,1250)">
+                  <rect x="0" y="0" width="200" height="150" fill="white" fill-opacity="0.8" stroke="black" stroke-width="1"/>
+                  <text x="10" y="15" font-size="16" font-weight="bold">
+                     Map Key
+                     </text>
+                  <circle cx="15" cy="35" r="8" class="river-dot"/>
+                  <text x="30" y="40" font-size="14">River</text>
+                  <circle cx="15" cy="60" r="8" class="settlement-dot"/>
+                  <text x="30" y="65" font-size="14">Settlement</text>
+                  <circle cx="15" cy="85" r="8" class="region-dot"/>
+                  <text x="30" y="90" font-size="14">Region</text>
+                  <circle cx="15" cy="110" r="8" class="mountain-dot"/>
+                  <text x="30" y="115" font-size="14">Mountain</text>
+                  <circle cx="15" cy="135" r="8" class="other-dot"/>
+                  <text x="30" y="140" font-size="14">Other</text>
+               </g></svg></div>
+         <div class="book-map" id="book-9">
+            <h3>Book 9</h3><svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1050" viewBox="0 0 1613 1417">
+               <image href="Blank_map_of_Europe_cropped.svg" x="0" y="0" width="1613" height="1417"/>
+               <g id="mapped-places">
+                  <g>
+                     <circle class="region-dot" cx="44" cy="842" r="34.417420270727604"/>
+                     <text class="place-count" x="44" y="842">18</text>
+                     <text class="place-label" x="84.4174202707276" y="838">Spain</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="581" cy="831" r="30.94372608313854"/>
+                     <text class="place-count" x="581" y="831">14</text>
+                     <text class="place-label" x="617.9437260831386" y="827">Italy</text>
+                  </g>
+                  <g>
+                     <circle class="settlement-dot" cx="398" cy="791" r="30.94372608313854"/>
+                     <text class="place-count" x="398" y="791">14</text>
+                     <text class="place-label" x="434.94372608313853" y="787">Massilia</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="232" cy="628" r="29.019223070763072"/>
+                     <text class="place-count" x="232" y="628">12</text>
+                     <text class="place-label" x="267.0192230707631" y="624">Gaul</text>
+                  </g>
+                  <g>
+                     <circle class="other-dot" cx="235" cy="864" r="26.92645048267573"/>
+                     <text class="place-count" x="235" y="864">10</text>
+                     <text class="place-label" x="267.9264504826757" y="860">Ebro</text>
+                  </g>
+                  <g>
+                     <circle class="settlement-dot" cx="635" cy="860" r="23.34498464263357"/>
+                     <text class="place-count" x="635" y="860">7</text>
+                     <text class="place-label" x="664.3449846426336" y="856">Rome</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="696" cy="1070" r="23.34498464263357"/>
+                     <text class="place-count" x="696" y="1070">7</text>
+                     <text class="place-label" x="725.3449846426336" y="1066">Sicily</text>
+                  </g>
+                  <g>
+                     <circle class="settlement-dot" cx="611" cy="757" r="21.984155512168936"/>
+                     <text class="place-count" x="611" y="757">6</text>
+                     <text class="place-label" x="638.984155512169" y="753">Ariminum</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="645" cy="791" r="21.984155512168936"/>
+                     <text class="place-count" x="645" y="791">6</text>
+                     <text class="place-label" x="672.984155512169" y="787">Picenum</text>
+                  </g>
+                  <g>
+                     <circle class="river-dot" cx="175" cy="900" r="18.867504905630728"/>
+                     <text class="place-count" x="175" y="900">4</text>
+                     <text class="place-label" x="199.86750490563074" y="896">river Segre</text>
+                  </g>
+                  <g>
+                     <circle class="settlement-dot" cx="668" cy="894" r="17.009611535381534"/>
+                     <text class="place-count" x="668" y="894">3</text>
+                     <text class="place-label" x="691.0096115353815" y="890">Capua</text>
+                  </g>
+                  <g>
+                     <circle class="other-dot" cx="126" cy="867" r="17.009611535381534"/>
+                     <text class="place-count" x="126" y="867">3</text>
+                     <text class="place-label" x="149.00961153538154" y="863">Segre</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="1543" cy="1000" r="14.805806756909202"/>
+                     <text class="place-count" x="1543" y="1000">2</text>
+                     <text class="place-label" x="1563.8058067569093" y="996">Syria</text>
+                  </g>
+                  <g>
+                     <circle class="other-dot" cx="56" cy="1011" r="14.805806756909202"/>
+                     <text class="place-count" x="56" y="1011">2</text>
+                     <text class="place-label" x="76.8058067569092" y="1007">river Guadiana</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="200" cy="320" r="11.933752452815364"/>
+                     <text class="place-count" x="200" y="320">1</text>
+                     <text class="place-label" x="217.93375245281536" y="316">Britain</text>
+                  </g>
+                  <g>
+                     <circle class="other-dot" cx="190" cy="934" r="11.933752452815364"/>
+                     <text class="place-count" x="190" y="934">1</text>
+                     <text class="place-label" x="207.93375245281536" y="930">Cinca</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="537" cy="563" r="11.933752452815364"/>
+                     <text class="place-count" x="537" y="563">1</text>
+                     <text class="place-label" x="554.9337524528154" y="559">Germany</text>
+                  </g>
+                  <g>
+                     <circle class="river-dot" cx="280" cy="872" r="11.933752452815364"/>
+                     <text class="place-count" x="280" y="872">1</text>
+                     <text class="place-label" x="297.9337524528154" y="868">river Ebro</text>
+                  </g>
+               </g>
+               <g id="legend" transform="translate(40,1250)">
+                  <rect x="0" y="0" width="200" height="150" fill="white" fill-opacity="0.8" stroke="black" stroke-width="1"/>
+                  <text x="10" y="15" font-size="16" font-weight="bold">
+                     Map Key
+                     </text>
+                  <circle cx="15" cy="35" r="8" class="river-dot"/>
+                  <text x="30" y="40" font-size="14">River</text>
+                  <circle cx="15" cy="60" r="8" class="settlement-dot"/>
+                  <text x="30" y="65" font-size="14">Settlement</text>
+                  <circle cx="15" cy="85" r="8" class="region-dot"/>
+                  <text x="30" y="90" font-size="14">Region</text>
+                  <circle cx="15" cy="110" r="8" class="mountain-dot"/>
+                  <text x="30" y="115" font-size="14">Mountain</text>
+                  <circle cx="15" cy="135" r="8" class="other-dot"/>
+                  <text x="30" y="140" font-size="14">Other</text>
+               </g></svg></div>
+         <div class="book-map" id="book-10">
+            <h3>Book 10</h3><svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1050" viewBox="0 0 1613 1417">
+               <image href="Blank_map_of_Europe_cropped.svg" x="0" y="0" width="1613" height="1417"/>
+               <g id="mapped-places">
+                  <g>
+                     <circle class="settlement-dot" cx="398" cy="791" r="36.77444546511212"/>
+                     <text class="place-count" x="398" y="791">21</text>
+                     <text class="place-label" x="440.77444546511214" y="787">Massilia</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="44" cy="842" r="27.996655275194996"/>
+                     <text class="place-count" x="44" y="842">11</text>
+                     <text class="place-label" x="77.996655275195" y="838">Spain</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="696" cy="1070" r="25.801257358446094"/>
+                     <text class="place-count" x="696" y="1070">9</text>
+                     <text class="place-label" x="727.801257358446" y="1066">Sicily</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="581" cy="831" r="23.34498464263357"/>
+                     <text class="place-count" x="581" y="831">7</text>
+                     <text class="place-label" x="610.3449846426336" y="827">Italy</text>
+                  </g>
+                  <g>
+                     <circle class="settlement-dot" cx="635" cy="860" r="14.805806756909202"/>
+                     <text class="place-count" x="635" y="860">2</text>
+                     <text class="place-label" x="655.8058067569092" y="856">Rome</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="232" cy="628" r="11.933752452815364"/>
+                     <text class="place-count" x="232" y="628">1</text>
+                     <text class="place-label" x="249.93375245281536" y="624">Gaul</text>
+                  </g>
+               </g>
+               <g id="legend" transform="translate(40,1250)">
+                  <rect x="0" y="0" width="200" height="150" fill="white" fill-opacity="0.8" stroke="black" stroke-width="1"/>
+                  <text x="10" y="15" font-size="16" font-weight="bold">
+                     Map Key
+                     </text>
+                  <circle cx="15" cy="35" r="8" class="river-dot"/>
+                  <text x="30" y="40" font-size="14">River</text>
+                  <circle cx="15" cy="60" r="8" class="settlement-dot"/>
+                  <text x="30" y="65" font-size="14">Settlement</text>
+                  <circle cx="15" cy="85" r="8" class="region-dot"/>
+                  <text x="30" y="90" font-size="14">Region</text>
+                  <circle cx="15" cy="110" r="8" class="mountain-dot"/>
+                  <text x="30" y="115" font-size="14">Mountain</text>
+                  <circle cx="15" cy="135" r="8" class="other-dot"/>
+                  <text x="30" y="140" font-size="14">Other</text>
+               </g></svg></div>
+         <div class="book-map" id="book-11">
+            <h3>Book 11</h3><svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1050" viewBox="0 0 1613 1417">
+               <image href="Blank_map_of_Europe_cropped.svg" x="0" y="0" width="1613" height="1417"/>
+               <g id="mapped-places">
+                  <g>
+                     <circle class="region-dot" cx="581" cy="831" r="37.522181779399546"/>
+                     <text class="place-count" x="581" y="831">22</text>
+                     <text class="place-label" x="624.5221817793995" y="827">Italy</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="950" cy="788" r="34.417420270727604"/>
+                     <text class="place-count" x="950" y="788">18</text>
+                     <text class="place-label" x="990.4174202707276" y="784">Thessaly</text>
+                  </g>
+                  <g>
+                     <circle class="settlement-dot" cx="1145" cy="1025" r="33.58859374484328"/>
+                     <text class="place-count" x="1145" y="1025">17</text>
+                     <text class="place-label" x="1184.5885937448434" y="1021">Alexandria</text>
+                  </g>
+                  <g>
+                     <circle class="settlement-dot" cx="882" cy="925" r="31.85430777647873"/>
+                     <text class="place-count" x="882" y="925">15</text>
+                     <text class="place-label" x="919.8543077764788" y="921">Oricum</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="1006" cy="841" r="30.94372608313854"/>
+                     <text class="place-count" x="1006" y="841">14</text>
+                     <text class="place-label" x="1042.9437260831385" y="837">Macedonia</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="1543" cy="1000" r="30"/>
+                     <text class="place-count" x="1543" y="1000">13</text>
+                     <text class="place-label" x="1579" y="996">Syria</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="44" cy="842" r="25.801257358446094"/>
+                     <text class="place-count" x="44" y="842">9</text>
+                     <text class="place-label" x="75.8012573584461" y="838">Spain</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="979" cy="1030" r="24.611613513818405"/>
+                     <text class="place-count" x="979" y="1030">8</text>
+                     <text class="place-label" x="1009.6116135138184" y="1026">Achaia</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="875" cy="844" r="24.611613513818405"/>
+                     <text class="place-count" x="875" y="844">8</text>
+                     <text class="place-label" x="905.6116135138184" y="840">Epirus</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="232" cy="628" r="24.611613513818405"/>
+                     <text class="place-count" x="232" y="628">8</text>
+                     <text class="place-label" x="262.6116135138184" y="624">Gaul</text>
+                  </g>
+                  <g>
+                     <circle class="settlement-dot" cx="635" cy="860" r="24.611613513818405"/>
+                     <text class="place-count" x="635" y="860">8</text>
+                     <text class="place-label" x="665.6116135138184" y="856">Rome</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="953" cy="988" r="20.504341823651057"/>
+                     <text class="place-count" x="953" y="988">5</text>
+                     <text class="place-label" x="979.5043418236511" y="984">Aetolia</text>
+                  </g>
+                  <g>
+                     <circle class="settlement-dot" cx="981" cy="939" r="20.504341823651057"/>
+                     <text class="place-count" x="981" y="939">5</text>
+                     <text class="place-label" x="1007.5043418236511" y="935">Larissa</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="1357" cy="1314" r="18.867504905630728"/>
+                     <text class="place-count" x="1357" y="1314">4</text>
+                     <text class="place-label" x="1381.8675049056308" y="1310">Egypt</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="696" cy="1070" r="18.867504905630728"/>
+                     <text class="place-count" x="696" y="1070">4</text>
+                     <text class="place-label" x="720.8675049056308" y="1066">Sicily</text>
+                  </g>
+                  <g>
+                     <circle class="settlement-dot" cx="668" cy="894" r="17.009611535381534"/>
+                     <text class="place-count" x="668" y="894">3</text>
+                     <text class="place-label" x="691.0096115353815" y="890">Capua</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="1409" cy="1050" r="14.805806756909202"/>
+                     <text class="place-count" x="1409" y="1050">2</text>
+                     <text class="place-label" x="1429.8058067569093" y="1046">Cyprus</text>
+                  </g>
+                  <g>
+                     <circle class="river-dot" cx="872" cy="884" r="14.805806756909202"/>
+                     <text class="place-count" x="872" y="884">2</text>
+                     <text class="place-label" x="892.8058067569092" y="880">river Genusus</text>
+                  </g>
+                  <g>
+                     <circle class="settlement-dot" cx="351" cy="586" r="11.933752452815364"/>
+                     <text class="place-count" x="351" y="586">1</text>
+                     <text class="place-label" x="368.9337524528154" y="582">Alesia</text>
+                  </g>
+                  <g>
+                     <circle class="settlement-dot" cx="541" cy="637" r="11.933752452815364"/>
+                     <text class="place-count" x="541" y="637">1</text>
+                     <text class="place-label" x="558.9337524528154" y="633">Avaricum</text>
+                  </g>
+                  <g>
+                     <circle class="settlement-dot" cx="455" cy="756" r="11.933752452815364"/>
+                     <text class="place-count" x="455" y="756">1</text>
+                     <text class="place-label" x="472.9337524528154" y="752">Gergovia</text>
+                  </g>
+                  <g>
+                     <circle class="region-dot" cx="537" cy="563" r="11.933752452815364"/>
+                     <text class="place-count" x="537" y="563">1</text>
+                     <text class="place-label" x="554.9337524528154" y="559">Germany</text>
+                  </g>
+               </g>
+               <g id="legend" transform="translate(40,1250)">
+                  <rect x="0" y="0" width="200" height="150" fill="white" fill-opacity="0.8" stroke="black" stroke-width="1"/>
+                  <text x="10" y="15" font-size="16" font-weight="bold">
+                     Map Key
+                     </text>
+                  <circle cx="15" cy="35" r="8" class="river-dot"/>
+                  <text x="30" y="40" font-size="14">River</text>
+                  <circle cx="15" cy="60" r="8" class="settlement-dot"/>
+                  <text x="30" y="65" font-size="14">Settlement</text>
+                  <circle cx="15" cy="85" r="8" class="region-dot"/>
+                  <text x="30" y="90" font-size="14">Region</text>
+                  <circle cx="15" cy="110" r="8" class="mountain-dot"/>
+                  <text x="30" y="115" font-size="14">Mountain</text>
+                  <circle cx="15" cy="135" r="8" class="other-dot"/>
+                  <text x="30" y="140" font-size="14">Other</text>
+               </g></svg></div>
+      </div>
+      <div class="main-content">
+         <p>This map visualizes how frequently locations are mentioned in the text on a book-by-book
+            basis. Each place referenced in the text is plotted at its approximate real-world
+            location and represented by a circle. The size of each circle reflects how often that
+            place is mentioned within a given book, with larger circles indicating greater frequency.
+            Circle sizes are scaled relative to the maximum number of mentions across all books,
+            allowing for direct comparison between them. Colors distinguish between different
+            types of places, including regions, settlements, rivers, and mountains.</p>
+      </div>
+   </body>
+</html>
