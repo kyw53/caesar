@@ -29,8 +29,8 @@ declare variable $c_books := $text//section[@part="civil"]//book;
         
     <div class="main-content">
     <h1>Divide et Impera</h1>
-    <h2>Kyle's Network Diagram</h2>
-    <h3>Mostly functional at last</h3>
+    <h2>Roman Network Diagrams</h2>
+    <h3>XQuery-to-SVG</h3>
     <p>
         <div class="kyle-svg">
         <svg xmlns="http://www.w3.org/2000/svg" width="auto" height="auto" viewBox="-275 -850 1550 700">
@@ -154,10 +154,11 @@ declare variable $c_books := $text//section[@part="civil"]//book;
         </div>
         </p>
         <p>This diagram shows a list of distinct names of Romans for each book, separated into one half for the Gallic Wars, and the other for the Civil War. Edges from the 'book' nodes to the 'person' nodes are scaled to the number of times that specific Roman appears in the book. As an example of what we can extract from this, <a href="https://en.wikipedia.org/wiki/Gaius_Caninius_Rebilus_(consul_45_BC)">Gaius Caninius Rebilus (G. Caninius)</a> appears in 2/3 of the books in the Civil War section as well as books 7 and 8 of the Gallic Wars. Then, by looking at the text and researching online, we were able to confirm that Caninius made a name for himself during the <a href="https://en.wikipedia.org/wiki/Battle_of_Alesia">siege of Alesia</a>, then getting rewarded with a very brief consulship in 45 BCE.</p>
+        <h3>Kumu</h3>
         <div class="kumu">
         <iframe src="https://embed.kumu.io/aa8b6bcc31ecd3afe39a612da28adbbc" width="940" height="600" frameborder="0"></iframe>
-        <p>Test</p>
         </div>
+        <p>Test</p>
         </div>
         </body>
         </html>
