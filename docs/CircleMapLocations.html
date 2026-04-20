@@ -5,29 +5,7 @@
       <title>Maps of Locations</title>
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <link type="text/css" href="style.css" rel="stylesheet">
-      <!-- coordinate script
-        <script type="text/javascript"><![CDATA[
-            var myX, myY, xyOn = true, myMouseX, myMouseY;
-    
-            document.onmouseup = getXYPosition;
-    
-            function getXYPosition(e) {
-                const svg = document.querySelector("svg");
-            
-                const pt = svg.createSVGPoint();
-                pt.x = e.clientX;
-                pt.y = e.clientY;
-            
-                const svgPoint = pt.matrixTransform(svg.getScreenCTM().inverse());
-            
-                alert("SVG X: " + svgPoint.x + "\nSVG Y: " + svgPoint.y);
-            }
-    
-            function toggleXY() {
-                xyOn = !xyOn;
-                return false;
-            }
-        ]]></script>--></head>
+   </head>
    <body>
       <nav>
          <div><a href="index.html">Home</a></div>
@@ -39,335 +17,51 @@
          <h1>Divide et Impera</h1>
          <h2>Places on Map</h2><svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1050" viewBox="0 0 1613 1417">
             <style>
-                            .place-dot {
-                                fill: darkred;
-                                fill-opacity: 0.65;
-                                stroke: black;
-                                stroke-width: 1.5;
-                            }
-                            .place-label {
-                                font-size: 18px;
-                                fill: black;
-                            }
-                            .place-count {
-                                font-size: 12px;
-                                fill: white;
-                                text-anchor: middle;
-                                dominant-baseline: middle;
-                            }
-                        </style><!-- background map -->
-            <image href="Blank_map_of_Europe_cropped.svg" x="0" y="0" width="1613" height="1417"/><!-- plotted places -->
-            <g id="mapped-places">
-               <g>
-                  <circle class="place-dot" cx="232" cy="628" r="89.48684109265004"/>
-                  <text class="place-count" x="232" y="628">203</text>
-                  <text class="place-label" x="327.48684109265" y="624">Gaul</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="232" cy="628" r="89.48684109265004"/>
-                  <text class="place-count" x="232" y="628">203</text>
-                  <text class="place-label" x="327.48684109265" y="624">Gaul</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="581" cy="831" r="53.1121166312347"/>
-                  <text class="place-count" x="581" y="831">67</text>
-                  <text class="place-label" x="640.1121166312347" y="827">Italy</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="420" cy="414" r="52.744230427815765"/>
-                  <text class="place-count" x="420" y="414">66</text>
-                  <text class="place-label" x="478.74423042781575" y="410">Rhine</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="44" cy="842" r="42.41874542459709"/>
-                  <text class="place-count" x="44" y="842">41</text>
-                  <text class="place-label" x="92.41874542459709" y="838">Spain</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="398" cy="791" r="39.4964786985977"/>
-                  <text class="place-count" x="398" y="791">35</text>
-                  <text class="place-label" x="443.4964786985977" y="787">Massilia</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="200" cy="320" r="34.5941170815567"/>
-                  <text class="place-count" x="200" y="320">26</text>
-                  <text class="place-label" x="240.5941170815567" y="316">Britain</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="696" cy="1070" r="30.832815729997478"/>
-                  <text class="place-count" x="696" y="1070">20</text>
-                  <text class="place-label" x="732.8328157299975" y="1066">Sicily</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="635" cy="860" r="30.153393661244046"/>
-                  <text class="place-count" x="635" y="860">19</text>
-                  <text class="place-label" x="671.1533936612441" y="856">Rome</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="950" cy="788" r="29.45584412271571"/>
-                  <text class="place-count" x="950" y="788">18</text>
-                  <text class="place-label" x="985.4558441227157" y="784">Thessaly</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="1145" cy="1025" r="28.73863375370596"/>
-                  <text class="place-count" x="1145" y="1025">17</text>
-                  <text class="place-label" x="1179.738633753706" y="1021">Alexandria</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="455" cy="756" r="27.237900077244504"/>
-                  <text class="place-count" x="455" y="756">15</text>
-                  <text class="place-label" x="488.2379000772445" y="752">Gergovia</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="882" cy="925" r="27.237900077244504"/>
-                  <text class="place-count" x="882" y="925">15</text>
-                  <text class="place-label" x="915.2379000772445" y="921">Oricum</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="1543" cy="1000" r="27.237900077244504"/>
-                  <text class="place-count" x="1543" y="1000">15</text>
-                  <text class="place-label" x="1576.2379000772446" y="996">Syria</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="541" cy="637" r="26.44994432064365"/>
-                  <text class="place-count" x="541" y="637">14</text>
-                  <text class="place-label" x="573.4499443206437" y="633">Avaricum</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="1006" cy="841" r="26.44994432064365"/>
-                  <text class="place-count" x="1006" y="841">14</text>
-                  <text class="place-label" x="1038.4499443206437" y="837">Macedonia</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="351" cy="586" r="25.633307652783934"/>
-                  <text class="place-count" x="351" y="586">13</text>
-                  <text class="place-label" x="382.6333076527839" y="582">Alesia</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="191" cy="772" r="24.784609690826528"/>
-                  <text class="place-count" x="191" y="772">12</text>
-                  <text class="place-label" x="221.78460969082653" y="768">Aquitania</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="191" cy="772" r="24.784609690826528"/>
-                  <text class="place-count" x="191" y="772">12</text>
-                  <text class="place-label" x="221.78460969082653" y="768">Aquitania</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="366" cy="737" r="24.784609690826528"/>
-                  <text class="place-count" x="366" y="737">12</text>
-                  <text class="place-label" x="396.7846096908265" y="733">Rhone</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="500" cy="600" r="23.8997487421324"/>
-                  <text class="place-count" x="500" y="600">11</text>
-                  <text class="place-label" x="529.8997487421324" y="596">Genabum</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="235" cy="864" r="22.973665961010276"/>
-                  <text class="place-count" x="235" y="864">10</text>
-                  <text class="place-label" x="263.9736659610103" y="860">Ebro</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="331" cy="653" r="22.973665961010276"/>
-                  <text class="place-count" x="331" y="653">10</text>
-                  <text class="place-label" x="359.9736659610103" y="649">Loire</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="979" cy="1030" r="20.970562748477143"/>
-                  <text class="place-count" x="979" y="1030">8</text>
-                  <text class="place-label" x="1005.9705627484772" y="1026">Achaia</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="875" cy="844" r="20.970562748477143"/>
-                  <text class="place-count" x="875" y="844">8</text>
-                  <text class="place-label" x="901.9705627484772" y="840">Epirus</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="396" cy="547" r="19.874507866387546"/>
-                  <text class="place-count" x="396" y="547">7</text>
-                  <text class="place-label" x="421.87450786638755" y="543">Meuse</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="497" cy="711" r="18.696938456699066"/>
-                  <text class="place-count" x="497" y="711">6</text>
-                  <text class="place-label" x="521.6969384566991" y="707">Alps</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="611" cy="757" r="18.696938456699066"/>
-                  <text class="place-count" x="611" y="757">6</text>
-                  <text class="place-label" x="635.6969384566991" y="753">Ariminum</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="668" cy="894" r="18.696938456699066"/>
-                  <text class="place-count" x="668" y="894">6</text>
-                  <text class="place-label" x="692.6969384566991" y="890">Capua</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="461" cy="682" r="18.696938456699066"/>
-                  <text class="place-count" x="461" y="682">6</text>
-                  <text class="place-label" x="485.69693845669906" y="678">Geneva</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="470" cy="470" r="18.696938456699066"/>
-                  <text class="place-count" x="470" y="470">6</text>
-                  <text class="place-label" x="494.69693845669906" y="466">Lutetia</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="645" cy="791" r="18.696938456699066"/>
-                  <text class="place-count" x="645" y="791">6</text>
-                  <text class="place-label" x="669.6969384566991" y="787">Picenum</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="953" cy="988" r="17.41640786499874"/>
-                  <text class="place-count" x="953" y="988">5</text>
-                  <text class="place-label" x="976.4164078649987" y="984">Aetolia</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="981" cy="939" r="17.41640786499874"/>
-                  <text class="place-count" x="981" y="939">5</text>
-                  <text class="place-label" x="1004.4164078649987" y="935">Larissa</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="520" cy="520" r="17.41640786499874"/>
-                  <text class="place-count" x="520" y="520">5</text>
-                  <text class="place-label" x="543.4164078649987" y="516">Noviodunum</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="359" cy="691" r="17.41640786499874"/>
-                  <text class="place-count" x="359" y="691">5</text>
-                  <text class="place-label" x="382.41640786499875" y="687">Saone</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="276" cy="501" r="17.41640786499874"/>
-                  <text class="place-count" x="276" y="501">5</text>
-                  <text class="place-label" x="299.41640786499875" y="497">Seine</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="1357" cy="1314" r="16"/>
-                  <text class="place-count" x="1357" y="1314">4</text>
-                  <text class="place-label" x="1379" y="1310">Egypt</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="1357" cy="1314" r="16"/>
-                  <text class="place-count" x="1357" y="1314">4</text>
-                  <text class="place-label" x="1379" y="1310">Egypt</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="175" cy="900" r="16"/>
-                  <text class="place-count" x="175" y="900">4</text>
-                  <text class="place-label" x="197" y="896">river Segre</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="234" cy="738" r="14.392304845413264"/>
-                  <text class="place-count" x="234" y="738">3</text>
-                  <text class="place-label" x="254.39230484541326" y="734">Garonne</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="537" cy="563" r="14.392304845413264"/>
-                  <text class="place-count" x="537" y="563">3</text>
-                  <text class="place-label" x="557.3923048454133" y="559">Germany</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="250" cy="413" r="14.392304845413264"/>
-                  <text class="place-count" x="250" y="413">3</text>
-                  <text class="place-label" x="270.39230484541326" y="409">Kent</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="126" cy="867" r="14.392304845413264"/>
-                  <text class="place-count" x="126" y="867">3</text>
-                  <text class="place-label" x="146.39230484541326" y="863">Segre</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="310" cy="805" r="14.392304845413264"/>
-                  <text class="place-count" x="310" y="805">3</text>
-                  <text class="place-label" x="330.39230484541326" y="801">Tolosa</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="631" cy="572" r="14.392304845413264"/>
-                  <text class="place-count" x="631" y="572">3</text>
-                  <text class="place-label" x="651.3923048454133" y="568">Vellaunodunum</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="1409" cy="1050" r="12.485281374238571"/>
-                  <text class="place-count" x="1409" y="1050">2</text>
-                  <text class="place-label" x="1427.4852813742386" y="1046">Cyprus</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="787" cy="768" r="12.485281374238571"/>
-                  <text class="place-count" x="787" y="768">2</text>
-                  <text class="place-label" x="805.4852813742385" y="764">Illyricum</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="413" cy="665" r="12.485281374238571"/>
-                  <text class="place-count" x="413" y="665">2</text>
-                  <text class="place-label" x="431.4852813742386" y="661">Mount Jura</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="258" cy="385" r="12.485281374238571"/>
-                  <text class="place-count" x="258" y="385">2</text>
-                  <text class="place-label" x="276.4852813742386" y="381">Thames</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="872" cy="884" r="12.485281374238571"/>
-                  <text class="place-count" x="872" y="884">2</text>
-                  <text class="place-label" x="890.4852813742385" y="880">river Genusus</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="56" cy="1011" r="12.485281374238571"/>
-                  <text class="place-count" x="56" y="1011">2</text>
-                  <text class="place-label" x="74.48528137423857" y="1007">river Guadiana</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="585" cy="455" r="10"/>
-                  <text class="place-count" x="585" y="455">1</text>
-                  <text class="place-label" x="601" y="451">Bratuspantium</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="246" cy="790" r="10"/>
-                  <text class="place-count" x="246" y="790">1</text>
-                  <text class="place-label" x="262" y="786">Carcaso</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="190" cy="934" r="10"/>
-                  <text class="place-count" x="190" y="934">1</text>
-                  <text class="place-label" x="206" y="930">Cinca</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="407" cy="618" r="10"/>
-                  <text class="place-count" x="407" y="618">1</text>
-                  <text class="place-label" x="423" y="614">Jura</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="309" cy="537" r="10"/>
-                  <text class="place-count" x="309" y="537">1</text>
-                  <text class="place-label" x="325" y="533">Marne</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="284" cy="833" r="10"/>
-                  <text class="place-count" x="284" y="833">1</text>
-                  <text class="place-label" x="300" y="829">Narbo</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="758" cy="661" r="10"/>
-                  <text class="place-count" x="758" y="661">1</text>
-                  <text class="place-label" x="774" y="657">Noreia</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="176" cy="823" r="10"/>
-                  <text class="place-count" x="176" y="823">1</text>
-                  <text class="place-label" x="192" y="819">Pyrenaean</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="622" cy="700" r="10"/>
-                  <text class="place-count" x="622" y="700">1</text>
-                  <text class="place-label" x="638" y="696">Venetia</text>
-               </g>
-               <g>
-                  <circle class="place-dot" cx="280" cy="872" r="10"/>
-                  <text class="place-count" x="280" y="872">1</text>
-                  <text class="place-label" x="296" y="868">river Ebro</text>
-               </g>
-            </g></svg></div>
-   </body>
-</html>
+                    .river-dot {
+                        fill: steelblue;
+                        fill-opacity: 0.65;
+                        stroke: black;
+                        stroke-width: 1.5;
+                    }
+
+                    .settlement-dot {
+                        fill: darkred;
+                        fill-opacity: 0.65;
+                        stroke: black;
+                        stroke-width: 1.5;
+                    }
+
+                    .region-dot {
+                        fill: darkgreen;
+                        fill-opacity: 0.65;
+                        stroke: black;
+                        stroke-width: 1.5;
+                    }
+
+                    .mountain-dot {
+                        fill: goldenrod;
+                        fill-opacity: 0.65;
+                        stroke: black;
+                        stroke-width: 1.5;
+                    }
+
+                    .other-dot {
+                        fill: gray;
+                        fill-opacity: 0.65;
+                        stroke: black;
+                        stroke-width: 1.5;
+                    }
+
+                    .place-label {
+                        font-size: 18px;
+                        fill: black;
+                    }
+
+                    .place-count {
+                        font-size: 12px;
+                        fill: white;
+                        text-anchor: middle;
+                        dominant-baseline: middle;
+                    }
+                </style>
+            <image href="Blank_map_of_Europe_cropped.svg" x="0" y="0" width="1613" height="1417"/>

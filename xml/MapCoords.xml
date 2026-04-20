@@ -1,29 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<places>
-    
+
     <places>
         
         <!-- REGIONS -->
-        <place name="Gaul" x="232" y="628"/>
-        <place name="Aquitania" x="191" y="772"/>
-        <place name="Spain" x="44" y="842"/>
-        <place name="Italy" x="581" y="831"/>
-        <place name="Britain" x="200" y="320"/>
-        <place name="Illyricum" x="787" y="768"/>
-        <place name="Germany" x="537" y="563"/>
-        <place name="Syria" x="1543" y="1000"/>
-        <place name="Achaia" x="979" y="1030"/>
-        <place name="Macedonia" x="1006" y="841"/>
-        <place name="Thessaly" x="950" y="788"/>
-        <place name="Epirus" x="875" y="844"/>
-        <place name="Cyprus" x="1409" y="1050"/>
-        <place name="Egypt" x="1357" y="1314"/>
-        <place name="Sicily" x="696" y="1070"/>
-        <place name="Venetia" x="622" y="700"/>
-        <place name="Picenum" x="645" y="791"/>
-        <place name="Aetolia" x="953" y="988"/>
-        <place name="Kent" x="250" y="413"/>
+        <place name="Gaul" x="232" y="628" type="Region"/>
+        <place name="Aquitania" x="191" y="772" type="Region"/>
+        <place name="Spain" x="44" y="842" type="Region"/>
+        <place name="Italy" x="581" y="831" type="Region"/>
+        <place name="Britain" x="200" y="320" type="Region"/>
+        <place name="Illyricum" x="787" y="768" type="Region"/>
+        <place name="Germany" x="537" y="563" type="Region"/>
+        <place name="Syria" x="1543" y="1000" type="Region"/>
+        <place name="Achaia" x="979" y="1030" type="Region"/>
+        <place name="Macedonia" x="1006" y="841" type="Region"/>
+        <place name="Thessaly" x="950" y="788" type="Region"/>
+        <place name="Epirus" x="875" y="844" type="Region"/>
+        <place name="Cyprus" x="1409" y="1050" type="Region"/>
+        <place name="Egypt" x="1357" y="1314" type="Region"/>
+        <place name="Sicily" x="696" y="1070" type="Region"/>
+        <place name="Venetia" x="622" y="700" type="Region"/>
+        <place name="Picenum" x="645" y="791" type="Region"/>
+        <place name="Aetolia" x="953" y="988" type="Region"/>
+        <place name="Kent" x="250" y="413" type="Region"/>
         
         <!-- RIVERS / FEATURES (checked) -->
         <place name="Garonne" x="234" y="738"/>
@@ -32,43 +31,66 @@
         <place name="Rhine" x="420" y="414"/>
         <place name="Rhone" x="366" y="737"/>
         <place name="Jura" x="407" y="618"/>
-        <place name="Mount Jura" x="413" y="665"/>
+        <place name="Mount Jura" x="413" y="665" type="Mountain"/>
         <place name="Alps" x="497" y="711"/>
         <place name="Saone" x="359" y="691"/>
         <place name="Loire" x="331" y="653"/>
         <place name="Meuse" x="396" y="547"/>
-        <place name="Thames" x="258" y="385"/>
+        <place name="Thames" x="258" y="385" type="River"/>
         <place name="river Guadiana" x="56" y="1011"/>
         <place name="Guadiana" x="100" y="964"/>
-        <place name="river Segre" x="175" y="900"/>
+        <place name="river Segre" x="175" y="900" type="River"/>
         <place name="Segre" x="126" y="867"/>
         <place name="Cinca" x="190" y="934"/>
-        <place name="river Ebro" x="280" y="872"/>
+        <place name="river Ebro" x="280" y="872" type="River"/>
         <place name="Ebro" x="235" y="864"/>
         <place name="Pyrenaean" x="176" y="823"/>
-        <place name="river Genusus" x="872" y="884"/>
+        <place name="river Genusus" x="872" y="884" type="River"/>
         
         <!-- SETTLEMENTS -->
-        <place name="Geneva" x="461" y="682"/>
-        <place name="Noreia" x="758" y="661"/>
-        <place name="Tolosa" x="310" y="805"/>
-        <place name="Rome" x="635" y="860"/>
-        <place name="Noviodunum" x="520" y="520"/>
-        <place name="Bratuspantium" x="585" y="455"/>
-        <place name="Carcaso" x="246" y="790"/>
-        <place name="Narbo" x="284" y="833"/>
-        <place name="Lutetia" x="470" y="470"/>
-        <place name="Genabum" x="500" y="600"/>
-        <place name="Gergovia" x="455" y="756"/>
-        <place name="Vellaunodunum" x="631" y="572"/>
-        <place name="Avaricum" x="541" y="637"/>
-        <place name="Alesia" x="351" y="586"/>
-        <place name="Ariminum" x="611" y="757"/>
-        <place name="Capua" x="668" y="894"/>
-        <place name="Massilia" x="398" y="791"/>
-        <place name="Alexandria" x="1145" y="1025"/>
-        <place name="Oricum" x="882" y="925"/>
-        <place name="Larissa" x="981" y="939"/>
+        <place name="Geneva" x="461" y="682" type="Settlement"/>
+        <place name="Noreia" x="758" y="661" type="Settlement"/>
+        <place name="Rome" x="635" y="860" type="Settlement"/>
+        <place name="Noviodunum" x="520" y="520" type="Settlement"/>
+        <place name="Bratuspantium" x="585" y="455" type="Settlement"/>
+        <place name="Carcaso" x="246" y="790" type="Settlement"/>
+        <place name="Narbo" x="284" y="833" type="Settlement"/>
+        <place name="Lutetia" x="470" y="470" type="Settlement"/>
+        <place name="Genabum" x="500" y="600" type="Settlement"/>
+        <place name="Gergovia" x="455" y="756" type="Settlement"/>
+        <place name="Vellaunodunum" x="631" y="572" type="Settlement"/>
+        <place name="Avaricum" x="541" y="637" type="Settlement"/>
+        <place name="Alesia" x="351" y="586" type="Settlement"/>
+        <place name="Ariminum" x="611" y="757" type="Settlement"/>
+        <place name="Capua" x="668" y="894" type="Settlement"/>
+        <place name="Massilia" x="398" y="791" type="Settlement"/>
+        <place name="Alexandria" x="1145" y="1025" type="Settlement"/>
+        <place name="Oricum" x="882" y="925" type="Settlement"/>
+        <place name="Larissa" x="981" y="939" type="Settlement"/>
         
     </places>
-</places>
+
+
+<!-- coordinate script
+        <script type="text/javascript"><![CDATA[
+            var myX, myY, xyOn = true, myMouseX, myMouseY;
+    
+            document.onmouseup = getXYPosition;
+    
+            function getXYPosition(e) {
+                const svg = document.querySelector("svg");
+            
+                const pt = svg.createSVGPoint();
+                pt.x = e.clientX;
+                pt.y = e.clientY;
+            
+                const svgPoint = pt.matrixTransform(svg.getScreenCTM().inverse());
+            
+                alert("SVG X: " + svgPoint.x + "\nSVG Y: " + svgPoint.y);
+            }
+    
+            function toggleXY() {
+                xyOn = !xyOn;
+                return false;
+            }
+        ]]></script>-->
