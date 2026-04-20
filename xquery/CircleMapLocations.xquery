@@ -11,8 +11,7 @@ let $globalMax :=
         for $book in $caesar//Q{}book
         for $coord in $coords//Q{}place
         let $name := normalize-space(string($coord/@name))
-        let $count :=
-            count($book//Q{}place[normalize-space(translate(string(.), '[],', '')) = $name])
+        let $count := count($book//Q{}place[normalize-space(translate(string(.), '[],', '')) = $name])
         return $count
     )
 
@@ -44,6 +43,10 @@ return
                 padding: 8px 12px;
                 font-size: 16px;
                 cursor: pointer;
+                background: #6B1F1F;
+                color: #e3ddc8;
+                font-family: 'Cinzel', serif;
+                font-weight: bold;
             }}
 
             .book-map {{
@@ -116,7 +119,7 @@ return
                     for $book in $caesar//Q{}book
                     let $num := string($book/@num)
                     return
-                        <button onclick="showBook({$num})">Book {$num}</button>
+                        <button onclick="showBook({$num})" >Book {$num}</button>
                 }
             </div>
 
@@ -148,10 +151,7 @@ return
                                         if ($coord/@type)
                                         then lower-case(string($coord/@type))
                                         else "other"
-                                    let $count :=
-                                        count(
-                                            $book//Q{}place[
-                                                normalize-space(translate(string(.), '[],', '')) = $name])
+                                    let $count :=count($book//Q{}place[normalize-space(translate(string(.), '[],', '')) = $name])
                                     where $count > 0
                                     let $r :=
                                         if ($globalMax > 0)
