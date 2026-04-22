@@ -15,7 +15,6 @@ declare variable $c_books := $text//section[@part="civil"]//book;
             <div><a href="index.html">Home</a></div>
             <div><a href="background.html">Background</a></div>
             <div><a href="about.html">About</a></div>
-            <div><a href="romanTable.html">Tables</a></div>
             <div class="dropdown"><a href="#">Graphs and Data</a>
                 <div class="dropdown-content">
                     <a href="network-output.html">Network Diagram</a>
