@@ -108,6 +108,15 @@ return
             <div><a href="background.html">Background</a></div>
             <div><a href="about.html">About</a></div>
             <div><a href="romanTable.html">Tables</a></div>
+            <div class="dropdown"><a href="#">Graphs and Data</a>
+                <div class="dropdown-content">
+                    <a href="network-output.html">Network Diagram</a>
+                    <a href="ethnicity-count.html">Ethicity Count</a>
+                    <a href="BarGraphLocations.html">Location Count</a>
+                    <a href="CircleMapLocations.html">Map Graph</a>
+                    <a href="CaesarMentionsBarGraph.html">Caesar Mentions</a>
+                </div>
+            </div>
         </nav>
 
         <div class="main-content">
@@ -217,6 +226,11 @@ return
         </div>
         <div class="main-content">
             <p>This map visualizes how frequently locations are mentioned in the text on a book-by-book basis. Each place referenced in the text is plotted at its approximate real-world location and represented by a circle. The size of each circle reflects how often that place is mentioned within a given book, with larger circles indicating greater frequency. Circle sizes are scaled relative to the maximum number of mentions across all books, allowing for direct comparison between them. Colors distinguish between different types of places, including regions, settlements, rivers, and mountains.</p>
+            <h3>Analysis</h3>
+            <p>This visualization shows the geographic shifts in Caesar’s narrative across the books. In the early books of the Gallic Wars, the map is heavily concentrated in Gaul and its surrounding frontiers. Large circles for Gaul, along with frequent mentions of rivers such as the Rhine and Rhone, show that the narrative centers on Gaul and its surrounding recgion defined by natural boundaries. This aligns with the structure of the early campaign, which focuses on conflicts with migrating tribes like the Helvetii and encounters with Germanic forces crossing into Gaul. The prominence of rivers and regions suggests that space is understood in terms of territorial control and strategic boundaries rather than individual cities.</p>
+            <p>As the Gallic narrative develops, especially by Book 7, the patterns become more concentrated and city dominated. Instead of broad regional dominance, the map shows clusters of heavily mentioned settlements such as Alesia, Gergovia, and Avaricum. This reflects the shift to a large-scale rebellion led by Vercingetorix, where the conflict is defined by sieges and engagements at fortified locations. The visualization captures this transition: the war moves from wide territorial campaigning to focused struggles over key settlements. The increasing prominence of settlements on the map mirrors the intensification and consolidation of the conflict described in the text.</p>
+            <p>Beginning in Book 9, the map demonstrates a geographic reorientation as the narrative shifts into the Civil War. The center of activity moves away from Gaul toward the Mediterranean world, with Spain, Italy, and Massilia becoming dominant. This reflects Caesar’s invasion of Italy and following campaigns in Spain, where cities and regions in Iberia and along the Mediterranean coast play a central role. The continued prominence of Italy alongside Spanish and coastal locations shows that the conflict is a struggle over control of the Roman state itself. The spatial distribution becomes broader and more interconnected, emphasizing movement between major political and military centers rather than expansion into new territory.</p>
+            <p>In the final books, the map expands further east into Greece, North Africa, and the Near East. Locations such as Thessaly, Macedonia, Alexandria, and Syria become central, reflecting Caesar’s pursuit of Pompey and the extension of the conflict into the eastern Mediterranean. This final shift highlights the transformation of the narrative from a regional campaign in Gaul to a wide-ranging imperial conflict. Overall, the visualization shows how Caesar’s narrative shifts from frontier management, to internal rebellion, to a trans-Mediterranean civil struggle for power.</p>
         </div>
     </body>
 </html>
