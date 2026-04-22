@@ -54,6 +54,9 @@ nav div:hover {
 {
     display: none;
     position: absolute;
+    top: 0;
+    left: 100%;
+    
     background-color: #DDE3BA;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
