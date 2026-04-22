@@ -9,6 +9,7 @@ declare variable $c_books := $text//section[@part="civil"]//book;
     <head>
         <title>Network Diagram</title>
         <link type="text/css" href="style.css" rel="stylesheet" />
+        <link rel="icon" type="image/x-icon" href="images/SPQR.svg"/>
     </head>
     <body>
         <nav>
