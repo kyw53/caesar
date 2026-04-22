@@ -22,7 +22,9 @@ return
         <meta charset="UTF-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
         <link type="text/css" href="style.css" rel="stylesheet"/>
-
+        
+        <link rel="icon" type="image/x-icon" href="images/SPQR.svg"/>
+        
         <script>
             function showBook(bookNum) {{
                 let maps = document.querySelectorAll(".book-map");
