@@ -11,7 +11,7 @@
          <div><a href="index.html">Home</a></div>
          <div><a href="background.html">Background</a></div>
          <div><a href="about.html">About</a></div>
-         <div class="dropdown"><a href="#">Graphs and Data</a><div class="dropdown-content"><a href="network-output.html">Network Diagram</a><a href="ethnicity-count.html">Ethicity Count</a><a href="BarGraphLocations.html">Location Count</a><a href="unitGraph.html">Map Graph</a><a href="CaesarMentionsBarGraph.html">Caesar Mentions</a></div>
+         <div class="dropdown"><a href="#">Graphs and Data</a><div class="dropdown-content"><a href="network-output.html">Network Diagram</a><a href="ethnicity-count.html">Ethicity Count</a><a href="BarGraphLocations.html">Location Count</a><a href="CircleMapLocations.html">Map Graph</a><a href="CaesarMentionsBarGraph.html">Caesar Mentions</a></div>
          </div>
       </nav>
       <div class="main-content">
@@ -1827,19 +1827,30 @@
                      </g></svg></div>
          </p>
          <p>This diagram shows a list of distinct names of Romans for each book, separated into
-            one half for the Gallic Wars, and the other for the Civil War. Edges from the 'book'
-            nodes to the 'person' nodes are scaled to the number of times that specific Roman
-            appears in the book. As an example of what we can extract from this, <a href="https://en.wikipedia.org/wiki/Gaius_Caninius_Rebilus_(consul_45_BC)">Gaius Caninius Rebilus (G. Caninius)</a> appears in 2/3 of the books in the Civil War section as well as books 7 and 8 of
+            one half for the Gallic Wars and the other for the Civil War. Edges from the book
+            nodes to the person nodes are scaled to the number of times that specific Roman appears
+            in the book. As an example of what we can extract from this, <a href="https://en.wikipedia.org/wiki/Gaius_Caninius_Rebilus_(consul_45_BC)">Gaius Caninius Rebilus (G. Caninius)</a> appears in 2/3 of the books in the Civil War section as well as books 7 and 8 of
             the Gallic Wars. Then, by looking at the text and researching online, we were able
             to confirm that Caninius made a name for himself during the <a href="https://en.wikipedia.org/wiki/Battle_of_Alesia">siege of Alesia</a>, then being rewarded with a very brief consulship in 45 BCE.</p>
          <h3>Kumu</h3>
          <div class="kumu"><iframe src="https://embed.kumu.io/aa8b6bcc31ecd3afe39a612da28adbbc" width="940" height="600" frameborder="0"></iframe></div>
          <p>This Kumu network diagram, similar to the one above, shows a distinct list of Romans
-            for each book, divided into sections for Gaul and the Civil War, with the person nodes
-            scaled to the number of appearances in a given book. However, it also uses a Field,
-            called Name, to create connections for the names across <i>all</i> of the books. Now with this graph, we can see that a Roman like <a href="https://en.wikipedia.org/wiki/Titus_Labienus">Titus Labienus</a> was heavily mentioned in the Gallic Wars section, but not nearly as much in the latter.
+            for each book divided by the two sections, with the person nodes scaled to the number
+            of appearances in a given book. We were having trouble getting the data from our edges
+            CSV file to interface with the nodes, so we decided to just use one set of data with
+            several added Fields to divide the the books/sections. Now with this graph, we can
+            see that a Roman like <a href="https://en.wikipedia.org/wiki/Titus_Labienus">Titus Labienus</a> was heavily mentioned in the Gallic Wars section, but not nearly as much in the latter.
             Then with research, we were able to uncover that Labienus seems to have dwindled in
             his support for Caesar, dying in resistance at <a href="https://en.wikipedia.org/wiki/Battle_of_Munda">Munda</a> in 45 BCE.</p>
+         <h3>Comparison</h3>
+         <p>With the SVG graph, we were able to get finer-grain control over the diagram, but
+            it also required more effort. For instance, the locations of the person nodes use
+            XPath's trigonometric functions, and their edges use the SVG &lt;path&gt; element. Therefore,
+            we could customize things like the angle between the book and person nodes or make
+            the edges a different type of curve, but both of those require more effort. With Kumu,
+            we were able to get a viable output much quicker. On top of that, we used a field,
+            called Name, to create connections for the person nodes across <i>all</i> of the books, which is something we wanted to do with the SVG graph, but couldn't
+            figure out. </p>
       </div>
    </body>
 </html>
