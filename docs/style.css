@@ -165,12 +165,7 @@ footer img {
 }
 
 .kumu{
-    max-width:950px;
-    border: 4px solid #413722;
-    border-radius: 10px;
-    display: block;
-    margin: 20px auto;
-    text-align:center;
+    
 }
 
 .caption{
@@ -205,4 +200,13 @@ max-width: 50%;
     display: block;
     margin: 20px auto;
     
+}
+
+iframe{
+    width:950px;
+    border: 4px solid #413722;
+    border-radius: 10px;
+    display: block;
+    margin: 20px auto;
+    text-align:center;
 }
