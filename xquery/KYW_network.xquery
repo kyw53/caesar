@@ -52,7 +52,7 @@ declare variable $c_books := $text//section[@part="civil"]//book;
                 (: KYW: edge from section node to book nodes :)
             
             
-                />
+                
             </g>
             }
                 {
@@ -82,7 +82,7 @@ declare variable $c_books := $text//section[@part="civil"]//book;
                     
                     <circle r="12.5" cx="{($x-spacer * 4.5 *$fn_x_1) + 100}" cy="{-500 - $fn_y_1}" fill="#FFFFFF" stroke="#8a2b2b" stroke-dasharray="3"/>
                     <text x="{($x-spacer * 4.5 * $fn_x_1) + 100}" y="{-500 - $fn_y_1}" text-anchor="middle" font-size="6">Book {($num)}</text>
-                    (: KYW: nodes and text for books
+                    (: KYW: nodes and text for books :)
                     
                     <circle r="10.5" cx="{($x-spacer * 4.5 *$fn_x_1) + 100 +(($x-spacer+$third-spacer)*$fn_x_2)}" cy="{-500 - $fn_y_1 - (($y-spacer+$third-spacer)*$fn_y_2)}" fill="#FFFFFF" stroke="#8a2b2b" stroke-dasharray="3"/>
                     <text x="{($x-spacer * 4.5 *$fn_x_1) + 100 +(($x-spacer+$third-spacer)*$fn_x_2)}" y="{-500 - $fn_y_1 - (($y-spacer+$third-spacer)*$fn_y_2)}" text-anchor="middle" font-size="6">{$roman}</text>
@@ -126,7 +126,7 @@ declare variable $c_books := $text//section[@part="civil"]//book;
                                                     A10,10 0 0,1 {($x-spacer * 4.5 * $fn_x_1) + 900 + ($x-spacer + $third-spacer)*$fn_x_2},{-500 - ($y-spacer * 4.5 * $fn_y_1) - ($y-spacer + $third-spacer)*$fn_y_2}"
                     stroke="#8a2b2b" fill="none" opacity="25%" stroke-width="{math:sqrt($roman-count)}"
                 />
-                    (: KYW: edge from section node to Roman nodes
+                    (: KYW: edge from section node to Roman nodes :)
                     
                     <circle r="12.5" cx="{($x-spacer * 4.5 *$fn_x_1) + 900}" cy="{-500 - ($y-spacer * 4.5 *$fn_y_1)}" fill="#FFFFFF" stroke="#8a2b2b" stroke-dasharray="3"/>
                     <text x="{($x-spacer * 4.5 * $fn_x_1) + 900}" y="{-500 - ($y-spacer * 4.5 *$fn_y_1)}" text-anchor="middle" font-size="6">Book {($num -8)}</text>
@@ -147,18 +147,9 @@ declare variable $c_books := $text//section[@part="civil"]//book;
             
             <circle r="20.5" cx="900" cy="-500" fill="#FFFFFF" stroke="#8a2b2b" stroke-dasharray="3"/>
             <text x="900" y="-500" text-anchor="middle" font-size="8">Civil War</text>
-            (: KYW: hard-codes nodes :)
+            (: KYW: hard-coded nodes :)
             
-            {for $book in $g_books 
-                let $num := $book/@num
-                group by $num 
-                return 
-                    let $g_romans := $book//Q{}persName[@eth="roman"]/data(@nameid)=>distinct-values()
-                    return $g_romans
-                
-                }
-                
-                (: KYW: WIP to get edges for Romans that appear in both sections; may abandon
+          
             
             </g>
         </svg>
