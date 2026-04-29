@@ -1,9 +1,12 @@
 declare namespace math = "http://www.w3.org/2005/xpath-functions/math";
+    (: KYW: this is needed for the trig functions to build the nodes :)
 declare variable $section := //section/data(@part);
+    (: KYW: needed since we wanted to distinguish between the two texts:)
 declare variable $x-spacer := 60;
 declare variable $y-spacer := 45;
 declare variable $text := doc("../xml/caesar_all_chapters.xml");
 declare variable $g_books := $text//section[@part="gaul"]//book;
+    (: KYW: creates list of books for gaul section :)
 declare variable $c_books := $text//section[@part="civil"]//book;
 <html>
     <head>
@@ -34,15 +37,19 @@ declare variable $c_books := $text//section[@part="civil"]//book;
     <p>
         <div class="kyle-svg">
         <svg xmlns="http://www.w3.org/2000/svg" width="auto" height="auto" viewBox="-275 -850 1550 700">
+            (: KYW: remember to use Q{} for elements in XPath statements in SVG portion :)
             <desc>A network graph</desc>
             {
             let $num := $text/Q{}book/(@num)
+                (: KYW: grabs @num for math purposes :)
             for $book at $num in $g_books
             let $fn_x_1 := math:cos(40 * ($num))
+                (: KYW: angle of 40 was achieved via: 360/(n+1) where n is the number of books/inner nodes; seemed to work okay, but may want to try something different  :)
             let $fn_y_1 := math:sin(40 * ($num) )
             return <g>
             <line x1="100" x2="{($x-spacer * 4.5 *$fn_x_1) + 100}" y1="-500" y2="{-500 - ($y-spacer * 4.5 *$fn_y_1)}" stroke="#7851A9" opacity="75%"/>
-            (: KYW: edge from section node to book nodes :)
+                (: KYW: constant of '4.5' should probably be removed and tweak x-spacer value :)
+                (: KYW: edge from section node to book nodes :)
             
             
                 />
@@ -52,13 +59,16 @@ declare variable $c_books := $text//section[@part="civil"]//book;
                     
                     for $book in $g_books
                     let $num := $book/@num
-                    group by $num 
+                    group by $num
+                        (: KYW: 'group by' needed since @num was returned as a series of values, I think? :)
                     return
                     for $roman at $pos in $book//Q{}persName[@eth="roman"]/data(@nameid)=>distinct-values()
+                        (: KYW: used $pos since the names aren't numbered or anything of the like :)
                     let $roman-count := $book//Q{}persName[data(@nameid) = $roman] =>count()
                     let $third-spacer := 5
                     let $fn_x_1 := math:cos(40 * ($num))
                     let $fn_x_2 := math:cos(36*($pos))
+                        (: KYW: used a smaller angle since there were more nodes :)
                     let $fn_y_1 := ($y-spacer * 4.5 *math:sin(40 * ($num) ))
                     let $fn_y_2 := math:sin(36*$pos)
                     return <g>
@@ -101,6 +111,7 @@ declare variable $c_books := $text//section[@part="civil"]//book;
                     for $roman at $pos in $book//Q{}persName[@eth="roman"]/data(@nameid)=>distinct-values()
                     let $roman-count := $book//Q{}persName[data(@nameid) = $roman] =>count()
                     let $total-count :=$text//Q{}persName[data(@nameid) = $roman] =>count()
+                        (: KYW: don't think we ended up using this, but could use it as the value of @r in <circle> to scale :)
                     let $third-spacer := 85
                     let $fn_x_1 := math:cos(40 * ($num - 8))
                     let $fn_x_2 := math:cos(40*($pos))
