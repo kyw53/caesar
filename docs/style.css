@@ -17,6 +17,9 @@ background-color:rgba(227,221,200,0.50);
 /* Navigation Bar */
 nav {
     width: 220px;
+    display:flex;
+    flex-direction:column;
+    /* originally "display:block" */
     background-color: #6B1F1F;
     padding-top: 40px;
     min-height: 100vh;
